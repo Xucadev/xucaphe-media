@@ -4,7 +4,19 @@ Se ejecuta en GitHub Actions con el secreto GEMINI_API_KEY. Máximo LIMITE entra
 import json, os, sys, time, urllib.request
 from datetime import datetime, timezone
 KEY = os.environ.get("GEMINI_API_KEY") or sys.exit("Falta GEMINI_API_KEY")
-MODELOS = ["gemini-2.5-flash", "gemini-2.5-flash-lite"]
+def modelos():
+    """Elige los modelos Flash de texto disponibles hoy (los nombres cambian con el tiempo)."""
+    r = json.load(urllib.request.urlopen(urllib.request.Request(
+        "https://generativelanguage.googleapis.com/v1beta/models?pageSize=200", headers={"x-goog-api-key": KEY}), timeout=60))
+    ok = [m["name"].split("/")[-1] for m in r.get("models", []) if "generateContent" in m.get("supportedGenerationMethods", [])]
+    malos = ("tts", "image", "live", "audio", "embedding", "vision", "thinking", "exp", "robotics", "native")
+    flash = [m for m in ok if "flash" in m and not any(x in m for x in malos)]
+    flash.sort(key=lambda m: ("lite" in m, "preview" in m, [-int(x) for x in __import__("re").findall(r"\d+", m)]))
+    print("modelos:", flash[:4])
+    return flash[:2] or ok[:2]
+
+
+MODELOS = modelos()
 LIMITE = int(os.environ.get("LIMITE", "40"))
 cola = json.load(open("cola.json"))
 ahora = datetime.now(timezone.utc)
