@@ -22,6 +22,7 @@ RAIZ = Path(__file__).resolve().parent.parent
 COLA = RAIZ / "cola.json"
 GRAPH = "https://graph.facebook.com/v25.0"
 MAX_INTENTOS = 3
+MAX_RETRASO_H = 12  # si una red se conecta tarde, no se publican de golpe los reels atrasados
 ENV = os.environ.get
 
 
@@ -170,11 +171,18 @@ def main():
             continue
         estado = item.setdefault("estado", {})
         video = RAIZ / item["video"]
+        retraso_h = (ahora - datetime.fromisoformat(item["fecha"])).total_seconds() / 3600
         for red, fn in REDES.items():
             if red not in item:
                 continue
             e = estado.setdefault(red, {"intentos": 0})
-            if e.get("url") or e["intentos"] >= MAX_INTENTOS or not configurada(red):
+            if e.get("url") or e.get("vencido") or e["intentos"] >= MAX_INTENTOS or not configurada(red):
+                continue
+            if retraso_h > MAX_RETRASO_H:
+                e["vencido"] = True
+                log(f"  · {item['id']} en {red}: vencido ({retraso_h:.0f} h tarde), no se publica")
+                cambios = True
+                COLA.write_text(json.dumps(cola, ensure_ascii=False, indent=1))
                 continue
             try:
                 log(f"→ {item['id']} en {red}")
