@@ -6,7 +6,7 @@ on:
     paths: ["tts/traducir.py"]
 permissions:
   contents: write
-concurrency: { group: publicar, cancel-in-progress: false }
+concurrency: { group: traducir, cancel-in-progress: false }
 jobs:
   traducir:
     runs-on: ubuntu-latest
