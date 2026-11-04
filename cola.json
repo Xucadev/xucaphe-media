@@ -209,7 +209,8 @@
   "facebook": {
    "title": "\"Te mandé un código por error\": así te roban el WhatsApp",
    "description": "Hack del día #6: \"te mandé un código por error\" 🔐\nEse código de 6 dígitos es la llave para registrar tu WhatsApp en otro teléfono. Te lo piden desde la cuenta de alguien que ya cayó, por eso parece tu amigo. Si lo pasas, entran y siguen con tus contactos.\n\nQué hacer:\n· Un código que te llega a ti no se le da a nadie.\n· Activa Ajustes > Cuenta > Verificación en dos pasos y crea un PIN.\n\nMándaselo al grupo de la familia. Sígueme: un hack nuevo cada día.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #whatsapp #estafas #rd"
-  }
+  },
+  "estilo": "tarjetas"
  },
  {
   "id": "20261109-1800-sim-swap",
@@ -234,7 +235,8 @@
    "caption": "Hack del día #7: te quedas sin señal… y alguien entra a tu banco 📵\nEn el SIM swap se hacen pasar por ti ante la operadora y pasan tu número a una SIM nueva. Desde ahí, los códigos por SMS les llegan a ellos, y con eso recuperan tu correo, tus redes y tu banco.\n\nQué hacer:\n· Donde se pueda, cambia los códigos por SMS por una app autenticadora o una llave de acceso.\n· Pregunta en tu operadora si puedes poner una clave a tu línea para cambios de SIM.\n· Si te quedas sin señal sin razón, llama a tu operadora desde otro teléfono.\n\nMándaselo a quien tiene todo en el teléfono. Sígueme: un hack nuevo cada día.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #simswap #2fa #seguridaddigital",
    "trial": true
   },
-  "tiktok": "Metricool"
+  "tiktok": "Metricool",
+  "estilo": "tarjetas"
  },
  {
   "id": "20261110-1000-falso-familiar",
@@ -254,7 +256,8 @@
   "facebook": {
    "title": "\"Hola mami, este es mi número nuevo\": la estafa del falso familiar",
    "description": "Hack del día #8: \"hola mami, este es mi número nuevo\" 📱\nUna de las estafas más viejas y sigue funcionando. Usan el cariño, ponen prisa y siempre tienen una excusa para no llamar. Al final piden una transferencia a la cuenta de otra persona.\n\nQué hacer:\n· Llama al número de siempre de tu familiar.\n· Pregúntale algo que solo esa persona sabría.\n· No transfieras con prisa.\n\nMándaselo a tus papás y a tus tías. Sígueme: un hack nuevo cada día.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #estafas #whatsapp #republicadominicana"
-  }
+  },
+  "estilo": "tarjetas"
  },
  {
   "id": "20261110-1800-actualizaciones",
@@ -279,7 +282,8 @@
    "caption": "Hack del día #9: ese \"recordarme más tarde\" te deja expuesto 🔄\nCuando una empresa corrige un fallo, saca una actualización y el fallo se vuelve público. Desde ese día, los atacantes buscan a quien no actualizó. Hay fallos que se aprovechan con solo abrir una página o recibir un mensaje.\n\nQué hacer:\n· Activa las actualizaciones automáticas en el teléfono, la computadora, las apps y el navegador.\n· Si tu teléfono ya no recibe actualizaciones, no lo uses para el banco.\n\nMándaselo a quien tiene 40 actualizaciones pendientes. Sígueme: un hack nuevo cada día.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #actualizaciones #android #iphone",
    "trial": true
   },
-  "tiktok": "Metricool"
+  "tiktok": "Metricool",
+  "estilo": "tarjetas"
  },
  {
   "id": "20261111-1000-paquete-retenido",
@@ -299,7 +303,8 @@
   "facebook": {
    "title": "\"Tu paquete está retenido\": el SMS que te roba la tarjeta",
    "description": "Hack del día #10: \"tu paquete está retenido, paga RD$150\" 📦\nEl monto es chiquito para que no lo pienses, pero no quieren tus RD$150: quieren tu tarjeta. El enlace lleva a una página copiada del courier que te pide número, fecha y código de seguridad.\n\nQué hacer:\n· No toques el enlace.\n· Entra tú a la app o la web oficial de tu courier y revisa tu paquete ahí.\n\nMándaselo a quien compra todo por internet. Sígueme: un hack nuevo cada día.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #estafas #courier #rd"
-  }
+  },
+  "estilo": "tarjetas"
  },
  {
   "id": "20261111-1800-voz-clonada",
@@ -324,7 +329,8 @@
    "caption": "Hack del día #11: es su voz… pero no es él 🎙️\nCon inteligencia artificial se puede imitar una voz con pocos segundos de audio, y tu voz ya está en tus vídeos, estados y notas de voz. La llamada siempre trae un problema grave, prisa y un pedido de dinero.\n\nQué hacer:\n· Escojan en familia una palabra clave que nadie más sepa.\n· Si te llaman con una emergencia, pídela. Si no la saben, cuelga.\n· Llama tú al número de siempre de esa persona.\n\nMándaselo a tu familia y escojan la palabra hoy. Sígueme: un hack nuevo cada día.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #inteligenciaartificial #deepfake #estafas",
    "trial": true
   },
-  "tiktok": "Metricool"
+  "tiktok": "Metricool",
+  "estilo": "tarjetas"
  },
  {
   "id": "20261112-1000-comprobante-falso",
@@ -344,7 +350,8 @@
   "facebook": {
    "title": "\"Ya te transferí\": el comprobante falso al vender por internet",
    "description": "Hack del día #12: \"ya te transferí, mira el comprobante\" 🧾\nSi vendes por internet, te la van a hacer: una captura editada o una transferencia que nunca se completó, y el comprador llega con prisa para que no revises.\n\nQué hacer:\n· Un comprobante no es dinero.\n· Abre tu app del banco y confirma que el dinero entró y está disponible. Después entregas.\n· Si el comprador se molesta porque revisas, ya sabes lo que era.\n\nMándaselo a quien vende en Marketplace. Sígueme: un hack nuevo cada día.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #marketplace #estafas #emprendedores"
-  }
+  },
+  "estilo": "tarjetas"
  },
  {
   "id": "20261112-1800-contrasena-repetida",
@@ -368,7 +375,8 @@
   "instagram": {
    "caption": "Hack del día #13: una contraseña para todo = una puerta para todo 🔑\nSe llama relleno de credenciales: cuando una página se filtra, un programa prueba tu correo y tu clave en miles de sitios en minutos. Donde la repetiste, entran como si fueran tú.\n\nQué hacer:\n· Una clave distinta para cada cuenta, guardadas en un gestor de contraseñas.\n· Verificación en dos pasos donde se pueda.\n· Empieza hoy por 3: correo, banco y redes.\n\nMándaselo a quien usa la misma clave desde 2015. Sígueme: un hack nuevo cada día.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #contraseñas #seguridaddigital #tips",
    "trial": true
-  }
+  },
+  "estilo": "tarjetas"
  },
  {
   "id": "20261113-1000-prestamo-falso",
@@ -388,7 +396,8 @@
   "facebook": {
    "title": "\"Préstamo aprobado, solo paga el seguro\": la estafa del préstamo falso",
    "description": "Hack del día #14: \"préstamo aprobado, solo paga el seguro primero\" 💸\nTe aprueban rapidísimo, te piden un seguro, una comisión o un trámite para soltar el dinero, y después otro cobro, y otro. El préstamo nunca llega.\n\nQué hacer:\n· Un préstamo real no te pide pagar antes de recibir.\n· Confirma que la entidad está autorizada por la Superintendencia de Bancos.\n· Desconfía del \"sin buró\" y de las aprobaciones instantáneas por redes.\n\nMándaselo a quien anda buscando un préstamo. Sígueme: un hack nuevo cada día.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #prestamos #estafas #republicadominicana"
-  }
+  },
+  "estilo": "tarjetas"
  },
  {
   "id": "20261113-1800-extensiones",
@@ -412,7 +421,8 @@
   "instagram": {
    "caption": "Hack del día #15: esa extensión que instalaste y olvidaste 🧩\nMuchas piden permiso para ver todas tus páginas. Si su dueño la vende o le roban la cuenta, una actualización automática le puede meter código que roba tus sesiones y tus datos.\n\nQué hacer:\n· Abre la lista de extensiones de tu navegador y borra las que no usas.\n· Revisa sus permisos y desconfía de las que piden ver todos tus sitios sin necesitarlo.\n\nMándaselo a quien tiene 20 extensiones instaladas. Sígueme: un hack nuevo cada día.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #chrome #navegador #privacidad",
    "trial": true
-  }
+  },
+  "estilo": "tarjetas"
  },
  {
   "id": "20261114-1000-qr-falso",
@@ -432,7 +442,8 @@
   "facebook": {
    "title": "Escaneas un QR y te roban la tarjeta: así funciona el quishing",
    "description": "Hack del día #16: el QR del parqueo o del menú puede ser falso 📷\nSe llama quishing: pegan un QR falso encima del original y te llevan a una página copiada que te pide la tarjeta o tus datos. Como escaneaste tú, confías.\n\nQué hacer:\n· Antes de abrir, mira la dirección que te muestra la cámara. Si es rara, no entres.\n· Busca pegatinas puestas encima.\n· Para pagar, usa la app oficial.\n\nMándaselo a quien escanea todo sin mirar. Sígueme: un hack nuevo cada día.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #codigoqr #phishing #estafas"
-  }
+  },
+  "estilo": "tarjetas"
  },
  {
   "id": "20261114-1800-cripto-duplica",
@@ -457,7 +468,8 @@
    "caption": "Hack del día #17: \"mete RD$10,000 y en un mes tienes RD$20,000\" 📉\nLas plataformas falsas de inversión te muestran ganancias que solo son números en pantalla, te dejan retirar un poquito para que metas más y traigas a otros, y cuando quieres sacar todo aparece una comisión o un bloqueo.\n\nQué hacer:\n· Nadie puede garantizarte ganancias.\n· Antes de invertir, busca la entidad en la Superintendencia del Mercado de Valores (SIMV).\n· Si no te dejan retirar, para.\n\nMándaselo a quien te habló de esa inversión que paga demasiado. Sígueme: un hack nuevo cada día.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #cripto #inversiones #estafas",
    "trial": true
   },
-  "tiktok": "Metricool"
+  "tiktok": "Metricool",
+  "estilo": "tarjetas"
  },
  {
   "id": "20261115-1000-empleo-extranjero",
@@ -477,7 +489,8 @@
   "facebook": {
    "title": "Trabajo en el extranjero con visa incluida: la estafa del empleo falso",
    "description": "Hack del día #18: \"trabajo en el exterior con visa incluida, solo paga el trámite\" ✈️\nTe contratan sin entrevista de verdad, te prometen un sueldo muy alto sin experiencia y, antes de viajar, te piden pagar visa, gestión, seguro o pasaje.\n\nQué hacer:\n· Busca la empresa por tu cuenta y llama a su número oficial.\n· Consulta los requisitos de visa en la página oficial del gobierno de ese país.\n· Desconfía si te cobran por contratarte.\n\nMándaselo a quien está buscando irse a trabajar fuera. Sígueme: un hack nuevo cada día.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #empleo #estafas #republicadominicana"
-  }
+  },
+  "estilo": "tarjetas"
  },
  {
   "id": "20261115-1800-backup-321",
@@ -502,7 +515,8 @@
    "caption": "Hack del día #19: si mañana se te borra todo, ¿qué recuperas? 💾\nEl ransomware secuestra tus archivos y pide un rescate, y no siempre los devuelve. La mejor defensa es tener una copia con la regla 3-2-1.\n\nQué hacer:\n· 3 copias de tus archivos importantes.\n· En 2 lugares distintos (por ejemplo, la computadora y un disco externo).\n· 1 fuera de casa o en la nube.\n· Desconecta el disco externo al terminar y prueba de vez en cuando que la copia abre.\n\nMándaselo a quien tiene todas sus fotos en un solo teléfono. Sígueme: un hack nuevo cada día.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #ransomware #backup #seguridaddigital",
    "trial": true
   },
-  "tiktok": "Metricool"
+  "tiktok": "Metricool",
+  "estilo": "tarjetas"
  },
  {
   "id": "20261116-1000-mantener-enlace",
@@ -522,7 +536,8 @@
   "facebook": {
    "title": "Antes de tocar un enlace en el teléfono, haz esto",
    "description": "Hack del día #20: antes de tocar un enlace, mantén el dedo presionado 👆\nEl teléfono te enseña a dónde lleva de verdad antes de abrirlo. Fíjate en el nombre, en cómo termina (.do o .com.do para instituciones dominicanas) y desconfía de los enlaces acortados que te piden datos.\n\nSi dudas, no abras nada: entra tú a la app oficial.\n\nMándaselo a tus papás. Sígueme: un hack nuevo cada día.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #phishing #estafas #rd"
-  }
+  },
+  "estilo": "escena"
  },
  {
   "id": "20261116-1800-deposito-p1",
@@ -546,7 +561,8 @@
   "instagram": {
    "caption": "Estafa expuesta · Parte 1: son las 11:47 p. m. y te caen RD$85,000 que no esperabas 💸\nDos minutos después, un número desconocido te pide que se los devuelvas… a otra cuenta.\n\n¿Qué harías tú? Comenta DEVUELVO o BANCO 👇\nMañana, la Parte 2 con la respuesta.\n\nHistoria recreada con fines educativos. Voz generada con IA.\n#estafas #ciberseguridad #republicadominicana #banco #hackdeldía",
    "trial": true
-  }
+  },
+  "estilo": "escena"
  },
  {
   "id": "20261117-1000-deposito-p2",
@@ -566,7 +582,8 @@
   "facebook": {
    "title": "El depósito \"por error\": por qué NUNCA debes devolverlo tú (Parte 2)",
    "description": "Estafa expuesta · Parte 2: la respuesta correcta es BANCO 🏦\n1. Ese dinero muchas veces sale de una cuenta robada.\n2. Cuando el dueño real lo reclama, el banco puede reversar el depósito… y tú ya mandaste tu dinero a la otra cuenta.\n3. Si el dinero era robado, tu cuenta sirvió para moverlo: eso es ser una mula, y te pueden investigar.\n\nQué hacer: no transfieras nada y llama al número oficial de tu banco. Si fue un error real, el banco lo resuelve entre cuentas.\n\nMándaselo a quien cobra por transferencia. Sígueme para la próxima estafa expuesta.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#estafas #ciberseguridad #republicadominicana #banco #hackdeldía"
-  }
+  },
+  "estilo": "escena"
  },
  {
   "id": "20261117-1800-telefono-caliente",
@@ -590,7 +607,8 @@
   "instagram": {
    "caption": "¿Por qué? #1: tu teléfono se calienta al cargar 🔋\nCargar es meter energía en una reacción química: los iones de litio viajan dentro de la batería y eso genera calor. Si además lo usas, el procesador suma más. Y el calor es lo que más envejece la batería.\n\n3 trucos: no lo cargues debajo de la almohada, evita juegos pesados mientras carga y no lo dejes al sol en el carro.\n\nMándaselo a quien duerme con el teléfono cargando. Sígueme para más por qués.\n\nVoz generada con IA · Contenido educativo.\n#tecnologia #bateria #porque #tips #ciberseguridad",
    "trial": true
-  }
+  },
+  "estilo": "escena"
  },
  {
   "id": "20261118-1000-pin-sim",
@@ -610,7 +628,8 @@
   "facebook": {
    "title": "Activa esto en tu SIM antes de que te roben el teléfono",
    "description": "Hack del día #21: el PIN de la SIM 🔒\nSi te roban el teléfono, pueden poner tu SIM en otro aparato y recibir tus códigos del banco y de WhatsApp. Con el PIN de la SIM activado, tu SIM no sirve en otro teléfono sin esa clave.\n\nAndroid: Ajustes > Bloqueo de SIM. iPhone: Ajustes > Datos móviles > PIN de la SIM. Cambia el PIN de fábrica, y recuerda que si lo fallas 3 veces te pedirá el PUK de tu operadora.\n\nMándaselo a quien siempre anda con el teléfono en la mano. Sígueme: un hack nuevo cada día.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #seguridadmovil #tips #rd"
-  }
+  },
+  "estilo": "escena"
  },
  {
   "id": "20261118-1800-primer-bug",
@@ -634,7 +653,8 @@
   "instagram": {
    "caption": "Pasó en tech #1: el primer bug fue un insecto real 🦋\nEl 9 de septiembre de 1947, la computadora Harvard Mark II empezó a fallar. El equipo encontró una polilla atrapada en un relé, la pegó en el cuaderno de registro y anotó que era el primer caso real de un bug encontrado. Grace Hopper, pionera de la programación, contó esta historia toda su vida, y el cuaderno se conserva en un museo.\n\nFuente: Smithsonian National Museum of American History.\nMándaselo a quien dice que su código tiene bugs. Sígueme para más historias de tech.\n\nVoz generada con IA · Contenido educativo.\n#historiadelatecnologia #programacion #curiosidades #tecnologia #ciberseguridad",
    "trial": true
-  }
+  },
+  "estilo": "escena"
  },
  {
   "id": "20261119-1000-wifi-cuarto",
@@ -654,7 +674,8 @@
   "facebook": {
    "title": "¿Por qué el Wi-Fi no llega bien a tu cuarto?",
    "description": "¿Por qué? #2: el Wi-Fi no llega a tu cuarto 📶\nEl Wi-Fi son ondas de radio, y las paredes de bloque y concreto se comen buena parte de la señal. Tu router tiene dos bandas: la de 2,4 GHz llega más lejos pero es más lenta, y la de 5 GHz es más rápida pero atraviesa peor las paredes. El microondas trabaja casi en la misma frecuencia que la de 2,4 GHz.\n\nMejóralo gratis: router en alto, en el centro de la casa, a la vista y lejos del microondas. En tu cuarto, usa la red de 2,4 GHz.\n\nMándaselo a quien siempre se queja del Wi-Fi. Sígueme para más por qués.\n\nVoz generada con IA · Contenido educativo.\n#wifi #tecnologia #porque #tips #internet"
-  }
+  },
+  "estilo": "escena"
  },
  {
   "id": "20261119-1800-hedy-lamarr",
@@ -678,7 +699,8 @@
   "instagram": {
    "caption": "Mentes #1: Hedy Lamarr 💡\nEra estrella de Hollywood y, en 1942, patentó junto al compositor George Antheil un sistema de salto de frecuencias para que el enemigo no pudiera bloquear las señales de radio de los torpedos. En su época casi nadie le hizo caso; décadas después, esa idea se volvió una base de las comunicaciones inalámbricas como el Wi-Fi y el Bluetooth. En 1997 recibió por fin un premio por su invento.\n\nMándaselo a alguien que necesita saber que se puede ser todo a la vez. Sígueme para más mentes.\n\nVoz generada con IA · Contenido educativo.\n#hedylamarr #historiadelatecnologia #mujeresenlaciencia #tecnologia #wifi",
    "trial": true
-  }
+  },
+  "estilo": "escena"
  },
  {
   "id": "20261120-1000-soporte-falso",
@@ -698,7 +720,8 @@
   "facebook": {
    "title": "\"¡Tu PC está infectada, llama ya!\": la estafa del soporte técnico falso",
    "description": "Estafa expuesta #2: el soporte técnico falso 🚨\nLa pantalla se pone roja, suena una alarma y te dicen que llames ya. Si llamas, alguien muy amable te pide instalar un programa de acceso remoto para \"arreglarla\"… y con eso controla tu computadora, te cobra un arreglo falso o entra a tu banco.\n\nLa clave: los mensajes de error reales no traen un número para que llames. Cierra el navegador; si no se deja, reinicia. No llames y no instales nada.\n\nMándaselo a tus papás. Sígueme para la próxima estafa expuesta.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#estafas #ciberseguridad #soportetecnico #virus #hackdeldía"
-  }
+  },
+  "estilo": "escena"
  },
  {
   "id": "20261120-1800-gps",
@@ -722,7 +745,8 @@
   "instagram": {
    "caption": "Tech explicada #1: el GPS 📍\nUnos 30 satélites giran a unos 20.000 km de altura con relojes atómicos y envían su hora todo el tiempo. Tu teléfono mide cuánto tarda la señal, calcula la distancia a cada satélite y, con 4, encuentra el único punto donde puedes estar. Y hay que corregir la relatividad de Einstein: allá arriba los relojes se adelantan unos 38 microsegundos al día.\n\nDato: el GPS solo recibe. Los satélites no saben dónde estás tú.\n\nMándaselo a quien se pierde con el mapa en la mano. Sígueme para más tech explicada.\n\nVoz generada con IA · Contenido educativo.\n#gps #tecnologia #ciencia #comofunciona #satelites",
    "trial": true
-  }
+  },
+  "estilo": "escena"
  },
  {
   "id": "20261121-1000-imei",
@@ -742,7 +766,8 @@
   "facebook": {
    "title": "Marca *#06# en tu teléfono HOY (y guarda ese número)",
    "description": "Hack del día #22: marca *#06# 📱\nTe aparece el IMEI, un número de 15 cifras que identifica a tu teléfono. Si te lo roban, tu operadora lo puede bloquear con ese número para que no sirva con ninguna línea. El problema: cuando te lo roban, ya no puedes verlo.\n\nAnótalo hoy: captura en tu correo, papel en casa o la caja del teléfono.\n\nMándaselo al grupo de la familia. Sígueme: un hack nuevo cada día.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #imei #seguridadmovil #rd"
-  }
+  },
+  "estilo": "escena"
  },
  {
   "id": "20261121-1800-crowdstrike",
@@ -766,7 +791,8 @@
   "instagram": {
    "caption": "Pasó en tech #2: 19 de julio de 2024 💻\nAeropuertos, bancos, hospitales y televisoras amanecieron con la pantalla azul de error. No fue un ataque: CrowdStrike, una empresa de ciberseguridad, envió una actualización con un fallo a su programa de protección para Windows. Microsoft calculó unos 8,5 millones de equipos afectados, menos del 1 % de los Windows, pero estaban en los lugares más críticos.\n\nLa lección: hasta la seguridad necesita pruebas y despliegues por partes.\n\nFuente: Microsoft y CrowdStrike (julio de 2024).\nMándaselo a quien estaba en un aeropuerto ese día. Sígueme para más historias de tech.\n\nVoz generada con IA · Contenido educativo.\n#historiadelatecnologia #ciberseguridad #windows #crowdstrike #tecnologia",
    "trial": true
-  }
+  },
+  "estilo": "escena"
  },
  {
   "id": "20261122-1000-contrasena-hash",
@@ -786,7 +812,8 @@
   "facebook": {
    "title": "Si una web puede mandarte tu contraseña, huye: así se guardan de verdad",
    "description": "Tech explicada #2: cómo se guarda una contraseña 🔐\nUna web seria no guarda tu contraseña: guarda su hash, una huella que no se puede revertir (como el jugo de una licuadora: del jugo no sacas las frutas). Al iniciar sesión compara las huellas. Y le agrega un ingrediente secreto para cada persona, la \"sal\".\n\nPor eso, si una página te puede enviar tu contraseña tal cual, la guarda sin protección: ahí usa una que no repitas en ningún sitio.\n\nMándaselo al que usa la misma contraseña en todo. Sígueme para más tech explicada.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#ciberseguridad #contraseñas #tecnologia #comofunciona #seguridaddigital"
-  }
+  },
+  "estilo": "escena"
  },
  {
   "id": "20261122-1800-turing",
@@ -810,6 +837,7 @@
   "instagram": {
    "caption": "Mentes #2: Alan Turing 🧠\nLos alemanes cifraban sus mensajes con la máquina Enigma, que cambiaba la clave cada día. En Bletchley Park, Turing y su equipo construyeron máquinas que buscaban esa clave a toda velocidad. Leer esos mensajes salvó barcos y, según muchos historiadores, acortó la guerra. Todo fue secreto oficial durante años. Además, sentó bases de la computación moderna y se preguntó si una máquina podría pensar.\n\nMándaselo a quien le gusta la historia. Sígueme para más mentes que cambiaron todo.\n\nVoz generada con IA · Contenido educativo.\n#alanturing #enigma #historiadelatecnologia #criptografia #ciberseguridad",
    "trial": true
-  }
+  },
+  "estilo": "escena"
  }
 ]
