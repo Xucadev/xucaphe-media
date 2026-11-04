@@ -13,11 +13,12 @@ jobs:
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
-      - run: python3 tts/traducir.py
+      - run: python3 tts/traducir.py 2>&1 | tee tts/salida/traducir.log
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-      - run: |
+      - if: always()
+        run: |
           git config user.name "github-actions"; git config user.email "github-actions@users.noreply.github.com"
-          git add cola.json
+          git add cola.json tts/salida/traducir.log
           git commit -m "Títulos y descripciones en inglés y portugués" || exit 0
           for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin HEAD:main && break; sleep 5; done

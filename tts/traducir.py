@@ -1,4 +1,5 @@
 """Rellena youtube.localizations (en, pt) de las entradas futuras de cola.json con Gemini (texto, plan gratis).
+# v2
 Se ejecuta en GitHub Actions con el secreto GEMINI_API_KEY. Máximo LIMITE entradas por corrida."""
 import json, os, sys, time, urllib.request
 from datetime import datetime, timezone
