@@ -1,0 +1,46 @@
+name: Publicar reels
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+    inputs:
+      probar:
+        description: "Solo comprobar las credenciales (no publica nada)"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publicar
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    env:
+      YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+      YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+      YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+      META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+      FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+      IG_USER_ID: ${{ secrets.IG_USER_ID }}
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install requests
+      - name: Comprobar credenciales
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.probar }}
+        run: python publicador/publicar.py --probar
+      - name: Publicar lo que toca
+        if: ${{ github.event_name == 'schedule' || !inputs.probar }}
+        run: python publicador/publicar.py
+      - name: Guardar el estado
+        if: ${{ always() && (github.event_name == 'schedule' || !inputs.probar) }}
+        run: |
+          git config user.name "xucaphe-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cola.json
+          git diff --cached --quiet || (git commit -m "Estado de publicación" && git pull --rebase && git push)
