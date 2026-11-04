@@ -13,7 +13,7 @@ import json
 import os
 import sys
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import requests
@@ -22,7 +22,8 @@ RAIZ = Path(__file__).resolve().parent.parent
 COLA = RAIZ / "cola.json"
 GRAPH = "https://graph.facebook.com/v25.0"
 MAX_INTENTOS = 3
-MAX_RETRASO_H = 12  # si una red se conecta tarde, no se publican de golpe los reels atrasados
+MAX_RETRASO_H = 12
+ADELANTO_H = 12  # YouTube: subir con hasta 12 h de antelación como estreno programado  # si una red se conecta tarde, no se publican de golpe los reels atrasados
 ENV = os.environ.get
 
 
@@ -43,12 +44,17 @@ def yt_token():
 def youtube(item, video: Path):
     d = item["youtube"]
     tok = yt_token()
+    cuando = datetime.fromisoformat(item["fecha"])
     meta = {
         "snippet": {"title": d["title"][:100], "description": d["description"], "tags": d.get("tags", []),
                     "categoryId": "28", "defaultLanguage": "es", "defaultAudioLanguage": "es"},
         "status": {"privacyStatus": "public", "selfDeclaredMadeForKids": False,
                    "containsSyntheticMedia": True},
     }
+    if cuando > datetime.now(timezone.utc) + timedelta(minutes=20):
+        # Programado: YouTube lo hace público a la hora exacta aunque GitHub ejecute tarde
+        meta["status"].update(privacyStatus="private",
+                              publishAt=cuando.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.000Z"))
     # Títulos y descripciones traducidos (los rellena tts/traducir.py): YouTube los muestra en el idioma del espectador
     if d.get("localizations"):
         meta["localizations"] = {k: {"title": v["title"][:100], "description": v["description"]} for k, v in d["localizations"].items()}
@@ -170,13 +176,16 @@ def main():
     ahora = datetime.now(timezone.utc)
     cambios = False
     for item in cola:
-        if datetime.fromisoformat(item["fecha"]) > ahora:
+        falta = datetime.fromisoformat(item["fecha"]) - ahora
+        # YouTube se sube hasta ADELANTO_H antes (programado con publishAt); el resto, a su hora
+        solo_yt = falta > timedelta(0)
+        if falta > timedelta(hours=ADELANTO_H):
             continue
         estado = item.setdefault("estado", {})
         video = RAIZ / item["video"]
         retraso_h = (ahora - datetime.fromisoformat(item["fecha"])).total_seconds() / 3600
         for red, fn in REDES.items():
-            if red not in item:
+            if red not in item or (solo_yt and red != "youtube"):
                 continue
             e = estado.setdefault(red, {"intentos": 0})
             if e.get("url") or e.get("vencido") or e["intentos"] >= MAX_INTENTOS or not configurada(red):
