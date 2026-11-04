@@ -49,9 +49,12 @@ def youtube(item, video: Path):
         "status": {"privacyStatus": "public", "selfDeclaredMadeForKids": False,
                    "containsSyntheticMedia": True},
     }
+    # Títulos y descripciones traducidos (los rellena tts/traducir.py): YouTube los muestra en el idioma del espectador
+    if d.get("localizations"):
+        meta["localizations"] = {k: {"title": v["title"][:100], "description": v["description"]} for k, v in d["localizations"].items()}
     size = video.stat().st_size
     r = requests.post(
-        "https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
+        "https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status" + (",localizations" if d.get("localizations") else ""),
         headers={"Authorization": f"Bearer {tok}", "Content-Type": "application/json; charset=UTF-8",
                  "X-Upload-Content-Type": "video/mp4", "X-Upload-Content-Length": str(size)},
         data=json.dumps(meta), timeout=60)

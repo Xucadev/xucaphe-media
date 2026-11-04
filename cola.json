@@ -36,7 +36,7 @@
  },
  {
   "id": "20261105-1800-estafa-soporte",
-  "fecha": "2026-11-05T18:00:00-04:00",
+  "fecha": "2026-11-05T16:00:00-04:00",
   "video": "2026-11/2026-11-06-estafa-binance.mp4",
   "youtube": {
    "title": "La estafa que llega DESPUÉS del hackeo a Binance #shorts",
@@ -49,7 +49,8 @@
     "phishing"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261106-1000-multa-pgr",
@@ -70,7 +71,7 @@
  },
  {
   "id": "20261106-1800-php2shell",
-  "fecha": "2026-11-06T18:00:00-04:00",
+  "fecha": "2026-11-06T16:00:00-04:00",
   "video": "2026-11/2026-11-05-php2shell.mp4",
   "youtube": {
    "title": "Tu web en PHP puede caer aunque la actualices (PHP2Shell) #shorts",
@@ -83,7 +84,8 @@
     "desarrollo web"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261107-1000-likes-pagados",
@@ -104,7 +106,7 @@
  },
  {
   "id": "20261107-1800-litellm",
-  "fecha": "2026-11-07T18:00:00-04:00",
+  "fecha": "2026-11-07T16:00:00-04:00",
   "video": "2026-11/2026-11-07-litellm-llave.mp4",
   "youtube": {
    "title": "Una llave olvidada 5 meses bastó para atacar una herramienta de IA #shorts",
@@ -117,7 +119,8 @@
     "devops"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261108-1000-llamada-banco",
@@ -138,7 +141,7 @@
  },
  {
   "id": "20261108-1800-vista-previa",
-  "fecha": "2026-11-08T18:00:00-04:00",
+  "fecha": "2026-11-08T16:00:00-04:00",
   "video": "2026-11/2026-11-08-vista-previa.mp4",
   "youtube": {
    "title": "Te podían hackear con una VISTA PREVIA de Windows #shorts",
@@ -151,7 +154,8 @@
     "seguridad informática"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261109-1000-codigo-whatsapp",
@@ -173,7 +177,7 @@
  },
  {
   "id": "20261109-1800-sim-swap",
-  "fecha": "2026-11-09T18:00:00-04:00",
+  "fecha": "2026-11-09T16:00:00-04:00",
   "video": "2026-11/2026-11-09-1800-sim-swap.mp4",
   "youtube": {
    "title": "Te quedas sin señal y te vacían el banco: el SIM swap #shorts",
@@ -187,7 +191,8 @@
    ]
   },
   "estilo": "tarjetas",
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261110-1000-falso-familiar",
@@ -209,7 +214,7 @@
  },
  {
   "id": "20261110-1800-actualizaciones",
-  "fecha": "2026-11-10T18:00:00-04:00",
+  "fecha": "2026-11-10T16:00:00-04:00",
   "video": "2026-11/2026-11-10-1800-actualizaciones.mp4",
   "youtube": {
    "title": "Por qué nunca debes dejar las actualizaciones para después #shorts",
@@ -223,7 +228,8 @@
    ]
   },
   "estilo": "tarjetas",
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261111-1000-paquete-retenido",
@@ -245,7 +251,7 @@
  },
  {
   "id": "20261111-1800-voz-clonada",
-  "fecha": "2026-11-11T18:00:00-04:00",
+  "fecha": "2026-11-11T16:00:00-04:00",
   "video": "2026-11/2026-11-11-1800-voz-clonada.mp4",
   "youtube": {
    "title": "Es la voz de tu hijo, pero no es él: estafas con voz clonada #shorts",
@@ -259,7 +265,8 @@
    ]
   },
   "estilo": "tarjetas",
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261112-1000-comprobante-falso",
@@ -281,7 +288,7 @@
  },
  {
   "id": "20261112-1800-contrasena-repetida",
-  "fecha": "2026-11-12T18:00:00-04:00",
+  "fecha": "2026-11-12T16:00:00-04:00",
   "video": "2026-11/2026-11-12-1800-contrasena-repetida.mp4",
   "youtube": {
    "title": "Usar la misma contraseña en todo: así entran a todas tus cuentas #shorts",
@@ -295,7 +302,8 @@
    ]
   },
   "estilo": "tarjetas",
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261113-1000-prestamo-falso",
@@ -317,7 +325,7 @@
  },
  {
   "id": "20261113-1800-extensiones",
-  "fecha": "2026-11-13T18:00:00-04:00",
+  "fecha": "2026-11-13T16:00:00-04:00",
   "video": "2026-11/2026-11-13-1800-extensiones.mp4",
   "youtube": {
    "title": "La extensión del navegador que puede leer todo lo que escribes #shorts",
@@ -331,7 +339,8 @@
    ]
   },
   "estilo": "tarjetas",
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261114-1000-qr-falso",
@@ -353,7 +362,7 @@
  },
  {
   "id": "20261114-1800-cripto-duplica",
-  "fecha": "2026-11-14T18:00:00-04:00",
+  "fecha": "2026-11-14T16:00:00-04:00",
   "video": "2026-11/2026-11-14-1800-cripto-duplica.mp4",
   "youtube": {
    "title": "\"Duplica tu dinero en un mes\": así funcionan las inversiones falsas #shorts",
@@ -367,7 +376,8 @@
    ]
   },
   "estilo": "tarjetas",
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261115-1000-empleo-extranjero",
@@ -389,7 +399,7 @@
  },
  {
   "id": "20261115-1800-backup-321",
-  "fecha": "2026-11-15T18:00:00-04:00",
+  "fecha": "2026-11-15T16:00:00-04:00",
   "video": "2026-11/2026-11-15-1800-backup-321.mp4",
   "youtube": {
    "title": "La regla 3-2-1: la copia que te salva del ransomware #shorts",
@@ -403,7 +413,8 @@
    ]
   },
   "estilo": "tarjetas",
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261116-1000-mantener-enlace",
@@ -425,7 +436,7 @@
  },
  {
   "id": "20261116-1800-deposito-p1",
-  "fecha": "2026-11-16T18:00:00-04:00",
+  "fecha": "2026-11-16T16:00:00-04:00",
   "video": "2026-11/2026-11-16-1800-deposito-p1.mp4",
   "youtube": {
    "title": "Te cayeron RD$85,000 por error… ¿qué harías? (Parte 1) #shorts",
@@ -439,7 +450,8 @@
    ]
   },
   "estilo": "escena",
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261117-1000-deposito-p2",
@@ -461,7 +473,7 @@
  },
  {
   "id": "20261117-1800-telefono-caliente",
-  "fecha": "2026-11-17T18:00:00-04:00",
+  "fecha": "2026-11-17T16:00:00-04:00",
   "video": "2026-11/2026-11-17-1800-telefono-caliente.mp4",
   "youtube": {
    "title": "¿Por qué tu teléfono se calienta tanto al cargar? #shorts",
@@ -475,7 +487,8 @@
    ]
   },
   "estilo": "escena",
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261118-1000-pin-sim",
@@ -497,7 +510,7 @@
  },
  {
   "id": "20261118-1800-primer-bug",
-  "fecha": "2026-11-18T18:00:00-04:00",
+  "fecha": "2026-11-18T16:00:00-04:00",
   "video": "2026-11/2026-11-18-1800-primer-bug.mp4",
   "youtube": {
    "title": "El primer \"bug\" de la historia fue un insecto de verdad #shorts",
@@ -511,7 +524,8 @@
    ]
   },
   "estilo": "escena",
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261119-1000-wifi-cuarto",
@@ -533,7 +547,7 @@
  },
  {
   "id": "20261119-1800-hedy-lamarr",
-  "fecha": "2026-11-19T18:00:00-04:00",
+  "fecha": "2026-11-19T16:00:00-04:00",
   "video": "2026-11/2026-11-19-1800-hedy-lamarr.mp4",
   "youtube": {
    "title": "La estrella de cine que inventó la base del Wi-Fi y el Bluetooth #shorts",
@@ -547,7 +561,8 @@
    ]
   },
   "estilo": "escena",
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261120-1000-soporte-falso",
@@ -569,7 +584,7 @@
  },
  {
   "id": "20261120-1800-gps",
-  "fecha": "2026-11-20T18:00:00-04:00",
+  "fecha": "2026-11-20T16:00:00-04:00",
   "video": "2026-11/2026-11-20-1800-gps.mp4",
   "youtube": {
    "title": "¿Cómo sabe tu teléfono dónde estás? El GPS explicado #shorts",
@@ -583,7 +598,8 @@
    ]
   },
   "estilo": "escena",
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261121-1000-imei",
@@ -605,7 +621,7 @@
  },
  {
   "id": "20261121-1800-crowdstrike",
-  "fecha": "2026-11-21T18:00:00-04:00",
+  "fecha": "2026-11-21T16:00:00-04:00",
   "video": "2026-11/2026-11-21-1800-crowdstrike.mp4",
   "youtube": {
    "title": "El día que 8,5 millones de computadoras se apagaron a la vez #shorts",
@@ -619,7 +635,8 @@
    ]
   },
   "estilo": "escena",
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261122-1000-contrasena-hash",
@@ -641,7 +658,7 @@
  },
  {
   "id": "20261122-1800-turing",
-  "fecha": "2026-11-22T18:00:00-04:00",
+  "fecha": "2026-11-22T16:00:00-04:00",
   "video": "2026-11/2026-11-22-1800-turing.mp4",
   "youtube": {
    "title": "El matemático que descifró Enigma y nadie lo supo durante décadas #shorts",
@@ -655,7 +672,8 @@
    ]
   },
   "estilo": "escena",
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261123-1000-verificacion-dos-pasos",
@@ -677,7 +695,7 @@
  },
  {
   "id": "20261123-1800-premio-falso",
-  "fecha": "2026-11-23T18:00:00-04:00",
+  "fecha": "2026-11-23T16:00:00-04:00",
   "video": "2026-11/2026-11-23-1800-premio-falso.mp4",
   "estilo": "escena",
   "youtube": {
@@ -691,7 +709,8 @@
     "ciberseguridad"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261124-1000-candado-navegador",
@@ -713,7 +732,7 @@
  },
  {
   "id": "20261124-1800-dispositivos-vinculados",
-  "fecha": "2026-11-24T18:00:00-04:00",
+  "fecha": "2026-11-24T16:00:00-04:00",
   "video": "2026-11/2026-11-24-1800-dispositivos-vinculados.mp4",
   "estilo": "tarjetas",
   "youtube": {
@@ -727,7 +746,8 @@
     "ciberseguridad"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261125-1000-marketplace-pago",
@@ -749,7 +769,7 @@
  },
  {
   "id": "20261125-1800-cifrado-extremo",
-  "fecha": "2026-11-25T18:00:00-04:00",
+  "fecha": "2026-11-25T16:00:00-04:00",
   "video": "2026-11/2026-11-25-1800-cifrado-extremo.mp4",
   "estilo": "kinetic",
   "youtube": {
@@ -763,7 +783,8 @@
     "ciberseguridad"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261126-1000-notificaciones-bloqueo",
@@ -785,7 +806,7 @@
  },
  {
   "id": "20261126-1800-iloveyou",
-  "fecha": "2026-11-26T18:00:00-04:00",
+  "fecha": "2026-11-26T16:00:00-04:00",
   "video": "2026-11/2026-11-26-1800-iloveyou.mp4",
   "estilo": "crema",
   "youtube": {
@@ -799,7 +820,8 @@
     "ciberseguridad"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261127-1000-black-friday-p1",
@@ -857,7 +879,7 @@
  },
  {
   "id": "20261128-1800-mitnick",
-  "fecha": "2026-11-28T18:00:00-04:00",
+  "fecha": "2026-11-28T16:00:00-04:00",
   "video": "2026-11/2026-11-28-1800-mitnick.mp4",
   "estilo": "terminal",
   "youtube": {
@@ -871,7 +893,8 @@
     "ciberseguridad"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261129-1000-router-clave",
@@ -893,7 +916,7 @@
  },
  {
   "id": "20261129-1800-captcha",
-  "fecha": "2026-11-29T18:00:00-04:00",
+  "fecha": "2026-11-29T16:00:00-04:00",
   "video": "2026-11/2026-11-29-1800-captcha.mp4",
   "estilo": "escena",
   "youtube": {
@@ -907,7 +930,8 @@
     "ciberseguridad"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261130-1000-alertas-banco",
@@ -929,7 +953,7 @@
  },
  {
   "id": "20261130-1800-morris",
-  "fecha": "2026-11-30T18:00:00-04:00",
+  "fecha": "2026-11-30T16:00:00-04:00",
   "video": "2026-11/2026-11-30-1800-morris.mp4",
   "estilo": "escena",
   "youtube": {
@@ -943,7 +967,8 @@
     "ciberseguridad"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261201-1000-permisos-apps",
@@ -965,7 +990,7 @@
  },
  {
   "id": "20261201-1800-telefono-escucha",
-  "fecha": "2026-12-01T18:00:00-04:00",
+  "fecha": "2026-12-01T16:00:00-04:00",
   "video": "2026-12/2026-12-01-1800-telefono-escucha.mp4",
   "estilo": "tarjetas",
   "youtube": {
@@ -979,7 +1004,8 @@
     "ciberseguridad"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261202-1000-bono-navideno",
@@ -1001,7 +1027,7 @@
  },
  {
   "id": "20261202-1800-vpn",
-  "fecha": "2026-12-02T18:00:00-04:00",
+  "fecha": "2026-12-02T16:00:00-04:00",
   "video": "2026-12/2026-12-02-1800-vpn.mp4",
   "estilo": "kinetic",
   "youtube": {
@@ -1015,7 +1041,8 @@
     "ciberseguridad"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261203-1000-compras-internacionales",
@@ -1037,7 +1064,7 @@
  },
  {
   "id": "20261203-1800-primer-sms",
-  "fecha": "2026-12-03T18:00:00-04:00",
+  "fecha": "2026-12-03T16:00:00-04:00",
   "video": "2026-12/2026-12-03-1800-primer-sms.mp4",
   "estilo": "crema",
   "youtube": {
@@ -1051,7 +1078,8 @@
     "tecnologia"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261204-1000-courier-codigo-p1",
@@ -1109,7 +1137,7 @@
  },
  {
   "id": "20261205-1800-diffie-hellman",
-  "fecha": "2026-12-05T18:00:00-04:00",
+  "fecha": "2026-12-05T16:00:00-04:00",
   "video": "2026-12/2026-12-05-1800-diffie-hellman.mp4",
   "estilo": "terminal",
   "youtube": {
@@ -1123,7 +1151,8 @@
     "ciberseguridad"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261206-1000-copia-fotos",
@@ -1145,7 +1174,7 @@
  },
  {
   "id": "20261206-1800-cookies",
-  "fecha": "2026-12-06T18:00:00-04:00",
+  "fecha": "2026-12-06T16:00:00-04:00",
   "video": "2026-12/2026-12-06-1800-cookies.mp4",
   "estilo": "escena",
   "youtube": {
@@ -1159,7 +1188,8 @@
     "tecnologia"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261207-1000-tarjeta-no-transferencia",
@@ -1181,7 +1211,7 @@
  },
  {
   "id": "20261207-1800-regalia-p1",
-  "fecha": "2026-12-07T18:00:00-04:00",
+  "fecha": "2026-12-07T16:00:00-04:00",
   "video": "2026-12/2026-12-07-1800-regalia-p1.mp4",
   "estilo": "escena",
   "youtube": {
@@ -1195,7 +1225,8 @@
     "ciberseguridad"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261208-1000-banco-no-pide-codigo",
@@ -1217,7 +1248,7 @@
  },
  {
   "id": "20261208-1800-correo-llave-maestra",
-  "fecha": "2026-12-08T18:00:00-04:00",
+  "fecha": "2026-12-08T16:00:00-04:00",
   "video": "2026-12/2026-12-08-1800-correo-llave-maestra.mp4",
   "estilo": "tarjetas",
   "youtube": {
@@ -1231,7 +1262,8 @@
     "ciberseguridad"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261209-1000-madre-demos",
@@ -1253,7 +1285,7 @@
  },
  {
   "id": "20261209-1800-grace-hopper",
-  "fecha": "2026-12-09T18:00:00-04:00",
+  "fecha": "2026-12-09T16:00:00-04:00",
   "video": "2026-12/2026-12-09-1800-grace-hopper.mp4",
   "estilo": "kinetic",
   "youtube": {
@@ -1267,7 +1299,8 @@
     "mentes"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261210-1000-regalia-p2",
@@ -1289,7 +1322,7 @@
  },
  {
   "id": "20261210-1800-ada-lovelace",
-  "fecha": "2026-12-10T18:00:00-04:00",
+  "fecha": "2026-12-10T16:00:00-04:00",
   "video": "2026-12/2026-12-10-1800-ada-lovelace.mp4",
   "estilo": "crema",
   "youtube": {
@@ -1303,7 +1336,8 @@
     "mentes"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261211-1000-entradas-fiesta-p1",
@@ -1361,7 +1395,7 @@
  },
  {
   "id": "20261212-1800-que-es-parche",
-  "fecha": "2026-12-12T18:00:00-04:00",
+  "fecha": "2026-12-12T16:00:00-04:00",
   "video": "2026-12/2026-12-12-1800-que-es-parche.mp4",
   "estilo": "terminal",
   "youtube": {
@@ -1375,7 +1409,8 @@
     "ciberseguridad"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261213-1000-filtracion-correo",
@@ -1397,7 +1432,7 @@
  },
  {
   "id": "20261213-1800-solarwinds-p1",
-  "fecha": "2026-12-13T18:00:00-04:00",
+  "fecha": "2026-12-13T16:00:00-04:00",
   "video": "2026-12/2026-12-13-1800-solarwinds-p1.mp4",
   "estilo": "escena",
   "youtube": {
@@ -1411,7 +1446,8 @@
     "ciberseguridad"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261214-1000-pasajes-falsos",
@@ -1433,7 +1469,7 @@
  },
  {
   "id": "20261214-1800-wifi-aeropuerto",
-  "fecha": "2026-12-14T18:00:00-04:00",
+  "fecha": "2026-12-14T16:00:00-04:00",
   "video": "2026-12/2026-12-14-1800-wifi-aeropuerto.mp4",
   "estilo": "escena",
   "youtube": {
@@ -1447,7 +1483,8 @@
     "ciberseguridad"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261215-1000-proteccion-robo",
@@ -1469,7 +1506,7 @@
  },
  {
   "id": "20261215-1800-pago-contacto",
-  "fecha": "2026-12-15T18:00:00-04:00",
+  "fecha": "2026-12-15T16:00:00-04:00",
   "video": "2026-12/2026-12-15-1800-pago-contacto.mp4",
   "estilo": "tarjetas",
   "youtube": {
@@ -1483,7 +1520,8 @@
     "ciberseguridad"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261216-1000-vota-por-mi",
@@ -1541,7 +1579,7 @@
  },
  {
   "id": "20261217-1800-mayusculas-simbolos",
-  "fecha": "2026-12-17T18:00:00-04:00",
+  "fecha": "2026-12-17T16:00:00-04:00",
   "video": "2026-12/2026-12-17-1800-mayusculas-simbolos.mp4",
   "estilo": "crema",
   "youtube": {
@@ -1555,7 +1593,8 @@
     "ciberseguridad"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261218-1000-remesa-retenida-p1",
@@ -1613,7 +1652,7 @@
  },
  {
   "id": "20261219-1800-clifford-stoll",
-  "fecha": "2026-12-19T18:00:00-04:00",
+  "fecha": "2026-12-19T16:00:00-04:00",
   "video": "2026-12/2026-12-19-1800-clifford-stoll.mp4",
   "estilo": "terminal",
   "youtube": {
@@ -1627,7 +1666,8 @@
     "ciberseguridad"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261220-1000-vender-telefono-viejo",
@@ -1649,7 +1689,7 @@
  },
  {
   "id": "20261220-1800-casa-inteligente",
-  "fecha": "2026-12-20T18:00:00-04:00",
+  "fecha": "2026-12-20T16:00:00-04:00",
   "video": "2026-12/2026-12-20-1800-casa-inteligente.mp4",
   "estilo": "escena",
   "youtube": {
@@ -1663,7 +1703,8 @@
     "ciberseguridad"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261221-1000-tarjetas-regalo",
@@ -1685,7 +1726,7 @@
  },
  {
   "id": "20261221-1800-reconocimiento-facial",
-  "fecha": "2026-12-21T18:00:00-04:00",
+  "fecha": "2026-12-21T16:00:00-04:00",
   "video": "2026-12/2026-12-21-1800-reconocimiento-facial.mp4",
   "estilo": "escena",
   "youtube": {
@@ -1699,7 +1740,8 @@
     "ciberseguridad"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261222-1000-palabra-clave-familiar",
@@ -1721,7 +1763,7 @@
  },
  {
   "id": "20261222-1800-no-publiques-viaje",
-  "fecha": "2026-12-22T18:00:00-04:00",
+  "fecha": "2026-12-22T16:00:00-04:00",
   "video": "2026-12/2026-12-22-1800-no-publiques-viaje.mp4",
   "estilo": "tarjetas",
   "youtube": {
@@ -1735,7 +1777,8 @@
     "ciberseguridad"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261223-1000-transistor",
@@ -1757,7 +1800,7 @@
  },
  {
   "id": "20261223-1800-streaming-falso",
-  "fecha": "2026-12-23T18:00:00-04:00",
+  "fecha": "2026-12-23T16:00:00-04:00",
   "video": "2026-12/2026-12-23-1800-streaming-falso.mp4",
   "estilo": "kinetic",
   "youtube": {
@@ -1771,7 +1814,8 @@
     "ciberseguridad"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261224-1000-nochebuena-familia",
@@ -1793,7 +1837,7 @@
  },
  {
   "id": "20261224-1800-norad-santa",
-  "fecha": "2026-12-24T18:00:00-04:00",
+  "fecha": "2026-12-24T16:00:00-04:00",
   "video": "2026-12/2026-12-24-1800-norad-santa.mp4",
   "estilo": "crema",
   "youtube": {
@@ -1807,7 +1851,8 @@
     "tecnologia"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261225-1000-telefono-nuevo-p1",
@@ -1829,7 +1874,7 @@
  },
  {
   "id": "20261225-1800-felicitacion-apk",
-  "fecha": "2026-12-25T18:00:00-04:00",
+  "fecha": "2026-12-25T16:00:00-04:00",
   "video": "2026-12/2026-12-25-1800-felicitacion-apk.mp4",
   "estilo": "historia",
   "youtube": {
@@ -1843,7 +1888,8 @@
     "ciberseguridad"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261226-1000-telefono-nuevo-p2",
@@ -1865,7 +1911,7 @@
  },
  {
   "id": "20261226-1800-cifrado-telefono",
-  "fecha": "2026-12-26T18:00:00-04:00",
+  "fecha": "2026-12-26T16:00:00-04:00",
   "video": "2026-12/2026-12-26-1800-cifrado-telefono.mp4",
   "estilo": "terminal",
   "youtube": {
@@ -1879,7 +1925,8 @@
     "ciberseguridad"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261227-1000-telefono-nuevo-p3",
@@ -1901,7 +1948,7 @@
  },
  {
   "id": "20261227-1800-villa-falsa",
-  "fecha": "2026-12-27T18:00:00-04:00",
+  "fecha": "2026-12-27T16:00:00-04:00",
   "video": "2026-12/2026-12-27-1800-villa-falsa.mp4",
   "estilo": "escena",
   "youtube": {
@@ -1915,7 +1962,8 @@
     "ciberseguridad"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261228-1000-inocentes-falso",
@@ -1937,7 +1985,7 @@
  },
  {
   "id": "20261228-1800-linus-torvalds",
-  "fecha": "2026-12-28T18:00:00-04:00",
+  "fecha": "2026-12-28T16:00:00-04:00",
   "video": "2026-12/2026-12-28-1800-linus-torvalds.mp4",
   "estilo": "escena",
   "youtube": {
@@ -1951,7 +1999,8 @@
     "mentes"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261229-1000-tres-cuentas-clave",
@@ -1973,7 +2022,7 @@
  },
  {
   "id": "20261229-1800-bug-bounty",
-  "fecha": "2026-12-29T18:00:00-04:00",
+  "fecha": "2026-12-29T16:00:00-04:00",
   "video": "2026-12/2026-12-29-1800-bug-bounty.mp4",
   "estilo": "tarjetas",
   "youtube": {
@@ -1987,7 +2036,8 @@
     "tecnologia"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261230-1000-corte-luz-falso",
@@ -2009,7 +2059,7 @@
  },
  {
   "id": "20261230-1800-hora-exacta",
-  "fecha": "2026-12-30T18:00:00-04:00",
+  "fecha": "2026-12-30T16:00:00-04:00",
   "video": "2026-12/2026-12-30-1800-hora-exacta.mp4",
   "estilo": "kinetic",
   "youtube": {
@@ -2023,7 +2073,8 @@
     "tecnologia"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
   "id": "20261231-1000-y2k",
@@ -2045,7 +2096,7 @@
  },
  {
   "id": "20261231-1800-propositos-2027",
-  "fecha": "2026-12-31T18:00:00-04:00",
+  "fecha": "2026-12-31T16:00:00-04:00",
   "video": "2026-12/2026-12-31-1800-propositos-2027.mp4",
   "estilo": "crema",
   "youtube": {
@@ -2059,6 +2110,7 @@
     "ciberseguridad"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  }
 ]
