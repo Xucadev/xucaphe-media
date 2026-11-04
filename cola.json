@@ -56,11 +56,8 @@
    "title": "La estafa que llega DESPUÉS del hackeo",
    "description": "Si te escribe el \"soporte\" de un exchange pidiéndote un código, NO contestes. ⚠️\n\nDespués de un robo grande como el de Binance llega la segunda ola: estafadores que se hacen pasar por soporte oficial, te meten miedo con que tu cuenta está en riesgo y te piden el código que te acaba de llegar por SMS.\n\nEse código no protege tu cuenta: es la llave para entrar en ella. Los códigos no se comparten. Nunca.\n\nEnvíaselo a esa persona que tiene cripto y contesta todo 👇\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n\n#hackdeldía #ciberseguridad #estafas #cripto #binance"
   },
-  "instagram": {
-   "caption": "Si te escribe el \"soporte\" de un exchange pidiéndote un código, NO contestes. ⚠️\n\nDespués de un robo grande como el de Binance llega la segunda ola: estafadores que se hacen pasar por soporte oficial, te meten miedo con que tu cuenta está en riesgo y te piden el código que te acaba de llegar por SMS.\n\nEse código no protege tu cuenta: es la llave para entrar en ella. Los códigos no se comparten. Nunca.\n\nEnvíaselo a esa persona que tiene cripto y contesta todo 👇\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n\n#hackdeldía #ciberseguridad #estafas #cripto #binance",
-   "trial": true
-  },
-  "tiktok": "Metricool"
+  "tiktok": "Metricool",
+  "instagram_por": "Metricool"
  },
  {
   "id": "20261106-1000-multa-pgr",
@@ -101,11 +98,8 @@
    "title": "Tu web en PHP puede caer aunque la actualices",
    "description": "Tu web puede caer aunque tengas WordPress y todos los plugins actualizados. 🧱\n\nSe llama PHP2Shell: dos fallas críticas (CVSS 9.2) en el propio motor de PHP, corregidas el 21 de octubre. Permiten ejecutar código en el servidor sin usuario ni contraseña, y la falla no está en tu código.\n\nRevisa hoy:\n1️⃣ Tu versión de PHP (corregidas: 8.5.12, 8.4.27, 8.3.36, 8.2.35)\n2️⃣ Si tu hosting la administra, pide confirmación por escrito\n3️⃣ PHP 8.1 o anterior ya no recibe parches: toca migrar\n\nChecklist gratis con 12 revisiones → link en el perfil.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n\n#hackdeldía #ciberseguridad #php #wordpress #desarrolloweb"
   },
-  "instagram": {
-   "caption": "Tu web puede caer aunque tengas WordPress y todos los plugins actualizados. 🧱\n\nSe llama PHP2Shell: dos fallas críticas (CVSS 9.2) en el propio motor de PHP, corregidas el 21 de octubre. Permiten ejecutar código en el servidor sin usuario ni contraseña, y la falla no está en tu código.\n\nRevisa hoy:\n1️⃣ Tu versión de PHP (corregidas: 8.5.12, 8.4.27, 8.3.36, 8.2.35)\n2️⃣ Si tu hosting la administra, pide confirmación por escrito\n3️⃣ PHP 8.1 o anterior ya no recibe parches: toca migrar\n\nChecklist gratis con 12 revisiones → link en el perfil.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n\n#hackdeldía #ciberseguridad #php #wordpress #desarrolloweb",
-   "trial": true
-  },
-  "tiktok": "Metricool"
+  "tiktok": "Metricool",
+  "instagram_por": "Metricool"
  },
  {
   "id": "20261107-1000-likes-pagados",
@@ -374,8 +368,7 @@
   "instagram": {
    "caption": "Hack del día #13: una contraseña para todo = una puerta para todo 🔑\nSe llama relleno de credenciales: cuando una página se filtra, un programa prueba tu correo y tu clave en miles de sitios en minutos. Donde la repetiste, entran como si fueran tú.\n\nQué hacer:\n· Una clave distinta para cada cuenta, guardadas en un gestor de contraseñas.\n· Verificación en dos pasos donde se pueda.\n· Empieza hoy por 3: correo, banco y redes.\n\nMándaselo a quien usa la misma clave desde 2015. Sígueme: un hack nuevo cada día.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #contraseñas #seguridaddigital #tips",
    "trial": true
-  },
-  "tiktok": "Metricool"
+  }
  },
  {
   "id": "20261113-1000-prestamo-falso",
@@ -419,8 +412,7 @@
   "instagram": {
    "caption": "Hack del día #15: esa extensión que instalaste y olvidaste 🧩\nMuchas piden permiso para ver todas tus páginas. Si su dueño la vende o le roban la cuenta, una actualización automática le puede meter código que roba tus sesiones y tus datos.\n\nQué hacer:\n· Abre la lista de extensiones de tu navegador y borra las que no usas.\n· Revisa sus permisos y desconfía de las que piden ver todos tus sitios sin necesitarlo.\n\nMándaselo a quien tiene 20 extensiones instaladas. Sígueme: un hack nuevo cada día.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #chrome #navegador #privacidad",
    "trial": true
-  },
-  "tiktok": "Metricool"
+  }
  },
  {
   "id": "20261114-1000-qr-falso",
