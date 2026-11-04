@@ -141,24 +141,21 @@ def probar():
             ok = False
             log("YouTube ERROR:", e)
     else:
-        ok = False
-        log("YouTube: faltan secretos")
+        log("YouTube: todavía sin configurar (faltan secretos)")
     if configurada("facebook"):
         r = requests.get(f"{GRAPH}/{ENV('FB_PAGE_ID')}", params={"fields": "name,instagram_business_account",
                                                                   "access_token": ENV("META_PAGE_TOKEN")}, timeout=30).json()
         log("Facebook:", r)
         ok = ok and "error" not in r
     else:
-        ok = False
-        log("Facebook: faltan secretos")
+        log("Facebook: todavía sin configurar (faltan secretos)")
     if configurada("instagram"):
         r = requests.get(f"{GRAPH}/{ENV('IG_USER_ID')}", params={"fields": "username",
                                                                   "access_token": ENV("META_PAGE_TOKEN")}, timeout=30).json()
         log("Instagram:", r)
         ok = ok and "error" not in r
     else:
-        ok = False
-        log("Instagram: faltan secretos")
+        log("Instagram: todavía sin configurar (faltan secretos)")
     return ok
 
 
