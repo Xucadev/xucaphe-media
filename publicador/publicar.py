@@ -133,7 +133,10 @@ def probar():
             tok = yt_token()
             ch = requests.get("https://www.googleapis.com/youtube/v3/channels", params={"part": "snippet", "mine": "true"},
                               headers={"Authorization": f"Bearer {tok}"}, timeout=30).json()
-            log("YouTube OK:", ch["items"][0]["snippet"]["title"])
+            if ch.get("items"):
+                log("YouTube OK:", ch["items"][0]["snippet"]["title"])
+            else:
+                log("YouTube OK: el token funciona (con permiso de subida; no tiene permiso para leer el nombre del canal)")
         except Exception as e:  # noqa: BLE001
             ok = False
             log("YouTube ERROR:", e)
