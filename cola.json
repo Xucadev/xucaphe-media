@@ -1,5 +1,23 @@
 [
  {
+  "id": "20261104-1000-compra-falsa",
+  "fecha": "2026-11-04T10:00:00-04:00",
+  "video": "2026-11/2026-11-04-1000-compra-falsa.mp4",
+  "nota": "Lo publica Metricool en todas las redes"
+ },
+ {
+  "id": "20261104-1300-bienvenida",
+  "fecha": "2026-11-04T13:00:00-04:00",
+  "video": "2026-11/2026-11-04-1300-bienvenida.mp4",
+  "nota": "Lo publica Metricool en todas las redes"
+ },
+ {
+  "id": "20261104-1800-binance-laptop",
+  "fecha": "2026-11-04T18:00:00-04:00",
+  "video": "2026-11/2026-11-04-binance-laptop.mp4",
+  "nota": "Lo publica Metricool en todas las redes"
+ },
+ {
   "id": "20261105-1000-whatsapp-buzon",
   "fecha": "2026-11-05T10:00:00-04:00",
   "video": "2026-11/2026-11-05-1000-whatsapp-buzon.mp4",
@@ -41,7 +59,8 @@
   "instagram": {
    "caption": "Si te escribe el \"soporte\" de un exchange pidiéndote un código, NO contestes. ⚠️\n\nDespués de un robo grande como el de Binance llega la segunda ola: estafadores que se hacen pasar por soporte oficial, te meten miedo con que tu cuenta está en riesgo y te piden el código que te acaba de llegar por SMS.\n\nEse código no protege tu cuenta: es la llave para entrar en ella. Los códigos no se comparten. Nunca.\n\nEnvíaselo a esa persona que tiene cripto y contesta todo 👇\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n\n#hackdeldía #ciberseguridad #estafas #cripto #binance",
    "trial": true
-  }
+  },
+  "tiktok": "Metricool"
  },
  {
   "id": "20261106-1000-multa-pgr",
@@ -85,7 +104,8 @@
   "instagram": {
    "caption": "Tu web puede caer aunque tengas WordPress y todos los plugins actualizados. 🧱\n\nSe llama PHP2Shell: dos fallas críticas (CVSS 9.2) en el propio motor de PHP, corregidas el 21 de octubre. Permiten ejecutar código en el servidor sin usuario ni contraseña, y la falla no está en tu código.\n\nRevisa hoy:\n1️⃣ Tu versión de PHP (corregidas: 8.5.12, 8.4.27, 8.3.36, 8.2.35)\n2️⃣ Si tu hosting la administra, pide confirmación por escrito\n3️⃣ PHP 8.1 o anterior ya no recibe parches: toca migrar\n\nChecklist gratis con 12 revisiones → link en el perfil.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n\n#hackdeldía #ciberseguridad #php #wordpress #desarrolloweb",
    "trial": true
-  }
+  },
+  "tiktok": "Metricool"
  },
  {
   "id": "20261107-1000-likes-pagados",
@@ -129,7 +149,8 @@
   "instagram": {
    "caption": "Una llave olvidada durante 5 meses. Eso fue todo lo que hizo falta. 🔑\n\nEl 27 de mayo alguien subió por error una llave maestra de LiteLLM (una pasarela muy usada para conectar apps con modelos de IA) a un repositorio público. Nadie la revocó. El 21 de octubre, con esa llave, publicaron una versión maliciosa que estuvo disponible unas 2 horas.\n\nSin IA. Sin día cero. Solo una credencial olvidada.\n\nSi alguna vez subiste un .env a GitHub, borrarlo no basta: cambia la llave. ¿Cuándo rotaste las tuyas por última vez? 👇\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n\n#hackdeldía #ciberseguridad #github #ia #devops",
    "trial": true
-  }
+  },
+  "tiktok": "Metricool"
  },
  {
   "id": "20261108-1000-llamada-banco",
@@ -173,7 +194,8 @@
   "instagram": {
    "caption": "No abriste el archivo. No hiciste clic. Y aun así podían entrar. 🖼️\n\nEn octubre Windows corrigió una falla (CVE-2026-21413, gravedad 9,8/10) en la extensión que muestra imágenes RAW: bastaba con que Windows generara la miniatura o la vista previa de una imagen preparada para ejecutar código.\n\nPor eso las actualizaciones no se posponen: Configuración → Windows Update → Buscar actualizaciones.\n\nMándaselo a quien tiene el \"recordar más tarde\" activado desde hace meses 👇\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n\n#hackdeldía #ciberseguridad #windows #microsoft #tecnologia",
    "trial": true
-  }
+  },
+  "tiktok": "Metricool"
  },
  {
   "id": "20261109-1000-codigo-whatsapp",
@@ -217,7 +239,8 @@
   "instagram": {
    "caption": "Hack del día #7: te quedas sin señal… y alguien entra a tu banco 📵\nEn el SIM swap se hacen pasar por ti ante la operadora y pasan tu número a una SIM nueva. Desde ahí, los códigos por SMS les llegan a ellos, y con eso recuperan tu correo, tus redes y tu banco.\n\nQué hacer:\n· Donde se pueda, cambia los códigos por SMS por una app autenticadora o una llave de acceso.\n· Pregunta en tu operadora si puedes poner una clave a tu línea para cambios de SIM.\n· Si te quedas sin señal sin razón, llama a tu operadora desde otro teléfono.\n\nMándaselo a quien tiene todo en el teléfono. Sígueme: un hack nuevo cada día.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #simswap #2fa #seguridaddigital",
    "trial": true
-  }
+  },
+  "tiktok": "Metricool"
  },
  {
   "id": "20261110-1000-falso-familiar",
@@ -261,7 +284,8 @@
   "instagram": {
    "caption": "Hack del día #9: ese \"recordarme más tarde\" te deja expuesto 🔄\nCuando una empresa corrige un fallo, saca una actualización y el fallo se vuelve público. Desde ese día, los atacantes buscan a quien no actualizó. Hay fallos que se aprovechan con solo abrir una página o recibir un mensaje.\n\nQué hacer:\n· Activa las actualizaciones automáticas en el teléfono, la computadora, las apps y el navegador.\n· Si tu teléfono ya no recibe actualizaciones, no lo uses para el banco.\n\nMándaselo a quien tiene 40 actualizaciones pendientes. Sígueme: un hack nuevo cada día.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #actualizaciones #android #iphone",
    "trial": true
-  }
+  },
+  "tiktok": "Metricool"
  },
  {
   "id": "20261111-1000-paquete-retenido",
@@ -305,7 +329,8 @@
   "instagram": {
    "caption": "Hack del día #11: es su voz… pero no es él 🎙️\nCon inteligencia artificial se puede imitar una voz con pocos segundos de audio, y tu voz ya está en tus vídeos, estados y notas de voz. La llamada siempre trae un problema grave, prisa y un pedido de dinero.\n\nQué hacer:\n· Escojan en familia una palabra clave que nadie más sepa.\n· Si te llaman con una emergencia, pídela. Si no la saben, cuelga.\n· Llama tú al número de siempre de esa persona.\n\nMándaselo a tu familia y escojan la palabra hoy. Sígueme: un hack nuevo cada día.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #inteligenciaartificial #deepfake #estafas",
    "trial": true
-  }
+  },
+  "tiktok": "Metricool"
  },
  {
   "id": "20261112-1000-comprobante-falso",
@@ -349,7 +374,8 @@
   "instagram": {
    "caption": "Hack del día #13: una contraseña para todo = una puerta para todo 🔑\nSe llama relleno de credenciales: cuando una página se filtra, un programa prueba tu correo y tu clave en miles de sitios en minutos. Donde la repetiste, entran como si fueran tú.\n\nQué hacer:\n· Una clave distinta para cada cuenta, guardadas en un gestor de contraseñas.\n· Verificación en dos pasos donde se pueda.\n· Empieza hoy por 3: correo, banco y redes.\n\nMándaselo a quien usa la misma clave desde 2015. Sígueme: un hack nuevo cada día.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #contraseñas #seguridaddigital #tips",
    "trial": true
-  }
+  },
+  "tiktok": "Metricool"
  },
  {
   "id": "20261113-1000-prestamo-falso",
@@ -393,7 +419,8 @@
   "instagram": {
    "caption": "Hack del día #15: esa extensión que instalaste y olvidaste 🧩\nMuchas piden permiso para ver todas tus páginas. Si su dueño la vende o le roban la cuenta, una actualización automática le puede meter código que roba tus sesiones y tus datos.\n\nQué hacer:\n· Abre la lista de extensiones de tu navegador y borra las que no usas.\n· Revisa sus permisos y desconfía de las que piden ver todos tus sitios sin necesitarlo.\n\nMándaselo a quien tiene 20 extensiones instaladas. Sígueme: un hack nuevo cada día.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #chrome #navegador #privacidad",
    "trial": true
-  }
+  },
+  "tiktok": "Metricool"
  },
  {
   "id": "20261114-1000-qr-falso",
@@ -437,7 +464,8 @@
   "instagram": {
    "caption": "Hack del día #17: \"mete RD$10,000 y en un mes tienes RD$20,000\" 📉\nLas plataformas falsas de inversión te muestran ganancias que solo son números en pantalla, te dejan retirar un poquito para que metas más y traigas a otros, y cuando quieres sacar todo aparece una comisión o un bloqueo.\n\nQué hacer:\n· Nadie puede garantizarte ganancias.\n· Antes de invertir, busca la entidad en la Superintendencia del Mercado de Valores (SIMV).\n· Si no te dejan retirar, para.\n\nMándaselo a quien te habló de esa inversión que paga demasiado. Sígueme: un hack nuevo cada día.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #cripto #inversiones #estafas",
    "trial": true
-  }
+  },
+  "tiktok": "Metricool"
  },
  {
   "id": "20261115-1000-empleo-extranjero",
@@ -481,6 +509,7 @@
   "instagram": {
    "caption": "Hack del día #19: si mañana se te borra todo, ¿qué recuperas? 💾\nEl ransomware secuestra tus archivos y pide un rescate, y no siempre los devuelve. La mejor defensa es tener una copia con la regla 3-2-1.\n\nQué hacer:\n· 3 copias de tus archivos importantes.\n· En 2 lugares distintos (por ejemplo, la computadora y un disco externo).\n· 1 fuera de casa o en la nube.\n· Desconecta el disco externo al terminar y prueba de vez en cuando que la copia abre.\n\nMándaselo a quien tiene todas sus fotos en un solo teléfono. Sígueme: un hack nuevo cada día.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #ransomware #backup #seguridaddigital",
    "trial": true
-  }
+  },
+  "tiktok": "Metricool"
  }
 ]
