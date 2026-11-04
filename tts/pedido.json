@@ -1,4 +1,9 @@
-{"items": [
- {"id": "prueba-orus", "voz": "Orus", "texto": "Lee esto como un creador de contenido latino, cercano y con energía, en español neutro de República Dominicana. Haz pausas en comas y puntos, sube la emoción en lo urgente y baja la voz en lo misterioso: ¡Ojo! Si te llega este mensaje, no lo abras. Es una estafa... y te explico por qué, en treinta segundos. Este es el hack del día."},
- {"id": "prueba-charon", "voz": "Charon", "texto": "Lee esto como un creador de contenido latino, cercano y con energía, en español neutro de República Dominicana. Haz pausas en comas y puntos, sube la emoción en lo urgente y baja la voz en lo misterioso: ¡Ojo! Si te llega este mensaje, no lo abras. Es una estafa... y te explico por qué, en treinta segundos. Este es el hack del día."}
-]}
+{
+ "items": [
+  {
+   "id": "20261203-1000-compras-internacionales",
+   "voz": "Orus",
+   "texto": "Lee este guion de un video corto de ciberseguridad como un creador de contenido latino, cercano, claro y con energía, en español neutro con calidez caribeña. Haz pausas naturales en comas y puntos, sube la emoción en lo urgente y baja la voz en lo misterioso. Entre cada párrafo haz una pausa larga de un segundo completo:\n\nTu tarjeta puede hacer compras que tú nunca haces. Apágalas.\n\nMuchos bancos te dejan controlar tu tarjeta desde la app.\n\nPuedes apagar las compras por internet, o en el extranjero, y encenderlas solo cuando las uses.\n\nGuárdalo, y pruébalo hoy mismo.\n\nSi alguien roba los datos de tu tarjeta, no los puede usar para eso.\n\nBúscalo como controles de la tarjeta, o bloqueo temporal.\n\nSi no aparece, pregúntale a tu banco si lo tiene.\n\nComenta TARJETA si tu banco tiene esta opción. Y sígueme: mañana hay otro hack del día."
+  }
+ ]
+}
