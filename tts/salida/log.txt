@@ -1,0 +1,2 @@
+OK prueba-orus gemini-3.1-flash-tts-preview 11.1s
+OK prueba-charon gemini-3.1-flash-tts-preview 11.1s
