@@ -76,7 +76,17 @@
     "cripto",
     "binance",
     "phishing"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "The scam that comes AFTER the Binance hack #shorts",
+     "description": "If exchange \"support\" messages you asking for a code, DO NOT answer. ⚠️\n\nAfter a major theft like the Binance one comes the second wave: scammers posing as official support, scaring you into thinking your account is at risk, and asking for the code you just received via SMS.\n\nThat code doesn't protect your account: it's the key to access it. Codes are not shared. Never.\n\nSend this to that person who holds crypto and replies to everything 👇\n\nAI-generated voice · Cybersecurity educational content.\n\n#hackoftheday #cybersecurity #scams #crypto #binance"
+    },
+    "pt": {
+     "title": "O golpe que chega DEPOIS do hack da Binance #shorts",
+     "description": "Se o \"suporte\" de uma corretora te mandar mensagem pedindo um código, NÃO responda. ⚠️\n\nDepois de um grande roubo como o da Binance, chega a segunda onda: golpistas se passando por suporte oficial, te assustando dizendo que sua conta está em risco e pedindo o código que acabou de chegar por SMS.\n\nEsse código não protege sua conta: é a chave para entrar nela. Códigos não se compartilham. Nunca.\n\nEnvie para aquela pessoa que tem cripto e responde a tudo 👇\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n\n#hackdodia #cibersegurança #golpes #cripto #binance"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
   "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00",
@@ -101,7 +111,17 @@
     "pgr",
     "ciberseguridad",
     "republica dominicana"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "The fake PGR traffic fine sent via SMS #shorts",
+     "description": "Hack of the Day #3: Did you get a traffic fine via SMS? Don't pay it yet. 🚗\n\nA message impersonating the Attorney General's Office (PGR) is circulating in the DR with links like multaspgr[.]top. They lead to a copy of a payment portal to steal your banking password, your card, and the security code.\n\nGovernment institutions use .gob.do, never .top.\n\n✅ Type the official website yourself or call the official number\n✅ Never pay from the SMS link\n✅ Block and report the message\n\nSend this to whoever drives in your house. Follow me: a new hack every day.\n\nAI-generated voice · Educational cybersecurity content.\n\n#hackoftheday #cybersecurity #smishing #scams #dominicanrepublic"
+    },
+    "pt": {
+     "title": "A falsa multa da PGR que chega por SMS #shorts",
+     "description": "Hack do dia nº 3: recebeu uma multa de trânsito por SMS? Não pague ainda. 🚗\n\nEstá circulando na RD uma mensagem se passando pela Procuradoria (PGR) com links como multaspgr[.]top. Eles levam a uma cópia de um portal de pagamento para roubar sua senha do banco, seu cartão e o código de segurança.\n\nAs instituições do Estado usam .gob.do, nunca .top.\n\n✅ Digite você mesmo o site oficial ou ligue para o número oficial\n✅ Nunca pague pelo link do SMS\n✅ Bloqueie e denuncie a mensagem\n\nMande para quem dirige na sua casa. Siga-me: um hack novo a cada dia.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n\n#hackdodia #ciberseguranca #smishing #golpes #republicadominicana"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -153,7 +173,17 @@
     "litellm",
     "ia",
     "devops"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "A key forgotten for 5 months was enough to attack an AI tool #shorts",
+     "description": "A key forgotten for 5 months. That was all it took. 🔑\n\nOn May 27, someone accidentally uploaded a LiteLLM master key (a widely used gateway to connect apps with AI models) to a public repository. Nobody revoked it. On October 21, using that key, they published a malicious version that was available for about 2 hours.\n\nNo AI. No zero-day. Just a forgotten credential.\n\nIf you ever uploaded a .env to GitHub, deleting it isn't enough: change the key. When was the last time you rotated yours? 👇\n\nAI-generated voice · Educational cybersecurity content.\n\n#hackoftheday #cybersecurity #github #ai #devops"
+    },
+    "pt": {
+     "title": "Uma chave esquecida por 5 meses bastou para atacar uma ferramenta de IA #shorts",
+     "description": "Uma chave esquecida por 5 meses. Foi tudo o que bastou. 🔑\n\nEm 27 de maio, alguém enviou por engano uma chave mestra do LiteLLM (um gateway muito usado para conectar apps a modelos de IA) para um repositório público. Ninguém a revogou. Em 21 de outubro, com essa chave, publicaram uma versão maliciosa que ficou disponível por cerca de 2 horas.\n\nSem IA. Sem zero-day. Apenas uma credencial esquecida.\n\nSe você já enviou um .env para o GitHub, deletá-lo não basta: troque a chave. Quando foi a última vez que você rotacionou as suas? 👇\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n\n#hackdodia #ciberseguranca #github #ia #devops"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
   "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
@@ -177,7 +207,17 @@
     "pov"
    ],
    "largo": true,
-   "miniatura": "largos/ep01-mini1.png"
+   "miniatura": "largos/ep01-mini1.png",
+   "localizations": {
+    "en": {
+     "title": "POV: Your phone number gets stolen and in 3 hours you lose everything #shorts",
+     "description": "What happens if one night your phone says \"No Service\"… and it's not the cell tower? In this POV, you are Chris: you work in cybersecurity, but a fake Instagram giveaway and a SIM swap are enough for you to lose your email, your WhatsApp, the money in your account, and almost your mom's trust in just three hours.\n\nRecreated story based on real SIM swapping cases. At the end: the 5 settings you need to change today so it doesn't happen to you.\n\nHave you or someone you know had their WhatsApp or phone number stolen? Tell us in the comments.\n\nChapters:\n0:00 No Service\n0:54 The giveaway\n3:36 The call you didn't hear\n5:28 Your email and your bank\n7:25 Your mom\n9:00 You wake up\n10:44 The only thing you saved\n11:58 The race\n13:33 On the other side of the screen\n15:39 Closing all doors\n17:06 What really happened\n18:02 What to do today\n\nSources:\n· FBI IC3, Internet Crime Report 2024 (982 complaints, 25.98 million dollars): ic3[.]gov/AnnualReport/Reports/2024_IC3Report.pdf\n· Europol, operation against SIM swapping networks: techmonitor[.]ai/technology/cybersecurity/europol-helps-smash-sim-card-fraud\n· Jack Dorsey Case (2019): dplnews[.]com/la-peligrosa-estafa-de-moda-duplicar-tu-numero-de-movil-para-vaciarte-la-cuenta-del-banco/\n· Kroll on SIM swapping and 2FA: conventuslaw[.]com/report/sim-swapping-the-achilles-heel-of-two-factor/\n\nVoice and illustrations generated with AI · Story recreated for educational purposes.\n\n#cybersecurity #scams #simswapping"
+    },
+    "pt": {
+     "title": "POV: Roubam seu número de telefone e em 3 horas você perde tudo #shorts",
+     "description": "O que acontece se uma noite seu celular diz \"Sem serviço\"… e não é a antena? Neste POV você é Chris: trabalha com cibersegurança, mas um sorteio falso no Instagram e uma clonagem de SIM são suficientes para que, em três horas, você perca seu e-mail, seu WhatsApp, o dinheiro da sua conta e quase a confiança da sua mãe.\n\nHistória recriada a partir de casos reais de clonagem de chip (SIM swapping). No final: as 5 configurações que você precisa fazer hoje para que isso não aconteça com você.\n\nVocê ou alguém que você conhece já teve o WhatsApp ou o número roubado? Conte nos comentários.\n\nCapítulos:\n0:00 Sem serviço\n0:54 O sorteio\n3:36 A ligação que você não ouviu\n5:28 Seu e-mail e seu banco\n7:25 Sua mãe\n9:00 Você acorda\n10:44 A única coisa que você salvou\n11:58 A corrida\n13:33 Do outro lado da tela\n15:39 Fechar todas as portas\n17:06 O que realmente aconteceu\n18:02 O que fazer hoje\n\nFontes:\n· FBI IC3, Internet Crime Report 2024 (982 denúncias, 25,98 milhões de dólares): ic3[.]gov/AnnualReport/Reports/2024_IC3Report.pdf\n· Europol, operação contra redes de SIM swapping: techmonitor[.]ai/technology/cybersecurity/europol-helps-smash-sim-card-fraud\n· Caso Jack Dorsey (2019): dplnews[.]com/la-peligrosa-estafa-de-moda-duplicar-tu-numero-de-movil-para-vaciarte-la-cuenta-del-banco/\n· Kroll sobre SIM swapping e 2FA: conventuslaw[.]com/report/sim-swapping-the-achilles-heel-of-two-factor/\n\nVoz e ilustrações geradas com IA · História recriada para fins educacionais.\n\n#ciberseguranca #golpes #simswapping"
+    }
+   }
   }
  },
  {
@@ -193,7 +233,17 @@
     "banco",
     "ciberseguridad",
     "republica dominicana"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "\"Your bank\" calls asking for a code: HANG UP #shorts",
+     "description": "Hack of the day No. 5: \"your bank\" calls you, says there's a suspicious charge, and asks for a code. Hang up. 📞\n\nIt's called vishing, and the Superintendency of Banks has already warned about its 3 signs: urgency (\"do it now or you'll lose your money\"), asking for sensitive data (password, token, CVV, or codes), and calling after hours.\n\n✅ Hang up and call the number on the back of your card or in the official app yourself\n✅ If you already gave your data: block the card, change your passwords, and report it\n\nSend this to your parents. Follow me: a new hack every day.\n\nAI-generated voice · Educational cybersecurity content.\n\n#hackoftheday #cybersecurity #vishing #scams #dominicanrepublic"
+    },
+    "pt": {
+     "title": "\"Seu banco\" te liga e pede um código: DESLIGUE #shorts",
+     "description": "Hack do dia N.º 5: \"seu banco\" te liga, diz que há uma cobrança suspeita e pede um código. Desligue. 📞\n\nIsso se chama vishing, e a Superintendência de Bancos já alertou sobre seus 3 sinais: urgência (\"faça isso agora ou perderá seu dinheiro\"), pedem dados sensíveis (senha, token, CVV ou códigos) e te ligam fora do horário.\n\n✅ Desligue e ligue você mesmo para o número no verso do seu cartão ou no aplicativo oficial\n✅ Se você já deu seus dados: bloqueie o cartão, mude suas senhas e denuncie\n\nMande para os seus pais. Siga-me: um hack novo a cada dia.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n\n#hackdodia #ciberseguranca #vishing #golpes #republicadominicana"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -265,7 +315,17 @@
     "estafas",
     "ciberseguridad",
     "hack del dia"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "\"Hi mom, this is my new number\": the fake relative scam #shorts",
+     "description": "Hack of the day No. 8: \"hi mom, this is my new number\" 📱\nOne of the oldest scams and it still works. They use affection, rush you, and always have an excuse not to call. In the end, they ask for a transfer to someone else's account.\n\nWhat to do:\n· Call your relative's usual number.\n· Ask them something only that person would know.\n· Don't transfer in a rush.\n\nSend this to your parents and aunts. Follow me: a new hack every day.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #scams #whatsapp #dominicanrepublic"
+    },
+    "pt": {
+     "title": "\"Oi mãe, este é meu número novo\": o golpe do falso parente #shorts",
+     "description": "Hack do dia Nº 8: \"oi mãe, este é meu número novo\" 📱\nUm dos golpes mais antigos e continua funcionando. Usam o afeto, causam pressa e sempre têm uma desculpa para não ligar. No final, pedem uma transferência para a conta de outra pessoa.\n\nO que fazer:\n· Ligue para o número de sempre do seu parente.\n· Pergunte algo que só essa pessoa saberia.\n· Não faça transferências com pressa.\n\nMande para os seus pais e suas tias. Siga-me: um hack novo todo dia.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #ciberseguranca #golpes #whatsapp #republicadominicana"
+    }
+   }
   },
   "estilo": "tarjetas",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
@@ -302,7 +362,17 @@
     "courier",
     "estafas",
     "hack del dia"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "\"Your package is on hold\": the SMS that steals your card #shorts",
+     "description": "Hack of the day No. 10: \"your package is on hold, pay RD$150\" 📦\nThe amount is small so you don't think twice, but they don't want your RD$150: they want your card. The link leads to a fake courier page asking for your card number, expiration date, and security code.\n\nWhat to do:\n· Don't tap the link.\n· Go to your courier's official app or website yourself and check your package there.\n\nSend this to whoever buys everything online. Follow me: a new hack every day.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #scams #courier #rd"
+    },
+    "pt": {
+     "title": "\"Seu pacote está retido\": o SMS que rouba seu cartão #shorts",
+     "description": "Hack do dia N.º 10: \"seu pacote está retido, pague RD$150\" 📦\nO valor é baixinho para você não pensar duas vezes, mas eles não querem seus RD$150: querem seu cartão. O link leva a uma página copiada da transportadora que pede número, data e código de segurança.\n\nO que fazer:\n· Não toque no link.\n· Entre você mesmo no app ou site oficial da sua transportadora e confira seu pacote lá.\n\nMande para quem compra tudo pela internet. Siga-me: um hack novo a cada dia.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #ciberseguranca #golpes #courier #rd"
+    }
+   }
   },
   "estilo": "tarjetas",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
@@ -339,7 +409,17 @@
     "vender por internet",
     "estafas",
     "hack del dia"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "\"I already transferred it\": Fake receipt when selling online #shorts",
+     "description": "Hack of the day No. 12: \"I already transferred you, look at the receipt\" 🧾\nIf you sell online, they're going to try this on you: an edited screenshot or a transfer that never completed, and the buyer arrives in a hurry so you don't check.\n\nWhat to do:\n· A receipt is not money.\n· Open your bank app and confirm the money arrived and is available. Then hand it over.\n· If the buyer gets annoyed because you check, you already know what it was.\n\nSend this to anyone selling on Marketplace. Follow me: a new hack every day.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #marketplace #scams #entrepreneurs"
+    },
+    "pt": {
+     "title": "\"Já te transferi\": o comprovante falso ao vender pela internet #shorts",
+     "description": "Hack do dia N.º 12: \"já te transferi, olha o comprovante\" 🧾\nSe você vende pela internet, vão tentar te dar esse golpe: uma captura de tela editada ou uma transferência que nunca foi concluída, e o comprador chega com pressa para você não checar.\n\nO que fazer:\n· Um comprovante não é dinheiro.\n· Abra o app do seu banco e confirme que o dinheiro caiu e está disponível. Só depois entregue.\n· Se o comprador ficar irritado porque você está checando, você já sabe o que era.\n\nMande para quem vende no Marketplace. Me siga: um hack novo a cada dia.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #ciberseguranca #marketplace #golpes #empreendedores"
+    }
+   }
   },
   "estilo": "tarjetas",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
