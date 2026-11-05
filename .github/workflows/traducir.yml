@@ -19,6 +19,15 @@ jobs:
       - if: always()
         run: |
           git config user.name "github-actions"; git config user.email "github-actions@users.noreply.github.com"
-          git add cola.json tts/salida/traducir.log subs
-          git commit -m "Títulos y descripciones en inglés y portugués" || exit 0
-          for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin HEAD:main && break; sleep 5; done
+          mkdir -p /tmp/t && cp cola.json /tmp/t/cola.json && cp tts/salida/traducir.log /tmp/t/ && cp -r subs /tmp/t/subs 2>/dev/null || true
+          for i in 1 2 3 4 5; do
+            git fetch -q origin main && git reset -q --hard origin/main
+            python3 tts/fusionar.py /tmp/t/cola.json
+            cp /tmp/t/traducir.log tts/salida/traducir.log
+            cp -n /tmp/t/subs/*.srt subs/ 2>/dev/null || true
+            git add cola.json tts/salida/traducir.log subs
+            git diff --cached --quiet && exit 0
+            git commit -qm "Títulos, descripciones y subtítulos en inglés y portugués" && git push -q origin HEAD:main && exit 0
+            sleep 7
+          done
+          exit 1

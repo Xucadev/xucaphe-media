@@ -20,7 +20,8 @@ def modelos():
 
 
 MODELOS = modelos()
-MUERTOS = set()  # modelos sin cupo hoy (429): no se reintentan en esta corrida
+MUERTOS = set()  # modelos que no sirven hoy (404, o 429 dos veces seguidas)
+FALLOS = {}
 def detalle(ex):
     try:
         return ex.read().decode()[:300].replace("\n", " ")
@@ -54,14 +55,21 @@ for e in cola:
             t = json.loads(r["candidates"][0]["content"]["parts"][0]["text"])
             if all(t.get(k, {}).get("title") and t[k].get("description") for k in ("en", "pt")):
                 y["localizations"] = {k: t[k] for k in ("en", "pt")}
+                FALLOS[m] = 0
                 hechas += 1
                 print("OK", e["id"], m, f"{time.time()-INICIO:.0f}s")
                 guardar()
                 break
         except Exception as ex:
             d = detalle(ex)
-            if getattr(ex, "code", 0) == 429:
+            code = getattr(ex, "code", 0)
+            if code == 404:
                 MUERTOS.add(m)
+            elif code == 429:
+                FALLOS[m] = FALLOS.get(m, 0) + 1
+                if FALLOS[m] >= 2:
+                    MUERTOS.add(m)
+                time.sleep(20)
             print("ERR", e["id"], m, getattr(ex, "code", ""), d)
         time.sleep(3)
     if hechas >= LIMITE:
@@ -82,11 +90,18 @@ def gemini(prompt):
                                      data=json.dumps(body).encode(), headers={"Content-Type": "application/json", "x-goog-api-key": KEY})
         try:
             r = json.load(urllib.request.urlopen(req, timeout=60))
+            FALLOS[m] = 0
             return json.loads(r["candidates"][0]["content"]["parts"][0]["text"]), m
         except Exception as ex:
             d = detalle(ex)
-            if getattr(ex, "code", 0) == 429:
+            code = getattr(ex, "code", 0)
+            if code == 404:
                 MUERTOS.add(m)
+            elif code == 429:
+                FALLOS[m] = FALLOS.get(m, 0) + 1
+                if FALLOS[m] >= 2:
+                    MUERTOS.add(m)
+                time.sleep(20)
             print("ERR subs", m, getattr(ex, "code", ""), d)
         time.sleep(3)
     return None, None
@@ -94,7 +109,7 @@ fechas = {e["id"]: e["fecha"] for e in cola}
 subs_hechos = 0
 for f in sorted(SUBS.glob("*.es.srt")) if SUBS.is_dir() else []:
     rid = f.name[:-len(".es.srt")]
-    if time.time() - INICIO > PRESUPUESTO or subs_hechos >= LIM_SUBS:
+    if time.time() - INICIO > PRESUPUESTO or subs_hechos >= LIM_SUBS or len(MUERTOS) >= len(MODELOS):
         print("subtítulos: sigo mañana"); break
     if (SUBS / f"{rid}.en.srt").exists() and (SUBS / f"{rid}.pt-BR.srt").exists():
         continue
