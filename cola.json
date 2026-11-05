@@ -133,6 +133,28 @@
   "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
+  "id": "largo-ep01",
+  "fecha": "2026-11-07T16:00:00-04:00",
+  "video": "largos/ep01.mp4",
+  "estilo": "largo",
+  "youtube": {
+   "title": "POV: Te roban tu número de teléfono y en 3 horas lo pierdes todo",
+   "description": "¿Qué pasa si una noche tu teléfono dice \"Sin servicio\"… y no es la antena? En este POV eres Chris: trabajas en ciberseguridad, pero un sorteo falso de Instagram y un duplicado de tu SIM bastan para que, en tres horas, pierdas tu correo, tu WhatsApp, el dinero de tu cuenta y casi la confianza de tu mamá.\n\nHistoria recreada a partir de casos reales de duplicado de SIM (SIM swapping). Al final: los 5 ajustes que tienes que hacer hoy para que no te pase.\n\n¿A ti o a alguien que conoces le han robado el WhatsApp o el número? Cuéntalo en los comentarios.\n\nCapítulos:\n0:00 Sin servicio\n0:54 El sorteo\n3:36 La llamada que no escuchaste\n5:28 Tu correo y tu banco\n7:25 Tu mamá\n9:00 Despiertas\n10:44 Lo único que salvaste\n11:58 La carrera\n13:33 Al otro lado de la pantalla\n15:39 Cerrar todas las puertas\n17:06 Lo que pasó de verdad\n18:02 Qué hacer hoy\n\nFuentes:\n· FBI IC3, Internet Crime Report 2024 (982 denuncias, 25.98 millones de dólares): ic3[.]gov/AnnualReport/Reports/2024_IC3Report.pdf\n· Europol, operación contra redes de SIM swapping: techmonitor[.]ai/technology/cybersecurity/europol-helps-smash-sim-card-fraud\n· Caso Jack Dorsey (2019): dplnews[.]com/la-peligrosa-estafa-de-moda-duplicar-tu-numero-de-movil-para-vaciarte-la-cuenta-del-banco/\n· Kroll sobre SIM swapping y 2FA: conventuslaw[.]com/report/sim-swapping-the-achilles-heel-of-two-factor/\n\nVoz e ilustraciones generadas con IA · Historia recreada con fines educativos.\n\n#ciberseguridad #estafas #simswapping",
+   "tags": [
+    "ciberseguridad",
+    "duplicado de sim",
+    "sim swapping",
+    "estafas",
+    "whatsapp",
+    "robo de cuentas",
+    "república dominicana",
+    "pov"
+   ],
+   "largo": true,
+   "miniatura": "largos/ep01-mini1.png"
+  }
+ },
+ {
   "id": "20261108-1000-llamada-banco",
   "fecha": "2026-11-08T10:00:00-04:00",
   "video": "2026-11/2026-11-08-1000-llamada-banco.mp4",
