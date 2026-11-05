@@ -40,7 +40,8 @@
    "youtube": {
     "intentos": 0,
     "url": "https://youtube.com/shorts/0A_MpDO_5uk",
-    "publicado": "2026-11-05T02:18:50+00:00"
+    "publicado": "2026-11-05T02:18:50+00:00",
+    "subs": []
    }
   }
  },
@@ -61,7 +62,17 @@
   },
   "estilo": "crema",
   "otras_redes": "Metricool (TikTok 12:00)",
-  "hora_nota": "Reel de actualidad: TikTok 12:00, YouTube 13:00"
+  "hora_nota": "Reel de actualidad: TikTok 12:00, YouTube 13:00",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/UYYKWSREIQI",
+    "publicado": "2026-11-05T17:48:27+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261105-1800-estafa-soporte",
