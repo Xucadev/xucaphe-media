@@ -1,0 +1,30 @@
+name: Verificar permiso YouTube
+on:
+  workflow_dispatch:
+  push:
+    paths: [".github/workflows/verificar_yt.yml"]
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    steps:
+      - env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import json, os, urllib.request, urllib.parse
+          d = urllib.parse.urlencode({"client_id": os.environ["YT_CLIENT_ID"], "client_secret": os.environ["YT_CLIENT_SECRET"],
+              "refresh_token": os.environ["YT_REFRESH_TOKEN"], "grant_type": "refresh_token"}).encode()
+          try:
+              t = json.load(urllib.request.urlopen("https://oauth2.googleapis.com/token", d, timeout=30))
+          except urllib.error.HTTPError as e:
+              print("ERROR token:", e.code, e.read().decode()[:300]); raise SystemExit(1)
+          print("scopes:", t.get("scope"))
+          info = json.load(urllib.request.urlopen("https://oauth2.googleapis.com/tokeninfo?access_token=" + t["access_token"]))
+          print("vence en (s):", info.get("expires_in"))
+          r = urllib.request.Request("https://www.googleapis.com/youtube/v3/channels?part=snippet&mine=true",
+              headers={"Authorization": "Bearer " + t["access_token"]})
+          c = json.load(urllib.request.urlopen(r))
+          print("canal:", [i["snippet"]["title"] for i in c.get("items", [])])
+          PY
