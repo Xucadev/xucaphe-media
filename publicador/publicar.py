@@ -108,7 +108,14 @@ def youtube(item, video: Path):
         up = requests.put(r.headers["Location"], data=f,
                           headers={"Authorization": f"Bearer {tok}", "Content-Type": "video/mp4"}, timeout=600)
     up.raise_for_status()
-    return f"https://youtube.com/shorts/{up.json()['id']}"
+    vid = up.json()["id"]
+    if d.get("miniatura") and (RAIZ / d["miniatura"]).exists():
+        # Miniatura propia: solo funciona si el canal está verificado; si falla, el video queda igual
+        mi = requests.post(f"https://www.googleapis.com/upload/youtube/v3/thumbnails/set?videoId={vid}",
+                           headers={"Authorization": f"Bearer {tok}", "Content-Type": "image/png"},
+                           data=(RAIZ / d["miniatura"]).read_bytes(), timeout=120)
+        log("  miniatura:", "ok" if mi.ok else mi.text[:200])
+    return f"https://youtu.be/{vid}" if d.get("largo") else f"https://youtube.com/shorts/{vid}"
 
 
 # ---------------------------------------------------------------- Instagram
