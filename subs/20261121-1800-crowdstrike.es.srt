@@ -1,0 +1,83 @@
+1
+00:00:00,100 --> 00:00:01,575
+19 de julio de 2024.
+
+2
+00:00:01,575 --> 00:00:05,875
+Millones de computadoras en el mundo se apagan a la vez.
+
+3
+00:00:06,025 --> 00:00:08,612
+Aeropuertos, bancos, hospitales y televisoras,
+
+4
+00:00:08,612 --> 00:00:10,469
+con la pantalla azul de error.
+
+5
+00:00:10,619 --> 00:00:13,563
+Miles de vuelos se cancelaron o se retrasaron.
+
+6
+00:00:13,713 --> 00:00:15,071
+¿Fue un ataque de hackers?
+
+7
+00:00:15,071 --> 00:00:15,227
+No.
+
+8
+00:00:15,227 --> 00:00:16,546
+Fue una actualización.
+
+9
+00:00:16,696 --> 00:00:19,438
+La empresa de ciberseguridad CrowdStrike envió una
+
+10
+00:00:19,438 --> 00:00:23,338
+actualización con un fallo a su programa de protección para Windows.
+
+11
+00:00:23,488 --> 00:00:26,047
+Ese programa trabaja muy dentro del sistema.
+
+12
+00:00:26,047 --> 00:00:29,183
+Cuando falló, se llevó por delante todo el sistema.
+
+13
+00:00:29,333 --> 00:00:33,249
+Microsoft calculó unos 8,5 millones de equipos afectados:
+
+14
+00:00:33,249 --> 00:00:36,030
+menos del 1 % de los que usan Windows.
+
+15
+00:00:36,180 --> 00:00:38,017
+Y aun así, paralizó medio mundo.
+
+16
+00:00:38,017 --> 00:00:40,655
+Porque estaban en los lugares más críticos.
+
+17
+00:00:40,805 --> 00:00:41,424
+La lección:
+
+18
+00:00:41,424 --> 00:00:44,860
+hasta la seguridad necesita pruebas y despliegues por partes.
+
+19
+00:00:44,860 --> 00:00:46,945
+Un solo error puede tumbarlo todo.
+
+20
+00:00:47,095 --> 00:00:49,843
+Mándaselo a quien estaba en un aeropuerto ese día.
+
+21
+00:00:49,843 --> 00:00:53,866
+Sígueme para más historias de tecnología.

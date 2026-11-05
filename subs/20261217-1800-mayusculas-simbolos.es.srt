@@ -1,0 +1,55 @@
+1
+00:00:00,100 --> 00:00:03,114
+Una mayúscula, un número, y un símbolo.
+
+2
+00:00:03,114 --> 00:00:04,907
+¿Por qué te lo piden?
+
+3
+00:00:05,057 --> 00:00:08,402
+La idea era hacer las claves más difíciles de adivinar.
+
+4
+00:00:08,552 --> 00:00:10,663
+Pero la gente hizo lo mismo:
+
+5
+00:00:10,663 --> 00:00:13,773
+un nombre, el año, y un signo al final.
+
+6
+00:00:13,923 --> 00:00:17,677
+Quédate hasta el final, que lo más importante viene ahora.
+
+7
+00:00:17,827 --> 00:00:21,330
+Y los programas que adivinan claves ya conocen ese truco.
+
+8
+00:00:21,480 --> 00:00:21,726
+Hoy,
+
+9
+00:00:21,726 --> 00:00:26,143
+la agencia de normas de Estados Unidos recomienda priorizar el largo.
+
+10
+00:00:26,293 --> 00:00:26,719
+Mejor:
+
+11
+00:00:26,719 --> 00:00:31,359
+una frase de varias palabras al azar, distinta para cada sitio.
+
+12
+00:00:31,509 --> 00:00:34,476
+Comenta LARGA si tu clave ya es larga.
+
+13
+00:00:34,476 --> 00:00:35,257
+Y sígueme:
+
+14
+00:00:35,257 --> 00:00:39,058
+cada semana, más por qués.

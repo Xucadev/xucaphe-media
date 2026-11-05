@@ -1,0 +1,51 @@
+1
+00:00:00,100 --> 00:00:02,719
+Su servicio de luz será cortado hoy.
+
+2
+00:00:02,719 --> 00:00:03,689
+Pague aquí.
+
+3
+00:00:03,839 --> 00:00:07,856
+Llega justo en las fiestas, cuando nadie quiere quedarse sin luz.
+
+4
+00:00:08,006 --> 00:00:09,235
+Y te mete prisa:
+
+5
+00:00:09,235 --> 00:00:10,787
+tiene que ser hoy.
+
+6
+00:00:10,937 --> 00:00:13,492
+Mándaselo a tus papás antes de que les llegue.
+
+7
+00:00:13,642 --> 00:00:16,968
+El enlace lleva a una página falsa que pide tu tarjeta.
+
+8
+00:00:17,118 --> 00:00:18,024
+Antes de pagar,
+
+9
+00:00:18,024 --> 00:00:21,880
+revisa tu factura en la app o la oficina de tu distribuidora.
+
+10
+00:00:22,030 --> 00:00:24,894
+O llama al número que viene en tu factura de papel.
+
+11
+00:00:25,044 --> 00:00:28,078
+Comenta LUZ si te llegó un aviso así.
+
+12
+00:00:28,078 --> 00:00:28,898
+Y sígueme:
+
+13
+00:00:28,898 --> 00:00:33,046
+pronto, otra estafa expuesta.

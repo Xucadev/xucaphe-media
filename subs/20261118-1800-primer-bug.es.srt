@@ -1,0 +1,75 @@
+1
+00:00:00,100 --> 00:00:02,922
+El primer bug de la historia fue un insecto de verdad.
+
+2
+00:00:02,922 --> 00:00:03,510
+Literal.
+
+3
+00:00:03,660 --> 00:00:05,906
+9 de septiembre de 1947.
+
+4
+00:00:05,906 --> 00:00:08,229
+Universidad de Harvard.
+
+5
+00:00:08,379 --> 00:00:11,116
+Ahí trabajaba una computadora gigante, la Mark II,
+
+6
+00:00:11,116 --> 00:00:12,818
+que llenaba una sala entera.
+
+7
+00:00:12,968 --> 00:00:14,216
+Un día empezó a fallar.
+
+8
+00:00:14,216 --> 00:00:15,742
+Y nadie entendía por qué.
+
+9
+00:00:15,892 --> 00:00:18,755
+Revisaron pieza por pieza, hasta que la encontraron:
+
+10
+00:00:18,755 --> 00:00:20,687
+una polilla atrapada en un relé.
+
+11
+00:00:20,837 --> 00:00:24,678
+La pegaron con cinta en el cuaderno de registro y escribieron:
+
+12
+00:00:24,678 --> 00:00:27,327
+"primer caso real de un bug encontrado".
+
+13
+00:00:27,477 --> 00:00:30,861
+La broma era que los ingenieros ya llamaban bug a los fallos.
+
+14
+00:00:30,861 --> 00:00:32,584
+Ese día, el bug fue literal.
+
+15
+00:00:32,734 --> 00:00:34,947
+En ese equipo trabajaba Grace Hopper,
+
+16
+00:00:34,947 --> 00:00:39,004
+pionera de la programación, que contó esta historia toda su vida.
+
+17
+00:00:39,154 --> 00:00:43,230
+Y ese cuaderno, con la polilla pegada, todavía se conserva en un museo.
+
+18
+00:00:43,380 --> 00:00:46,024
+Mándaselo a quien dice que su código tiene bugs.
+
+19
+00:00:46,024 --> 00:00:50,052
+Sígueme para más historias de tecnología.

@@ -1,0 +1,71 @@
+1
+00:00:00,100 --> 00:00:04,139
+Marca esto en tu teléfono ahora mismo:
+
+2
+00:00:04,139 --> 00:00:04,734
+#06#
+
+3
+00:00:04,884 --> 00:00:07,261
+Te aparece un número largo de 15 cifras.
+
+4
+00:00:07,261 --> 00:00:09,630
+Es el IMEI, la cédula de tu teléfono.
+
+5
+00:00:09,780 --> 00:00:13,194
+Ningún otro teléfono en el mundo tiene ese mismo número.
+
+6
+00:00:13,344 --> 00:00:14,467
+¿Y para qué te sirve?
+
+7
+00:00:14,467 --> 00:00:18,435
+Si te roban el teléfono, con ese número tu operadora lo puede bloquear.
+
+8
+00:00:18,585 --> 00:00:21,685
+Bloqueado, no sirve para hacer llamadas con ninguna línea.
+
+9
+00:00:21,685 --> 00:00:23,886
+Y vale mucho menos para quien lo robó.
+
+10
+00:00:24,036 --> 00:00:27,550
+El problema es que, cuando te lo roban, ya no puedes ver el número.
+
+11
+00:00:27,700 --> 00:00:29,350
+Por eso, anótalo hoy.
+
+12
+00:00:29,500 --> 00:00:31,801
+Hazle una captura y guárdala en tu correo,
+
+13
+00:00:31,801 --> 00:00:33,663
+o apúntalo en un papel en tu casa.
+
+14
+00:00:33,663 --> 00:00:35,915
+También viene en la caja del teléfono.
+
+15
+00:00:36,065 --> 00:00:37,480
+Y si te roban el teléfono,
+
+16
+00:00:37,480 --> 00:00:40,588
+llama a tu operadora con ese número y pide el bloqueo.
+
+17
+00:00:40,738 --> 00:00:42,581
+Mándaselo al grupo de la familia.
+
+18
+00:00:42,581 --> 00:00:45,804
+Mañana, otro hack del día.

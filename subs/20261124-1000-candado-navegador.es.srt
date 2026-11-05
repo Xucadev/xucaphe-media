@@ -1,0 +1,67 @@
+1
+00:00:00,100 --> 00:00:03,242
+Ese candadito al lado de la dirección de una página no
+
+2
+00:00:03,242 --> 00:00:04,866
+significa que sea segura.
+
+3
+00:00:05,016 --> 00:00:05,496
+¿Por qué?
+
+4
+00:00:05,496 --> 00:00:07,797
+Porque el candado solo te dice una cosa.
+
+5
+00:00:07,947 --> 00:00:11,184
+Que la conexión entre tu teléfono y esa página va cifrada.
+
+6
+00:00:11,184 --> 00:00:13,921
+Nadie en el camino puede leer lo que escribes.
+
+7
+00:00:14,071 --> 00:00:16,551
+Pero no te dice quién está del otro lado.
+
+8
+00:00:16,701 --> 00:00:19,905
+Y hoy muchísimas páginas falsas también tienen candado.
+
+9
+00:00:19,905 --> 00:00:21,473
+Conseguir uno es gratis.
+
+10
+00:00:21,623 --> 00:00:23,638
+O sea, tus datos viajan protegidos…
+
+11
+00:00:23,638 --> 00:00:25,017
+directo al estafador.
+
+12
+00:00:25,167 --> 00:00:27,569
+Lo que de verdad importa es otra cosa.
+
+13
+00:00:27,719 --> 00:00:29,790
+Que el nombre de la página sea exacto,
+
+14
+00:00:29,790 --> 00:00:32,795
+y que llegaste tú, no por un enlace que te mandaron.
+
+15
+00:00:32,945 --> 00:00:35,725
+El candado es necesario, pero no suficiente.
+
+16
+00:00:35,875 --> 00:00:39,599
+Mándaselo a quien dice que una página es segura porque tiene candado.
+
+17
+00:00:39,599 --> 00:00:42,773
+Sígueme para más por qués.

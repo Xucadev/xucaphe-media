@@ -1,0 +1,75 @@
+1
+00:00:00,100 --> 00:00:02,211
+Así adivina un programa tu contraseña.
+
+2
+00:00:02,211 --> 00:00:03,993
+Y por qué la tuya larga gana.
+
+3
+00:00:04,143 --> 00:00:05,389
+Se llama fuerza bruta:
+
+4
+00:00:05,389 --> 00:00:08,843
+probar todas las combinaciones, una por una, sin cansarse.
+
+5
+00:00:08,993 --> 00:00:12,751
+Una contraseña de 8 letras minúsculas tiene unas 208 mil
+
+6
+00:00:12,751 --> 00:00:14,665
+millones de combinaciones.
+
+7
+00:00:14,815 --> 00:00:15,541
+Parece mucho,
+
+8
+00:00:15,541 --> 00:00:18,500
+pero una computadora potente prueba miles de millones
+
+9
+00:00:18,500 --> 00:00:21,014
+por segundo, si se roban la base de datos.
+
+10
+00:00:21,164 --> 00:00:23,788
+Cada letra que agregas multiplica el trabajo.
+
+11
+00:00:23,788 --> 00:00:24,430
+No lo suma:
+
+12
+00:00:24,430 --> 00:00:25,416
+lo multiplica.
+
+13
+00:00:25,566 --> 00:00:26,055
+Por eso,
+
+14
+00:00:26,055 --> 00:00:30,262
+4 palabras al azar juntas le ganan a una clave corta con símbolos.
+
+15
+00:00:30,412 --> 00:00:34,085
+Son más fáciles de recordar, y mucho más difíciles de adivinar.
+
+16
+00:00:34,235 --> 00:00:36,629
+Larga, única para cada sitio, y si puedes,
+
+17
+00:00:36,629 --> 00:00:38,908
+guárdala en un gestor de contraseñas.
+
+18
+00:00:39,058 --> 00:00:41,378
+Mándaselo al que usa su nombre y el año.
+
+19
+00:00:41,378 --> 00:00:45,352
+Sígueme para más tecnología explicada.

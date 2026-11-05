@@ -1,0 +1,83 @@
+1
+00:00:00,100 --> 00:00:03,360
+Tu teléfono sabe dónde estás con un margen de pocos metros.
+
+2
+00:00:03,360 --> 00:00:04,304
+¿Cómo lo hace?
+
+3
+00:00:04,454 --> 00:00:07,853
+Gracias a unos 30 satélites que dan vueltas a la Tierra,
+
+4
+00:00:07,853 --> 00:00:10,148
+a unos 20.000 kilómetros de altura.
+
+5
+00:00:10,298 --> 00:00:13,263
+Cada satélite lleva un reloj atómico, ultra preciso,
+
+6
+00:00:13,263 --> 00:00:14,575
+y envía todo el tiempo:
+
+7
+00:00:14,575 --> 00:00:16,798
+soy tal satélite, y esta es mi hora.
+
+8
+00:00:16,948 --> 00:00:20,637
+Tu teléfono escucha esa señal y calcula cuánto tardó en llegar.
+
+9
+00:00:20,787 --> 00:00:24,335
+Con ese tiempo sabe a qué distancia está de cada satélite.
+
+10
+00:00:24,485 --> 00:00:25,443
+Con 4 satélites,
+
+11
+00:00:25,443 --> 00:00:29,625
+cruza las distancias y encuentra el único punto donde puedes estar.
+
+12
+00:00:29,775 --> 00:00:31,142
+Y aquí viene lo más loco:
+
+13
+00:00:31,142 --> 00:00:33,822
+tienen que corregir el tiempo por la teoría de la
+
+14
+00:00:33,822 --> 00:00:35,305
+relatividad de Einstein.
+
+15
+00:00:35,455 --> 00:00:39,891
+Allá arriba, los relojes se adelantan unos 38 microsegundos al día.
+
+16
+00:00:39,891 --> 00:00:44,100
+Sin corregirlo, el error crecería varios kilómetros cada día.
+
+17
+00:00:44,250 --> 00:00:45,912
+Y un dato que pocos saben:
+
+18
+00:00:45,912 --> 00:00:47,126
+el GPS solo recibe.
+
+19
+00:00:47,126 --> 00:00:49,725
+Los satélites no saben dónde estás tú.
+
+20
+00:00:49,875 --> 00:00:52,592
+Mándaselo a quien se pierde aunque tenga el mapa.
+
+21
+00:00:52,592 --> 00:00:56,470
+Sígueme para más tecnología explicada.

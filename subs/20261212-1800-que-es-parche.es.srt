@@ -1,0 +1,51 @@
+1
+00:00:00,100 --> 00:00:03,808
+Esa actualización que dejas para mañana trae algo importante.
+
+2
+00:00:03,958 --> 00:00:05,928
+Cuando alguien descubre un fallo,
+
+3
+00:00:05,928 --> 00:00:08,487
+la empresa lo arregla y envía un parche.
+
+4
+00:00:08,637 --> 00:00:12,464
+Pero el parche también le dice a los atacantes dónde estaba el fallo.
+
+5
+00:00:12,614 --> 00:00:15,676
+Guárdalo ahora, que en el momento se te olvida.
+
+6
+00:00:15,826 --> 00:00:19,687
+Lo estudian, y atacan a quienes todavía no han actualizado.
+
+7
+00:00:19,837 --> 00:00:24,098
+Por eso, los días después de una actualización son los más peligrosos.
+
+8
+00:00:24,248 --> 00:00:26,961
+Actualiza pronto, sobre todo el teléfono,
+
+9
+00:00:26,961 --> 00:00:29,380
+el navegador y las apps del banco.
+
+10
+00:00:29,530 --> 00:00:34,002
+Y activa las actualizaciones automáticas, para no tener que acordarte.
+
+11
+00:00:34,152 --> 00:00:37,182
+Comenta ACTUALIZO si ya actualizaste hoy.
+
+12
+00:00:37,182 --> 00:00:37,921
+Y sígueme:
+
+13
+00:00:37,921 --> 00:00:41,539
+más tecnología explicada.

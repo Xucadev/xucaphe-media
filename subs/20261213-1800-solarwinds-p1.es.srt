@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:03,356
+¿Y si el ataque llega dentro de una actualización oficial?
+
+2
+00:00:03,506 --> 00:00:05,250
+Un día como hoy, en 2020,
+
+3
+00:00:05,250 --> 00:00:09,744
+se hizo público uno de los ataques más famosos de la historia.
+
+4
+00:00:09,894 --> 00:00:12,607
+Alguien había metido código malicioso en Orion,
+
+5
+00:00:12,607 --> 00:00:16,530
+un programa que empresas y gobiernos usan para vigilar sus redes.
+
+6
+00:00:16,680 --> 00:00:20,434
+Quédate hasta el final, que lo más importante viene ahora.
+
+7
+00:00:20,584 --> 00:00:24,779
+La empresa, SolarWinds, envió la actualización sin saberlo.
+
+8
+00:00:24,929 --> 00:00:28,906
+Unos dieciocho mil clientes la instalaron, confiando en ella.
+
+9
+00:00:29,056 --> 00:00:34,039
+Y el código se quedaba callado, esperando, para no levantar sospechas.
+
+10
+00:00:34,189 --> 00:00:37,868
+Comenta PARTE 2 si quieres saber cómo los descubrieron.
+
+11
+00:00:37,868 --> 00:00:41,347
+La parte 2 sale el miércoles 16 a las 6 de la tarde.
+
+12
+00:00:41,347 --> 00:00:44,924
+Sígueme para no perdértela.

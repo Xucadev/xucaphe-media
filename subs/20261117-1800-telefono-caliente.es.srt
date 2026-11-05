@@ -1,0 +1,67 @@
+1
+00:00:00,100 --> 00:00:03,119
+¿Por qué tu teléfono se calienta tanto mientras carga?
+
+2
+00:00:03,269 --> 00:00:06,328
+Porque cargar una batería es meter energía a la fuerza
+
+3
+00:00:06,328 --> 00:00:07,858
+en una reacción química.
+
+4
+00:00:08,008 --> 00:00:08,398
+Dentro,
+
+5
+00:00:08,398 --> 00:00:12,017
+unas partículas llamadas iones de litio viajan de un lado a otro.
+
+6
+00:00:12,017 --> 00:00:13,580
+Y ese viaje genera calor.
+
+7
+00:00:13,730 --> 00:00:15,621
+Si además lo usas mientras carga,
+
+8
+00:00:15,621 --> 00:00:18,542
+el procesador también trabaja, y suma más calor.
+
+9
+00:00:18,692 --> 00:00:20,246
+Y aquí viene lo importante:
+
+10
+00:00:20,246 --> 00:00:22,891
+el calor es lo que más envejece la batería.
+
+11
+00:00:23,041 --> 00:00:26,339
+Por eso, con los años, te dura cada vez menos la carga.
+
+12
+00:00:26,489 --> 00:00:28,139
+3 trucos sencillos.
+
+13
+00:00:28,289 --> 00:00:30,284
+No lo cargues debajo de la almohada.
+
+14
+00:00:30,284 --> 00:00:32,280
+Evita juegos pesados mientras carga.
+
+15
+00:00:32,280 --> 00:00:34,279
+Y no lo dejes al sol en el carro.
+
+16
+00:00:34,429 --> 00:00:37,927
+Si se pone muy caliente, quítale el forro y déjalo descansar.
+
+17
+00:00:38,076 --> 00:00:43,791
+Mándaselo a quien duerme con el teléfono cargando debajo de la almohada.

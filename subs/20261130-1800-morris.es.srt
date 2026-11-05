@@ -1,0 +1,71 @@
+1
+00:00:00,100 --> 00:00:04,718
+Hoy, 30 de noviembre, es el Día de la Seguridad de la Información.
+
+2
+00:00:04,718 --> 00:00:06,357
+Y nació por un error.
+
+3
+00:00:06,507 --> 00:00:12,373
+En 1988, un estudiante soltó en la red un programa que se copiaba solo.
+
+4
+00:00:12,523 --> 00:00:14,811
+Saltaba de computadora en computadora,
+
+5
+00:00:14,811 --> 00:00:17,751
+aprovechando fallos que nadie había arreglado.
+
+6
+00:00:17,901 --> 00:00:22,189
+Por un error en su código, se copió muchísimo más de lo planeado.
+
+7
+00:00:22,339 --> 00:00:25,401
+Guárdalo ahora, que en el momento se te olvida.
+
+8
+00:00:25,551 --> 00:00:29,852
+Cerca de una de cada diez máquinas conectadas quedó lenta o inservible.
+
+9
+00:00:30,002 --> 00:00:31,702
+Se le llamó el gusano Morris,
+
+10
+00:00:31,702 --> 00:00:34,919
+y fue uno de los primeros ataques famosos de la red.
+
+11
+00:00:35,069 --> 00:00:38,222
+Después nació el primer equipo dedicado a responder
+
+12
+00:00:38,222 --> 00:00:41,173
+estos incidentes, y este día para recordarlo.
+
+13
+00:00:41,323 --> 00:00:42,509
+La lección de hoy:
+
+14
+00:00:42,509 --> 00:00:43,168
+actualiza.
+
+15
+00:00:43,168 --> 00:00:46,962
+Los fallos que no se arreglan son la puerta de entrada.
+
+16
+00:00:47,112 --> 00:00:51,571
+Comenta 1988 si no sabías por qué existe este día.
+
+17
+00:00:51,571 --> 00:00:52,463
+Y sígueme:
+
+18
+00:00:52,463 --> 00:00:56,195
+más historias de tech.

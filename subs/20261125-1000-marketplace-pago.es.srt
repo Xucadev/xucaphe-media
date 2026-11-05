@@ -1,0 +1,63 @@
+1
+00:00:00,100 --> 00:00:02,909
+Vendes algo en Marketplace y el comprador te dice:
+
+2
+00:00:02,909 --> 00:00:05,271
+ya te pagué, entra aquí para recibirlo.
+
+3
+00:00:05,421 --> 00:00:08,969
+Para recibir dinero, nunca tienes que entrar a ningún enlace.
+
+4
+00:00:09,119 --> 00:00:12,167
+Ese enlace abre una página que parece de un banco o de
+
+5
+00:00:12,167 --> 00:00:13,521
+una empresa de pagos.
+
+6
+00:00:13,671 --> 00:00:17,212
+Y te pide tu tarjeta, el código de atrás, o la clave de tu banco.
+
+7
+00:00:17,212 --> 00:00:18,472
+Para recibir, dicen.
+
+8
+00:00:18,622 --> 00:00:19,809
+Con eso no te pagan.
+
+9
+00:00:19,809 --> 00:00:21,166
+Te vacían la cuenta.
+
+10
+00:00:21,316 --> 00:00:22,391
+La regla es simple:
+
+11
+00:00:22,391 --> 00:00:24,767
+para cobrar, solo das tu número de cuenta.
+
+12
+00:00:24,767 --> 00:00:26,691
+Nunca tu tarjeta ni tus claves.
+
+13
+00:00:26,841 --> 00:00:30,586
+Y no entregues nada hasta ver el dinero en tu propia app del banco.
+
+14
+00:00:30,736 --> 00:00:34,434
+Si te mete prisa o no quiere verte en persona, ya sabes lo que es.
+
+15
+00:00:34,584 --> 00:00:36,833
+Mándaselo a quien vende en Marketplace.
+
+16
+00:00:36,833 --> 00:00:40,911
+Sígueme para la próxima estafa expuesta.

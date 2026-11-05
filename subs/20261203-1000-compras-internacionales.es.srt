@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:03,557
+Tu tarjeta puede hacer compras que tú nunca haces.
+
+2
+00:00:03,557 --> 00:00:04,129
+Apágalas.
+
+3
+00:00:04,279 --> 00:00:07,658
+Muchos bancos te dejan controlar tu tarjeta desde la app.
+
+4
+00:00:07,808 --> 00:00:10,161
+Puedes apagar las compras por internet,
+
+5
+00:00:10,161 --> 00:00:13,774
+o en el extranjero, y encenderlas solo cuando las uses.
+
+6
+00:00:13,924 --> 00:00:16,434
+Guárdalo, y pruébalo hoy mismo.
+
+7
+00:00:16,584 --> 00:00:20,911
+Si alguien roba los datos de tu tarjeta, no los puede usar para eso.
+
+8
+00:00:21,061 --> 00:00:24,687
+Búscalo como controles de la tarjeta, o bloqueo temporal.
+
+9
+00:00:24,837 --> 00:00:28,144
+Si no aparece, pregúntale a tu banco si lo tiene.
+
+10
+00:00:28,294 --> 00:00:31,746
+Comenta TARJETA si tu banco tiene esta opción.
+
+11
+00:00:31,746 --> 00:00:32,496
+Y sígueme:
+
+12
+00:00:32,496 --> 00:00:36,068
+mañana hay otro hack del día.

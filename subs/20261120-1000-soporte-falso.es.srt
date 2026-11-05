@@ -1,0 +1,83 @@
+1
+00:00:00,100 --> 00:00:01,885
+Estás en internet y, de repente,
+
+2
+00:00:01,885 --> 00:00:05,067
+la pantalla se pone roja y empieza a sonar una alarma.
+
+3
+00:00:05,217 --> 00:00:06,926
+Tu computadora está infectada.
+
+4
+00:00:06,926 --> 00:00:07,724
+No la apagues.
+
+5
+00:00:07,724 --> 00:00:09,489
+Llama ya al soporte técnico.
+
+6
+00:00:09,639 --> 00:00:11,875
+Es la estafa del soporte técnico falso.
+
+7
+00:00:11,875 --> 00:00:13,764
+Y está hecha para darte miedo.
+
+8
+00:00:13,914 --> 00:00:17,385
+Si llamas, te atiende alguien muy amable que dice ser técnico.
+
+9
+00:00:17,535 --> 00:00:21,115
+Te pide instalar un programa de acceso remoto, para arreglarla.
+
+10
+00:00:21,115 --> 00:00:23,160
+Con eso, controla tu computadora.
+
+11
+00:00:23,310 --> 00:00:25,412
+Y luego te cobra por un arreglo falso,
+
+12
+00:00:25,412 --> 00:00:27,462
+o entra a tu banco mientras miras.
+
+13
+00:00:27,612 --> 00:00:29,262
+La clave para no caer.
+
+14
+00:00:29,412 --> 00:00:32,271
+Los mensajes de error de verdad no traen un número de
+
+15
+00:00:32,271 --> 00:00:33,619
+teléfono para que llames.
+
+16
+00:00:33,619 --> 00:00:34,113
+Nunca.
+
+17
+00:00:34,263 --> 00:00:35,387
+Cierra el navegador.
+
+18
+00:00:35,387 --> 00:00:37,578
+Si no se deja, reinicia la computadora.
+
+19
+00:00:37,578 --> 00:00:39,378
+No llames y no instales nada.
+
+20
+00:00:39,528 --> 00:00:43,065
+Mándaselo a tus papás o a quien usa la computadora de la casa.
+
+21
+00:00:43,065 --> 00:00:47,117
+Sígueme para la próxima estafa expuesta.

@@ -1,0 +1,71 @@
+1
+00:00:00,100 --> 00:00:03,640
+Si te roban el código de WhatsApp, todavía te puede salvar esto.
+
+2
+00:00:03,790 --> 00:00:05,913
+Se llama verificación en dos pasos.
+
+3
+00:00:05,913 --> 00:00:08,569
+Es un PIN de 6 dígitos que solo sabes tú.
+
+4
+00:00:08,719 --> 00:00:11,745
+Aunque alguien tenga el código que te llega por mensaje,
+
+5
+00:00:11,745 --> 00:00:13,914
+sin ese PIN no puede abrir tu cuenta.
+
+6
+00:00:14,064 --> 00:00:15,714
+Actívalo así.
+
+7
+00:00:15,864 --> 00:00:15,993
+1.
+
+8
+00:00:15,993 --> 00:00:17,778
+Abre Ajustes en WhatsApp.
+
+9
+00:00:17,928 --> 00:00:18,078
+2.
+
+10
+00:00:18,078 --> 00:00:19,578
+Entra a Cuenta.
+
+11
+00:00:19,728 --> 00:00:19,845
+3.
+
+12
+00:00:19,845 --> 00:00:21,966
+Verificación en dos pasos → Activar.
+
+13
+00:00:21,966 --> 00:00:24,904
+Elige un PIN que no sea tu fecha de nacimiento.
+
+14
+00:00:25,054 --> 00:00:28,179
+Y agrega tu correo, por si un día se te olvida el PIN.
+
+15
+00:00:28,329 --> 00:00:29,796
+Y nunca se lo des a nadie.
+
+16
+00:00:29,796 --> 00:00:32,281
+WhatsApp no te lo va a pedir por mensaje.
+
+17
+00:00:32,431 --> 00:00:34,274
+Mándaselo al grupo de la familia.
+
+18
+00:00:34,274 --> 00:00:37,496
+Mañana, otro hack del día.

@@ -1,0 +1,59 @@
+1
+00:00:00,100 --> 00:00:03,818
+Tu teléfono te reconoce la cara en menos de un segundo.
+
+2
+00:00:03,818 --> 00:00:04,393
+¿Cómo?
+
+3
+00:00:04,543 --> 00:00:07,521
+Hay dos tipos, y no son igual de seguros.
+
+4
+00:00:07,671 --> 00:00:11,049
+Los que usan solo la cámara normal comparan una foto.
+
+5
+00:00:11,049 --> 00:00:12,939
+Son más fáciles de engañar.
+
+6
+00:00:13,090 --> 00:00:16,843
+Quédate hasta el final, que lo más importante viene ahora.
+
+7
+00:00:16,993 --> 00:00:20,248
+Los de sensor tres D proyectan más de treinta mil puntos
+
+8
+00:00:20,248 --> 00:00:21,871
+invisibles sobre tu cara.
+
+9
+00:00:22,021 --> 00:00:25,320
+Miden la forma de tu cara, no solo cómo se ve.
+
+10
+00:00:25,320 --> 00:00:27,069
+Y funcionan a oscuras.
+
+11
+00:00:27,219 --> 00:00:29,340
+Si tu teléfono solo usa la cámara,
+
+12
+00:00:29,340 --> 00:00:32,380
+para el banco mejor usa la huella o el código.
+
+13
+00:00:32,530 --> 00:00:35,425
+Comenta CARA si desbloqueas con la cara.
+
+14
+00:00:35,425 --> 00:00:36,149
+Y sígueme:
+
+15
+00:00:36,149 --> 00:00:39,728
+más tecnología explicada.

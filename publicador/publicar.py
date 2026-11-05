@@ -33,12 +33,51 @@ def log(*a):
 
 # ---------------------------------------------------------------- YouTube
 
+class SinPermiso(Exception):
+    """El token de YouTube no sirve: no es culpa del video, así que no gasta intentos."""
+
+
 def yt_token():
     r = requests.post("https://oauth2.googleapis.com/token", data={
         "client_id": ENV("YT_CLIENT_ID"), "client_secret": ENV("YT_CLIENT_SECRET"),
         "refresh_token": ENV("YT_REFRESH_TOKEN"), "grant_type": "refresh_token"}, timeout=30)
+    if r.status_code in (400, 401):
+        raise SinPermiso(f"token de YouTube rechazado: {r.text[:200]}")
     r.raise_for_status()
     return r.json()["access_token"]
+
+
+SUBS = RAIZ / "subs"
+
+
+def yt_subtitulos(item, tok=None):
+    """Sube subs/ID.{es,en,pt-BR}.srt al video ya subido. Devuelve True si cambió algo."""
+    e = item.get("estado", {}).get("youtube", {})
+    url = e.get("url")
+    if not url or not SUBS.is_dir():
+        return False
+    hechos = e.setdefault("subs", [])
+    pend = [f for f in sorted(SUBS.glob(f"{item['id']}.*.srt")) if f.name.split(".")[-2] not in hechos]
+    if not pend or e.get("subs_intentos", 0) >= MAX_INTENTOS:
+        return False
+    tok = tok or yt_token()
+    vid = url.rstrip("/").split("/")[-1]
+    for f in pend:
+        lang = f.name.split(".")[-2]
+        meta = {"snippet": {"videoId": vid, "language": lang, "name": "", "isDraft": False}}
+        r = requests.post("https://www.googleapis.com/upload/youtube/v3/captions?uploadType=multipart&part=snippet",
+                          headers={"Authorization": f"Bearer {tok}"}, timeout=60,
+                          files={"metadata": (None, json.dumps(meta), "application/json; charset=UTF-8"),
+                                 "media": (f.name, f.read_bytes(), "application/octet-stream")})
+        if r.ok:
+            hechos.append(lang)
+            log(f"  ✔ subtítulos {lang} en {item['id']}")
+        else:
+            e["subs_intentos"] = e.get("subs_intentos", 0) + 1
+            e["subs_error"] = r.text[:300]
+            log(f"  ✖ subtítulos {lang} en {item['id']}: {r.text[:300]}")
+            break
+    return True
 
 
 def youtube(item, video: Path):
@@ -202,6 +241,9 @@ def main():
                 e["publicado"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
                 e.pop("error", None)
                 log(f"  ✔ {e['url']}")
+            except SinPermiso as ex:
+                e["error"] = str(ex)[:500]
+                log(f"  ✖ {ex} (no cuenta como intento)")
             except Exception as ex:  # noqa: BLE001
                 e["intentos"] += 1
                 detalle = getattr(getattr(ex, "response", None), "text", "") or str(ex)
@@ -209,6 +251,20 @@ def main():
                 log(f"  ✖ {detalle[:500]}")
             cambios = True
             COLA.write_text(json.dumps(cola, ensure_ascii=False, indent=1))
+    # Subtítulos de los videos ya subidos (incluye los programados que aún no son públicos)
+    if configurada("youtube"):
+        for item in cola:
+            if not item.get("youtube"):
+                continue
+            try:
+                if yt_subtitulos(item):
+                    cambios = True
+                    COLA.write_text(json.dumps(cola, ensure_ascii=False, indent=1))
+            except SinPermiso as ex:
+                log(f"  ✖ subtítulos: {ex}")
+                break
+            except Exception as ex:  # noqa: BLE001
+                log(f"  ✖ subtítulos {item['id']}: {ex}")
     if not cambios:
         log("Nada pendiente.")
 

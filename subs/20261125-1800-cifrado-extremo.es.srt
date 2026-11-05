@@ -1,0 +1,67 @@
+1
+00:00:00,100 --> 00:00:03,425
+Cuando mandas un mensaje por WhatsApp, ni WhatsApp puede leerlo.
+
+2
+00:00:03,425 --> 00:00:04,478
+¿Cómo es posible?
+
+3
+00:00:04,628 --> 00:00:06,884
+Se llama cifrado de extremo a extremo.
+
+4
+00:00:07,034 --> 00:00:10,733
+Tu teléfono revuelve el mensaje con una llave, antes de enviarlo.
+
+5
+00:00:10,733 --> 00:00:12,554
+Sale como letras sin sentido.
+
+6
+00:00:12,704 --> 00:00:15,102
+Viaja así por internet y por los servidores.
+
+7
+00:00:15,102 --> 00:00:17,234
+Quien lo intercepte, solo ve basura.
+
+8
+00:00:17,384 --> 00:00:20,213
+Y solo el teléfono de la otra persona tiene la llave
+
+9
+00:00:20,213 --> 00:00:21,580
+para volver a armarlo.
+
+10
+00:00:21,730 --> 00:00:24,638
+Las llaves se crean en los teléfonos, no en la empresa.
+
+11
+00:00:24,638 --> 00:00:26,395
+Por eso WhatsApp no las tiene.
+
+12
+00:00:26,545 --> 00:00:27,065
+Pero ojo:
+
+13
+00:00:27,065 --> 00:00:30,470
+si alguien abre tu teléfono, ve los mensajes ya armados.
+
+14
+00:00:30,620 --> 00:00:32,270
+El cifrado protege el camino.
+
+15
+00:00:32,270 --> 00:00:35,399
+La puerta de entrada es tu teléfono, y la cuidas tú.
+
+16
+00:00:35,549 --> 00:00:38,266
+Mándaselo al que cree que lo espían por WhatsApp.
+
+17
+00:00:38,266 --> 00:00:42,144
+Sígueme para más tecnología explicada.

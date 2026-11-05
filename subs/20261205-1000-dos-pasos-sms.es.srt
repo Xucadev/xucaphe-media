@@ -1,0 +1,75 @@
+1
+00:00:00,100 --> 00:00:03,785
+Activaste la verificación en dos pasos por mensaje.
+
+2
+00:00:03,785 --> 00:00:04,146
+Bien.
+
+3
+00:00:04,146 --> 00:00:05,762
+Pero hay algo mejor.
+
+4
+00:00:05,911 --> 00:00:09,609
+La verificación en dos pasos pide algo más que tu contraseña.
+
+5
+00:00:09,759 --> 00:00:12,987
+Hay varias formas, de más fuerte a más débil.
+
+6
+00:00:13,137 --> 00:00:17,150
+Si alguien de tu familia caería en esto, mándale este video.
+
+7
+00:00:17,300 --> 00:00:18,837
+El SMS es la más débil:
+
+8
+00:00:18,837 --> 00:00:21,242
+se puede robar con un cambio de sim,
+
+9
+00:00:21,242 --> 00:00:24,084
+o engañándote para que dictes el código.
+
+10
+00:00:24,234 --> 00:00:27,560
+La app de códigos genera el número en tu teléfono,
+
+11
+00:00:27,560 --> 00:00:29,024
+cada treinta segundos.
+
+12
+00:00:29,024 --> 00:00:30,591
+No viaja por mensaje.
+
+13
+00:00:30,741 --> 00:00:33,515
+Y las llaves de acceso usan tu huella o tu cara,
+
+14
+00:00:33,515 --> 00:00:35,709
+y no se pueden dictar por teléfono.
+
+15
+00:00:35,859 --> 00:00:37,848
+El SMS es mejor que nada.
+
+16
+00:00:37,848 --> 00:00:40,643
+Pero donde puedas, sube un nivel.
+
+17
+00:00:40,793 --> 00:00:43,856
+Comenta APP si ya usas una app de códigos.
+
+18
+00:00:43,856 --> 00:00:44,585
+Y sígueme:
+
+19
+00:00:44,585 --> 00:00:48,178
+más tecnología explicada.

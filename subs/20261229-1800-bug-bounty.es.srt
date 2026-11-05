@@ -1,0 +1,55 @@
+1
+00:00:00,100 --> 00:00:02,598
+Hay empresas que les pagan a jákers.
+
+2
+00:00:02,598 --> 00:00:03,531
+Y es legal.
+
+3
+00:00:03,681 --> 00:00:06,603
+Se llama programa de recompensas por errores:
+
+4
+00:00:06,603 --> 00:00:07,487
+bag báunti.
+
+5
+00:00:07,637 --> 00:00:10,518
+Si encuentras un fallo de seguridad y lo reportas
+
+6
+00:00:10,518 --> 00:00:12,511
+siguiendo sus reglas, te pagan.
+
+7
+00:00:12,661 --> 00:00:16,414
+Quédate hasta el final, que lo más importante viene ahora.
+
+8
+00:00:16,564 --> 00:00:20,529
+Para la empresa, es más barato pagar eso que sufrir un ataque.
+
+9
+00:00:20,679 --> 00:00:21,687
+Pero hay reglas:
+
+10
+00:00:21,687 --> 00:00:26,078
+solo se prueba lo que el programa permite, y se reporta en privado.
+
+11
+00:00:26,228 --> 00:00:29,142
+Buscar fallos sin permiso, es delito.
+
+12
+00:00:29,292 --> 00:00:32,521
+Comenta BOUNTY si te gustaría ganarte uno.
+
+13
+00:00:32,521 --> 00:00:33,289
+Y sígueme:
+
+14
+00:00:33,289 --> 00:00:37,058
+cada semana, más por qués.

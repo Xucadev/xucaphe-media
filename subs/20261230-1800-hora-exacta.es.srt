@@ -1,0 +1,51 @@
+1
+00:00:00,100 --> 00:00:03,223
+Mañana vas a contar los segundos con el teléfono.
+
+2
+00:00:03,223 --> 00:00:05,050
+¿Cómo sabe la hora exacta?
+
+3
+00:00:05,200 --> 00:00:07,954
+Tu teléfono no confía en su propio reloj.
+
+4
+00:00:07,954 --> 00:00:09,870
+Lo corrige todo el tiempo.
+
+5
+00:00:10,020 --> 00:00:14,562
+Le pregunta la hora a la red móvil, y a servidores de hora en internet.
+
+6
+00:00:14,712 --> 00:00:17,775
+Guárdalo ahora, que en el momento se te olvida.
+
+7
+00:00:17,925 --> 00:00:21,495
+Y esos servidores se sincronizan con relojes atómicos.
+
+8
+00:00:21,645 --> 00:00:23,811
+Así, el error es pequeñísimo.
+
+9
+00:00:23,811 --> 00:00:26,073
+Mucho menos que un parpadeo.
+
+10
+00:00:26,223 --> 00:00:30,829
+Por eso a medianoche, todos los teléfonos cambian casi al mismo tiempo.
+
+11
+00:00:30,979 --> 00:00:35,035
+Comenta HORA si vas a contar los segundos con el teléfono.
+
+12
+00:00:35,035 --> 00:00:35,735
+Y sígueme:
+
+13
+00:00:35,735 --> 00:00:39,253
+más tecnología explicada.

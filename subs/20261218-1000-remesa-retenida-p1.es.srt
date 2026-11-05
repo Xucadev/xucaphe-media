@@ -1,0 +1,51 @@
+1
+00:00:00,100 --> 00:00:03,387
+Tu familia de afuera siempre te manda algo para Navidad.
+
+2
+00:00:03,537 --> 00:00:04,954
+Te llega un mensaje:
+
+3
+00:00:04,954 --> 00:00:06,966
+tiene una remesa retenida.
+
+4
+00:00:07,116 --> 00:00:11,597
+Para liberarla, hay que pagar una pequeña comisión, con tu tarjeta.
+
+5
+00:00:11,747 --> 00:00:15,046
+Dice que si no pagas hoy, la remesa se devuelve.
+
+6
+00:00:15,196 --> 00:00:16,846
+¿Qué harías tú?
+
+7
+00:00:16,996 --> 00:00:17,155
+A:
+
+8
+00:00:17,155 --> 00:00:19,774
+pago la comisión, que es poquito.
+
+9
+00:00:19,774 --> 00:00:19,933
+B:
+
+10
+00:00:19,933 --> 00:00:24,865
+llamo a mi familia, y a la remesadora por su número oficial.
+
+11
+00:00:25,015 --> 00:00:27,617
+Comenta PAGO o LLAMO y dime qué harías.
+
+12
+00:00:27,617 --> 00:00:30,287
+La parte 2 sale hoy a las 6 de la tarde.
+
+13
+00:00:30,287 --> 00:00:33,859
+Sígueme para no perdértela.

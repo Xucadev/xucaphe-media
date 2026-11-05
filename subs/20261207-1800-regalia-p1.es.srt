@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:03,744
+Faltan días para la regalía, y estás corto de dinero.
+
+2
+00:00:03,894 --> 00:00:04,646
+Te llaman.
+
+3
+00:00:04,646 --> 00:00:08,202
+Dicen que son de tu banco, y saben tu nombre.
+
+4
+00:00:08,352 --> 00:00:11,726
+Te ofrecen adelantarte un préstamo con tu regalía.
+
+5
+00:00:11,726 --> 00:00:13,246
+Aprobado al momento.
+
+6
+00:00:13,396 --> 00:00:16,441
+Solo tienes que confirmar un código que te va a llegar.
+
+7
+00:00:16,591 --> 00:00:17,444
+Y te apuran:
+
+8
+00:00:17,444 --> 00:00:19,461
+la oferta es solo por hoy.
+
+9
+00:00:19,611 --> 00:00:21,261
+¿Qué harías tú?
+
+10
+00:00:21,411 --> 00:00:24,149
+Comenta ACEPTO o CUELGO y dime qué harías.
+
+11
+00:00:24,149 --> 00:00:27,474
+La parte 2 sale el jueves 10 a las 10 de la mañana.
+
+12
+00:00:27,474 --> 00:00:31,005
+Sígueme para no perdértela.

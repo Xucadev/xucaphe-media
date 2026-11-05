@@ -1,0 +1,51 @@
+1
+00:00:00,100 --> 00:00:04,056
+¿Cómo descubrieron un ataque escondido en una actualización oficial?
+
+2
+00:00:04,206 --> 00:00:07,313
+Lo destapó FireEye, una empresa de ciberseguridad,
+
+3
+00:00:07,313 --> 00:00:10,591
+al investigar un robo de sus propias herramientas.
+
+4
+00:00:10,741 --> 00:00:14,980
+Rastreando por dónde entraron, llegaron a la actualización de Orion.
+
+5
+00:00:15,130 --> 00:00:18,192
+Guárdalo ahora, que en el momento se te olvida.
+
+6
+00:00:18,342 --> 00:00:21,342
+A esto se le llama ataque a la cadena de suministro.
+
+7
+00:00:21,492 --> 00:00:25,396
+En vez de atacarte a ti, atacan a alguien en quien confías.
+
+8
+00:00:25,546 --> 00:00:26,698
+Lo que se aprendió:
+
+9
+00:00:26,698 --> 00:00:29,961
+dar a cada programa solo los permisos que necesita.
+
+10
+00:00:30,111 --> 00:00:33,939
+Y vigilar lo raro, aunque venga de un proveedor confiable.
+
+11
+00:00:34,089 --> 00:00:37,018
+Comenta CADENA si quieres más casos así.
+
+12
+00:00:37,018 --> 00:00:37,750
+Y sígueme:
+
+13
+00:00:37,750 --> 00:00:41,130
+más historias de tech.

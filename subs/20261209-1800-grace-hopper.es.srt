@@ -1,0 +1,63 @@
+1
+00:00:00,100 --> 00:00:02,575
+Hoy cumpliría años la mujer que enseñó a las
+
+2
+00:00:02,575 --> 00:00:04,601
+computadoras a entender palabras.
+
+3
+00:00:04,751 --> 00:00:06,359
+Se llamaba Grace Hopper.
+
+4
+00:00:06,359 --> 00:00:10,080
+Matemática, y oficial de la Marina de Estados Unidos.
+
+5
+00:00:10,230 --> 00:00:10,588
+Antes,
+
+6
+00:00:10,588 --> 00:00:14,936
+programar era escribir números y códigos que solo entendía la máquina.
+
+7
+00:00:15,086 --> 00:00:18,839
+Quédate hasta el final, que lo más importante viene ahora.
+
+8
+00:00:18,989 --> 00:00:21,460
+Ella creó uno de los primeros compiladores:
+
+9
+00:00:21,460 --> 00:00:24,560
+un traductor de instrucciones parecidas a palabras.
+
+10
+00:00:24,710 --> 00:00:29,302
+Sus ideas llevaron a cóbol, un lenguaje que todavía usan muchos bancos.
+
+11
+00:00:29,452 --> 00:00:31,393
+Y para explicar un nanosegundo,
+
+12
+00:00:31,393 --> 00:00:34,318
+regalaba cables de unos treinta centímetros.
+
+13
+00:00:34,468 --> 00:00:37,782
+Es lo que recorre la luz en una milmillonésima de segundo.
+
+14
+00:00:37,932 --> 00:00:41,137
+Comenta NANOSEGUNDO si quieres más mentes así.
+
+15
+00:00:41,137 --> 00:00:41,833
+Y sígueme:
+
+16
+00:00:41,833 --> 00:00:45,693
+más mentes que cambiaron todo.

@@ -1,0 +1,79 @@
+1
+00:00:00,100 --> 00:00:03,748
+Tu router puede tener la misma clave con la que salió de fábrica.
+
+2
+00:00:03,748 --> 00:00:05,546
+Y esa clave está en internet.
+
+3
+00:00:05,696 --> 00:00:07,339
+No hablo de la clave del Wi-Fi.
+
+4
+00:00:07,339 --> 00:00:10,690
+Hablo de la clave para entrar a la configuración del router.
+
+5
+00:00:10,840 --> 00:00:13,766
+Muchos modelos vienen con claves tipo admin, admin.
+
+6
+00:00:13,766 --> 00:00:16,288
+Y las listas de esas claves son públicas.
+
+7
+00:00:16,438 --> 00:00:19,872
+Con esa clave, alguien conectado a tu red puede cambiar todo:
+
+8
+00:00:19,872 --> 00:00:23,251
+a dónde te manda cuando escribes una página, por ejemplo.
+
+9
+00:00:23,401 --> 00:00:25,051
+Haz 3 cosas.
+
+10
+00:00:25,201 --> 00:00:25,311
+1.
+
+11
+00:00:25,311 --> 00:00:27,847
+Entra con los datos de la etiqueta del router,
+
+12
+00:00:27,847 --> 00:00:29,946
+y cambia la clave de administrador.
+
+13
+00:00:30,096 --> 00:00:30,206
+2.
+
+14
+00:00:30,206 --> 00:00:33,075
+Busca la opción de actualizar el router, y hazlo.
+
+15
+00:00:33,225 --> 00:00:33,400
+3.
+
+16
+00:00:33,400 --> 00:00:38,976
+Ponle al Wi-Fi una clave larga, y si aparece, usa WPA3 o WPA2.
+
+17
+00:00:39,126 --> 00:00:42,147
+Si no sabes cómo, pídeselo a tu proveedor de internet.
+
+18
+00:00:42,147 --> 00:00:43,100
+Es su trabajo.
+
+19
+00:00:43,250 --> 00:00:45,761
+Mándaselo a quien nunca ha tocado su router.
+
+20
+00:00:45,761 --> 00:00:49,015
+Mañana, otro hack del día.

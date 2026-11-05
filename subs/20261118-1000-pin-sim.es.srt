@@ -1,0 +1,71 @@
+1
+00:00:00,100 --> 00:00:04,289
+Si te roban el teléfono, el ladrón puede sacar tu SIM y ponerla en otro.
+
+2
+00:00:04,439 --> 00:00:07,870
+Y con tu número, le llegan tus códigos del banco y de WhatsApp.
+
+3
+00:00:08,020 --> 00:00:12,160
+La solución se llama PIN de la SIM, y casi nadie lo tiene activado.
+
+4
+00:00:12,310 --> 00:00:15,212
+Es una clave de 4 números que la SIM te pide cada vez
+
+5
+00:00:15,212 --> 00:00:17,079
+que se enciende en un teléfono.
+
+6
+00:00:17,229 --> 00:00:20,051
+Sin esa clave, tu SIM no sirve en otro aparato.
+
+7
+00:00:20,201 --> 00:00:21,851
+Se activa así.
+
+8
+00:00:22,001 --> 00:00:23,697
+En Android, busca en Ajustes:
+
+9
+00:00:23,697 --> 00:00:24,574
+Bloqueo de SIM.
+
+10
+00:00:24,574 --> 00:00:25,159
+En iPhone:
+
+11
+00:00:25,159 --> 00:00:27,552
+Ajustes, Datos móviles, PIN de la SIM.
+
+12
+00:00:27,702 --> 00:00:27,929
+Ojo:
+
+13
+00:00:27,929 --> 00:00:31,736
+el PIN de fábrica suele venir en la caja o en la tarjeta de la sim.
+
+14
+00:00:31,736 --> 00:00:33,156
+Cámbialo por uno tuyo.
+
+15
+00:00:33,306 --> 00:00:34,625
+Y si lo fallas 3 veces,
+
+16
+00:00:34,625 --> 00:00:38,176
+se bloquea y te pide el código PUK, que te da tu operadora.
+
+17
+00:00:38,326 --> 00:00:41,516
+Mándaselo a quien siempre anda con el teléfono en la mano.
+
+18
+00:00:41,516 --> 00:00:44,716
+Mañana, otro hack del día.

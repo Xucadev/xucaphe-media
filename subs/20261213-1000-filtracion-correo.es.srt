@@ -1,0 +1,55 @@
+1
+00:00:00,100 --> 00:00:04,056
+Tu correo puede estar en una lista filtrada, y no lo sabes.
+
+2
+00:00:04,056 --> 00:00:05,567
+Míralo en un minuto.
+
+3
+00:00:05,717 --> 00:00:07,595
+Escribe tú en el navegador:
+
+4
+00:00:07,595 --> 00:00:10,894
+have i been pwned punto com, y pon tu correo.
+
+5
+00:00:11,044 --> 00:00:13,995
+Te dice en qué filtraciones de empresas apareció.
+
+6
+00:00:14,145 --> 00:00:16,656
+Guárdalo, y pruébalo hoy mismo.
+
+7
+00:00:16,806 --> 00:00:18,915
+Si sale, cambia esa contraseña,
+
+8
+00:00:18,915 --> 00:00:22,011
+y la de cualquier sitio donde la repetiste.
+
+9
+00:00:22,161 --> 00:00:24,543
+Y activa la verificación en dos pasos.
+
+10
+00:00:24,693 --> 00:00:27,371
+Que aparezca no significa que te jakearon.
+
+11
+00:00:27,371 --> 00:00:30,154
+Significa que esa clave ya no es secreta.
+
+12
+00:00:30,304 --> 00:00:33,123
+Comenta FILTRADO si tu correo apareció.
+
+13
+00:00:33,123 --> 00:00:33,845
+Y sígueme:
+
+14
+00:00:33,845 --> 00:00:37,711
+mañana hay otro hack del día.

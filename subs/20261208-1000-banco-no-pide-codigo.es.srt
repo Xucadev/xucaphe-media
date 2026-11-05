@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:04,159
+Tu banco nunca te va a pedir el código que te llega por mensaje.
+
+2
+00:00:04,159 --> 00:00:04,900
+¿Por qué?
+
+3
+00:00:05,050 --> 00:00:08,639
+Ese código es para que tú confirmes algo que tú estás haciendo.
+
+4
+00:00:08,789 --> 00:00:11,051
+El banco ya sabe qué operación es.
+
+5
+00:00:11,051 --> 00:00:13,083
+No necesita que se lo digas.
+
+6
+00:00:13,233 --> 00:00:16,205
+Mándaselo a quien siempre te pregunta estas cosas.
+
+7
+00:00:16,355 --> 00:00:20,513
+Si alguien te lo pide, es porque está intentando entrar a tu cuenta.
+
+8
+00:00:20,663 --> 00:00:24,742
+O aprobar una transferencia, o un préstamo, en tu nombre.
+
+9
+00:00:24,892 --> 00:00:29,317
+Por eso, cuelga, y llama tú al número que está detrás de tu tarjeta.
+
+10
+00:00:29,467 --> 00:00:32,711
+Comenta BANCO si alguna vez te llamaron así.
+
+11
+00:00:32,711 --> 00:00:33,448
+Y sígueme:
+
+12
+00:00:33,448 --> 00:00:37,135
+cada semana, más por qués.

@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:03,842
+¿Es seguro pagar solo acercando la tarjeta, o el teléfono?
+
+2
+00:00:03,992 --> 00:00:08,543
+Al pagar sin contacto, se genera un código distinto para cada compra.
+
+3
+00:00:08,693 --> 00:00:11,986
+Si alguien lo copia, no le sirve para otra compra.
+
+4
+00:00:12,136 --> 00:00:15,889
+Quédate hasta el final, que lo más importante viene ahora.
+
+5
+00:00:16,039 --> 00:00:18,188
+Con el teléfono es todavía mejor:
+
+6
+00:00:18,188 --> 00:00:22,134
+la tienda recibe un número sustituto, no el de tu tarjeta.
+
+7
+00:00:22,284 --> 00:00:26,172
+Y tienes que desbloquear con tu cara, tu huella o tu código.
+
+8
+00:00:26,322 --> 00:00:27,555
+Sigue siendo clave:
+
+9
+00:00:27,555 --> 00:00:30,193
+tener las alertas de compra activadas.
+
+10
+00:00:30,343 --> 00:00:33,785
+Comenta ACERCO si pagas acercando el teléfono.
+
+11
+00:00:33,785 --> 00:00:34,534
+Y sígueme:
+
+12
+00:00:34,534 --> 00:00:38,175
+más tecnología explicada.

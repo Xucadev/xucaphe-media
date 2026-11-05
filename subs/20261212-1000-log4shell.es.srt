@@ -1,0 +1,75 @@
+1
+00:00:00,100 --> 00:00:01,504
+Diciembre de 2021.
+
+2
+00:00:01,504 --> 00:00:04,795
+Un fallo puso a correr a medio internet.
+
+3
+00:00:04,945 --> 00:00:05,974
+Estaba en Log4j,
+
+4
+00:00:05,974 --> 00:00:09,316
+una pieza de código gratis que millones de programas
+
+5
+00:00:09,316 --> 00:00:11,285
+usan para guardar registros.
+
+6
+00:00:11,435 --> 00:00:14,639
+Bastaba con que un programa guardara un texto especial,
+
+7
+00:00:14,639 --> 00:00:17,838
+para que un atacante pudiera mandar en ese servidor.
+
+8
+00:00:17,988 --> 00:00:20,960
+Mándaselo a quien siempre te pregunta estas cosas.
+
+9
+00:00:21,110 --> 00:00:22,865
+Y estaba en todas partes:
+
+10
+00:00:22,865 --> 00:00:26,684
+juegos, servicios en la nube, programas de empresas.
+
+11
+00:00:26,834 --> 00:00:29,575
+La agencia de ciberseguridad de Estados Unidos lo
+
+12
+00:00:29,575 --> 00:00:32,318
+calificó entre los más graves que había visto.
+
+13
+00:00:32,468 --> 00:00:35,941
+Miles de equipos pasaron la Navidad parcheando servidores.
+
+14
+00:00:36,091 --> 00:00:36,842
+La lección:
+
+15
+00:00:36,842 --> 00:00:39,916
+una pieza pequeña puede estar dentro de todo.
+
+16
+00:00:39,916 --> 00:00:41,520
+Por eso se actualiza.
+
+17
+00:00:41,670 --> 00:00:45,173
+Comenta PARCHE si te tocó parchear ese diciembre.
+
+18
+00:00:45,173 --> 00:00:45,888
+Y sígueme:
+
+19
+00:00:45,888 --> 00:00:49,231
+más historias de tech.

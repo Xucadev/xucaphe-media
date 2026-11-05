@@ -1,0 +1,55 @@
+1
+00:00:00,100 --> 00:00:02,145
+Un día como hoy, en 1947,
+
+2
+00:00:02,145 --> 00:00:06,568
+se presentó el invento que está en todo lo que usas.
+
+3
+00:00:06,718 --> 00:00:08,260
+En los Laboratorios Bel,
+
+4
+00:00:08,260 --> 00:00:11,513
+tres científicos mostraron el primer transistor.
+
+5
+00:00:11,663 --> 00:00:15,032
+Es un interruptor diminuto, sin partes que se muevan,
+
+6
+00:00:15,032 --> 00:00:17,046
+que controla la electricidad.
+
+7
+00:00:17,196 --> 00:00:21,209
+Si alguien de tu familia caería en esto, mándale este video.
+
+8
+00:00:21,359 --> 00:00:23,553
+Reemplazó a los tubos de vacío:
+
+9
+00:00:23,553 --> 00:00:26,413
+grandes, calientes, y que se quemaban.
+
+10
+00:00:26,563 --> 00:00:29,888
+Hoy tu teléfono tiene miles de millones de transistores.
+
+11
+00:00:30,038 --> 00:00:35,165
+Por ese invento, recibieron el Nobel de Física en 1956.
+
+12
+00:00:35,315 --> 00:00:38,128
+Comenta TRANSISTOR si no sabías esto.
+
+13
+00:00:38,128 --> 00:00:38,888
+Y sígueme:
+
+14
+00:00:38,888 --> 00:00:42,331
+más historias de tech.

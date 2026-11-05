@@ -1,0 +1,67 @@
+1
+00:00:00,100 --> 00:00:01,018
+Es Black Friday.
+
+2
+00:00:01,018 --> 00:00:03,999
+Son las 7:12 de la mañana y te sale este anuncio.
+
+3
+00:00:04,149 --> 00:00:07,189
+Unos tenis de marca, a 80 % de descuento.
+
+4
+00:00:07,189 --> 00:00:08,026
+Quedan 3.
+
+5
+00:00:08,176 --> 00:00:09,787
+La tienda tiene fotos lindas,
+
+6
+00:00:09,787 --> 00:00:13,125
+y un reloj que dice que la oferta se acaba en 10 minutos.
+
+7
+00:00:13,275 --> 00:00:14,957
+Al pagar, no acepta tarjeta.
+
+8
+00:00:14,957 --> 00:00:17,651
+Solo transferencia, a una cuenta personal.
+
+9
+00:00:17,801 --> 00:00:18,934
+Son RD$3,500.
+
+10
+00:00:18,934 --> 00:00:20,933
+Y la oferta se acaba.
+
+11
+00:00:21,083 --> 00:00:22,733
+¿Qué harías tú?
+
+12
+00:00:22,883 --> 00:00:23,002
+A.
+
+13
+00:00:23,002 --> 00:00:25,506
+Transfieres rápido, antes de que se agote.
+
+14
+00:00:25,506 --> 00:00:25,626
+B.
+
+15
+00:00:25,626 --> 00:00:27,703
+Te detienes y revisas la tienda.
+
+16
+00:00:27,853 --> 00:00:28,723
+Comenta A o B.
+
+17
+00:00:28,723 --> 00:00:32,978
+Esta tarde, la Parte 2 con la respuesta.

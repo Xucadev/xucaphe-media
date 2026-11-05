@@ -1,0 +1,75 @@
+1
+00:00:00,100 --> 00:00:02,947
+Este matemático ayudó a acortar la Segunda Guerra
+
+2
+00:00:02,947 --> 00:00:05,500
+Mundial, y nadie lo supo durante décadas.
+
+3
+00:00:05,650 --> 00:00:07,300
+Se llamaba Alan Turing.
+
+4
+00:00:07,450 --> 00:00:11,224
+Los alemanes cifraban sus mensajes con una máquina llamada Enigma.
+
+5
+00:00:11,224 --> 00:00:12,939
+Cambiaba la clave cada día.
+
+6
+00:00:13,089 --> 00:00:15,098
+Había tantas combinaciones posibles,
+
+7
+00:00:15,098 --> 00:00:18,784
+que probarlas a mano habría tomado muchísimo más que la guerra.
+
+8
+00:00:18,934 --> 00:00:21,781
+En un lugar secreto de Inglaterra, Bletchley Park,
+
+9
+00:00:21,781 --> 00:00:25,254
+Turing y su equipo construyeron máquinas para descifrarla.
+
+10
+00:00:25,404 --> 00:00:28,240
+Esas máquinas buscaban la clave del día probando
+
+11
+00:00:28,240 --> 00:00:30,242
+combinaciones a toda velocidad.
+
+12
+00:00:30,392 --> 00:00:33,316
+Leer los mensajes del enemigo salvó barcos, rutas y,
+
+13
+00:00:33,316 --> 00:00:36,016
+según muchos historiadores, acortó la guerra.
+
+14
+00:00:36,166 --> 00:00:37,849
+Pero todo fue secreto oficial.
+
+15
+00:00:37,849 --> 00:00:40,768
+Durante años, casi nadie supo lo que había hecho.
+
+16
+00:00:40,918 --> 00:00:43,923
+Y además imaginó las bases de la computación moderna,
+
+17
+00:00:43,923 --> 00:00:46,531
+y se preguntó si una máquina podría pensar.
+
+18
+00:00:46,681 --> 00:00:48,822
+Mándaselo a quien le gusta la historia.
+
+19
+00:00:48,822 --> 00:00:52,954
+Sígueme para más mentes que cambiaron todo.

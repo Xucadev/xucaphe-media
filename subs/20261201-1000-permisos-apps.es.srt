@@ -1,0 +1,59 @@
+1
+00:00:00,100 --> 00:00:02,852
+¿Para qué quiere tu linterna saber dónde estás?
+
+2
+00:00:03,002 --> 00:00:07,618
+Muchas apps piden permisos que no necesitan, y casi nadie los revisa.
+
+3
+00:00:07,768 --> 00:00:09,418
+Revísalo en un minuto.
+
+4
+00:00:09,568 --> 00:00:12,079
+Guárdalo, y pruébalo hoy mismo.
+
+5
+00:00:12,229 --> 00:00:13,058
+En Android:
+
+6
+00:00:13,058 --> 00:00:17,825
+Ajustes, Seguridad y privacidad, y Administrador de permisos.
+
+7
+00:00:17,975 --> 00:00:18,780
+En iPhone:
+
+8
+00:00:18,780 --> 00:00:21,688
+Ajustes, y Privacidad y seguridad.
+
+9
+00:00:21,838 --> 00:00:26,383
+Entra a micrófono, cámara y ubicación, y mira qué apps aparecen.
+
+10
+00:00:26,533 --> 00:00:29,465
+Si algo no tiene sentido, quítaselo.
+
+11
+00:00:29,465 --> 00:00:31,175
+Y en lo demás, elige:
+
+12
+00:00:31,175 --> 00:00:33,056
+solo mientras se usa.
+
+13
+00:00:33,206 --> 00:00:37,348
+Comenta PERMISOS si encontraste una app que no debía tenerlos.
+
+14
+00:00:37,348 --> 00:00:38,016
+Y sígueme:
+
+15
+00:00:38,016 --> 00:00:41,724
+mañana hay otro hack del día.

@@ -1,0 +1,79 @@
+1
+00:00:00,100 --> 00:00:01,606
+Era una estrella de Hollywood.
+
+2
+00:00:01,606 --> 00:00:04,268
+Y también inventó una idea que hoy está en la base de
+
+3
+00:00:04,268 --> 00:00:06,497
+tecnologías como el Wi-Fi y el Bluetooth.
+
+4
+00:00:06,647 --> 00:00:08,297
+Se llamaba Hedy Lamarr.
+
+5
+00:00:08,447 --> 00:00:11,225
+En plena Segunda Guerra Mundial había un problema:
+
+6
+00:00:11,225 --> 00:00:13,115
+los torpedos se guiaban por radio,
+
+7
+00:00:13,115 --> 00:00:15,397
+y el enemigo podía bloquear esa señal.
+
+8
+00:00:15,547 --> 00:00:16,718
+Su idea fue brillante:
+
+9
+00:00:16,718 --> 00:00:20,348
+que la señal saltara de frecuencia en frecuencia, todo el tiempo.
+
+10
+00:00:20,498 --> 00:00:22,863
+Si el emisor y el receptor saltan juntos,
+
+11
+00:00:22,863 --> 00:00:26,206
+al mismo ritmo, nadie más puede seguir la conversación.
+
+12
+00:00:26,356 --> 00:00:30,858
+Lo patentó en 1942 junto al compositor George Antheil.
+
+13
+00:00:31,008 --> 00:00:33,299
+En su época casi nadie le hizo caso.
+
+14
+00:00:33,299 --> 00:00:35,124
+La veían solo como actriz.
+
+15
+00:00:35,274 --> 00:00:36,198
+Décadas después,
+
+16
+00:00:36,198 --> 00:00:39,084
+ese salto de frecuencias se volvió una base de las
+
+17
+00:00:39,084 --> 00:00:40,871
+comunicaciones inalámbricas.
+
+18
+00:00:41,021 --> 00:00:45,494
+Y en 1997, por fin, recibió un premio por su invento.
+
+19
+00:00:45,644 --> 00:00:49,424
+Mándaselo a alguien que necesita saber que se puede ser todo a la vez.
+
+20
+00:00:49,424 --> 00:00:52,490
+Sígueme para más mentes.

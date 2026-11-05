@@ -1,0 +1,75 @@
+1
+00:00:00,100 --> 00:00:02,749
+Antes de tocar un enlace en el teléfono, haz esto.
+
+2
+00:00:02,749 --> 00:00:03,926
+Te toma un segundo.
+
+3
+00:00:04,076 --> 00:00:07,266
+Mantén el dedo presionado sobre el enlace, sin soltarlo.
+
+4
+00:00:07,416 --> 00:00:11,030
+El teléfono te enseña a dónde lleva de verdad, antes de abrirlo.
+
+5
+00:00:11,180 --> 00:00:12,597
+Y ahí se cae la mentira:
+
+6
+00:00:12,597 --> 00:00:15,897
+un mensaje de tu banco no te manda a una página rara.
+
+7
+00:00:16,047 --> 00:00:17,697
+Fíjate en 3 cosas.
+
+8
+00:00:17,847 --> 00:00:17,965
+1.
+
+9
+00:00:17,965 --> 00:00:18,551
+El nombre:
+
+10
+00:00:18,551 --> 00:00:22,121
+un banco usa su propio nombre, sin palabras raras pegadas.
+
+11
+00:00:22,271 --> 00:00:22,417
+2.
+
+12
+00:00:22,417 --> 00:00:23,071
+El final:
+
+13
+00:00:23,071 --> 00:00:28,182
+las instituciones dominicanas terminan en .do o .com.do, no en .top.
+
+14
+00:00:28,332 --> 00:00:28,448
+3.
+
+15
+00:00:28,448 --> 00:00:32,107
+Si es un enlace acortado y te pide datos, desconfía siempre.
+
+16
+00:00:32,257 --> 00:00:33,758
+Y si dudas, no abras nada:
+
+17
+00:00:33,758 --> 00:00:35,429
+entra tú a la app oficial.
+
+18
+00:00:35,579 --> 00:00:36,883
+Mándaselo a tus papás.
+
+19
+00:00:36,883 --> 00:00:40,193
+Mañana, otro hack del día.

@@ -1,0 +1,71 @@
+1
+00:00:00,100 --> 00:00:01,284
+En mayo del año 2000,
+
+2
+00:00:01,284 --> 00:00:04,215
+millones de personas recibieron un correo que decía:
+
+3
+00:00:04,215 --> 00:00:05,005
+I LOVE YOU.
+
+4
+00:00:05,155 --> 00:00:08,328
+Traía un archivo adjunto que parecía una carta de amor.
+
+5
+00:00:08,478 --> 00:00:09,664
+Pero no era un texto.
+
+6
+00:00:09,664 --> 00:00:11,360
+Era un programa disfrazado.
+
+7
+00:00:11,510 --> 00:00:13,109
+Al abrirlo, dañaba archivos,
+
+8
+00:00:13,109 --> 00:00:16,479
+y se reenviaba solo a todos los contactos de la víctima.
+
+9
+00:00:16,629 --> 00:00:20,478
+Y como venía de alguien conocido, la gente lo abría sin pensarlo.
+
+10
+00:00:20,628 --> 00:00:22,784
+En pocos días dio la vuelta al mundo.
+
+11
+00:00:22,784 --> 00:00:25,926
+Empresas y gobiernos tuvieron que apagar su correo.
+
+12
+00:00:26,076 --> 00:00:28,915
+Se volvió uno de los virus más famosos de la historia,
+
+13
+00:00:28,915 --> 00:00:30,714
+y salió de un truco muy simple.
+
+14
+00:00:30,864 --> 00:00:32,304
+La lección sigue igual hoy:
+
+15
+00:00:32,304 --> 00:00:34,223
+un adjunto inesperado es sospechoso,
+
+16
+00:00:34,223 --> 00:00:36,312
+aunque venga de alguien que conoces.
+
+17
+00:00:36,462 --> 00:00:38,819
+Mándaselo a quien abre todo lo que le llega.
+
+18
+00:00:38,819 --> 00:00:42,464
+Sígueme para más historias de tech.

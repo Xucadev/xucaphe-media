@@ -1,0 +1,67 @@
+1
+00:00:00,100 --> 00:00:03,794
+Hablaste de unos tenis, y al rato te salió el anuncio.
+
+2
+00:00:03,794 --> 00:00:05,606
+¿Tu teléfono te escucha?
+
+3
+00:00:05,756 --> 00:00:07,979
+Es la duda más común del internet.
+
+4
+00:00:07,979 --> 00:00:10,373
+Y la respuesta te va a sorprender.
+
+5
+00:00:10,523 --> 00:00:13,464
+Investigadores revisaron más de diecisiete mil apps
+
+6
+00:00:13,464 --> 00:00:15,594
+buscando grabaciones a escondidas.
+
+7
+00:00:15,744 --> 00:00:19,498
+Quédate hasta el final, que lo más importante viene ahora.
+
+8
+00:00:19,648 --> 00:00:22,501
+No encontraron que grabaran tu voz para anuncios.
+
+9
+00:00:22,651 --> 00:00:23,741
+No lo necesitan.
+
+10
+00:00:23,741 --> 00:00:28,000
+Ya saben lo que buscas, dónde estás y qué ven tus contactos.
+
+11
+00:00:28,150 --> 00:00:31,220
+Si tu amigo buscó tenis y ustedes estaban juntos,
+
+12
+00:00:31,220 --> 00:00:33,458
+el anuncio te llega a ti también.
+
+13
+00:00:33,608 --> 00:00:36,921
+Igual, revisa qué apps tienen permiso de micrófono,
+
+14
+00:00:36,921 --> 00:00:38,456
+y quita lo que sobra.
+
+15
+00:00:38,606 --> 00:00:41,486
+Comenta ESCUCHA si alguna vez te pasó.
+
+16
+00:00:41,486 --> 00:00:42,244
+Y sígueme:
+
+17
+00:00:42,244 --> 00:00:45,985
+cada semana, más por qués.

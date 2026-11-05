@@ -1,0 +1,67 @@
+1
+00:00:00,100 --> 00:00:02,907
+¿Por qué las páginas te piden aceptar galletas?
+
+2
+00:00:03,057 --> 00:00:09,584
+En 1994, un programador de Netscape, Lou Montulli, tenía un problema.
+
+3
+00:00:09,734 --> 00:00:11,873
+Las páginas no recordaban nada.
+
+4
+00:00:11,873 --> 00:00:15,562
+Ni tu carrito de compras, ni que ya habías entrado.
+
+5
+00:00:15,712 --> 00:00:18,775
+Guárdalo ahora, que en el momento se te olvida.
+
+6
+00:00:18,925 --> 00:00:22,102
+Creó un archivito que la página guarda en tu navegador,
+
+7
+00:00:22,102 --> 00:00:23,312
+y lo llamó cookie.
+
+8
+00:00:23,462 --> 00:00:26,630
+Por un término que ya usaban los programadores:
+
+9
+00:00:26,630 --> 00:00:29,362
+magic cookie, un dato que va y vuelve.
+
+10
+00:00:29,512 --> 00:00:30,694
+Unas son útiles:
+
+11
+00:00:30,694 --> 00:00:32,320
+tu sesión, tu carrito.
+
+12
+00:00:32,320 --> 00:00:36,184
+Otras te siguen de página en página para anuncios.
+
+13
+00:00:36,334 --> 00:00:38,915
+Esas de rastreo son las que puedes rechazar,
+
+14
+00:00:38,915 --> 00:00:41,197
+sin que la página deje de funcionar.
+
+15
+00:00:41,347 --> 00:00:44,693
+Comenta GALLETA si siempre te lo preguntaste.
+
+16
+00:00:44,693 --> 00:00:45,436
+Y sígueme:
+
+17
+00:00:45,436 --> 00:00:49,140
+cada semana, más por qués.

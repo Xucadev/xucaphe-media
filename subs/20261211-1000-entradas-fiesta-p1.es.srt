@@ -1,0 +1,51 @@
+1
+00:00:00,100 --> 00:00:03,276
+Las entradas para la fiesta de Año Nuevo se agotaron.
+
+2
+00:00:03,426 --> 00:00:08,326
+Un perfil dice que tiene dos, a mitad de precio, porque ya no puede ir.
+
+3
+00:00:08,476 --> 00:00:12,070
+Te manda fotos de las entradas, con el código y todo.
+
+4
+00:00:12,220 --> 00:00:14,961
+Te pide una transferencia para apartarlas.
+
+5
+00:00:14,961 --> 00:00:17,415
+Hay otras dos personas interesadas.
+
+6
+00:00:17,565 --> 00:00:19,215
+¿Qué harías tú?
+
+7
+00:00:19,365 --> 00:00:19,522
+A:
+
+8
+00:00:19,522 --> 00:00:23,441
+transfiero rápido, antes de que se las lleve otro.
+
+9
+00:00:23,441 --> 00:00:23,598
+B:
+
+10
+00:00:23,598 --> 00:00:28,236
+pido verlas en persona, o compro en la boletería oficial.
+
+11
+00:00:28,386 --> 00:00:31,063
+Comenta PAGO o REVISO y dime qué harías.
+
+12
+00:00:31,063 --> 00:00:33,740
+La parte 2 sale hoy a las 6 de la tarde.
+
+13
+00:00:33,740 --> 00:00:37,317
+Sígueme para no perdértela.

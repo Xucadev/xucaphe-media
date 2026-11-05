@@ -1,0 +1,59 @@
+1
+00:00:00,100 --> 00:00:01,216
+Feliz Navidad.
+
+2
+00:00:01,216 --> 00:00:03,208
+Abre tu tarjeta especial.
+
+3
+00:00:03,208 --> 00:00:04,892
+Y viene un archivo.
+
+4
+00:00:05,042 --> 00:00:07,388
+Fíjate en cómo termina el archivo:
+
+5
+00:00:07,388 --> 00:00:08,523
+punto a pe ka.
+
+6
+00:00:08,673 --> 00:00:10,421
+Eso no es una imagen.
+
+7
+00:00:10,421 --> 00:00:11,507
+Es una app.
+
+8
+00:00:11,657 --> 00:00:15,507
+Si la instalas, puede leer tus mensajes, tus códigos,
+
+9
+00:00:15,507 --> 00:00:17,129
+o tomar el teléfono.
+
+10
+00:00:17,280 --> 00:00:20,830
+Una felicitación es una foto o un video que se abre solo.
+
+11
+00:00:20,980 --> 00:00:23,600
+Si te pide instalar algo, no lo hagas.
+
+12
+00:00:23,600 --> 00:00:26,044
+Aunque venga de alguien conocido.
+
+13
+00:00:26,194 --> 00:00:29,954
+Comenta ARCHIVO si te llegó una felicitación rara.
+
+14
+00:00:29,954 --> 00:00:30,706
+Y sígueme:
+
+15
+00:00:30,706 --> 00:00:34,656
+pronto, otra estafa expuesta.

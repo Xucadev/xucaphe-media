@@ -1,0 +1,75 @@
+1
+00:00:00,100 --> 00:00:02,420
+Fue el hacker más buscado de Estados Unidos.
+
+2
+00:00:02,420 --> 00:00:05,015
+Y su mejor herramienta no era una computadora.
+
+3
+00:00:05,165 --> 00:00:06,852
+Se llamaba Kevin Mitnick.
+
+4
+00:00:07,002 --> 00:00:08,941
+Su truco favorito era el teléfono:
+
+5
+00:00:08,941 --> 00:00:13,045
+llamaba a empleados, se hacía pasar por un compañero, y pedía claves.
+
+6
+00:00:13,195 --> 00:00:14,766
+Y muchas veces se las daban.
+
+7
+00:00:14,766 --> 00:00:16,505
+Eso se llama ingeniería social:
+
+8
+00:00:16,505 --> 00:00:18,807
+engañar a la persona, no a la máquina.
+
+9
+00:00:18,957 --> 00:00:21,449
+En 1995, el FBI lo arrestó.
+
+10
+00:00:21,449 --> 00:00:24,203
+Pasó unos 5 años en prisión.
+
+11
+00:00:24,353 --> 00:00:25,756
+Al salir, cambió de lado:
+
+12
+00:00:25,756 --> 00:00:29,798
+se dedicó a enseñar a empresas a defenderse de lo mismo que él hacía.
+
+13
+00:00:29,948 --> 00:00:31,403
+Su lección sigue vigente:
+
+14
+00:00:31,403 --> 00:00:34,662
+el eslabón más débil de la seguridad casi siempre es una
+
+15
+00:00:34,662 --> 00:00:35,764
+persona apurada.
+
+16
+00:00:35,914 --> 00:00:38,894
+Por eso, si alguien te llama pidiendo claves o códigos,
+
+17
+00:00:38,894 --> 00:00:41,015
+cuelga y llama tú al número oficial.
+
+18
+00:00:41,165 --> 00:00:43,006
+Mándaselo a quien contesta todo.
+
+19
+00:00:43,006 --> 00:00:47,366
+Sígueme para más mentes de la ciberseguridad.

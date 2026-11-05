@@ -1,0 +1,59 @@
+1
+00:00:00,100 --> 00:00:02,167
+31 de diciembre de 1999.
+
+2
+00:00:02,167 --> 00:00:07,333
+El mundo temía que a medianoche las computadoras fallaran.
+
+3
+00:00:07,483 --> 00:00:10,793
+Muchos programas guardaban el año con solo dos cifras,
+
+4
+00:00:10,793 --> 00:00:12,251
+para ahorrar memoria.
+
+5
+00:00:12,401 --> 00:00:13,074
+El miedo:
+
+6
+00:00:13,074 --> 00:00:17,282
+que al llegar el 2000 entendieran cero cero como 1900.
+
+7
+00:00:17,432 --> 00:00:21,446
+Si alguien de tu familia caería en esto, mándale este video.
+
+8
+00:00:21,596 --> 00:00:24,928
+Y que fallaran bancos, aviones, o la luz.
+
+9
+00:00:25,078 --> 00:00:29,630
+Durante años, se revisaron y corrigieron millones de líneas de código.
+
+10
+00:00:29,780 --> 00:00:32,179
+A medianoche, casi no pasó nada.
+
+11
+00:00:32,179 --> 00:00:33,978
+No porque fuera mentira:
+
+12
+00:00:33,978 --> 00:00:36,172
+porque se arregló a tiempo.
+
+13
+00:00:36,322 --> 00:00:39,898
+Comenta 2000 si te acuerdas del miedo al año 2000.
+
+14
+00:00:39,898 --> 00:00:40,613
+Y sígueme:
+
+15
+00:00:40,613 --> 00:00:43,957
+más historias de tech.

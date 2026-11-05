@@ -1,5 +1,5 @@
 """Rellena youtube.localizations (en, pt) de las entradas futuras de cola.json con Gemini (texto, plan gratis).
-# v4
+# v5 — también traduce subtítulos subs/ID.es.srt a subs/ID.en.srt y subs/ID.pt-BR.srt
 Se ejecuta en GitHub Actions con el secreto GEMINI_API_KEY. Máximo LIMITE entradas por corrida."""
 import json, os, sys, time, urllib.request, functools
 print = functools.partial(print, flush=True)
@@ -58,3 +58,45 @@ for e in cola:
     time.sleep(4)
 guardar()
 print("traducidas", hechas)
+
+# ---------------------------------------------------------------- subtítulos
+import re
+from pathlib import Path
+SUBS = Path("subs")
+LIM_SUBS = int(os.environ.get("LIMITE_SUBS", "40"))
+def gemini(prompt):
+    for m in MODELOS:
+        body = {"contents": [{"parts": [{"text": prompt}]}], "generationConfig": {"responseMimeType": "application/json"}}
+        req = urllib.request.Request(f"https://generativelanguage.googleapis.com/v1beta/models/{m}:generateContent",
+                                     data=json.dumps(body).encode(), headers={"Content-Type": "application/json", "x-goog-api-key": KEY})
+        try:
+            r = json.load(urllib.request.urlopen(req, timeout=60))
+            return json.loads(r["candidates"][0]["content"]["parts"][0]["text"]), m
+        except Exception as ex:
+            print("ERR subs", m, str(ex)[:200])
+        time.sleep(3)
+    return None, None
+fechas = {e["id"]: e["fecha"] for e in cola}
+subs_hechos = 0
+for f in sorted(SUBS.glob("*.es.srt")) if SUBS.is_dir() else []:
+    rid = f.name[:-len(".es.srt")]
+    if time.time() - INICIO > PRESUPUESTO or subs_hechos >= LIM_SUBS:
+        print("subtítulos: sigo mañana"); break
+    if (SUBS / f"{rid}.en.srt").exists() and (SUBS / f"{rid}.pt-BR.srt").exists():
+        continue
+    if rid in fechas and datetime.fromisoformat(fechas[rid]) < ahora - __import__("datetime").timedelta(days=2):
+        continue
+    bloques = [b.split("\n", 2) for b in f.read_text().strip().split("\n\n")]
+    lineas = [b[2].strip() for b in bloques]
+    t, m = gemini("Traduce estos subtítulos de un Short de ciberseguridad (español de RD) a inglés (en) y portugués de "
+                  "Brasil (pt). Una traducción por línea, mismo orden y misma cantidad, cortas y naturales para leer en "
+                  "pantalla. Mantén cifras y nombres. Responde SOLO JSON: {\"en\":[...],\"pt\":[...]}.\n\n"
+                  + json.dumps(lineas, ensure_ascii=False))
+    if not t or any(len(t.get(k) or []) != len(lineas) for k in ("en", "pt")):
+        print("ERR subs", rid, "respuesta incompleta"); time.sleep(4); continue
+    for k, ext in (("en", "en"), ("pt", "pt-BR")):
+        (SUBS / f"{rid}.{ext}.srt").write_text("\n".join(f"{b[0]}\n{b[1]}\n{str(x).strip()}\n" for b, x in zip(bloques, t[k])))
+    subs_hechos += 1
+    print("OK subs", rid, m, f"{time.time()-INICIO:.0f}s")
+    time.sleep(4)
+print("subtítulos traducidos", subs_hechos)

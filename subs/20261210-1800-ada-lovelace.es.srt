@@ -1,0 +1,59 @@
+1
+00:00:00,100 --> 00:00:02,953
+Escribió un programa de computadora más de cien años
+
+2
+00:00:02,953 --> 00:00:05,373
+antes de que existieran las computadoras.
+
+3
+00:00:05,523 --> 00:00:10,761
+Se llamaba Ada Lovelace, y nació un día como hoy, en 1815.
+
+4
+00:00:10,911 --> 00:00:13,872
+Estudió una máquina de calcular que Charles Babbage
+
+5
+00:00:13,872 --> 00:00:16,365
+diseñó, pero nunca terminó de construir.
+
+6
+00:00:16,515 --> 00:00:19,577
+Guárdalo ahora, que en el momento se te olvida.
+
+7
+00:00:19,727 --> 00:00:21,286
+En sus notas de 1843,
+
+8
+00:00:21,286 --> 00:00:26,727
+escribió los pasos para que esa máquina calculara una serie de números.
+
+9
+00:00:26,877 --> 00:00:30,524
+Por eso se le considera la primera programadora de la historia.
+
+10
+00:00:30,674 --> 00:00:31,696
+Y fue más allá:
+
+11
+00:00:31,696 --> 00:00:35,446
+imaginó que una máquina así podría trabajar con música,
+
+12
+00:00:35,446 --> 00:00:36,979
+no solo con números.
+
+13
+00:00:37,129 --> 00:00:39,697
+Comenta ADA si conocías su historia.
+
+14
+00:00:39,697 --> 00:00:40,411
+Y sígueme:
+
+15
+00:00:40,411 --> 00:00:44,321
+más mentes que cambiaron todo.

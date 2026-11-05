@@ -1,0 +1,67 @@
+1
+00:00:00,100 --> 00:00:03,167
+¿Cómo te pones de acuerdo en un secreto con alguien,
+
+2
+00:00:03,167 --> 00:00:05,284
+si todo el mundo está escuchando?
+
+3
+00:00:05,434 --> 00:00:08,268
+Ese era el gran problema de la criptografía.
+
+4
+00:00:08,268 --> 00:00:11,465
+Para cifrar, antes había que entregar la llave.
+
+5
+00:00:11,615 --> 00:00:12,229
+En 1976,
+
+6
+00:00:12,229 --> 00:00:16,294
+Whitfield Diffie y Martin Hellman publicaron una idea
+
+7
+00:00:16,294 --> 00:00:18,151
+que parecía imposible.
+
+8
+00:00:18,301 --> 00:00:22,055
+Quédate hasta el final, que lo más importante viene ahora.
+
+9
+00:00:22,205 --> 00:00:26,747
+Cada uno guarda una parte secreta, y solo intercambian números públicos.
+
+10
+00:00:26,897 --> 00:00:29,896
+Con eso, los dos llegan a la misma clave.
+
+11
+00:00:29,896 --> 00:00:32,772
+Y quien escucha, no puede calcularla.
+
+12
+00:00:32,922 --> 00:00:36,057
+Esa idea protege hoy tus compras, tus mensajes,
+
+13
+00:00:36,057 --> 00:00:38,428
+y casi todo lo que hace internet.
+
+14
+00:00:38,578 --> 00:00:42,555
+Por eso recibieron el Premio Turing, el Nobel de la informática.
+
+15
+00:00:42,705 --> 00:00:45,270
+Comenta LLAVE si te voló la cabeza.
+
+16
+00:00:45,270 --> 00:00:46,002
+Y sígueme:
+
+17
+00:00:46,002 --> 00:00:49,970
+más mentes que cambiaron todo.

@@ -1,0 +1,59 @@
+1
+00:00:00,100 --> 00:00:01,797
+Son las nueve de la mañana.
+
+2
+00:00:01,797 --> 00:00:04,292
+Estás esperando un regalo de Navidad.
+
+3
+00:00:04,442 --> 00:00:05,183
+Te llaman.
+
+4
+00:00:05,183 --> 00:00:08,689
+Saben tu nombre, y dicen que son del courier.
+
+5
+00:00:08,839 --> 00:00:10,375
+Para entregarte el paquete,
+
+6
+00:00:10,375 --> 00:00:13,561
+necesitan confirmar un código que te acaba de llegar.
+
+7
+00:00:13,711 --> 00:00:16,819
+Suena amable, y tienes prisa por tu regalo.
+
+8
+00:00:16,969 --> 00:00:18,619
+¿Qué harías tú?
+
+9
+00:00:18,769 --> 00:00:18,947
+A:
+
+10
+00:00:18,947 --> 00:00:22,499
+le doy el código, para que me entreguen.
+
+11
+00:00:22,499 --> 00:00:22,676
+B:
+
+12
+00:00:22,676 --> 00:00:25,510
+cuelgo, y llamo yo al courier.
+
+13
+00:00:25,660 --> 00:00:28,400
+Comenta DOY o CUELGO y dime qué harías.
+
+14
+00:00:28,400 --> 00:00:31,209
+La parte 2 sale hoy a las 6 de la tarde.
+
+15
+00:00:31,209 --> 00:00:34,876
+Sígueme para no perdértela.

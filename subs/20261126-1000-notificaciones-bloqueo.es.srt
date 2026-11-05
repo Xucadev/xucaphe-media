@@ -1,0 +1,71 @@
+1
+00:00:00,100 --> 00:00:03,798
+Tu teléfono le enseña tus códigos del banco a cualquiera que lo mire.
+
+2
+00:00:03,798 --> 00:00:04,932
+Sin desbloquearlo.
+
+3
+00:00:05,082 --> 00:00:08,647
+Las notificaciones salen completas en la pantalla de bloqueo.
+
+4
+00:00:08,797 --> 00:00:11,012
+Si alguien tiene tu teléfono un minuto,
+
+5
+00:00:11,012 --> 00:00:13,512
+puede pedir un código y leerlo ahí mismo.
+
+6
+00:00:13,662 --> 00:00:14,294
+La solución:
+
+7
+00:00:14,294 --> 00:00:16,938
+que se vea que llegó algo, pero no lo que dice.
+
+8
+00:00:17,088 --> 00:00:17,684
+En Android:
+
+9
+00:00:17,684 --> 00:00:21,702
+Ajustes, Notificaciones, y en pantalla de bloqueo, oculta el contenido.
+
+10
+00:00:21,852 --> 00:00:22,426
+En iPhone:
+
+11
+00:00:22,426 --> 00:00:25,578
+Ajustes, Notificaciones, Mostrar vista previa, y elige:
+
+12
+00:00:25,578 --> 00:00:26,952
+si está desbloqueado.
+
+13
+00:00:27,102 --> 00:00:27,319
+Así,
+
+14
+00:00:27,319 --> 00:00:30,254
+solo tú ves el mensaje cuando desbloqueas con tu cara,
+
+15
+00:00:30,254 --> 00:00:31,565
+tu huella o tu clave.
+
+16
+00:00:31,715 --> 00:00:35,145
+Un ajuste, una vez, y tus códigos dejan de estar a la vista.
+
+17
+00:00:35,295 --> 00:00:37,848
+Mándaselo a quien deja el teléfono en la mesa.
+
+18
+00:00:37,848 --> 00:00:41,061
+Mañana, otro hack del día.

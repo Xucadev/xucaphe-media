@@ -1,0 +1,87 @@
+1
+00:00:00,100 --> 00:00:04,139
+Si una página te puede mandar tu contraseña por correo, sal corriendo.
+
+2
+00:00:04,289 --> 00:00:07,717
+Te explico por qué, y cómo se guarda una contraseña de verdad.
+
+3
+00:00:07,867 --> 00:00:10,097
+Una web seria no guarda tu contraseña.
+
+4
+00:00:10,097 --> 00:00:12,152
+Guarda una huella de tu contraseña.
+
+5
+00:00:12,152 --> 00:00:13,144
+Se llama hash.
+
+6
+00:00:13,294 --> 00:00:14,521
+Es como una licuadora:
+
+7
+00:00:14,521 --> 00:00:16,306
+metes las frutas y sale un jugo.
+
+8
+00:00:16,306 --> 00:00:18,762
+Pero del jugo no puedes sacar las frutas.
+
+9
+00:00:18,912 --> 00:00:20,150
+Cuando inicias sesión,
+
+10
+00:00:20,150 --> 00:00:23,020
+la web licúa lo que escribiste y compara los jugos.
+
+11
+00:00:23,020 --> 00:00:24,484
+Si son iguales, entras.
+
+12
+00:00:24,634 --> 00:00:27,995
+Así, si alguien roba la base de datos, solo se lleva jugos.
+
+13
+00:00:27,995 --> 00:00:29,248
+No tus contraseñas.
+
+14
+00:00:29,398 --> 00:00:31,436
+Y le agregan un ingrediente secreto,
+
+15
+00:00:31,436 --> 00:00:34,154
+distinto para cada persona, que se llama sal.
+
+16
+00:00:34,304 --> 00:00:34,728
+Por eso,
+
+17
+00:00:34,728 --> 00:00:37,537
+si una página te puede enviar tu contraseña tal cual,
+
+18
+00:00:37,537 --> 00:00:39,403
+es que la guarda sin protección.
+
+19
+00:00:39,553 --> 00:00:42,756
+Ahí, usa una contraseña que no uses en ningún otro sitio.
+
+20
+00:00:42,756 --> 00:00:44,275
+Y si puedes, no la uses.
+
+21
+00:00:44,425 --> 00:00:47,309
+Mándaselo al que usa la misma contraseña en todo.
+
+22
+00:00:47,309 --> 00:00:51,316
+Sígueme para más tecnología explicada.

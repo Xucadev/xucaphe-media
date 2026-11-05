@@ -1,0 +1,59 @@
+1
+00:00:00,100 --> 00:00:04,177
+Hoy cumple años el creador de algo que usas todos los días sin saberlo.
+
+2
+00:00:04,327 --> 00:00:06,862
+Se llama Linus Torvalds.
+
+3
+00:00:06,862 --> 00:00:11,469
+En 1991, con 21 años, escribió en un foro:
+
+4
+00:00:11,619 --> 00:00:14,696
+Estoy haciendo un sistema operativo gratis.
+
+5
+00:00:14,696 --> 00:00:16,270
+Es solo un pasatiempo.
+
+6
+00:00:16,270 --> 00:00:17,513
+No será grande.
+
+7
+00:00:17,663 --> 00:00:20,726
+Guárdalo ahora, que en el momento se te olvida.
+
+8
+00:00:20,876 --> 00:00:22,142
+Se llamó línux.
+
+9
+00:00:22,142 --> 00:00:23,662
+Y sí fue grande.
+
+10
+00:00:23,812 --> 00:00:26,984
+Hoy está en la mayoría de los servidores de internet,
+
+11
+00:00:26,984 --> 00:00:29,907
+en Android, y en distros como Ubuntu o Fedora.
+
+12
+00:00:30,057 --> 00:00:34,370
+Y además creó Git, donde se guarda casi todo el código del mundo.
+
+13
+00:00:34,520 --> 00:00:37,841
+Comenta LINUX si usas Linux (o quieres probarlo).
+
+14
+00:00:37,841 --> 00:00:38,519
+Y sígueme:
+
+15
+00:00:38,519 --> 00:00:42,322
+más mentes que cambiaron todo.

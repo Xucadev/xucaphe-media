@@ -1,0 +1,67 @@
+1
+00:00:00,100 --> 00:00:02,208
+Una VPN no te hace invisible.
+
+2
+00:00:02,208 --> 00:00:04,559
+Te explico qué hace de verdad.
+
+3
+00:00:04,709 --> 00:00:07,967
+Crea un túnel cifrado entre tu teléfono y un servidor de
+
+4
+00:00:07,967 --> 00:00:09,359
+la empresa de la VPN.
+
+5
+00:00:09,509 --> 00:00:12,929
+Quien esté en tu misma red, como en un Wi-Fi público,
+
+6
+00:00:12,929 --> 00:00:14,713
+solo ve que hay un túnel.
+
+7
+00:00:14,863 --> 00:00:17,925
+Guárdalo ahora, que en el momento se te olvida.
+
+8
+00:00:18,075 --> 00:00:21,428
+Pero la empresa de la VPN sí puede ver tu tráfico.
+
+9
+00:00:21,428 --> 00:00:23,542
+Le pasas la confianza a ella.
+
+10
+00:00:23,692 --> 00:00:27,876
+Y si inicias sesión en una página, esa página sabe que eres tú.
+
+11
+00:00:28,026 --> 00:00:29,546
+Sirve en Wi-Fi públicos,
+
+12
+00:00:29,546 --> 00:00:33,197
+y para que tu proveedor no vea cada página que visitas.
+
+13
+00:00:33,347 --> 00:00:34,328
+Elige una seria,
+
+14
+00:00:34,328 --> 00:00:37,992
+y desconfía de las gratis que no dicen cómo ganan dinero.
+
+15
+00:00:38,142 --> 00:00:40,200
+Comenta VPN si usas una.
+
+16
+00:00:40,200 --> 00:00:41,058
+Y sígueme:
+
+17
+00:00:41,058 --> 00:00:44,973
+más tecnología explicada.

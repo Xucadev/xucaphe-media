@@ -1,0 +1,59 @@
+1
+00:00:00,100 --> 00:00:06,276
+Un día como hoy, en 1968, alguien mostró el futuro en noventa minutos.
+
+2
+00:00:06,426 --> 00:00:08,201
+Se llamaba Douglas Engelbart,
+
+3
+00:00:08,201 --> 00:00:12,103
+y su presentación se conoce como la madre de todas las demos.
+
+4
+00:00:12,253 --> 00:00:14,875
+Mostró un aparatico de madera con ruedas,
+
+5
+00:00:14,875 --> 00:00:17,050
+que movía un punto en la pantalla:
+
+6
+00:00:17,050 --> 00:00:17,795
+el mouse.
+
+7
+00:00:17,945 --> 00:00:21,958
+Si alguien de tu familia caería en esto, mándale este video.
+
+8
+00:00:22,108 --> 00:00:22,753
+Y además:
+
+9
+00:00:22,753 --> 00:00:25,258
+ventanas, enlaces entre documentos,
+
+10
+00:00:25,258 --> 00:00:28,577
+y editar un texto con otra persona a la vez.
+
+11
+00:00:28,727 --> 00:00:32,765
+Y hasta una videollamada con su equipo, que estaba a kilómetros.
+
+12
+00:00:32,915 --> 00:00:39,034
+Casi todo lo que usas hoy en tu computadora, ya estaba ahí, en 1968.
+
+13
+00:00:39,184 --> 00:00:41,687
+Comenta MOUSE si no sabías esto.
+
+14
+00:00:41,687 --> 00:00:42,469
+Y sígueme:
+
+15
+00:00:42,469 --> 00:00:45,959
+más historias de tech.

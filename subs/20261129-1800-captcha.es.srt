@@ -1,0 +1,59 @@
+1
+00:00:00,100 --> 00:00:02,925
+¿Por qué las páginas te preguntan si eres un robot?
+
+2
+00:00:03,075 --> 00:00:05,719
+Porque hay programas que llenan formularios solos,
+
+3
+00:00:05,719 --> 00:00:07,265
+miles de veces por minuto.
+
+4
+00:00:07,415 --> 00:00:11,411
+Crean cuentas falsas, mandan spam, o prueban contraseñas robadas.
+
+5
+00:00:11,561 --> 00:00:13,406
+Esa prueba se llama CAPTCHA:
+
+6
+00:00:13,406 --> 00:00:14,064
+en inglés,
+
+7
+00:00:14,064 --> 00:00:18,583
+una prueba de Turing pública para separar humanos de computadoras.
+
+8
+00:00:18,733 --> 00:00:20,279
+Antes eran letras torcidas,
+
+9
+00:00:20,279 --> 00:00:23,882
+que a una persona le cuesta poco leer y a un programa mucho.
+
+10
+00:00:24,032 --> 00:00:26,149
+Hoy, muchas veces basta una casilla.
+
+11
+00:00:26,149 --> 00:00:30,435
+La página mira cómo te mueves y otras señales antes de que hagas clic.
+
+12
+00:00:30,585 --> 00:00:34,581
+Y si algo le parece raro, entonces te pide las fotos de semáforos.
+
+13
+00:00:34,731 --> 00:00:38,280
+Es una molestia de un segundo, que frena a millones de programas.
+
+14
+00:00:38,430 --> 00:00:40,420
+Mándaselo al que odia los semáforos.
+
+15
+00:00:40,420 --> 00:00:43,627
+Sígueme para más por qués.

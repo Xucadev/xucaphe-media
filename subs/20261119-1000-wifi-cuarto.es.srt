@@ -1,0 +1,79 @@
+1
+00:00:00,100 --> 00:00:01,915
+¿Por qué el Wi-Fi vuela en la sala,
+
+2
+00:00:01,915 --> 00:00:04,108
+pero en tu cuarto no carga ni un video?
+
+3
+00:00:04,258 --> 00:00:06,305
+Porque el Wi-Fi son ondas de radio.
+
+4
+00:00:06,305 --> 00:00:09,048
+Y las ondas se debilitan con cada obstáculo.
+
+5
+00:00:09,198 --> 00:00:10,942
+Las paredes de bloque y concreto,
+
+6
+00:00:10,942 --> 00:00:14,336
+como las de nuestras casas, se comen buena parte de la señal.
+
+7
+00:00:14,486 --> 00:00:15,515
+Y hay otro truco:
+
+8
+00:00:15,515 --> 00:00:17,317
+tu router tiene dos bandas.
+
+9
+00:00:17,467 --> 00:00:20,353
+La de 2,4 GHz llega más lejos, pero es más lenta.
+
+10
+00:00:20,353 --> 00:00:23,939
+La de 5 GHz es rapidísima, pero atraviesa mal las paredes.
+
+11
+00:00:24,089 --> 00:00:27,185
+Y el microondas trabaja casi en la misma frecuencia que
+
+12
+00:00:27,185 --> 00:00:28,310
+la banda de 2,4 GHz.
+
+13
+00:00:28,310 --> 00:00:31,633
+Por eso a veces se cae la señal cuando calientas comida.
+
+14
+00:00:31,783 --> 00:00:33,590
+Así lo mejoras, sin gastar.
+
+15
+00:00:33,740 --> 00:00:34,897
+Pon el router en alto,
+
+16
+00:00:34,897 --> 00:00:38,273
+en el centro de la casa y a la vista, no metido en un mueble.
+
+17
+00:00:38,423 --> 00:00:41,093
+Y en tu cuarto, conéctate a la red de 2,4 GHz.
+
+18
+00:00:41,093 --> 00:00:43,352
+Llega mejor a través de las paredes.
+
+19
+00:00:43,502 --> 00:00:45,897
+Mándaselo a quien siempre se queja del Wi-Fi.
+
+20
+00:00:45,897 --> 00:00:49,050
+Sígueme para más por qués.
