@@ -15,11 +15,17 @@ def modelos():
     malos = ("tts", "image", "live", "audio", "embedding", "vision", "thinking", "exp", "robotics", "native")
     flash = [m for m in ok if "flash" in m and not any(x in m for x in malos)]
     flash.sort(key=lambda m: ("lite" in m, "preview" in m, [-int(x) for x in __import__("re").findall(r"\d+", m)]))
-    print("modelos:", flash[:4])
-    return flash[:2] or ok[:2]
+    print("modelos:", flash)
+    return flash[:8] or ok[:2]
 
 
 MODELOS = modelos()
+MUERTOS = set()  # modelos sin cupo hoy (429): no se reintentan en esta corrida
+def detalle(ex):
+    try:
+        return ex.read().decode()[:300].replace("\n", " ")
+    except Exception:
+        return str(ex)[:200]
 LIMITE = int(os.environ.get("LIMITE", "40"))
 cola = json.load(open("cola.json"))
 ahora = datetime.now(timezone.utc)
@@ -29,6 +35,8 @@ def guardar():
 for e in cola:
     if time.time() - INICIO > PRESUPUESTO:
         print("tiempo agotado, sigo mañana"); break
+    if len(MUERTOS) >= len(MODELOS):
+        print("sin cupo en ningún modelo, sigo mañana"); break
     y = e.get("youtube")
     if not y or y.get("localizations") or datetime.fromisoformat(e["fecha"]) < ahora:
         continue
@@ -37,7 +45,7 @@ for e in cola:
               "No añadas nada. Responde SOLO JSON: {\"en\":{\"title\":...,\"description\":...},\"pt\":{...}}. "
               "El título sin '#shorts' y como máximo 90 caracteres; añade ' #shorts' al final.\n\n"
               f"TÍTULO: {y['title']}\n\nDESCRIPCIÓN:\n{y['description']}")
-    for m in MODELOS:
+    for m in [x for x in MODELOS if x not in MUERTOS]:
         body = {"contents": [{"parts": [{"text": prompt}]}], "generationConfig": {"responseMimeType": "application/json"}}
         req = urllib.request.Request(f"https://generativelanguage.googleapis.com/v1beta/models/{m}:generateContent",
                                      data=json.dumps(body).encode(), headers={"Content-Type": "application/json", "x-goog-api-key": KEY})
@@ -51,7 +59,10 @@ for e in cola:
                 guardar()
                 break
         except Exception as ex:
-            print("ERR", e["id"], m, str(ex)[:200])
+            d = detalle(ex)
+            if getattr(ex, "code", 0) == 429:
+                MUERTOS.add(m)
+            print("ERR", e["id"], m, getattr(ex, "code", ""), d)
         time.sleep(3)
     if hechas >= LIMITE:
         break
@@ -65,7 +76,7 @@ from pathlib import Path
 SUBS = Path("subs")
 LIM_SUBS = int(os.environ.get("LIMITE_SUBS", "40"))
 def gemini(prompt):
-    for m in MODELOS:
+    for m in [x for x in MODELOS if x not in MUERTOS]:
         body = {"contents": [{"parts": [{"text": prompt}]}], "generationConfig": {"responseMimeType": "application/json"}}
         req = urllib.request.Request(f"https://generativelanguage.googleapis.com/v1beta/models/{m}:generateContent",
                                      data=json.dumps(body).encode(), headers={"Content-Type": "application/json", "x-goog-api-key": KEY})
@@ -73,7 +84,10 @@ def gemini(prompt):
             r = json.load(urllib.request.urlopen(req, timeout=60))
             return json.loads(r["candidates"][0]["content"]["parts"][0]["text"]), m
         except Exception as ex:
-            print("ERR subs", m, str(ex)[:200])
+            d = detalle(ex)
+            if getattr(ex, "code", 0) == 429:
+                MUERTOS.add(m)
+            print("ERR subs", m, getattr(ex, "code", ""), d)
         time.sleep(3)
     return None, None
 fechas = {e["id"]: e["fecha"] for e in cola}
