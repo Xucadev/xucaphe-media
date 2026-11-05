@@ -1,1 +1,1 @@
-OK 20261203-1000-compras-internacionales gemini-3.1-flash-tts-preview 37.3s
+OK 20261105-1300-foto-ver-una-vez gemini-3.1-flash-tts-preview 92.3s
