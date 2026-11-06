@@ -1,17 +1,1 @@
-{
- "items": [
-  {
-   "id": "ep02-p043",
-   "voz": "Orus",
-   "texto": "Narra esta historia para un video de YouTube en formato POV, en segunda persona. Voz de narrador cercano, cálido y con suspenso, en español latino neutro con calidez caribeña, como si se la contaras a un amigo. Ritmo natural, ni rápido ni lento. Baja la voz en los momentos tensos, sube la energía en las sorpresas, respeta cada coma y cada punto. Lee las cifras con naturalidad. Entre cada párrafo haz una pausa clara de casi un segundo:\n\nDespués, mándala a una plataforma que te pasa ella. Tiene página web, aplicación, y hasta chat de soporte."
-  },
-  {
-   "id": "ep02-p083",
-   "voz": "Orus",
-   "texto": "Narra esta historia para un video de YouTube en formato POV, en segunda persona. Voz de narrador cercano, cálido y con suspenso, en español latino neutro con calidez caribeña, como si se la contaras a un amigo. Ritmo natural, ni rápido ni lento. Baja la voz en los momentos tensos, sube la energía en las sorpresas, respeta cada coma y cada punto. Lee las cifras con naturalidad. Entre cada párrafo haz una pausa clara de casi un segundo:\n\nTe bloqueó. La plataforma ya no abre. El chat de soporte desapareció. Y la página dice: error cuatrocientos cuatro."
-  }
- ],
- "modelos": [
-  "gemini-2.5-flash-preview-tts"
- ]
-}
+{"items": []}
