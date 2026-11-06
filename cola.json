@@ -158,7 +158,17 @@
     "iphone",
     "whatsapp hackeado",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "WhatsApp stolen without touching anything: zero-click attack on iPhone #shorts",
+     "description": "Scam Exposed No. 19: Their WhatsApp gets stolen without touching a thing… and they ask all their family for money 📵\nThe Ertzaintza (Basque Country Police, Spain) recorded 359 cases, all on iPhone with WhatsApp, between June and late October, linking them to a possible \"zero-click\" attack: the victim opens no links or files. They duplicate the WhatsApp session without the phone notifying, and write to contacts asking for money for an \"emergency\". In Mexico, the Baja California Sur prosecutor's office had already warned in October about this technique against iPhones running vulnerable iOS 16 versions.\n\nWhat to do:\n1. Update your iPhone first (if stuck on iOS 16, at least to 16.7.12) and then WhatsApp.\n2. Enable two-step verification.\n3. Review linked devices and log out of any you don't recognize.\n4. If a family member asks for money via chat, call them before transferring.\n\nComment CALL if you would call first too 👇\nSend this to whoever has an old iPhone.\n\nSource: Ertzaintza, via Orain/EITB (November 5, 2026); PGJE of Baja California Sur, via BCS Noticias (October 16, 2026).\nStory recreated for educational purposes. AI-generated voice.\n#scamexposed #cybersecurity #whatsapp #iphone #dr"
+    },
+    "pt": {
+     "title": "Roubam o WhatsApp sem tocar em nada: o ataque sem clique no iPhone #shorts",
+     "description": "Golpe Exposto Nº 19: roubam o WhatsApp sem a pessoa tocar em nada… e pedem dinheiro para toda a família 📵\nA Ertzaintza (polícia do País Basco, Espanha) registrou 359 casos, todos no iPhone com WhatsApp, entre junho e final de outubro, e os vincula a um possível ataque \"zero-click\": a vítima não abre links nem arquivos. Eles duplicam a sessão do WhatsApp sem o telefone avisar e escrevem para os contatos pedindo dinheiro para uma \"urgência\". No México, a promotoria de Baja California Sur já tinha alertado em outubro sobre essa técnica contra iPhones com versões vulneráveis do iOS 16.\n\nO que fazer:\n1. Atualize primeiro o iPhone (se ficou no iOS 16, pelo menos para a 16.7.12) e depois o WhatsApp.\n2. Ative a verificação em duas etapas.\n3. Revise os dispositivos conectados e encerre os que você não reconhecer.\n4. Se um familiar pedir dinheiro por mensagem, ligue para ele antes de transferir.\n\nComente LIGO se você também ligaria primeiro 👇\nEnvie isto para quem tem um iPhone antigo.\n\nFonte: Ertzaintza, via Orain/EITB (5 de novembro de 2026); PGJE de Baja California Sur, via BCS Noticias (16 de outubro de 2026).\nHistória recriada para fins educativos. Voz gerada por IA.\n#golpeexposto #ciberseguranca #whatsapp #iphone #rd"
+    }
+   }
   },
   "estilo": "historia",
   "otras_redes": "Metricool (TikTok 12:00)",
@@ -187,7 +197,17 @@
     "wordpress",
     "ciberseguridad",
     "desarrollo web"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Your PHP website can crash even if updated (PHP2Shell) #shorts",
+     "description": "Your website can crash even if you have WordPress and all plugins updated. 🧱\n\nIt's called PHP2Shell: two critical flaws (CVSS 9.2) in the PHP engine itself, patched on October 21st. They allow code execution on the server without a username or password, and the flaw isn't in your code.\n\nCheck today:\n1️⃣ Your PHP version (patched: 8.5.12, 8.4.27, 8.3.36, 8.2.35)\n2️⃣ If your hosting manages it, ask for written confirmation\n3️⃣ PHP 8.1 or earlier no longer receives patches: time to migrate\n\nFree checklist with 12 reviews → link in bio.\n\nAI-generated voice · Educational cybersecurity content.\n\n#hackoftheday #cybersecurity #php #wordpress #webdevelopment"
+    },
+    "pt": {
+     "title": "Seu site em PHP pode cair mesmo atualizado (PHP2Shell) #shorts",
+     "description": "Seu site pode cair mesmo que você tenha o WordPress e todos os plugins atualizados. 🧱\n\nChama-se PHP2Shell: duas falhas críticas (CVSS 9.2) no próprio motor do PHP, corrigidas em 21 de outubro. Elas permitem executar código no servidor sem usuário nem senha, e a falha não está no seu código.\n\nConfira hoje:\n1️⃣ Sua versão do PHP (corrigidas: 8.5.12, 8.4.27, 8.3.36, 8.2.35)\n2️⃣ Se sua hospedagem a gerencia, peça confirmação por escrito\n3️⃣ PHP 8.1 ou anterior não recebe mais correções: hora de migrar\n\nChecklist grátis com 12 verificações → link no perfil.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n\n#dicadodia #ciberseguranca #php #wordpress #desenvolvimentoweb"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
   "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00",
@@ -212,7 +232,17 @@
     "telegram",
     "ciberseguridad",
     "dinero facil"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "They pay you to like posts… that's how they end up robbing you #shorts",
+     "description": "Hack of the day #4: They offer you money to like posts. Sounds easy… it's the perfect scam. 💸\n\nFirst, they pay you a little bit so you trust them. Then they move you to Telegram with promises of big commissions. And in the end, they ask you to deposit money to \"unlock\" your earnings… until they disappear with your money.\n\nIf they ask you to pay to get paid, it's a scam.\n\nSend this to that buddy who's always looking for fast money. Follow me: a new hack every day.\n\nAI-generated voice · Educational cybersecurity content.\n\n#hackoftheday #cybersecurity #scams #whatsapp #telegram"
+    },
+    "pt": {
+     "title": "Te pagam para dar likes… é assim que terminam te roubando #shorts",
+     "description": "Hack do dia N.º 4: te oferecem dinheiro para dar likes. Parece fácil… é o golpe perfeito. 💸\n\nPrimeiro te pagam um pouquinho para você confiar. Depois te levam para o Telegram com promessas de grandes comissões. E no final pedem para você depositar para \"desbloquear\" seus lucros… até desaparecerem com o seu dinheiro.\n\nSe pedirem para você pagar para receber, é golpe.\n\nManda para aquele amigo que está sempre buscando dinheiro rápido. Me segue: um hack novo todo dia.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n\n#hackdodia #ciberseguranca #golpes #whatsapp #telegram"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -316,7 +346,17 @@
     "microsoft",
     "actualizaciones",
     "seguridad informática"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "They could hack you with a Windows PREVIEW #shorts",
+     "description": "You didn't open the file. You didn't click. And they could still get in. 🖼️\n\nIn October, Windows fixed a flaw (CVE-2026-21413, severity 9.8/10) in the extension that displays RAW images: it was enough for Windows to generate the thumbnail or preview of a crafted image to execute code.\n\nThat's why updates shouldn't be postponed: Settings → Windows Update → Check for updates.\n\nSend this to someone who has had \"remind me later\" turned on for months 👇\n\nAI-generated voice · Educational cybersecurity content.\n\n#hackoftheday #cybersecurity #windows #microsoft #technology"
+    },
+    "pt": {
+     "title": "Eles podiam te hackear com uma PRÉVIA do Windows #shorts",
+     "description": "Você não abriu o arquivo. Não clicou. E mesmo assim podiam entrar. 🖼️\n\nEm outubro o Windows corrigiu uma falha (CVE-2026-21413, gravidade 9,8/10) na extensão que exibe imagens RAW: bastava que o Windows gerasse a miniatura ou a prévia de uma imagem preparada para executar código.\n\nPor isso as atualizações não devem ser adiadas: Configurações → Windows Update → Verificar se há atualizações.\n\nEnvie para quem está com o \"lembrar mais tarde\" ativado há meses 👇\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n\n#hackdodia #cibersegurança #windows #microsoft #tecnologia"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
   "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
@@ -334,7 +374,17 @@
     "verificacion en dos pasos",
     "ciberseguridad",
     "hack del dia"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "\"I sent you a code by mistake\": how they steal your WhatsApp #shorts",
+     "description": "Hack of the day No. 6: \"I sent you a code by mistake\" 🔐\nThat 6-digit code is the key to register your WhatsApp on another phone. They ask you for it from the account of someone who already fell for it, that's why it looks like your friend. If you share it, they get in and continue with your contacts.\n\nWhat to do:\n· A code sent to you is shared with no one.\n· Enable Settings > Account > Two-step verification and create a PIN.\n\nSend this to your family group. Follow me: a new hack every day.\n\nAI-generated voice · Cybersecurity educational content.\n#hackoftheday #cybersecurity #whatsapp #scams #dr"
+    },
+    "pt": {
+     "title": "\"Te mandei um código por engano\": assim roubam seu WhatsApp #shorts",
+     "description": "Hack do dia N.º 6: \"te mandei um código por engano\" 🔐\nEsse código de 6 dígitos é a chave para registrar seu WhatsApp em outro celular. Pedem ele a partir da conta de alguém que já caiu, por isso parece seu amigo. Se você passar, eles entram e continuam com os seus contatos.\n\nO que fazer:\n· Um código que chega para você não se dá a ninguém.\n· Ative Configurações > Conta > Confirmação em duas etapas e crie um PIN.\n\nMande no grupo da família. Siga-me: um hack novo todo dia.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #ciberseguranca #whatsapp #golpes #rd"
+    }
+   }
   },
   "estilo": "tarjetas",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
@@ -352,7 +402,17 @@
     "autenticador",
     "ciberseguridad",
     "hack del dia"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "You lose signal and your bank gets drained: SIM swapping #shorts",
+     "description": "Hack of the Day #7: You lose signal… and someone accesses your bank 📵\nIn SIM swapping, scammers impersonate you with your carrier and transfer your number to a new SIM card. From there, SMS codes go to them, allowing them to recover your email, social media, and bank accounts.\n\nWhat to do:\n· Wherever possible, replace SMS codes with an authenticator app or a passkey.\n· Ask your carrier if you can add a PIN or password to your line for SIM changes.\n· If you lose signal for no reason, call your carrier from another phone.\n\nSend this to someone who has everything on their phone. Follow me: a new hack every day.\n\nAI-generated voice · Cybersecurity educational content.\n#hackoftheday #cybersecurity #simswap #2fa #digitalsecurity"
+    },
+    "pt": {
+     "title": "Você fica sem sinal e limpam sua conta: o SIM swap #shorts",
+     "description": "Hack do Dia Nº 7: você fica sem sinal… e alguém entra no seu banco 📵\nNo SIM swap, eles se passam por você na operadora e transferem seu número para um SIM novo. A partir daí, os códigos por SMS chegam para eles, e com isso eles recuperam seu e-mail, suas redes e seu banco.\n\nO que fazer:\n· Onde for possível, troque os códigos por SMS por um aplicativo autenticador ou uma chave de acesso.\n· Pergunte na sua operadora se você pode colocar uma senha na sua linha para trocas de SIM.\n· Se você ficar sem sinal sem motivo, ligue para a sua operadora de outro telefone.\n\nEnvie para quem tem tudo no celular. Me siga: um hack novo a cada dia.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #ciberseguranca #simswap #2fa #segurancadigital"
+    }
+   }
   },
   "estilo": "tarjetas",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
@@ -399,7 +459,17 @@
     "android",
     "iphone",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Why you should never leave updates for later #shorts",
+     "description": "Hack of the day #9: that \"remind me later\" leaves you exposed 🔄\nWhen a company fixes a flaw, it releases an update and the vulnerability becomes public. From that day on, attackers look for anyone who hasn't updated. Some flaws can be exploited just by opening a webpage or receiving a message.\n\nWhat to do:\n· Enable automatic updates on your phone, computer, apps, and browser.\n· If your phone no longer receives updates, don't use it for banking.\n\nSend this to someone who has 40 pending updates. Follow me: a new hack every day.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #updates #android #iphone"
+    },
+    "pt": {
+     "title": "Por que você nunca deve deixar as atualizações para depois #shorts",
+     "description": "Hack do dia Nº 9: aquele \"lembrar mais tarde\" te deixa exposto 🔄\nQuando uma empresa corrige uma falha, ela lança uma atualização e a falha se torna pública. A partir desse dia, os atacantes procuram quem não atualizou. Existem falhas que são exploradas apenas abrindo uma página ou recebendo uma mensagem.\n\nO que fazer:\n· Ative as atualizações automáticas no celular, no computador, nos aplicativos e no navegador.\n· Se o seu celular não recebe mais atualizações, não o use para o banco.\n\nEnvie para quem tem 40 atualizações pendentes. Siga-me: um hack novo a cada dia.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #ciberseguranca #atualizacoes #android #iphone"
+    }
+   }
   },
   "estilo": "tarjetas",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
@@ -446,7 +516,17 @@
     "inteligencia artificial",
     "estafas",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "It's your child's voice, but it's not them: cloned voice scams #shorts",
+     "description": "Hack of the day No. 11: it's their voice… but it's not them 🎙️\nWith artificial intelligence, a voice can be cloned with just a few seconds of audio, and your voice is already in your videos, status updates, and voice notes. The call always involves a serious problem, urgency, and a request for money.\n\nWhat to do:\n· Pick a family codeword that no one else knows.\n· If you get a call about an emergency, ask for it. If they don't know it, hang up.\n· Call that person directly on their usual number.\n\nSend this to your family and pick your word today. Follow me: a new hack every day.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #artificialintelligence #deepfake #scams"
+    },
+    "pt": {
+     "title": "É a voz do seu filho, mas não é ele: golpes com voz clonada #shorts",
+     "description": "Hack do dia Nº 11: é a voz dele… mas não é ele 🎙️\nCom inteligência artificial dá para imitar uma voz com poucos segundos de áudio, e a sua voz já está nos seus vídeos, status e notas de voz. A ligação sempre traz um problema grave, pressa e um pedido de dinheiro.\n\nO que fazer:\n· Escolham em família uma palavra-chave que ninguém mais saiba.\n· Se te ligarem com uma emergência, peça a palavra. Se não souberem, desligue.\n· Ligue você mesmo para o número habitual dessa pessoa.\n\nEnvie para a sua família e escolham a palavra hoje. Siga-me: um hack novo a cada dia.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #cibersegurança #inteligênciaartificial #deepfake #golpes"
+    }
+   }
   },
   "estilo": "tarjetas",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
@@ -493,7 +573,17 @@
     "credential stuffing",
     "ciberseguridad",
     "hack del dia"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Using the same password everywhere: this is how they breach all your accounts #shorts",
+     "description": "Hack of the day No. 13: one password for everything = one door for everything 🔑\nIt's called credential stuffing: when a website gets leaked, a program tests your email and password on thousands of sites in minutes. Wherever you reused it, they get in as if they were you.\n\nWhat to do:\n· A different password for each account, saved in a password manager.\n· Two-step verification wherever possible.\n· Start today with 3: email, bank, and social media.\n\nSend this to whoever has been using the same password since 2015. Follow me: a new hack every day.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #passwords #digitalsecurity #tips"
+    },
+    "pt": {
+     "title": "Usar a mesma senha em tudo: é assim que invadem todas as suas contas #shorts",
+     "description": "Hack do dia Nº 13: uma senha para tudo = uma porta para tudo 🔑\nChama-se preenchimento de credenciais: quando um site vaza, um programa testa seu e-mail e sua senha em milhares de sites em minutos. Onde você a repetiu, eles entram como se fossem você.\n\nO que fazer:\n· Uma senha diferente para cada conta, salvas em um gerenciador de senhas.\n· Verificação em duas etapas onde for possível.\n· Comece hoje por 3: e-mail, banco e redes sociais.\n\nEnvie para quem usa a mesma senha desde 2015. Siga-me: um hack novo a cada dia.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #ciberseguranca #senhas #segurancadigital #dicas"
+    }
+   }
   },
   "estilo": "tarjetas",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
@@ -530,7 +620,17 @@
     "navegador",
     "privacidad",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "The browser extension that can read everything you type #shorts",
+     "description": "Hack of the day No. 15: that extension you installed and forgot about 🧩\nMany ask for permission to view all your pages. If its owner sells it or their account gets stolen, an automatic update can insert code that steals your sessions and your data.\n\nWhat to do:\n· Open your browser's extension list and delete the ones you don't use.\n· Check their permissions and be suspicious of those asking to see all your sites unnecessarily.\n\nSend this to someone who has 20 extensions installed. Follow me: a new hack every day.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #chrome #browser #privacy"
+    },
+    "pt": {
+     "title": "A extensão de navegador que pode ler tudo o que você digita #shorts",
+     "description": "Hack do dia Nº 15: aquela extensão que você instalou e esqueceu 🧩\nMuitas pedem permissão para ver todas as suas páginas. Se o dono vendê-la ou tiver a conta roubada, uma atualização automática pode inserir código que rouba suas sessões e seus dados.\n\nO que fazer:\n· Abra a lista de extensões do seu navegador e apague as que não usa.\n· Revise as permissões e desconfie das que pedem para ver todos os seus sites sem necessidade.\n\nMande para quem tem 20 extensões instaladas. Siga-me: um hack novo a cada dia.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #cibersegurança #chrome #navegador #privacidade"
+    }
+   }
   },
   "estilo": "tarjetas",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
@@ -549,7 +649,17 @@
     "phishing",
     "estafas",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Scan a QR and get your card stolen: how quishing works #shorts",
+     "description": "Hack of the day No. 16: the parking or menu QR code could be fake 📷\nIt's called quishing: they stick a fake QR code over the original one and take you to a cloned page that asks for your card or personal data. Since you scanned it yourself, you trust it.\n\nWhat to do:\n· Before opening, check the link your camera shows. If it looks weird, don't open it.\n· Look for stickers placed on top.\n· To pay, use the official app.\n\nSend this to someone who scans everything without looking. Follow me: a new hack every day.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #qrcode #phishing #scams"
+    },
+    "pt": {
+     "title": "Você escaneia um QR e roubam seu cartão: assim funciona o quishing #shorts",
+     "description": "Hack do dia Nº 16: o QR do estacionamento ou do menu pode ser falso 📷\nChama-se quishing: eles colam um QR falso por cima do original e te levam para uma página copiada que pede seu cartão ou seus dados. Como foi você quem escaneou, você confia.\n\nO que fazer:\n· Antes de abrir, olhe o endereço que a câmera mostra. Se for estranho, não entre.\n· Procure por adesivos colados por cima.\n· Para pagar, use o aplicativo oficial.\n\nEnvie para quem escaneia tudo sem olhar. Siga-me: um hack novo a cada dia.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #ciberseguranca #codigoqr #phishing #golpes"
+    }
+   }
   },
   "estilo": "tarjetas",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
@@ -567,7 +677,17 @@
     "estafa piramidal",
     "simv",
     "hack del dia"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "\"Double your money in a month\": how fake investments work #shorts",
+     "description": "Hack of the day No. 17: \"put in RD$10,000 and in a month you have RD$20,000\" 📉\nFake investment platforms show you profits that are just numbers on a screen, let you withdraw a little bit so you put in more and bring others, and when you want to withdraw everything, a fee or a block appears.\n\nWhat to do:\n· Nobody can guarantee you profits.\n· Before investing, look up the entity in the Superintendency of the Securities Market (SIMV).\n· If they don't let you withdraw, stop.\n\nSend this to whoever told you about that investment that pays too much. Follow me: a new hack every day.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #crypto #investments #scams"
+    },
+    "pt": {
+     "title": "\"Dobre seu dinheiro em um mês\": assim funcionam os investimentos falsos #shorts",
+     "description": "Hack do dia N.º 17: \"coloque RD$10.000 e em um mês você tem RD$20.000\" 📉\nAs plataformas falsas de investimento mostram lucros que são apenas números na tela, deixam você retirar um pouquinho para você colocar mais e trazer outros, e quando você quer sacar tudo, aparece uma taxa ou um bloqueio.\n\nO que fazer:\n· Ninguém pode te garantir lucros.\n· Antes de investir, busque a entidade na Superintendência do Mercado de Valores (SIMV).\n· Se não deixarem você sacar, pare.\n\nMande para quem te falou desse investimento que paga demais. Siga-me: um novo hack a cada dia.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #ciberseguranca #cripto #investimentos #golpes"
+    }
+   }
   },
   "estilo": "tarjetas",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
