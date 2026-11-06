@@ -602,7 +602,17 @@
     "superintendencia de bancos",
     "estafas",
     "hack del dia"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "\"Loan approved, just pay the insurance\": the fake loan scam #shorts",
+     "description": "Hack of the day #14: \"loan approved, just pay the insurance first\" 💸\nThey approve you super fast, ask for insurance, a fee, or paperwork to release the money, and then another charge, and another. The loan never arrives.\n\nWhat to do:\n· A real loan doesn't ask you to pay before receiving.\n· Confirm that the entity is authorized by the Superintendency of Banks.\n· Beware of \"no credit check\" and instant approvals on social media.\n\nSend this to whoever is looking for a loan. Follow me: a new hack every day.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #loans #scams #dominicanrepublic"
+    },
+    "pt": {
+     "title": "\"Empréstimo aprovado, só pague o seguro\": o golpe do falso empréstimo #shorts",
+     "description": "Hack do dia Nº 14: \"empréstimo aprovado, só pague o seguro primeiro\" 💸\nEles te aprovam super rápido, pedem um seguro, uma taxa ou uma burocracia para liberar o dinheiro, e depois outra cobrança, e outra. O empréstimo nunca chega.\n\nO que fazer:\n· Um empréstimo real não pede para você pagar antes de receber.\n· Confirme se a entidade é autorizada pela Superintendência de Bancos.\n· Desconfie de \"sem análise de crédito\" e de aprovações instantâneas nas redes sociais.\n\nEnvie para quem está procurando um empréstimo. Siga-me: um hack novo a cada dia.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #ciberseguranca #emprestimos #golpes #republicadominicana"
+    }
+   }
   },
   "estilo": "tarjetas",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
