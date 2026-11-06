@@ -1,0 +1,21 @@
+name: Alinear voz
+on:
+  push:
+    paths: ["tts/alinear.json"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: { group: alinear, cancel-in-progress: false }
+jobs:
+  alinear:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install -q faster-whisper
+      - run: python3 tts/alinear.py
+      - run: |
+          git config user.name "github-actions"; git config user.email "github-actions@users.noreply.github.com"
+          git add tts/alineado
+          git commit -m "Alineación de voz" || exit 0
+          git pull --rebase -q origin main && git push -q origin HEAD:main
