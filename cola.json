@@ -134,7 +134,14 @@
     }
    }
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/m5EUY0dCjlU",
+    "publicado": "2026-11-06T03:25:11+00:00"
+   }
+  }
  },
  {
   "id": "20261106-1800-php2shell",
