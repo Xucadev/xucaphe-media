@@ -105,7 +105,8 @@
    "youtube": {
     "intentos": 0,
     "url": "https://youtube.com/shorts/uS19eHp0WSU",
-    "publicado": "2026-11-05T09:46:47+00:00"
+    "publicado": "2026-11-05T09:46:47+00:00",
+    "subs": []
    }
   }
  },
@@ -139,7 +140,8 @@
    "youtube": {
     "intentos": 0,
     "url": "https://youtube.com/shorts/m5EUY0dCjlU",
-    "publicado": "2026-11-06T03:25:11+00:00"
+    "publicado": "2026-11-06T03:25:11+00:00",
+    "subs": []
    }
   }
  },
@@ -160,7 +162,17 @@
   },
   "estilo": "historia",
   "otras_redes": "Metricool (TikTok 12:00)",
-  "hora_nota": "Reel de actualidad: TikTok 12:00, YouTube 13:00"
+  "hora_nota": "Reel de actualidad: TikTok 12:00, YouTube 13:00",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/BMLFbLVLWj0",
+    "publicado": "2026-11-06T11:15:59+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261106-1800-php2shell",
@@ -178,7 +190,14 @@
    ]
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
-  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/NrZ7pAjy1GM",
+    "publicado": "2026-11-06T11:16:01+00:00"
+   }
+  }
  },
  {
   "id": "20261107-1000-likes-pagados",
