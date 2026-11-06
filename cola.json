@@ -144,6 +144,25 @@
   }
  },
  {
+  "id": "20261106-1300-whatsapp-sin-clic",
+  "fecha": "2026-11-06T13:00:00-04:00",
+  "video": "2026-11/2026-11-06-1300-whatsapp-sin-clic.mp4",
+  "youtube": {
+   "title": "Le roban el WhatsApp sin tocar nada: el ataque sin clic en iPhone #shorts",
+   "description": "Estafa expuesta N.º 19: le roban el WhatsApp sin que toque nada… y le piden dinero a toda su familia 📵\nLa Ertzaintza (policía del País Vasco, España) registró 359 casos, todos en iPhone con WhatsApp, entre junio y finales de octubre, y los vincula a un posible ataque \"zero-click\": la víctima no abre enlaces ni archivos. Duplican la sesión de WhatsApp sin que el teléfono avise y escriben a los contactos pidiendo dinero para una \"urgencia\". En México, la fiscalía de Baja California Sur ya había alertado en octubre de esta técnica contra iPhone con versiones vulnerables de iOS 16.\n\nQué hacer:\n1. Actualiza primero el iPhone (si se quedó en iOS 16, al menos la 16.7.12) y después WhatsApp.\n2. Activa la verificación en dos pasos.\n3. Revisa los dispositivos vinculados y cierra los que no conozcas.\n4. Si un familiar te pide dinero por chat, llámalo antes de transferir.\n\nComenta LLAMO si tú también llamarías primero 👇\nMándaselo a quien tiene un iPhone viejo.\n\nFuente: Ertzaintza, vía Orain/EITB (5 de noviembre de 2026); PGJE de Baja California Sur, vía BCS Noticias (16 de octubre de 2026).\nHistoria recreada con fines educativos. Voz generada con IA.\n#estafaexpuesta #ciberseguridad #whatsapp #iphone #rd",
+   "tags": [
+    "estafa whatsapp",
+    "zero click",
+    "iphone",
+    "whatsapp hackeado",
+    "ciberseguridad"
+   ]
+  },
+  "estilo": "historia",
+  "otras_redes": "Metricool (TikTok 12:00)",
+  "hora_nota": "Reel de actualidad: TikTok 12:00, YouTube 13:00"
+ },
+ {
   "id": "20261106-1800-php2shell",
   "fecha": "2026-11-06T16:00:00-04:00",
   "video": "2026-11/2026-11-05-php2shell.mp4",

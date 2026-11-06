@@ -1,0 +1,107 @@
+1
+00:00:00,100 --> 00:00:02,682
+La tía de Chris tiene un iPhone viejo.
+
+2
+00:00:02,682 --> 00:00:04,177
+No tocó ningún enlace…
+
+3
+00:00:04,177 --> 00:00:06,590
+y aun así le robaron el WhatsApp.
+
+4
+00:00:06,740 --> 00:00:07,671
+Desde su cuenta,
+
+5
+00:00:07,671 --> 00:00:11,740
+le escribieron a toda la familia pidiendo dinero para una urgencia.
+
+6
+00:00:11,890 --> 00:00:13,273
+Y ella ni se enteró:
+
+7
+00:00:13,273 --> 00:00:15,863
+su teléfono no mostró ningún aviso.
+
+8
+00:00:16,013 --> 00:00:18,954
+Si te llega ese mensaje, ¿qué harías tú?
+
+9
+00:00:19,104 --> 00:00:19,299
+A:
+
+10
+00:00:19,299 --> 00:00:22,129
+le transfiero, que es mi tía.
+
+11
+00:00:22,129 --> 00:00:22,324
+B:
+
+12
+00:00:22,324 --> 00:00:24,153
+la llamo primero.
+
+13
+00:00:24,303 --> 00:00:26,099
+La correcta es la B.
+
+14
+00:00:26,099 --> 00:00:32,375
+En España, la policía vasca ya investiga 359 casos, todos en iPhone.
+
+15
+00:00:32,525 --> 00:00:34,394
+Sospechan de un ataque sin clic:
+
+16
+00:00:34,394 --> 00:00:37,775
+copian tu sesión de WhatsApp sin que el teléfono avise.
+
+17
+00:00:37,925 --> 00:00:39,956
+En México también alertaron:
+
+18
+00:00:39,956 --> 00:00:43,534
+el blanco son iPhone que se quedaron en iOS 16.
+
+19
+00:00:43,684 --> 00:00:45,733
+Pero aquí viene lo que te toca:
+
+20
+00:00:45,733 --> 00:00:48,942
+actualiza primero el iPhone, y luego WhatsApp.
+
+21
+00:00:49,092 --> 00:00:54,296
+Si se quedó en iOS 16, mínimo la 16.7.12.
+
+22
+00:00:54,446 --> 00:00:56,748
+Activa la verificación en dos pasos,
+
+23
+00:00:56,748 --> 00:00:59,284
+y revisa los dispositivos vinculados.
+
+24
+00:00:59,434 --> 00:01:03,723
+Y si un familiar te pide dinero por chat, llámalo antes de transferir.
+
+25
+00:01:03,873 --> 00:01:07,202
+Comenta LLAMO si tú también llamarías primero.
+
+26
+00:01:07,202 --> 00:01:07,926
+Y sígueme:
+
+27
+00:01:07,926 --> 00:01:11,795
+pronto, otra estafa expuesta.
