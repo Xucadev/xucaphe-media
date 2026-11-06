@@ -476,6 +476,30 @@
   "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
+  "id": "largo-ep02",
+  "fecha": "2026-11-10T16:00:00-04:00",
+  "video": "largos/ep02.mp4",
+  "estilo": "largo",
+  "youtube": {
+   "title": "POV: Una desconocida te escribe \"por error\"… y en 90 días te quita todo",
+   "description": "Un martes cualquiera te escribe una desconocida: \"Hola, ¿eres Daniel?\". Le contestas por educación. En este POV eres Chris: trabajas en ciberseguridad, y aun así, en 90 días, una conversación que parecía amor termina con tus ahorros, un préstamo del banco y el dinero de tu mamá metidos en una plataforma de inversión que nunca existió.\n\nEs la estafa que el FBI llama \"pig butchering\": la matanza de cerdos. Y detrás de \"Valeria\" hay algo que casi nadie cuenta. Historia recreada a partir de casos reales. Al final: las 5 reglas para que no te pase.\n\n¿Alguna vez te escribió un número equivocado que se quiso quedar conversando? Cuéntalo en los comentarios.\n\nCapítulos:\n0:00 La pantalla de las 3:12\n0:55 El mensaje equivocado\n2:20 La confianza\n4:37 La inversión\n6:16 La escalada\n8:54 El retiro\n11:01 La matanza de cerdos\n12:16 ¿Quién era Valeria?\n14:05 La segunda estafa\n15:12 Lo que hiciste después\n16:06 Las 5 reglas\n\nFuentes:\n· FBI IC3, Internet Crime Report 2024 (9.300 millones en estafas con cripto; 5.800 millones en fraude de inversión): ic3[.]gov/AnnualReport/Reports/2024_IC3Report.pdf\n· ONU Derechos Humanos (OHCHR), informe de agosto de 2023 sobre personas obligadas a estafar en el sudeste de Asia: news[.]un[.]org/en/node/1140187\n· FBI IC3, PSA 240624 sobre falsos bufetes de recuperación cripto: ic3[.]gov/PSA/2024/PSA240624\n\nVoz e ilustraciones generadas con IA · Historia recreada con fines educativos.\n\n#estafas #ciberseguridad #cripto",
+   "tags": [
+    "estafa",
+    "numero equivocado",
+    "estafa cripto",
+    "pig butchering",
+    "matanza de cerdos",
+    "estafa amorosa",
+    "whatsapp",
+    "ciberseguridad",
+    "república dominicana",
+    "pov"
+   ],
+   "largo": true,
+   "miniatura": "largos/ep02-mini1.png"
+  }
+ },
+ {
   "id": "20261111-1000-paquete-retenido",
   "fecha": "2026-11-11T10:00:00-04:00",
   "video": "2026-11/2026-11-11-1000-paquete-retenido.mp4",
