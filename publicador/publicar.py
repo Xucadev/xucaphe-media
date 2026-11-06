@@ -109,11 +109,14 @@ def youtube(item, video: Path):
                           headers={"Authorization": f"Bearer {tok}", "Content-Type": "video/mp4"}, timeout=600)
     up.raise_for_status()
     vid = up.json()["id"]
-    if d.get("miniatura") and (RAIZ / d["miniatura"]).exists():
+    # Miniatura: la del guion, o si no la portada automática (portadas/NOMBRE.jpg, la crea portada.py)
+    mini = d.get("miniatura") or f"portadas/{Path(item.get('video', '')).stem}.jpg"
+    if (RAIZ / mini).is_file():
         # Miniatura propia: solo funciona si el canal está verificado; si falla, el video queda igual
+        tipo = "image/jpeg" if mini.endswith((".jpg", ".jpeg")) else "image/png"
         mi = requests.post(f"https://www.googleapis.com/upload/youtube/v3/thumbnails/set?videoId={vid}",
-                           headers={"Authorization": f"Bearer {tok}", "Content-Type": "image/png"},
-                           data=(RAIZ / d["miniatura"]).read_bytes(), timeout=120)
+                           headers={"Authorization": f"Bearer {tok}", "Content-Type": tipo},
+                           data=(RAIZ / mini).read_bytes(), timeout=120)
         log("  miniatura:", "ok" if mi.ok else mi.text[:200])
     return f"https://youtu.be/{vid}" if d.get("largo") else f"https://youtube.com/shorts/{vid}"
 
