@@ -1,0 +1,34 @@
+name: Estadisticas YouTube
+on:
+  workflow_dispatch:
+  push:
+    paths: [".github/workflows/stats_yt.yml"]
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import json, os, urllib.request, urllib.parse
+          d = urllib.parse.urlencode({"client_id": os.environ["YT_CLIENT_ID"], "client_secret": os.environ["YT_CLIENT_SECRET"],
+              "refresh_token": os.environ["YT_REFRESH_TOKEN"], "grant_type": "refresh_token"}).encode()
+          tok = json.load(urllib.request.urlopen("https://oauth2.googleapis.com/token", d, timeout=30))["access_token"]
+          H = {"Authorization": "Bearer " + tok}
+          def get(u):
+              return json.load(urllib.request.urlopen(urllib.request.Request(u, headers=H), timeout=30))
+          ch = get("https://www.googleapis.com/youtube/v3/channels?part=contentDetails,statistics&mine=true")["items"][0]
+          print("CANAL", json.dumps(ch["statistics"]))
+          up = ch["contentDetails"]["relatedPlaylists"]["uploads"]
+          ids = [i["contentDetails"]["videoId"] for i in get(f"https://www.googleapis.com/youtube/v3/playlistItems?part=contentDetails&maxResults=50&playlistId={up}").get("items", [])]
+          v = get("https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics,status,contentDetails&id=" + ",".join(ids))
+          for i in v["items"]:
+              s = i["statistics"]
+              print("VID", json.dumps({"id": i["id"], "t": i["snippet"]["title"], "pub": i["snippet"]["publishedAt"],
+                    "priv": i["status"]["privacyStatus"], "dur": i["contentDetails"]["duration"],
+                    "views": s.get("viewCount"), "likes": s.get("likeCount"), "com": s.get("commentCount")}, ensure_ascii=False))
+          PY
