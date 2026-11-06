@@ -41,11 +41,14 @@ for e in cola:
     y = e.get("youtube")
     if not y or y.get("localizations") or datetime.fromisoformat(e["fecha"]) < ahora:
         continue
-    prompt = ("Traduce el título y la descripción de este YouTube Short de ciberseguridad (español de RD) a inglés (en) "
+    largo = y.get("largo")
+    tipo = "video de YouTube" if largo else "YouTube Short"
+    regla = ("El título como máximo 100 caracteres y SIN '#shorts' (es un video largo).\n\n" if largo
+             else "El título sin '#shorts' y como máximo 90 caracteres; añade ' #shorts' al final.\n\n")
+    prompt = (f"Traduce el título y la descripción de este {tipo} de ciberseguridad (español de RD) a inglés (en) "
               "y portugués de Brasil (pt). Mantén emojis, hashtags traducidos al idioma, cifras y la línea de aviso de IA. "
               "No añadas nada. Responde SOLO JSON: {\"en\":{\"title\":...,\"description\":...},\"pt\":{...}}. "
-              "El título sin '#shorts' y como máximo 90 caracteres; añade ' #shorts' al final.\n\n"
-              f"TÍTULO: {y['title']}\n\nDESCRIPCIÓN:\n{y['description']}")
+              + regla + f"TÍTULO: {y['title']}\n\nDESCRIPCIÓN:\n{y['description']}")
     for m in [x for x in MODELOS if x not in MUERTOS]:
         body = {"contents": [{"parts": [{"text": prompt}]}], "generationConfig": {"responseMimeType": "application/json"}}
         req = urllib.request.Request(f"https://generativelanguage.googleapis.com/v1beta/models/{m}:generateContent",
