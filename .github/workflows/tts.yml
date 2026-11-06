@@ -9,7 +9,7 @@ concurrency: { group: tts, cancel-in-progress: false }
 jobs:
   voz:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
       - run: python3 tts/gemini_tts.py
