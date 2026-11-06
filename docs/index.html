@@ -1,12 +1,135 @@
 <!DOCTYPE html>
-<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Xucaphe</title>
-<style>body{margin:0;background:#02060c;color:#eaf6ff;font-family:system-ui,sans-serif;display:grid;place-items:center;min-height:100vh;text-align:center}
-main{max-width:560px;padding:32px}h1{font-size:44px;margin:0 0 8px;letter-spacing:-1px}p{color:#9fc9e6;line-height:1.6}
-a{color:#7fdcff}code{font-family:ui-monospace,monospace;color:#7fdcff}</style></head>
-<body><main>
-<h1>XUCAPHE</h1>
-<p><code>&gt; estafas y hackeos reales, explicados en 1 minuto</code></p>
-<p>Canal de ciberseguridad en español para República Dominicana y Latinoamérica. Esta página pertenece a la herramienta privada con la que el canal publica sus propios vídeos.</p>
-<p><a href="privacidad.html">Política de privacidad</a></p>
-</main></body></html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Xucaphe · Estafas y hackeos explicados en 1 minuto</title>
+<meta name="description" content="Recursos gratis de Xucaphe: checklist para revisar tu web, kit anti-estafas para la familia y qué hacer si te estafaron. Sin registro, sin correos.">
+<style>
+:root{--bg:#02060c;--panel:#07111d;--line:#13263a;--txt:#eaf6ff;--sub:#9fc9e6;--azul:#38c6ff;--rojo:#ff5a6a;--oro:#ffd36b}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--txt);font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;line-height:1.6}
+a{color:var(--azul)}
+.wrap{max-width:760px;margin:0 auto;padding:28px 20px 60px}
+header{text-align:center;padding:30px 0 10px}
+h1{font-size:46px;margin:0;letter-spacing:-1.5px}
+.tag{font-family:ui-monospace,Menlo,monospace;color:var(--azul);margin:6px 0 14px}
+.promesa{display:inline-block;border:1px solid var(--line);border-radius:999px;padding:6px 14px;color:var(--sub);font-size:14px}
+nav{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin:22px 0 8px}
+nav a{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:10px 14px;text-decoration:none;color:var(--txt);font-weight:600}
+nav a:hover,nav a:focus{border-color:var(--azul)}
+section{background:var(--panel);border:1px solid var(--line);border-radius:18px;padding:24px;margin:22px 0}
+h2{margin:0 0 6px;font-size:26px;letter-spacing:-.5px}
+.sello{font-family:ui-monospace,Menlo,monospace;font-size:12px;font-weight:700;letter-spacing:1px;padding:3px 8px;border-radius:6px;color:#02060c;display:inline-block;margin-bottom:10px}
+.azul{background:var(--azul)}.rojo{background:var(--rojo)}.oro{background:var(--oro)}
+p.sub{color:var(--sub);margin:0 0 16px}
+ol.check{list-style:none;padding:0;margin:0;counter-reset:n}
+ol.check li{counter-increment:n;border-top:1px solid var(--line);padding:12px 0}
+ol.check label{display:grid;grid-template-columns:28px 1fr;gap:10px;cursor:pointer}
+ol.check input{width:20px;height:20px;margin-top:3px;accent-color:var(--azul)}
+ol.check b::before{content:counter(n) ". ";color:var(--azul)}
+ol.check span{display:block;color:var(--sub);font-size:15px}
+.barra{height:8px;background:var(--line);border-radius:8px;overflow:hidden;margin:6px 0 2px}
+.barra i{display:block;height:100%;width:0;background:var(--azul);transition:width .2s}
+.prog{font-family:ui-monospace,Menlo,monospace;font-size:13px;color:var(--sub)}
+button{font:inherit;font-weight:700;border:0;border-radius:10px;padding:10px 16px;background:var(--azul);color:#02060c;cursor:pointer;margin-top:14px}
+ul.reglas{padding-left:20px;margin:0}
+ul.reglas li{margin:8px 0}
+.caja{border-left:3px solid var(--oro);padding:4px 0 4px 14px;margin:14px 0;color:var(--sub)}
+footer{text-align:center;color:var(--sub);font-size:14px;margin-top:30px}
+footer p{margin:6px 0}
+@media print{body{background:#fff;color:#000}section{border:1px solid #999;background:#fff}nav,button,header .promesa,footer .app{display:none}p.sub,ol.check span,.caja,footer{color:#333}a{color:#000}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <h1>XUCAPHE</h1>
+  <p class="tag">&gt; estafas y hackeos reales, explicados en 1 minuto</p>
+  <span class="promesa">Todo gratis · sin registrarte · sin pedirte correo · sin anuncios</span>
+  <nav aria-label="Secciones">
+    <a href="#web">Checklist de tu web</a>
+    <a href="#familia">Kit para la familia</a>
+    <a href="#estafa">Me estafaron, ¿y ahora?</a>
+    <a href="https://www.youtube.com/channel/UCQFpMNDpNK0lT_W1X9ETfnw">Canal de YouTube</a>
+  </nav>
+</header>
+
+<section id="web">
+  <span class="sello azul">CHECKLIST GRATIS</span>
+  <h2>Revisa tu web en 15 minutos: 12 revisiones</h2>
+  <p class="sub">Para quien tiene una página con WordPress, PHP o un hosting compartido. Marca cada punto cuando lo revises: se queda guardado solo en tu navegador.</p>
+  <div class="barra" aria-hidden="true"><i id="barra"></i></div>
+  <p class="prog" id="prog">0 de 12 revisadas</p>
+  <ol class="check" id="lista">
+    <li><label><input type="checkbox"><div><b>PHP con soporte de seguridad</b><span>Mira la versión en el panel de tu hosting. PHP 8.1 o anterior ya no recibe parches: toca migrar. Si tu hosting la administra, pide confirmación por escrito.</span></div></label></li>
+    <li><label><input type="checkbox"><div><b>WordPress (o tu gestor) actualizado</b><span>Escritorio &gt; Actualizaciones. Activa las actualizaciones automáticas de seguridad.</span></div></label></li>
+    <li><label><input type="checkbox"><div><b>Plugins y temas al día, y fuera los que no usas</b><span>Un plugin desactivado sigue siendo una puerta si tiene un fallo. Bórralo. Nunca instales plugins "premium" pirateados.</span></div></label></li>
+    <li><label><input type="checkbox"><div><b>HTTPS en todas las páginas</b><span>El candado debe salir siempre, y la versión http:// debe redirigir sola a https://. Revisa que el certificado no esté por vencer.</span></div></label></li>
+    <li><label><input type="checkbox"><div><b>Contraseñas únicas y largas</b><span>Una distinta para el hosting, el panel de la web, el correo y el dominio. Guárdalas en un gestor de contraseñas.</span></div></label></li>
+    <li><label><input type="checkbox"><div><b>Verificación en dos pasos</b><span>Actívala en el hosting, en el panel de administración, en el correo y en la cuenta del dominio. Mejor con app de códigos que con SMS.</span></div></label></li>
+    <li><label><input type="checkbox"><div><b>Usuarios administradores: solo los necesarios</b><span>Borra cuentas viejas de diseñadores o empleados que ya no están. Cada persona, su propia cuenta.</span></div></label></li>
+    <li><label><input type="checkbox"><div><b>Copias de seguridad automáticas, fuera del servidor</b><span>Que se guarden en otro sitio (no solo en el mismo hosting) y prueba una vez restaurar una copia.</span></div></label></li>
+    <li><label><input type="checkbox"><div><b>Accesos por FTP o SSH revisados</b><span>Usa SFTP en vez de FTP, cambia claves que hayas compartido y borra accesos que ya nadie usa.</span></div></label></li>
+    <li><label><input type="checkbox"><div><b>Dominio protegido</b><span>Bloqueo de transferencia activado, renovación automática y un correo de contacto al que sí tienes acceso.</span></div></label></li>
+    <li><label><input type="checkbox"><div><b>Sin errores a la vista</b><span>Los errores de PHP no deben mostrarse a los visitantes (dan pistas a un atacante). Los formularios, con protección contra spam.</span></div></label></li>
+    <li><label><input type="checkbox"><div><b>Avisos activados</b><span>Da de alta tu web en Google Search Console (te avisa de problemas de seguridad) y usa un monitor gratuito que te avise si la web se cae.</span></div></label></li>
+  </ol>
+  <button type="button" id="imprimir">Imprimir o guardar en PDF</button>
+</section>
+
+<section id="familia">
+  <span class="sello rojo">KIT ANTI-ESTAFAS</span>
+  <h2>Para la familia: 3 reglas y una palabra clave</h2>
+  <p class="sub">Mándale esta página a tus papás, abuelos o al grupo de la familia.</p>
+  <ul class="reglas">
+    <li><b>Un código que te llega por mensaje no se le da a nadie.</b> Ni al banco, ni al "courier", ni a un familiar. El banco nunca te lo pide.</li>
+    <li><b>Si te llaman con prisa pidiendo dinero, cuelga y llama tú</b> al número de siempre o al de la página oficial.</li>
+    <li><b>Antes de tocar un enlace, pregunta.</b> Bonos, premios, remesas retenidas o "tu cuenta será bloqueada" casi siempre son estafa.</li>
+  </ul>
+  <div class="caja"><b>La palabra clave familiar:</b> con la IA ya se puede imitar la voz de alguien con unos segundos de audio. Pónganse de acuerdo en persona con una palabra que solo ustedes sepan y que no esté en redes. Si alguien llama llorando "soy yo, me pasó algo", se la pides.</div>
+</section>
+
+<section id="estafa">
+  <span class="sello oro">SI YA PASÓ</span>
+  <h2>Me estafaron o me robaron la cuenta: ¿y ahora?</h2>
+  <ul class="reglas">
+    <li><b>Llama a tu banco ya</b>, al número que viene detrás de tu tarjeta: bloquea la tarjeta y reporta los movimientos. Cuanto antes, más posibilidades hay.</li>
+    <li><b>Cambia la contraseña</b> de la cuenta afectada y del correo, y activa la verificación en dos pasos. Cierra las sesiones abiertas que no reconozcas.</li>
+    <li><b>Guarda las pruebas:</b> capturas de los mensajes, números, enlaces y comprobantes. No borres el chat.</li>
+    <li><b>Avisa a tus contactos</b> si te robaron WhatsApp o una red social: el estafador les va a escribir pidiendo dinero.</li>
+    <li><b>Denuncia.</b> En República Dominicana, ante la Policía Nacional (DICAT, delitos de alta tecnología) o la Procuraduría (PEDATEC). En otro país, en la unidad de delitos informáticos de tu policía.</li>
+  </ul>
+</section>
+
+<footer>
+  <p>¿Una duda, una estafa que quieres que expliquemos o una propuesta? <a href="mailto:Projectsmanagers@proton.me">Projectsmanagers@proton.me</a></p>
+  <p>Contenido educativo de ciberseguridad. Las voces e ilustraciones de los videos se generan con IA.</p>
+  <p class="app">Esta página también identifica la herramienta privada con la que el canal publica sus propios videos. <a href="privacidad.html">Política de privacidad</a></p>
+</footer>
+</div>
+<script>
+(function(){
+  var cajas=[].slice.call(document.querySelectorAll('#lista input'));
+  var KEY='xucaphe-checklist-web';
+  var guardado=[];
+  try{guardado=JSON.parse(localStorage.getItem(KEY)||'[]')}catch(e){}
+  function pintar(){
+    var n=cajas.filter(function(c){return c.checked}).length;
+    document.getElementById('barra').style.width=(n/cajas.length*100)+'%';
+    document.getElementById('prog').textContent=n+' de '+cajas.length+' revisadas'+(n===cajas.length?' · ¡listo!':'');
+  }
+  cajas.forEach(function(c,i){
+    c.checked=!!guardado[i];
+    c.addEventListener('change',function(){
+      try{localStorage.setItem(KEY,JSON.stringify(cajas.map(function(x){return x.checked})))}catch(e){}
+      pintar();
+    });
+  });
+  pintar();
+  document.getElementById('imprimir').addEventListener('click',function(){window.print()});
+})();
+</script>
+</body>
+</html>
