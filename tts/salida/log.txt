@@ -1,13 +1,1 @@
-ERR ep02-t00 gemini-3.1-flash-tts-preview 'content'
-OK ep02-t00 gemini-2.5-flash-preview-tts 167.9s
-ERR ep02-t01 gemini-3.1-flash-tts-preview 'content'
-OK ep02-t01 gemini-2.5-flash-preview-tts 168.6s
-ERR ep02-t02 gemini-3.1-flash-tts-preview 'content'
-OK ep02-t02 gemini-2.5-flash-preview-tts 167.4s
-ERR ep02-t03 gemini-3.1-flash-tts-preview The read operation timed out
-OK ep02-t03 gemini-2.5-flash-preview-tts 157.8s
-ERR ep02-t04 gemini-3.1-flash-tts-preview 'content'
-OK ep02-t04 gemini-2.5-flash-preview-tts 162.2s
-ERR ep02-t05 gemini-3.1-flash-tts-preview 'content'
-OK ep02-t05 gemini-2.5-flash-preview-tts 167.5s
-OK ep02-t06 gemini-3.1-flash-tts-preview 62.4s
+OK ep02-t06 gemini-2.5-flash-preview-tts 62.9s
