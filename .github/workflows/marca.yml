@@ -1,0 +1,36 @@
+name: Traer logo
+on:
+  workflow_dispatch:
+  push:
+    paths: [".github/workflows/marca.yml"]
+permissions:
+  contents: write
+jobs:
+  logo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        run: |
+          mkdir -p marca
+          curl -sL -o marca/avatar-metricool.png "https://static.metricool.com/brand-avatar/6344055/202611/8496335a-94e2-46b2-b74e-415a00cf793a.png" || true
+          python3 - <<'PY'
+          import json, os, urllib.request, urllib.parse
+          d = urllib.parse.urlencode({"client_id": os.environ["YT_CLIENT_ID"], "client_secret": os.environ["YT_CLIENT_SECRET"],
+              "refresh_token": os.environ["YT_REFRESH_TOKEN"], "grant_type": "refresh_token"}).encode()
+          tok = json.load(urllib.request.urlopen("https://oauth2.googleapis.com/token", d, timeout=30))["access_token"]
+          r = urllib.request.Request("https://www.googleapis.com/youtube/v3/channels?part=snippet,brandingSettings&mine=true", headers={"Authorization": "Bearer " + tok})
+          c = json.load(urllib.request.urlopen(r))["items"][0]
+          th = c["snippet"]["thumbnails"]
+          u = (th.get("high") or th.get("medium") or th["default"])["url"].split("=")[0] + "=s1024-c-k-c0x00ffffff-no-rj"
+          urllib.request.urlretrieve(u, "marca/avatar-youtube.jpg")
+          print("desc:", c["snippet"].get("description", "")[:500])
+          b = c.get("brandingSettings", {}).get("image", {}).get("bannerExternalUrl")
+          if b: urllib.request.urlretrieve(b + "=w2560", "marca/banner-youtube.jpg")
+          PY
+          ls -la marca
+          git config user.name "Claude"; git config user.email "noreply@anthropic.com"
+          git add marca && git commit -m "Logo y banner del canal" && git push || true
