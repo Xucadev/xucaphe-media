@@ -1,0 +1,33 @@
+name: Miniaturas YouTube (videos ya subidos)
+on:
+  workflow_dispatch:
+  push:
+    paths: [".github/workflows/miniaturas_yt.yml"]
+jobs:
+  mini:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import json, os, pathlib, urllib.request, urllib.parse
+          d = urllib.parse.urlencode({"client_id": os.environ["YT_CLIENT_ID"], "client_secret": os.environ["YT_CLIENT_SECRET"],
+              "refresh_token": os.environ["YT_REFRESH_TOKEN"], "grant_type": "refresh_token"}).encode()
+          tok = json.load(urllib.request.urlopen("https://oauth2.googleapis.com/token", d, timeout=30))["access_token"]
+          for it in json.load(open("cola.json")):
+              url = (it.get("estado") or {}).get("youtube", {}).get("url")
+              mini = pathlib.Path("portadas") / (pathlib.Path(it.get("video", "")).stem + ".jpg")
+              if not url or not mini.is_file() or it["fecha"] < "2026-11-06":
+                  continue
+              vid = url.rstrip("/").split("/")[-1]
+              r = urllib.request.Request(f"https://www.googleapis.com/upload/youtube/v3/thumbnails/set?videoId={vid}",
+                  data=mini.read_bytes(), headers={"Authorization": "Bearer " + tok, "Content-Type": "image/jpeg"}, method="POST")
+              try:
+                  urllib.request.urlopen(r, timeout=60); print("OK", vid, mini)
+              except urllib.error.HTTPError as e:
+                  print("ERROR", vid, e.code, e.read().decode()[:300])
+          PY
