@@ -1,9 +1,2 @@
-ERR ep03-t00 gemini-3.1-flash-tts-preview 'content'
-ERR ep03-t01 gemini-3.1-flash-tts-preview 'content'
-ERR ep03-t02 gemini-3.1-flash-tts-preview 'content'
-ERR ep03-t03 gemini-3.1-flash-tts-preview 'content'
-ERR ep03-t04 gemini-3.1-flash-tts-preview 'content'
-ERR ep03-t05 gemini-3.1-flash-tts-preview 'content'
-ERR ep03-t06 gemini-3.1-flash-tts-preview 'content'
-ERR ep03-t07 gemini-3.1-flash-tts-preview 'content'
-OK ep03-t08 gemini-3.1-flash-tts-preview 47.6s
+ERR ep03-t00 gemini-3.1-flash-tts-preview sin audio: finishReason=SAFETY feedback={}
+ERR ep03-t01 gemini-3.1-flash-tts-preview sin audio: finishReason=SAFETY feedback={}
