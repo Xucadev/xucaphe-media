@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:00,431
+Chris,
+
+2
+00:00:00,431 --> 00:00:04,404
+¿sabías que hubo un tiempo en que el cifrado se trataba como un arma?
+
+3
+00:00:04,554 --> 00:00:10,752
+En 1991, Phil Zimmermann publicó gratis un programa para cifrar correos.
+
+4
+00:00:10,902 --> 00:00:12,552
+Se llamaba PGP.
+
+5
+00:00:12,702 --> 00:00:15,674
+Mándaselo a quien siempre te pregunta estas cosas.
+
+6
+00:00:15,824 --> 00:00:19,622
+Y el gobierno de Estados Unidos lo investigó durante tres años.
+
+7
+00:00:19,772 --> 00:00:23,646
+En 1996 la cerraron, sin cargos.
+
+8
+00:00:23,796 --> 00:00:26,297
+Hoy WhatsApp y Signal siguen la misma idea.
+
+9
+00:00:26,447 --> 00:00:29,611
+Que solo tú y la otra persona puedan leer lo que escriben.
+
+10
+00:00:29,761 --> 00:00:32,630
+Comenta PGP si no conocías su historia.
+
+11
+00:00:32,630 --> 00:00:33,366
+Y sígueme:
+
+12
+00:00:33,366 --> 00:00:37,343
+más mentes que cambiaron todo.

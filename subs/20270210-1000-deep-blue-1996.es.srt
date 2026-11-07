@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:00,467
+Chris,
+
+2
+00:00:00,467 --> 00:00:04,675
+¿cuándo le ganó por primera vez una máquina al campeón de ajedrez?
+
+3
+00:00:04,825 --> 00:00:08,026
+El 10 de febrero de 1996.
+
+4
+00:00:08,176 --> 00:00:10,439
+La computadora se llamaba Deep Blue.
+
+5
+00:00:10,589 --> 00:00:14,342
+Quédate hasta el final, que lo más importante viene ahora.
+
+6
+00:00:14,492 --> 00:00:18,344
+Le ganó una partida a Garry Kasparov, el campeón del mundo.
+
+7
+00:00:18,494 --> 00:00:20,898
+Kasparov ganó ese encuentro,
+
+8
+00:00:20,898 --> 00:00:24,932
+pero en la revancha de 1997, ganó la máquina.
+
+9
+00:00:25,082 --> 00:00:29,352
+Hoy, la app de ajedrez de tu teléfono juega mejor que un campeón.
+
+10
+00:00:29,502 --> 00:00:32,130
+Comenta AJEDREZ si juegas ajedrez.
+
+11
+00:00:32,130 --> 00:00:32,903
+Y sígueme:
+
+12
+00:00:32,903 --> 00:00:36,373
+más historias de tech.

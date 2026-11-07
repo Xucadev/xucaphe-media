@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:01,182
+A Chris le sale:
+
+2
+00:00:01,182 --> 00:00:03,720
+actualización urgente de seguridad.
+
+3
+00:00:03,870 --> 00:00:06,648
+Dice que la falla ya está siendo aprovechada.
+
+4
+00:00:06,798 --> 00:00:08,680
+Eso es una falla de día cero.
+
+5
+00:00:08,830 --> 00:00:12,843
+Si alguien de tu familia caería en esto, mándale este video.
+
+6
+00:00:12,993 --> 00:00:16,533
+Los atacantes la usan antes de que el fabricante la arregle.
+
+7
+00:00:16,683 --> 00:00:19,539
+El fabricante tuvo cero días para prepararse.
+
+8
+00:00:19,689 --> 00:00:22,562
+Cuando sale el arreglo, se llama parche.
+
+9
+00:00:22,712 --> 00:00:25,947
+Si es de seguridad, instálalo ese mismo día.
+
+10
+00:00:26,097 --> 00:00:29,120
+Comenta PARCHE si actualizas apenas sale.
+
+11
+00:00:29,120 --> 00:00:29,857
+Y sígueme:
+
+12
+00:00:29,857 --> 00:00:33,469
+más tecnología explicada.

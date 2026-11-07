@@ -1,0 +1,43 @@
+1
+00:00:00,100 --> 00:00:04,142
+Chris, imagina una computadora del tamaño de un cuarto entero.
+
+2
+00:00:04,292 --> 00:00:09,666
+Se llamaba ENIAC, y se presentó el 15 de febrero de 1946.
+
+3
+00:00:09,816 --> 00:00:11,860
+Tenía miles de tubos de vacío.
+
+4
+00:00:12,010 --> 00:00:15,073
+Guárdalo ahora, que en el momento se te olvida.
+
+5
+00:00:15,223 --> 00:00:18,205
+Y se programaba conectando cables, a mano.
+
+6
+00:00:18,355 --> 00:00:20,687
+La prensa la llamó cerebro gigante.
+
+7
+00:00:20,837 --> 00:00:24,834
+La programaron seis mujeres que casi nadie mencionó durante décadas.
+
+8
+00:00:24,984 --> 00:00:28,063
+Hoy tu teléfono es millones de veces más potente.
+
+9
+00:00:28,213 --> 00:00:31,226
+Comenta ENIAC si sabías que pesaba tanto.
+
+10
+00:00:31,226 --> 00:00:31,960
+Y sígueme:
+
+11
+00:00:31,960 --> 00:00:35,347
+más historias de tech.

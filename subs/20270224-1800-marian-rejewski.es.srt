@@ -1,0 +1,51 @@
+1
+00:00:00,100 --> 00:00:04,570
+Chris, todos hablan de Turing, pero ¿quién descifró Enigma primero?
+
+2
+00:00:04,720 --> 00:00:06,425
+Un matemático polaco:
+
+3
+00:00:06,425 --> 00:00:07,893
+Marian Rejewski.
+
+4
+00:00:08,043 --> 00:00:11,003
+Enigma era la máquina con la que el ejército alemán
+
+5
+00:00:11,003 --> 00:00:12,391
+cifraba sus mensajes.
+
+6
+00:00:12,541 --> 00:00:15,513
+Mándaselo a quien siempre te pregunta estas cosas.
+
+7
+00:00:15,663 --> 00:00:20,722
+A finales de 1932, la reconstruyó usando matemáticas.
+
+8
+00:00:20,872 --> 00:00:23,785
+En 1939, semanas antes de la guerra,
+
+9
+00:00:23,785 --> 00:00:27,515
+se lo compartieron a británicos y franceses.
+
+10
+00:00:27,665 --> 00:00:31,512
+Ese trabajo fue la base de lo que hizo después el equipo de Turing.
+
+11
+00:00:31,662 --> 00:00:34,601
+Comenta ENIGMA si no conocías su historia.
+
+12
+00:00:34,601 --> 00:00:35,301
+Y sígueme:
+
+13
+00:00:35,301 --> 00:00:39,170
+más mentes que cambiaron todo.

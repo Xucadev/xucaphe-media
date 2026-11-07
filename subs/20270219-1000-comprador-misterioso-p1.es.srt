@@ -1,0 +1,51 @@
+1
+00:00:00,100 --> 00:00:02,647
+A Chris le ofrecen un trabajo fácil:
+
+2
+00:00:02,647 --> 00:00:04,302
+comprador misterioso.
+
+3
+00:00:04,452 --> 00:00:07,007
+Le mandan un cheque de cuarenta mil pesos.
+
+4
+00:00:07,157 --> 00:00:11,591
+Se queda con cinco mil, y el resto lo transfiere para evaluar un envío.
+
+5
+00:00:11,741 --> 00:00:14,491
+El banco ya le muestra el dinero en la cuenta.
+
+6
+00:00:14,641 --> 00:00:16,291
+¿Qué harías tú?
+
+7
+00:00:16,441 --> 00:00:16,621
+A:
+
+8
+00:00:16,621 --> 00:00:20,480
+transfiero, el dinero ya está en mi cuenta.
+
+9
+00:00:20,480 --> 00:00:20,660
+B:
+
+10
+00:00:20,660 --> 00:00:22,535
+no transfiero nada.
+
+11
+00:00:22,685 --> 00:00:25,420
+Comenta DEPOSITO o NO y dime qué harías.
+
+12
+00:00:25,420 --> 00:00:28,155
+La parte 2 sale hoy a las 6 de la tarde.
+
+13
+00:00:28,155 --> 00:00:31,771
+Sígueme para no perdértela.

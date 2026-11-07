@@ -1,0 +1,63 @@
+1
+00:00:00,100 --> 00:00:02,946
+El teléfono de Chris sigue emparejado con el carro que
+
+2
+00:00:02,946 --> 00:00:04,171
+alquiló hace un año.
+
+3
+00:00:04,321 --> 00:00:06,905
+Cada aparato emparejado se queda guardado.
+
+4
+00:00:07,055 --> 00:00:11,220
+Bocinas prestadas, audífonos viejos, carros alquilados.
+
+5
+00:00:11,370 --> 00:00:14,433
+Guárdalo ahora, que en el momento se te olvida.
+
+6
+00:00:14,583 --> 00:00:14,870
+Uno:
+
+7
+00:00:14,870 --> 00:00:17,487
+abre Ajustes y entra en Bluetooth.
+
+8
+00:00:17,637 --> 00:00:17,929
+Dos:
+
+9
+00:00:17,929 --> 00:00:21,383
+toca cada uno que ya no uses y elige Olvidar.
+
+10
+00:00:21,533 --> 00:00:23,649
+Sobre todo el del carro alquilado:
+
+11
+00:00:23,649 --> 00:00:25,560
+ahí se quedan tus contactos.
+
+12
+00:00:25,710 --> 00:00:26,049
+Tres:
+
+13
+00:00:26,049 --> 00:00:28,728
+apaga el Bluetooth cuando no lo uses.
+
+14
+00:00:28,878 --> 00:00:31,785
+Comenta BORRÉ cuantos aparatos borraste.
+
+15
+00:00:31,785 --> 00:00:32,512
+Y sígueme:
+
+16
+00:00:32,512 --> 00:00:36,390
+mañana hay otro hack del día.

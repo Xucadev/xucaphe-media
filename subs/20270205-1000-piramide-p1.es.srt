@@ -1,0 +1,55 @@
+1
+00:00:00,100 --> 00:00:03,330
+Un amigo de toda la vida le habla a Chris de una inversión.
+
+2
+00:00:03,480 --> 00:00:07,952
+Pones cincuenta mil pesos, y cada semana te pagan un diez por ciento.
+
+3
+00:00:08,102 --> 00:00:10,535
+Le enseña los depósitos que ya recibió.
+
+4
+00:00:10,685 --> 00:00:13,460
+Y si traes a otros, te dan un bono.
+
+5
+00:00:13,610 --> 00:00:14,747
+Es tu amigo.
+
+6
+00:00:14,747 --> 00:00:16,169
+No te mentiría.
+
+7
+00:00:16,169 --> 00:00:17,097
+¿Entras?
+
+8
+00:00:17,247 --> 00:00:17,447
+A:
+
+9
+00:00:17,447 --> 00:00:19,953
+entro, que ya le pagaron.
+
+10
+00:00:19,953 --> 00:00:20,153
+B:
+
+11
+00:00:20,153 --> 00:00:23,329
+no entro, aunque sea mi amigo.
+
+12
+00:00:23,479 --> 00:00:26,022
+Comenta ENTRO o NO y dime qué harías.
+
+13
+00:00:26,022 --> 00:00:28,771
+La parte 2 sale hoy a las 6 de la tarde.
+
+14
+00:00:28,771 --> 00:00:32,396
+Sígueme para no perdértela.

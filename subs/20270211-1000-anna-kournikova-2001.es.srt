@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:03,317
+Chris, ¿abrirías una foto que te manda un amigo?
+
+2
+00:00:03,467 --> 00:00:06,798
+En febrero de 2001, millones lo hicieron.
+
+3
+00:00:06,948 --> 00:00:09,998
+El correo prometía una foto de una tenista famosa.
+
+4
+00:00:10,148 --> 00:00:13,211
+Guárdalo ahora, que en el momento se te olvida.
+
+5
+00:00:13,361 --> 00:00:16,877
+El archivo parecía una imagen, pero era un programa.
+
+6
+00:00:17,027 --> 00:00:20,569
+Al abrirlo, se reenviaba solo a todos tus contactos.
+
+7
+00:00:20,719 --> 00:00:22,848
+En horas llenó millones de buzones.
+
+8
+00:00:22,998 --> 00:00:24,570
+Hoy el truco es igual:
+
+9
+00:00:24,570 --> 00:00:27,026
+si no lo esperabas, no lo abras.
+
+10
+00:00:27,176 --> 00:00:31,334
+Comenta FOTO si alguna vez abriste un adjunto por curiosidad.
+
+11
+00:00:31,334 --> 00:00:32,016
+Y sígueme:
+
+12
+00:00:32,016 --> 00:00:35,286
+más historias de tech.

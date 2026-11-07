@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:01,593
+Chris apagó el Wi-Fi…
+
+2
+00:00:01,593 --> 00:00:04,464
+pero su teléfono sigue buscando redes.
+
+3
+00:00:04,614 --> 00:00:07,610
+Muchos Android buscan Wi-Fi y Bluetooth siempre.
+
+4
+00:00:07,760 --> 00:00:09,418
+Para mejorar la ubicación.
+
+5
+00:00:09,568 --> 00:00:12,079
+Guárdalo, y pruébalo hoy mismo.
+
+6
+00:00:12,229 --> 00:00:14,469
+Entra a Ajustes, Ubicación.
+
+7
+00:00:14,619 --> 00:00:16,491
+Toca Servicios de ubicación.
+
+8
+00:00:16,641 --> 00:00:19,146
+Y apaga la búsqueda de Wi-Fi y de Bluetooth.
+
+9
+00:00:19,296 --> 00:00:22,325
+Ahorras batería y tu teléfono deja de anunciarse.
+
+10
+00:00:22,475 --> 00:00:25,246
+Comenta ESCANEO si lo tenías activado.
+
+11
+00:00:25,246 --> 00:00:25,975
+Y sígueme:
+
+12
+00:00:25,975 --> 00:00:29,860
+mañana hay otro hack del día.

@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:03,482
+Chris, ¿qué harías si tu vida dependiera de un cálculo?
+
+2
+00:00:03,632 --> 00:00:04,240
+En 1962,
+
+3
+00:00:04,240 --> 00:00:09,504
+John Glenn iba a ser el primer estadounidense en orbitar la Tierra.
+
+4
+00:00:09,654 --> 00:00:14,003
+Los cálculos los hizo una computadora electrónica, algo muy nuevo.
+
+5
+00:00:14,153 --> 00:00:17,126
+Mándaselo a quien siempre te pregunta estas cosas.
+
+6
+00:00:17,276 --> 00:00:20,307
+Pero Glenn pidió que una persona los revisara a mano.
+
+7
+00:00:20,457 --> 00:00:24,286
+Esa persona era Katherine Johnson, matemática de la NASA.
+
+8
+00:00:24,436 --> 00:00:27,335
+También hizo cálculos para las misiones a la Luna.
+
+9
+00:00:27,485 --> 00:00:30,658
+Murió en 2020, a los ciento un años.
+
+10
+00:00:30,808 --> 00:00:33,877
+Comenta CÁLCULOS si no conocías su historia.
+
+11
+00:00:33,877 --> 00:00:34,575
+Y sígueme:
+
+12
+00:00:34,575 --> 00:00:38,437
+más mentes que cambiaron todo.

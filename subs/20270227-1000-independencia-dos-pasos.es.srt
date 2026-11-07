@@ -1,0 +1,51 @@
+1
+00:00:00,100 --> 00:00:02,389
+Feliz 27 de febrero, Chris.
+
+2
+00:00:02,389 --> 00:00:04,932
+Hoy toca otra independencia.
+
+3
+00:00:05,082 --> 00:00:08,606
+Quien tiene tu correo puede recuperar casi todas tus cuentas.
+
+4
+00:00:08,756 --> 00:00:12,654
+Por eso, hoy, verificación en dos pasos en el correo.
+
+5
+00:00:12,804 --> 00:00:15,866
+Guárdalo ahora, que en el momento se te olvida.
+
+6
+00:00:16,016 --> 00:00:16,768
+En Gmail:
+
+7
+00:00:16,768 --> 00:00:19,525
+tu cuenta de Google, Seguridad.
+
+8
+00:00:19,675 --> 00:00:23,178
+Toca Verificación en dos pasos, y sigue los pasos.
+
+9
+00:00:23,328 --> 00:00:26,507
+Mejor con una app de autenticación que por SMS.
+
+10
+00:00:26,657 --> 00:00:28,342
+Hazlo hoy con tu familia.
+
+11
+00:00:28,492 --> 00:00:30,818
+Comenta LIBRE cuando lo actives.
+
+12
+00:00:30,818 --> 00:00:31,545
+Y sígueme:
+
+13
+00:00:31,545 --> 00:00:35,423
+mañana hay otro hack del día.

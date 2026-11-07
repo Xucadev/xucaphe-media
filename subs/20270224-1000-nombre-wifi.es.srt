@@ -1,0 +1,51 @@
+1
+00:00:00,100 --> 00:00:02,085
+La red de Chris se llama:
+
+2
+00:00:02,085 --> 00:00:03,922
+Familia de Chris, 3B.
+
+3
+00:00:04,072 --> 00:00:06,784
+Cualquiera cerca sabe quién vive ahí y dónde.
+
+4
+00:00:06,934 --> 00:00:09,734
+Y el nombre de fábrica dice qué router tienes.
+
+5
+00:00:09,884 --> 00:00:12,947
+Guárdalo ahora, que en el momento se te olvida.
+
+6
+00:00:13,097 --> 00:00:15,073
+Eso ayuda a buscarle fallas.
+
+7
+00:00:15,223 --> 00:00:18,412
+Entra a la configuración del router y cámbiale el nombre.
+
+8
+00:00:18,562 --> 00:00:21,070
+Uno que no diga quién eres ni dónde vives.
+
+9
+00:00:21,220 --> 00:00:22,077
+Y aprovecha:
+
+10
+00:00:22,077 --> 00:00:24,174
+cambia la clave de fábrica.
+
+11
+00:00:24,324 --> 00:00:27,308
+Comenta NOMBRE cuando le cambies el nombre.
+
+12
+00:00:27,308 --> 00:00:28,002
+Y sígueme:
+
+13
+00:00:28,002 --> 00:00:31,784
+mañana hay otro hack del día.

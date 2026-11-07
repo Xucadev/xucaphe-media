@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:03,476
+Chris, ¿cuándo empezó el GPS que usas para el mapa?
+
+2
+00:00:03,626 --> 00:00:08,799
+El 22 de febrero de 1978, subió el primer satélite.
+
+3
+00:00:08,949 --> 00:00:10,666
+Era un proyecto militar.
+
+4
+00:00:10,816 --> 00:00:14,570
+Quédate hasta el final, que lo más importante viene ahora.
+
+5
+00:00:14,720 --> 00:00:17,050
+Años después se abrió para uso civil.
+
+6
+00:00:17,200 --> 00:00:19,413
+El GPS solo recibe señales.
+
+7
+00:00:19,413 --> 00:00:21,387
+No manda tu ubicación.
+
+8
+00:00:21,537 --> 00:00:24,090
+La mandan las apps a las que les das permiso.
+
+9
+00:00:24,240 --> 00:00:25,890
+Revisa cuáles son.
+
+10
+00:00:26,040 --> 00:00:29,219
+Comenta GPS si usas GPS todos los días.
+
+11
+00:00:29,219 --> 00:00:30,034
+Y sígueme:
+
+12
+00:00:30,034 --> 00:00:33,598
+más historias de tech.

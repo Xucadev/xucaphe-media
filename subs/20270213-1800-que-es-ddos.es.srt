@@ -1,0 +1,51 @@
+1
+00:00:00,100 --> 00:00:03,025
+La página de su banco no le carga a Chris.
+
+2
+00:00:03,025 --> 00:00:05,005
+Están bajo un ataque DDoS.
+
+3
+00:00:05,155 --> 00:00:06,017
+Imagínalo así:
+
+4
+00:00:06,017 --> 00:00:09,387
+miles de personas llamando al mismo número a la vez.
+
+5
+00:00:09,537 --> 00:00:13,439
+La línea se satura, y los clientes de verdad no pueden entrar.
+
+6
+00:00:13,589 --> 00:00:17,602
+Si alguien de tu familia caería en esto, mándale este video.
+
+7
+00:00:17,752 --> 00:00:20,876
+Los atacantes usan miles de aparatos infectados.
+
+8
+00:00:21,026 --> 00:00:24,981
+No roba datos por sí solo, pero deja todo sin servicio.
+
+9
+00:00:25,131 --> 00:00:28,406
+Y tu cámara o tu router podrían estar participando.
+
+10
+00:00:28,556 --> 00:00:30,458
+Cámbiales la clave de fábrica.
+
+11
+00:00:30,608 --> 00:00:34,906
+Comenta TRÁFICO si alguna vez una página no te cargó por esto.
+
+12
+00:00:34,906 --> 00:00:35,599
+Y sígueme:
+
+13
+00:00:35,599 --> 00:00:39,102
+más tecnología explicada.

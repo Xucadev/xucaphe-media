@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:03,249
+Chris mandó una cotización y su cliente nunca la vio.
+
+2
+00:00:03,399 --> 00:00:05,244
+Estaba en la carpeta de spam.
+
+3
+00:00:05,394 --> 00:00:08,653
+El correo revisa quién manda el mensaje y desde dónde.
+
+4
+00:00:08,803 --> 00:00:12,816
+Si alguien de tu familia caería en esto, mándale este video.
+
+5
+00:00:12,966 --> 00:00:15,064
+Si se parece a una estafa:
+
+6
+00:00:15,064 --> 00:00:17,977
+mayúsculas, gratis, enlaces raros.
+
+7
+00:00:18,127 --> 00:00:20,903
+Y si otras personas ya lo marcaron como spam.
+
+8
+00:00:21,053 --> 00:00:26,110
+Si tienes negocio, pide que te configuren SPF, DKIM y DMARC.
+
+9
+00:00:26,260 --> 00:00:29,057
+Son las firmas que prueban que el correo es tuyo.
+
+10
+00:00:29,207 --> 00:00:33,059
+Comenta SPAM si te ha pasado con un correo importante.
+
+11
+00:00:33,059 --> 00:00:33,773
+Y sígueme:
+
+12
+00:00:33,773 --> 00:00:37,398
+cada semana, más por qués.

@@ -1,0 +1,43 @@
+1
+00:00:00,100 --> 00:00:03,724
+Chris se pregunta si su teléfono guarda una foto de su huella.
+
+2
+00:00:03,874 --> 00:00:05,524
+No exactamente.
+
+3
+00:00:05,674 --> 00:00:08,554
+El sensor lee los puntos y las líneas de tu dedo.
+
+4
+00:00:08,704 --> 00:00:11,766
+Guárdalo ahora, que en el momento se te olvida.
+
+5
+00:00:11,916 --> 00:00:14,591
+Y los convierte en una plantilla matemática.
+
+6
+00:00:14,741 --> 00:00:18,043
+Se guarda cifrada, en una parte especial del chip.
+
+7
+00:00:18,193 --> 00:00:21,506
+No sale del teléfono, ni se manda a internet.
+
+8
+00:00:21,656 --> 00:00:24,707
+Pero para el banco, combínala con un código.
+
+9
+00:00:24,857 --> 00:00:27,319
+Comenta HUELLA si usas la huella.
+
+10
+00:00:27,319 --> 00:00:28,065
+Y sígueme:
+
+11
+00:00:28,065 --> 00:00:31,700
+más tecnología explicada.

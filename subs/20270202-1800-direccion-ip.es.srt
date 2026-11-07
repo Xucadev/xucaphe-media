@@ -1,0 +1,51 @@
+1
+00:00:00,100 --> 00:00:02,619
+Alguien le escribe a Chris en un juego:
+
+2
+00:00:02,619 --> 00:00:03,693
+"tengo tu IP".
+
+3
+00:00:03,843 --> 00:00:05,550
+¿Qué es una dirección IP?
+
+4
+00:00:05,700 --> 00:00:07,342
+Es el número de tu conexión,
+
+5
+00:00:07,342 --> 00:00:10,152
+como la dirección de una casa para los datos.
+
+6
+00:00:10,302 --> 00:00:13,274
+Mándaselo a quien siempre te pregunta estas cosas.
+
+7
+00:00:13,424 --> 00:00:17,489
+La da tu compañía de internet, y cambia cada cierto tiempo.
+
+8
+00:00:17,639 --> 00:00:21,048
+Con ella se sabe, más o menos, tu ciudad.
+
+9
+00:00:21,198 --> 00:00:23,121
+Pero no tu casa ni tu nombre.
+
+10
+00:00:23,271 --> 00:00:26,006
+"Tengo tu IP" casi siempre es para asustarte.
+
+11
+00:00:26,156 --> 00:00:29,617
+Comenta IP si alguien te ha amenazado con tu IP.
+
+12
+00:00:29,617 --> 00:00:30,338
+Y sígueme:
+
+13
+00:00:30,338 --> 00:00:33,910
+más tecnología explicada.

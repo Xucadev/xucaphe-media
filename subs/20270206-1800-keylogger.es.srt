@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:03,640
+Chris entró a su banco desde la computadora de un cibercafé.
+
+2
+00:00:03,790 --> 00:00:06,119
+Esa computadora tenía un keylogger.
+
+3
+00:00:06,269 --> 00:00:09,049
+Es un programa que guarda todo lo que escribes.
+
+4
+00:00:09,199 --> 00:00:12,171
+Mándaselo a quien siempre te pregunta estas cosas.
+
+5
+00:00:12,321 --> 00:00:15,495
+Claves, mensajes, números de tarjeta.
+
+6
+00:00:15,645 --> 00:00:19,118
+Llega escondido en programas piratas o archivos adjuntos.
+
+7
+00:00:19,268 --> 00:00:22,244
+No entres a tu banco desde computadoras ajenas.
+
+8
+00:00:22,394 --> 00:00:24,868
+Y activa la verificación en dos pasos:
+
+9
+00:00:24,868 --> 00:00:26,991
+así una clave robada no basta.
+
+10
+00:00:27,141 --> 00:00:30,408
+Comenta TECLAS si usas computadoras públicas.
+
+11
+00:00:30,408 --> 00:00:31,135
+Y sígueme:
+
+12
+00:00:31,135 --> 00:00:34,720
+más tecnología explicada.

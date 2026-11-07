@@ -1,0 +1,51 @@
+1
+00:00:00,100 --> 00:00:02,472
+A la oficina de Chris llega un correo:
+
+2
+00:00:02,472 --> 00:00:03,766
+factura pendiente.
+
+3
+00:00:03,916 --> 00:00:05,606
+Trae un archivo adjunto.
+
+4
+00:00:05,756 --> 00:00:08,516
+Al abrirlo, pide habilitar contenido.
+
+5
+00:00:08,666 --> 00:00:12,680
+Si alguien de tu familia caería en esto, mándale este video.
+
+6
+00:00:12,830 --> 00:00:15,554
+Y ahí se instala un programa que roba claves.
+
+7
+00:00:15,704 --> 00:00:16,191
+O peor:
+
+8
+00:00:16,191 --> 00:00:18,656
+uno que secuestra la computadora.
+
+9
+00:00:18,806 --> 00:00:21,827
+Si no esperabas esa factura, no la abras.
+
+10
+00:00:21,977 --> 00:00:24,427
+Confirma con el proveedor por otro canal.
+
+11
+00:00:24,577 --> 00:00:28,255
+Comenta FACTURA si te llegó una que no reconocías.
+
+12
+00:00:28,255 --> 00:00:28,990
+Y sígueme:
+
+13
+00:00:28,990 --> 00:00:32,893
+pronto, otra estafa expuesta.

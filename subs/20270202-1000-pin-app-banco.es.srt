@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:02,864
+A Chris le vieron el código mientras desbloqueaba el
+
+2
+00:00:02,864 --> 00:00:04,204
+teléfono en la guagua.
+
+3
+00:00:04,354 --> 00:00:06,004
+Después se lo roban.
+
+4
+00:00:06,154 --> 00:00:09,666
+Lo primero que prueban es ese mismo código en la app del banco.
+
+5
+00:00:09,816 --> 00:00:12,879
+Guárdalo ahora, que en el momento se te olvida.
+
+6
+00:00:13,029 --> 00:00:14,679
+Revísalo hoy.
+
+7
+00:00:14,829 --> 00:00:17,456
+Abre la app de tu banco y entra en Seguridad.
+
+8
+00:00:17,606 --> 00:00:20,098
+Ponle su propia clave, o la huella.
+
+9
+00:00:20,248 --> 00:00:23,805
+Que no sea la del teléfono, ni tu fecha de nacimiento.
+
+10
+00:00:23,955 --> 00:00:26,180
+Comenta PIN cuando lo cambies.
+
+11
+00:00:26,180 --> 00:00:26,921
+Y sígueme:
+
+12
+00:00:26,921 --> 00:00:30,842
+mañana hay otro hack del día.

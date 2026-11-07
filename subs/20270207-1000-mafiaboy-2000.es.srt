@@ -1,0 +1,43 @@
+1
+00:00:00,100 --> 00:00:03,659
+Chris, ¿sabías que un chico de quince años tumbó a Yahoo?
+
+2
+00:00:03,809 --> 00:00:06,283
+Fue el 7 de febrero del año 2000.
+
+3
+00:00:06,433 --> 00:00:09,086
+La página dejó de funcionar durante horas.
+
+4
+00:00:09,236 --> 00:00:12,299
+Guárdalo ahora, que en el momento se te olvida.
+
+5
+00:00:12,449 --> 00:00:17,053
+Usó computadoras ajenas, infectadas, para inundarla de tráfico.
+
+6
+00:00:17,203 --> 00:00:19,779
+Se llama ataque de denegación de servicio.
+
+7
+00:00:19,929 --> 00:00:22,239
+Lo atraparon porque presumió en foros.
+
+8
+00:00:22,389 --> 00:00:26,597
+Y muchas de esas computadoras eran de gente común, sin saberlo.
+
+9
+00:00:26,747 --> 00:00:30,102
+Comenta MAFIABOY si no conocías esta historia.
+
+10
+00:00:30,102 --> 00:00:30,831
+Y sígueme:
+
+11
+00:00:30,831 --> 00:00:34,206
+más historias de tech.

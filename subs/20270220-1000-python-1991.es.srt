@@ -1,0 +1,43 @@
+1
+00:00:00,100 --> 00:00:03,150
+Chris, ¿sabes por qué Python se llama Python?
+
+2
+00:00:03,300 --> 00:00:07,739
+La primera versión salió el 20 de febrero de 1991.
+
+3
+00:00:07,889 --> 00:00:10,999
+La publicó el programador holandés Guido van Rossum.
+
+4
+00:00:11,149 --> 00:00:14,902
+Quédate hasta el final, que lo más importante viene ahora.
+
+5
+00:00:15,052 --> 00:00:17,359
+Y el nombre no viene de la serpiente.
+
+6
+00:00:17,509 --> 00:00:20,712
+Viene de un programa de comedia británico que le gustaba.
+
+7
+00:00:20,862 --> 00:00:24,517
+Hoy con Python se hace gran parte de la inteligencia artificial.
+
+8
+00:00:24,667 --> 00:00:27,411
+Y es de los más fáciles para empezar a programar.
+
+9
+00:00:27,561 --> 00:00:30,859
+Comenta PYTHON si estás aprendiendo a programar.
+
+10
+00:00:30,859 --> 00:00:31,546
+Y sígueme:
+
+11
+00:00:31,546 --> 00:00:34,827
+más historias de tech.

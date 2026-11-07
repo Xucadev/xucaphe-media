@@ -1,0 +1,51 @@
+1
+00:00:00,100 --> 00:00:03,169
+Una app de linterna sabe dónde está Chris todo el día.
+
+2
+00:00:03,319 --> 00:00:05,551
+Tiene permiso de ubicación siempre.
+
+3
+00:00:05,701 --> 00:00:07,351
+Aunque esté cerrada.
+
+4
+00:00:07,501 --> 00:00:10,011
+Guárdalo, y pruébalo hoy mismo.
+
+5
+00:00:10,161 --> 00:00:10,960
+En iPhone:
+
+6
+00:00:10,960 --> 00:00:14,083
+Privacidad y seguridad, Localización.
+
+7
+00:00:14,233 --> 00:00:15,135
+En Android:
+
+8
+00:00:15,135 --> 00:00:17,600
+Ubicación, Permisos de apps.
+
+9
+00:00:17,750 --> 00:00:20,324
+Cambia a Al usar la app, o Nunca.
+
+10
+00:00:20,474 --> 00:00:23,504
+Deja siempre solo para la app que encuentra tu teléfono.
+
+11
+00:00:23,654 --> 00:00:27,487
+Comenta UBICACIÓN cuantas apps tenían permiso siempre.
+
+12
+00:00:27,487 --> 00:00:28,197
+Y sígueme:
+
+13
+00:00:28,197 --> 00:00:32,025
+mañana hay otro hack del día.
