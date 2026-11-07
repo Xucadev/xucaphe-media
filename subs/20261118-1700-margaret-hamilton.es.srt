@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:00,419
+Chris,
+
+2
+00:00:00,419 --> 00:00:04,204
+¿sabes quién escribió el software que llevó al ser humano a la Luna?
+
+3
+00:00:04,354 --> 00:00:08,028
+Su equipo lo dirigía Margaret Hamilton, en el MIT.
+
+4
+00:00:08,178 --> 00:00:13,596
+En el alunizaje de 1969, la computadora empezó a dar alarmas.
+
+5
+00:00:13,746 --> 00:00:16,718
+Mándaselo a quien siempre te pregunta estas cosas.
+
+6
+00:00:16,868 --> 00:00:18,820
+Estaba saturada de trabajo.
+
+7
+00:00:18,970 --> 00:00:22,220
+Pero el sistema de su equipo atendió primero lo importante.
+
+8
+00:00:22,370 --> 00:00:24,020
+Y el aterrizaje siguió.
+
+9
+00:00:24,170 --> 00:00:27,315
+A ella se le atribuye el término ingeniería de software.
+
+10
+00:00:27,465 --> 00:00:30,235
+Comenta LUNA si no conocías su historia.
+
+11
+00:00:30,235 --> 00:00:30,928
+Y sígueme:
+
+12
+00:00:30,928 --> 00:00:34,776
+más mentes que cambiaron todo.

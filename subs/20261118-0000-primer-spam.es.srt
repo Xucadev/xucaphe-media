@@ -1,0 +1,51 @@
+1
+00:00:00,100 --> 00:00:03,721
+Chris, ¿sabes cuándo se mandó el primer spam de la historia?
+
+2
+00:00:03,871 --> 00:00:08,871
+En 1978, mucho antes de que existiera el internet de hoy.
+
+3
+00:00:09,021 --> 00:00:11,803
+Un vendedor de computadoras, Gary Thuerk,
+
+4
+00:00:11,803 --> 00:00:14,890
+le escribió a unas 400 personas de ARPANET.
+
+5
+00:00:15,040 --> 00:00:18,103
+Guárdalo ahora, que en el momento se te olvida.
+
+6
+00:00:18,253 --> 00:00:21,255
+El correo invitaba a ver sus computadoras nuevas.
+
+7
+00:00:21,405 --> 00:00:22,498
+La gente se quejó,
+
+8
+00:00:22,498 --> 00:00:26,009
+y los administradores de la red regañaron a la empresa.
+
+9
+00:00:26,159 --> 00:00:29,312
+Hoy el spam es la puerta de entrada de muchas estafas.
+
+10
+00:00:29,462 --> 00:00:32,064
+Si no lo pediste, no le hagas clic.
+
+11
+00:00:32,214 --> 00:00:34,854
+Comenta SPAM si hoy te llegó alguno.
+
+12
+00:00:34,854 --> 00:00:35,588
+Y sígueme:
+
+13
+00:00:35,588 --> 00:00:38,971
+más historias de tech.

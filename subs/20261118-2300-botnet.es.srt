@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:04,453
+La cámara de la casa de Chris está atacando a otros, y él no lo sabe.
+
+2
+00:00:04,603 --> 00:00:06,253
+Es parte de una botnet.
+
+3
+00:00:06,403 --> 00:00:10,495
+Un ejército de aparatos infectados, controlados a distancia.
+
+4
+00:00:10,645 --> 00:00:13,708
+Guárdalo ahora, que en el momento se te olvida.
+
+5
+00:00:13,858 --> 00:00:19,262
+En 2016, una llamada Mirai usó cientos de miles de cámaras y grabadores.
+
+6
+00:00:19,412 --> 00:00:21,965
+Todos tenían la contraseña de fábrica.
+
+7
+00:00:22,115 --> 00:00:25,642
+Con ellos tumbaron por horas servicios muy usados de internet.
+
+8
+00:00:25,792 --> 00:00:28,867
+Cambia la contraseña de fábrica de tus cámaras y tu
+
+9
+00:00:28,867 --> 00:00:30,423
+router, y actualízalos.
+
+10
+00:00:30,573 --> 00:00:34,299
+Comenta ZOMBI si tu cámara tiene la clave de fábrica.
+
+11
+00:00:34,299 --> 00:00:35,002
+Y sígueme:
+
+12
+00:00:35,002 --> 00:00:38,529
+más tecnología explicada.

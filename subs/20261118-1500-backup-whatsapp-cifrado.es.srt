@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:03,370
+Chris cree que todos sus chats de WhatsApp están protegidos.
+
+2
+00:00:03,520 --> 00:00:05,742
+Los mensajes sí viajan cifrados.
+
+3
+00:00:05,892 --> 00:00:09,992
+Pero la copia de seguridad en la nube, no, si no lo activas.
+
+4
+00:00:10,142 --> 00:00:12,653
+Guárdalo, y pruébalo hoy mismo.
+
+5
+00:00:12,803 --> 00:00:15,624
+Entra a WhatsApp, Ajustes, Chats.
+
+6
+00:00:15,774 --> 00:00:17,474
+Toca Copia de seguridad.
+
+7
+00:00:17,624 --> 00:00:20,381
+Y activa la copia cifrada de extremo a extremo.
+
+8
+00:00:20,531 --> 00:00:21,950
+Guarda bien la clave:
+
+9
+00:00:21,950 --> 00:00:25,026
+si la pierdes, no hay forma de recuperarla.
+
+10
+00:00:25,176 --> 00:00:27,668
+Comenta CIFRADO cuando lo actives.
+
+11
+00:00:27,668 --> 00:00:28,401
+Y sígueme:
+
+12
+00:00:28,401 --> 00:00:32,296
+mañana hay otro hack del día.

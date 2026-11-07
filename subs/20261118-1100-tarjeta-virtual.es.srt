@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:03,104
+La tienda donde Chris compró sufrió una filtración.
+
+2
+00:00:03,254 --> 00:00:04,852
+Pero él no se preocupa:
+
+3
+00:00:04,852 --> 00:00:06,690
+usó una tarjeta virtual.
+
+4
+00:00:06,840 --> 00:00:09,823
+Es un número distinto al de tu tarjeta física.
+
+5
+00:00:09,973 --> 00:00:13,036
+Guárdalo ahora, que en el momento se te olvida.
+
+6
+00:00:13,186 --> 00:00:15,218
+La creas en la app de tu banco.
+
+7
+00:00:15,368 --> 00:00:18,754
+Le pones un límite de gasto, y compras con ella.
+
+8
+00:00:18,904 --> 00:00:23,320
+Si hay problema, la borras, y tu tarjeta de verdad sigue intacta.
+
+9
+00:00:23,470 --> 00:00:26,540
+Búscala como tarjeta virtual o tarjeta digital.
+
+10
+00:00:26,690 --> 00:00:29,331
+Comenta VIRTUAL si tu banco la tiene.
+
+11
+00:00:29,331 --> 00:00:30,044
+Y sígueme:
+
+12
+00:00:30,044 --> 00:00:33,884
+mañana hay otro hack del día.

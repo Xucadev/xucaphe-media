@@ -1,0 +1,43 @@
+1
+00:00:00,100 --> 00:00:02,748
+Chris ve un puntito verde arriba de la pantalla.
+
+2
+00:00:02,898 --> 00:00:05,646
+Significa que una app está usando la cámara.
+
+3
+00:00:05,796 --> 00:00:08,262
+Si es naranja, es el micrófono.
+
+4
+00:00:08,412 --> 00:00:11,475
+Guárdalo ahora, que en el momento se te olvida.
+
+5
+00:00:11,625 --> 00:00:15,543
+Si lo ves sin usar ninguna, desliza el centro de control.
+
+6
+00:00:15,693 --> 00:00:17,343
+Ahí te dice qué app fue.
+
+7
+00:00:17,493 --> 00:00:21,042
+Y en Ajustes, Privacidad, quítale el permiso.
+
+8
+00:00:21,192 --> 00:00:24,015
+Una app de linterna no necesita tu micrófono.
+
+9
+00:00:24,165 --> 00:00:27,458
+Comenta PUNTO si alguna vez lo viste sin razón.
+
+10
+00:00:27,458 --> 00:00:28,158
+Y sígueme:
+
+11
+00:00:28,158 --> 00:00:31,960
+mañana hay otro hack del día.

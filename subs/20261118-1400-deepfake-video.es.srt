@@ -1,0 +1,63 @@
+1
+00:00:00,100 --> 00:00:03,787
+A Chris le mandan un video de un famoso recomendando una inversión.
+
+2
+00:00:03,937 --> 00:00:06,263
+Pero ese famoso nunca dijo eso.
+
+3
+00:00:06,413 --> 00:00:07,408
+Es un deepfake:
+
+4
+00:00:07,408 --> 00:00:10,430
+un video hecho con inteligencia artificial.
+
+5
+00:00:10,580 --> 00:00:13,643
+Guárdalo ahora, que en el momento se te olvida.
+
+6
+00:00:13,793 --> 00:00:14,526
+Pista uno:
+
+7
+00:00:14,526 --> 00:00:16,823
+la boca no cuadra con la voz.
+
+8
+00:00:16,973 --> 00:00:17,707
+Pista dos:
+
+9
+00:00:17,707 --> 00:00:20,299
+parpadeos raros y la mirada fija.
+
+10
+00:00:20,449 --> 00:00:21,180
+Pista tres:
+
+11
+00:00:21,180 --> 00:00:23,809
+bordes borrosos en la cara o el pelo.
+
+12
+00:00:23,959 --> 00:00:25,791
+Pero la mejor prueba es otra:
+
+13
+00:00:25,791 --> 00:00:27,855
+búscalo en un medio confiable.
+
+14
+00:00:28,005 --> 00:00:31,398
+Comenta FALSO si alguna vez dudaste de un video.
+
+15
+00:00:31,398 --> 00:00:32,104
+Y sígueme:
+
+16
+00:00:32,104 --> 00:00:35,641
+más tecnología explicada.

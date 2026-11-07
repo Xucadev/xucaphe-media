@@ -1,0 +1,51 @@
+1
+00:00:00,100 --> 00:00:02,177
+A Chris le llega un SMS:
+
+2
+00:00:02,177 --> 00:00:03,558
+debe un peaje.
+
+3
+00:00:03,708 --> 00:00:05,867
+"Pague hoy o le cobramos una multa".
+
+4
+00:00:06,017 --> 00:00:08,996
+El enlace lleva a una página que copia la del peaje.
+
+5
+00:00:09,146 --> 00:00:13,159
+Si alguien de tu familia caería en esto, mándale este video.
+
+6
+00:00:13,309 --> 00:00:14,984
+Y ahí te piden la tarjeta.
+
+7
+00:00:15,134 --> 00:00:20,045
+El FBI alertó de esta estafa en 2024, con miles de denuncias.
+
+8
+00:00:20,195 --> 00:00:20,977
+Qué hacer:
+
+9
+00:00:20,977 --> 00:00:22,713
+no toques el enlace.
+
+10
+00:00:22,863 --> 00:00:26,263
+Revisa tu saldo entrando tú a la app oficial del peaje.
+
+11
+00:00:26,413 --> 00:00:29,102
+Comenta PEAJE si te llegó uno así.
+
+12
+00:00:29,102 --> 00:00:29,893
+Y sígueme:
+
+13
+00:00:29,893 --> 00:00:33,956
+pronto, otra estafa expuesta.

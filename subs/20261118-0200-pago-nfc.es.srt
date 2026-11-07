@@ -1,0 +1,51 @@
+1
+00:00:00,100 --> 00:00:02,901
+Chris paga el café acercando el teléfono.
+
+2
+00:00:02,901 --> 00:00:03,823
+¿Es seguro?
+
+3
+00:00:03,973 --> 00:00:06,594
+Eso usa una conexión llamada NFC.
+
+4
+00:00:06,744 --> 00:00:09,314
+Solo funciona a unos pocos centímetros.
+
+5
+00:00:09,464 --> 00:00:13,217
+Quédate hasta el final, que lo más importante viene ahora.
+
+6
+00:00:13,367 --> 00:00:16,308
+Y la tienda no recibe el número real de tu tarjeta.
+
+7
+00:00:16,458 --> 00:00:19,836
+Recibe un número sustituto que sirve solo para ese pago.
+
+8
+00:00:19,986 --> 00:00:21,643
+El punto débil es otro:
+
+9
+00:00:21,643 --> 00:00:23,542
+un teléfono sin bloqueo.
+
+10
+00:00:23,692 --> 00:00:28,217
+Ponle huella o código, y pagar así es más seguro que pasar la tarjeta.
+
+11
+00:00:28,367 --> 00:00:31,519
+Comenta NFC si ya pagas con el teléfono.
+
+12
+00:00:31,519 --> 00:00:32,308
+Y sígueme:
+
+13
+00:00:32,308 --> 00:00:36,048
+más tecnología explicada.
