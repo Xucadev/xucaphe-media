@@ -17,6 +17,9 @@ for item in pedido["items"]:
                                      data=json.dumps(body).encode(), headers={"Content-Type": "application/json", "x-goog-api-key": KEY})
         try:
             r = json.load(urllib.request.urlopen(req, timeout=480))
+            c0 = (r.get("candidates") or [{}])[0]
+            if "content" not in c0:
+                raise RuntimeError(f"sin audio: finishReason={c0.get('finishReason')} feedback={json.dumps(r.get('promptFeedback', {}))[:200]}")
             pcm = base64.b64decode(r["candidates"][0]["content"]["parts"][0]["inlineData"]["data"])
             with wave.open(f"tts/salida/{item['id']}.wav", "wb") as w:
                 w.setnchannels(1); w.setsampwidth(2); w.setframerate(24000); w.writeframes(pcm)
