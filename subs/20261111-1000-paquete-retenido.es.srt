@@ -1,0 +1,63 @@
+1
+00:00:00,000 --> 00:00:03,720
+Tu paquete está retenido, paga 150 pesos para liberarlo,
+
+2
+00:00:03,980 --> 00:00:05,140
+ese mensaje es falso.
+
+3
+00:00:05,440 --> 00:00:08,360
+Le llega a todo el que está esperando algo del courier.
+
+4
+00:00:08,760 --> 00:00:12,080
+Funciona porque el monto es chiquito, nadie piensa mucho
+
+5
+00:00:12,080 --> 00:00:13,820
+para pagar 150 pesos.
+
+6
+00:00:14,180 --> 00:00:17,560
+Pero no quieren tus 150 pesos, quieren tu tarjeta.
+
+7
+00:00:17,920 --> 00:00:20,700
+El enlace te lleva a una página copiada, que te pide
+
+8
+00:00:20,700 --> 00:00:22,720
+número, fecha y código de seguridad.
+
+9
+00:00:23,080 --> 00:00:25,300
+Con eso hacen compras con tu tarjeta.
+
+10
+00:00:25,620 --> 00:00:26,680
+Así lo detectas.
+
+11
+00:00:27,280 --> 00:00:30,440
+El enlace no es la página oficial de tu courier y te mete
+
+12
+00:00:30,440 --> 00:00:31,240
+prisa.
+
+13
+00:00:31,300 --> 00:00:34,120
+No toques el enlace, entra tú a la app o la web de tu
+
+14
+00:00:34,120 --> 00:00:35,900
+courier y revisa ahí tu paquete.
+
+15
+00:00:36,280 --> 00:00:38,260
+Mándaselo a quien compra todo por internet.
+
+16
+00:00:38,600 --> 00:00:39,980
+Mañana otro hack del día.

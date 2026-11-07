@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:03,500
+Una llave olvidada durante cinco meses fue todo lo que
+
+2
+00:00:03,500 --> 00:00:06,340
+hizo falta para atacar una herramienta de inteligencia
+
+3
+00:00:06,340 --> 00:00:07,780
+artificial muy usada.
+
+4
+00:00:08,080 --> 00:00:10,980
+Se llama LiteLLM y conecta apps con modelos de
+
+5
+00:00:10,980 --> 00:00:12,140
+inteligencia artificial.
+
+6
+00:00:12,560 --> 00:00:13,420
+Esto es lo que pasó.
+
+7
+00:00:13,900 --> 00:00:17,400
+El 27 de mayo alguien subió por error una llave maestra
+
+8
+00:00:17,400 --> 00:00:18,620
+a un repositorio público.
+
+9
+00:00:19,100 --> 00:00:20,200
+Nadie la revocó.
+
+10
+00:00:20,960 --> 00:00:23,820
+Cinco meses después esa llave seguía funcionando.
+
+11
+00:00:24,140 --> 00:00:26,540
+Con ella los atacantes consiguieron acceso de
+
+12
+00:00:26,540 --> 00:00:30,120
+administrador, sacaron más credenciales y publicaron una
+
+13
+00:00:30,120 --> 00:00:31,300
+versión maliciosa.
+
+14
+00:00:31,540 --> 00:00:33,460
+Estuvo disponible unas dos horas.
+
+15
+00:00:33,820 --> 00:00:37,120
+Lo más loco no hizo falta inteligencia artificial ni un
+
+16
+00:00:37,120 --> 00:00:37,920
+día cero.
+
+17
+00:00:37,920 --> 00:00:40,100
+Solo una credencial que nadie revocó.
+
+18
+00:00:40,460 --> 00:00:43,240
+Si alguna vez subiste una llave a GitHub y borrarlo no
+
+19
+00:00:43,240 --> 00:00:44,540
+basta, cambia la llave.
+
+20
+00:00:44,860 --> 00:00:47,940
+Cuando fue la última vez que cambiaste las tuyas, te leo
+
+21
+00:00:47,940 --> 00:00:48,740
+en los comentarios.

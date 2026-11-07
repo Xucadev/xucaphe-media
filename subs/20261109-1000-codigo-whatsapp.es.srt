@@ -1,0 +1,75 @@
+1
+00:00:00,000 --> 00:00:02,700
+Te escribe un amigo, te mandé un código por error, me lo
+
+2
+00:00:02,700 --> 00:00:04,180
+pasas, no se lo pases.
+
+3
+00:00:04,560 --> 00:00:07,260
+Ese código no es de tu amigo, es la llave de tu
+
+4
+00:00:07,260 --> 00:00:08,060
+WhatsApp.
+
+5
+00:00:08,040 --> 00:00:10,360
+Te explico cómo funciona en tres pasos.
+
+6
+00:00:10,760 --> 00:00:13,800
+Uno, alguien intenta registrar tu número de WhatsApp en
+
+7
+00:00:13,800 --> 00:00:14,600
+otro teléfono.
+
+8
+00:00:14,960 --> 00:00:17,560
+Dos, a ti te llega un código de seis dígitos por
+
+9
+00:00:17,560 --> 00:00:18,360
+mensaje.
+
+10
+00:00:18,460 --> 00:00:20,800
+Tres, te lo piden desde la cuenta de alguien que ya
+
+11
+00:00:20,800 --> 00:00:22,600
+cayó, por eso parece tu amigo.
+
+12
+00:00:23,000 --> 00:00:25,760
+Si lo pasas, entran a tu WhatsApp y siguen con tus
+
+13
+00:00:25,760 --> 00:00:26,560
+contactos.
+
+14
+00:00:26,620 --> 00:00:28,680
+Y la defensa se activa en un minuto.
+
+15
+00:00:28,680 --> 00:00:32,360
+Ajustes, Cuenta, verificación en dos pasos, crea un PIN.
+
+16
+00:00:32,720 --> 00:00:35,600
+Y la regla de oro, un código que te llega a ti no se le
+
+17
+00:00:35,600 --> 00:00:36,500
+da a nadie, nunca.
+
+18
+00:00:37,080 --> 00:00:40,020
+Mándaselo al grupo de la familia mañana otro acte del
+
+19
+00:00:40,020 --> 00:00:40,820
+día.

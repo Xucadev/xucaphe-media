@@ -1,0 +1,63 @@
+1
+00:00:00,000 --> 00:00:03,200
+No abriste el archivo, no hiciste clic y aún así podían
+
+2
+00:00:03,200 --> 00:00:04,000
+entrar.
+
+3
+00:00:04,000 --> 00:00:06,500
+Esto pasó en Windows y se corrigió en octubre.
+
+4
+00:00:06,880 --> 00:00:09,800
+La falla estaba en la extensión que muestra imágenes RW
+
+5
+00:00:09,800 --> 00:00:13,220
+doble las de las cámaras profesionales, cuando Windows
+
+6
+00:00:13,220 --> 00:00:16,220
+genera la miniatura o la vista previa de una imagen.
+
+7
+00:00:16,600 --> 00:00:19,540
+Una imagen preparada podía ejecutar código en tu
+
+8
+00:00:19,540 --> 00:00:20,340
+computadora.
+
+9
+00:00:20,640 --> 00:00:22,620
+Gravedad 9,8 sobre 10.
+
+10
+00:00:23,040 --> 00:00:26,020
+Imagínalo, te pasan una carpeta de fotos, la abres para
+
+11
+00:00:26,020 --> 00:00:27,100
+ver qué hay y ya.
+
+12
+00:00:27,100 --> 00:00:29,980
+Por eso las actualizaciones no se posponen.
+
+13
+00:00:30,380 --> 00:00:32,580
+Ve a Configuración, Windows Update y busca
+
+14
+00:00:32,580 --> 00:00:34,020
+actualizaciones, ahora.
+
+15
+00:00:34,460 --> 00:00:36,900
+Y si conoces a alguien con el recordar más tarde
+
+16
+00:00:36,900 --> 00:00:39,320
+activado desde hace meses, mándale esto.

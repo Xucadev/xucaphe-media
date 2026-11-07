@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:02,940
+Se llama tu banco, te dice que hay un cargo raro y te
+
+2
+00:00:02,940 --> 00:00:04,200
+pide un código, cuelga.
+
+3
+00:00:04,620 --> 00:00:07,400
+Se llama vishing y la superintendencia de bancos ya
+
+4
+00:00:07,400 --> 00:00:08,440
+advirtió sobre esto.
+
+5
+00:00:08,860 --> 00:00:11,400
+Es phishing pero por teléfono y funciona porque
+
+6
+00:00:11,400 --> 00:00:12,600
+confiamos en una voz.
+
+7
+00:00:13,020 --> 00:00:16,040
+La superintendencia da tres señales casi infalibles.
+
+8
+00:00:16,500 --> 00:00:19,240
+Una urgencia tiene que hacerlo ahora o perderá su
+
+9
+00:00:19,240 --> 00:00:20,040
+dinero.
+
+10
+00:00:19,980 --> 00:00:23,140
+Dos te piden datos sensibles, tu clave, el token, el
+
+11
+00:00:23,140 --> 00:00:25,640
+código de seguridad de la tarjeta o el código que te
+
+12
+00:00:25,640 --> 00:00:26,440
+llegó.
+
+13
+00:00:26,260 --> 00:00:28,860
+Tres te llaman a horas raras fuera del horario del
+
+14
+00:00:28,860 --> 00:00:29,660
+banco.
+
+15
+00:00:29,060 --> 00:00:31,560
+Y la clave para salvarte es esta.
+
+16
+00:00:32,000 --> 00:00:34,120
+Cuelga y llama tú al número que está detrás de tu
+
+17
+00:00:34,120 --> 00:00:37,280
+tarjeta o en la app oficial, nunca al número que te
+
+18
+00:00:37,280 --> 00:00:38,080
+dieron.
+
+19
+00:00:38,080 --> 00:00:41,180
+Si ya diste tus datos, bloquea la tarjeta, cambia tus
+
+20
+00:00:41,180 --> 00:00:42,260
+claves y denuncia.
+
+21
+00:00:42,700 --> 00:00:45,440
+Mándaselo a tus papás mañana otro hack del día.

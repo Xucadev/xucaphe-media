@@ -1,0 +1,63 @@
+1
+00:00:00,000 --> 00:00:03,180
+Si usas la misma contraseña en todo, basta con que se
+
+2
+00:00:03,180 --> 00:00:05,300
+filtre una página para que entren a todas.
+
+3
+00:00:05,560 --> 00:00:08,560
+Se llama relleno de credenciales y está automatizado.
+
+4
+00:00:09,020 --> 00:00:09,820
+Así pasa.
+
+5
+00:00:10,820 --> 00:00:13,060
+Uno, una tienda o un foro cualquiera sufre una
+
+6
+00:00:13,060 --> 00:00:16,220
+filtración y tu correo y tu clave quedan publicados.
+
+7
+00:00:16,620 --> 00:00:19,420
+Dos, un programa prueba esa combinación en miles de
+
+8
+00:00:19,420 --> 00:00:20,460
+páginas en minutos.
+
+9
+00:00:20,920 --> 00:00:23,880
+Tres, donde repetiste la clave, entran como si fueran
+
+10
+00:00:23,880 --> 00:00:24,680
+tú.
+
+11
+00:00:24,360 --> 00:00:25,660
+¿Cómo te sales de esto?
+
+12
+00:00:25,660 --> 00:00:28,960
+Una clave distinta para cada cuenta y para no
+
+13
+00:00:28,960 --> 00:00:31,080
+memorizarlas un gestor de contraseñas.
+
+14
+00:00:31,280 --> 00:00:34,220
+Empieza hoy por tres, tu correo, tu banco y tus redes.
+
+15
+00:00:34,700 --> 00:00:37,400
+Mándaselo a quien usa la misma clave desde 2015.
+
+16
+00:00:37,960 --> 00:00:39,360
+Mañana otro hack del día.

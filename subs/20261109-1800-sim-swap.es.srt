@@ -1,0 +1,79 @@
+1
+00:00:00,000 --> 00:00:03,320
+Te quedas sin señal de repente, y mientras alguien está
+
+2
+00:00:03,320 --> 00:00:04,320
+entrando a tu banco.
+
+3
+00:00:04,700 --> 00:00:07,760
+Se llama SIM swap y no necesitan tocar tu teléfono.
+
+4
+00:00:08,160 --> 00:00:09,920
+Así funciona en tres pasos.
+
+5
+00:00:10,360 --> 00:00:13,540
+Uno, juntan tus datos, nombre, cédula, tu número, muchas
+
+6
+00:00:13,540 --> 00:00:15,120
+veces de filtraciones o redes.
+
+7
+00:00:15,520 --> 00:00:18,420
+Dos, se hacen pasar por ti ante la operadora y piden
+
+8
+00:00:18,420 --> 00:00:20,100
+pasar tu número a una SIM nueva.
+
+9
+00:00:20,500 --> 00:00:23,860
+Tres, desde ese momento, los códigos por mensajes llegan
+
+10
+00:00:23,860 --> 00:00:24,660
+a ellos.
+
+11
+00:00:24,660 --> 00:00:27,720
+Con esos códigos recuperan tu correo, tus redes y tu
+
+12
+00:00:27,720 --> 00:00:28,520
+bank.
+
+13
+00:00:27,940 --> 00:00:32,260
+Así te blindas, donde se pueda, cambia los códigos por
+
+14
+00:00:32,260 --> 00:00:35,520
+mensaje por una app autenticadora o por llave de acceso.
+
+15
+00:00:35,940 --> 00:00:39,020
+Pregunta en tu operadora si puedes ponerle una clave a
+
+16
+00:00:39,020 --> 00:00:40,560
+tu línea para cambios de SIM.
+
+17
+00:00:40,900 --> 00:00:43,860
+Si te quedas sin señal, sin razón, llama a tu operadora
+
+18
+00:00:43,860 --> 00:00:45,140
+desde otro teléfono ya.
+
+19
+00:00:45,560 --> 00:00:48,740
+Mándaselo a quien tiene todo en el teléfono, mañana otro
+
+20
+00:00:48,740 --> 00:00:49,540
+hack del día.

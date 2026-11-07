@@ -1,0 +1,63 @@
+1
+00:00:00,000 --> 00:00:02,800
+Esa extensión del navegador que instalaste para bajar
+
+2
+00:00:02,800 --> 00:00:05,460
+videos puede estar leyendo todo lo que escribes.
+
+3
+00:00:05,840 --> 00:00:09,060
+Las extensiones viven dentro de tu navegador y muchas
+
+4
+00:00:09,060 --> 00:00:11,460
+piden permiso para ver todas tus páginas.
+
+5
+00:00:11,820 --> 00:00:13,500
+Así se vuelven peligrosas.
+
+6
+00:00:13,860 --> 00:00:16,540
+Uno, instalas una que funciona bien y se te olvida.
+
+7
+00:00:17,040 --> 00:00:19,880
+Dos, su dueño la vende o le roban la cuenta y alguien
+
+8
+00:00:19,880 --> 00:00:20,720
+más la controla.
+
+9
+00:00:21,060 --> 00:00:24,020
+Tres, una actualización automática le mete código que
+
+10
+00:00:24,020 --> 00:00:25,180
+roba sesiones y datos.
+
+11
+00:00:25,680 --> 00:00:27,180
+Haz esta limpieza hoy.
+
+12
+00:00:27,180 --> 00:00:30,380
+Abre la lista de extensiones de tu navegador y borra
+
+13
+00:00:30,380 --> 00:00:33,480
+todas las que no usas y desconfía de las que piden ver
+
+14
+00:00:33,480 --> 00:00:35,460
+todos tus sitios sin necesitarlo.
+
+15
+00:00:35,820 --> 00:00:39,020
+Mándaselo a quien tiene 20 extensiones instaladas mañana
+
+16
+00:00:39,020 --> 00:00:40,200
+otro hack del día.

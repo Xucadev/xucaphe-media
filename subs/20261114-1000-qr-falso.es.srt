@@ -1,0 +1,55 @@
+1
+00:00:00,000 --> 00:00:03,040
+Escaneas un código QR para pagar el parqueo o ver el
+
+2
+00:00:03,040 --> 00:00:05,340
+menú y te llevan a una página falsa.
+
+3
+00:00:05,600 --> 00:00:08,080
+Se llama quishing: phishing, pero con códigos QR.
+
+4
+00:00:08,700 --> 00:00:09,520
+Funciona así.
+
+5
+00:00:10,380 --> 00:00:13,200
+Uno, pegan un QR falso encima del original, en un
+
+6
+00:00:13,200 --> 00:00:14,940
+letrero, un parquímetro o una mesa.
+
+7
+00:00:15,360 --> 00:00:18,520
+Dos, el QR abre una página copiada que se ve oficial.
+
+8
+00:00:19,000 --> 00:00:22,120
+Tres, te pide tu tarjeta o tus datos y cómo escaneaste
+
+9
+00:00:22,120 --> 00:00:22,920
+tu confías.
+
+10
+00:00:23,260 --> 00:00:24,160
+Así no caes.
+
+11
+00:00:24,800 --> 00:00:27,480
+Antes de abrir, mira la dirección que te muestra la
+
+12
+00:00:27,480 --> 00:00:29,420
+cámara si es rara no entres.
+
+13
+00:00:29,420 --> 00:00:32,960
+Mándaselo a quien escanea todo sin mirar, mañana otro
+
+14
+00:00:32,960 --> 00:00:33,760
+hack del día.
