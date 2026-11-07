@@ -1,1 +1,2 @@
-OK ep03-t00 gemini-2.5-flash-preview-tts 136.8s
+OK ep03-t04 gemini-2.5-flash-preview-tts 120.1s
+OK ep03-t05 gemini-2.5-flash-preview-tts 112.4s
