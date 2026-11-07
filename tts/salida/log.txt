@@ -1,2 +1,1 @@
 ERR ep03-t00 gemini-3.1-flash-tts-preview sin audio: finishReason=SAFETY feedback={}
-ERR ep03-t01 gemini-3.1-flash-tts-preview sin audio: finishReason=SAFETY feedback={}
