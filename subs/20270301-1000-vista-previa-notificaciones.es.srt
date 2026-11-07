@@ -1,0 +1,51 @@
+1
+00:00:00,100 --> 00:00:02,409
+Chris deja el teléfono en la mesa…
+
+2
+00:00:02,409 --> 00:00:04,481
+y se ve el código del banco.
+
+3
+00:00:04,631 --> 00:00:08,247
+Con la pantalla bloqueada, los mensajes se leen igual.
+
+4
+00:00:08,397 --> 00:00:10,422
+Cualquiera que pase puede verlos.
+
+5
+00:00:10,572 --> 00:00:13,635
+Guárdalo ahora, que en el momento se te olvida.
+
+6
+00:00:13,785 --> 00:00:14,558
+En iPhone:
+
+7
+00:00:14,558 --> 00:00:19,288
+Notificaciones, Mostrar vista previa, Si está desbloqueado.
+
+8
+00:00:19,438 --> 00:00:20,292
+En Android:
+
+9
+00:00:20,292 --> 00:00:24,731
+Notificaciones, pantalla de bloqueo, ocultar contenido.
+
+10
+00:00:24,881 --> 00:00:27,897
+Así solo ves el aviso, no el mensaje.
+
+11
+00:00:28,047 --> 00:00:30,470
+Comenta OCULTÉ cuando lo cambies.
+
+12
+00:00:30,470 --> 00:00:31,205
+Y sígueme:
+
+13
+00:00:31,205 --> 00:00:35,105
+mañana hay otro hack del día.

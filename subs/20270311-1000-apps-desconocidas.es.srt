@@ -1,0 +1,43 @@
+1
+00:00:00,100 --> 00:00:03,091
+A Chris le mandan un enlace con la "app nueva" del banco.
+
+2
+00:00:03,241 --> 00:00:06,043
+Si tu WhatsApp tiene permiso para instalar apps…
+
+3
+00:00:06,193 --> 00:00:08,567
+…esa app falsa se instala con dos toques.
+
+4
+00:00:08,717 --> 00:00:11,780
+Guárdalo ahora, que en el momento se te olvida.
+
+5
+00:00:11,930 --> 00:00:13,185
+Busca en Ajustes:
+
+6
+00:00:13,185 --> 00:00:15,347
+Instalar apps desconocidas.
+
+7
+00:00:15,497 --> 00:00:19,522
+Quítale el permiso a todas, sobre todo al navegador y WhatsApp.
+
+8
+00:00:19,672 --> 00:00:22,301
+Las apps del banco se bajan solo de la tienda.
+
+9
+00:00:22,451 --> 00:00:25,656
+Comenta BLOQUEÉ si alguna app tenía el permiso.
+
+10
+00:00:25,656 --> 00:00:26,338
+Y sígueme:
+
+11
+00:00:26,338 --> 00:00:30,086
+mañana hay otro hack del día.

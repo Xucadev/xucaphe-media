@@ -1,0 +1,39 @@
+1
+00:00:00,100 --> 00:00:03,516
+A la página del negocio de Chris le llega un aviso de Meta.
+
+2
+00:00:03,666 --> 00:00:07,992
+"Su página será eliminada en 24 horas por infracción."
+
+3
+00:00:08,142 --> 00:00:11,093
+El enlace pide su clave y el código de dos pasos.
+
+4
+00:00:11,243 --> 00:00:13,798
+Mándaselo a tus papás antes de que les llegue.
+
+5
+00:00:13,948 --> 00:00:16,597
+Los avisos reales aparecen dentro de la app.
+
+6
+00:00:16,747 --> 00:00:19,419
+No entres por enlaces de mensajes ni correos.
+
+7
+00:00:19,569 --> 00:00:22,150
+Y nunca des tu código de dos pasos a nadie.
+
+8
+00:00:22,300 --> 00:00:25,415
+Comenta PÁGINA si te llegó un aviso así.
+
+9
+00:00:25,415 --> 00:00:26,193
+Y sígueme:
+
+10
+00:00:26,193 --> 00:00:30,221
+pronto, otra estafa expuesta.

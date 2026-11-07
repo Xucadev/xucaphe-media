@@ -1,0 +1,43 @@
+1
+00:00:00,100 --> 00:00:02,271
+Chris llega al parqueo de la playa.
+
+2
+00:00:02,421 --> 00:00:03,442
+Ve un cartel:
+
+3
+00:00:03,442 --> 00:00:05,184
+"Pague aquí con QR".
+
+4
+00:00:05,334 --> 00:00:07,713
+Se abre una página y paga con tarjeta.
+
+5
+00:00:07,863 --> 00:00:10,267
+Esa noche le llegan cargos que no hizo.
+
+6
+00:00:10,417 --> 00:00:13,397
+El QR era una pegatina encima del original.
+
+7
+00:00:13,547 --> 00:00:16,177
+Mira la dirección antes de abrir la página.
+
+8
+00:00:16,327 --> 00:00:20,162
+Si un QR de la calle te pide la tarjeta, paga en efectivo.
+
+9
+00:00:20,312 --> 00:00:23,725
+Comenta PAGO si has pagado con QR en la calle.
+
+10
+00:00:23,725 --> 00:00:24,467
+Y sígueme:
+
+11
+00:00:24,467 --> 00:00:28,388
+pronto, otra estafa expuesta.

@@ -1,0 +1,43 @@
+1
+00:00:00,100 --> 00:00:03,302
+Chris, ¿cuál era el arma del hacker más buscado?
+
+2
+00:00:03,452 --> 00:00:05,816
+Kevin Mitnick no usaba un programa:
+
+3
+00:00:05,816 --> 00:00:07,202
+usaba el teléfono.
+
+4
+00:00:07,352 --> 00:00:10,627
+Llamaba haciéndose pasar por un compañero o un técnico.
+
+5
+00:00:10,777 --> 00:00:14,791
+Si alguien de tu familia caería en esto, mándale este video.
+
+6
+00:00:14,941 --> 00:00:17,637
+Y sacaba claves con amabilidad y urgencia.
+
+7
+00:00:17,787 --> 00:00:20,071
+A eso se le llama ingeniería social.
+
+8
+00:00:20,221 --> 00:00:23,023
+Después enseñó a las empresas a defenderse.
+
+9
+00:00:23,173 --> 00:00:25,993
+Comenta LLAMADA si conocías su historia.
+
+10
+00:00:25,993 --> 00:00:26,698
+Y sígueme:
+
+11
+00:00:26,698 --> 00:00:30,582
+más mentes que cambiaron todo.

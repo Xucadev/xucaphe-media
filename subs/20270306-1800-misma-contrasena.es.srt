@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:02,299
+Chris usa la misma clave en todo.
+
+2
+00:00:02,299 --> 00:00:03,734
+¿Qué tiene de malo?
+
+3
+00:00:03,884 --> 00:00:07,080
+Cuando una página se filtra, las claves circulan.
+
+4
+00:00:07,230 --> 00:00:10,302
+Los atacantes las prueban solas en otras páginas.
+
+5
+00:00:10,452 --> 00:00:13,424
+Mándaselo a quien siempre te pregunta estas cosas.
+
+6
+00:00:13,574 --> 00:00:16,334
+El correo, las redes, el banco.
+
+7
+00:00:16,484 --> 00:00:18,617
+Una sola filtración te abre todo.
+
+8
+00:00:18,767 --> 00:00:21,893
+Usa una clave distinta en cada cuenta y un gestor.
+
+9
+00:00:22,043 --> 00:00:24,424
+Y activa la verificación en dos pasos.
+
+10
+00:00:24,574 --> 00:00:27,604
+Comenta CAMBIÉ si usas la misma en todo.
+
+11
+00:00:27,604 --> 00:00:28,361
+Y sígueme:
+
+12
+00:00:28,361 --> 00:00:32,101
+cada semana, más por qués.

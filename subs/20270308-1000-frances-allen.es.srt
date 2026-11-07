@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:03,816
+Chris, ¿quién fue la primera mujer en ganar el Premio Turing?
+
+2
+00:00:03,966 --> 00:00:05,325
+Frances Allen.
+
+3
+00:00:05,325 --> 00:00:09,861
+Entró a IBM en 1957 para enseñar a programar.
+
+4
+00:00:10,011 --> 00:00:12,192
+Se quedó 45 años.
+
+5
+00:00:12,342 --> 00:00:16,095
+Quédate hasta el final, que lo más importante viene ahora.
+
+6
+00:00:16,245 --> 00:00:17,919
+Trabajó en los compiladores:
+
+7
+00:00:17,919 --> 00:00:21,496
+traducen el código para la máquina y lo hacen más rápido.
+
+8
+00:00:21,646 --> 00:00:26,287
+En 2006 ganó el Premio Turing, el más importante de la informática.
+
+9
+00:00:26,437 --> 00:00:28,708
+Feliz Día Internacional de la Mujer.
+
+10
+00:00:28,858 --> 00:00:31,734
+Comenta ALLEN si no conocías su historia.
+
+11
+00:00:31,734 --> 00:00:32,436
+Y sígueme:
+
+12
+00:00:32,436 --> 00:00:36,310
+más mentes que cambiaron todo.

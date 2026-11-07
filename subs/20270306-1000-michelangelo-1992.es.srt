@@ -1,0 +1,43 @@
+1
+00:00:00,100 --> 00:00:03,462
+Chris, ¿cuál fue el primer gran pánico por un virus?
+
+2
+00:00:03,612 --> 00:00:08,310
+El virus Michelangelo, un 6 de marzo de 1992.
+
+3
+00:00:08,460 --> 00:00:11,362
+Se escondía en el arranque y se pasaba en disquetes.
+
+4
+00:00:11,512 --> 00:00:15,265
+Quédate hasta el final, que lo más importante viene ahora.
+
+5
+00:00:15,415 --> 00:00:18,585
+Cada 6 de marzo, borraba datos del disco.
+
+6
+00:00:18,735 --> 00:00:21,412
+Las noticias lo hicieron un pánico mundial.
+
+7
+00:00:21,562 --> 00:00:25,224
+Infectó menos de lo que se dijo, pero dejó una lección:
+
+8
+00:00:25,224 --> 00:00:26,659
+copia de seguridad.
+
+9
+00:00:26,809 --> 00:00:30,391
+Comenta MICHELANGELO si te acuerdas de los disquetes.
+
+10
+00:00:30,391 --> 00:00:31,067
+Y sígueme:
+
+11
+00:00:31,067 --> 00:00:34,323
+más historias de tech.

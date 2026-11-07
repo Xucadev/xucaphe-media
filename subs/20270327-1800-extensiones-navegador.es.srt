@@ -1,0 +1,43 @@
+1
+00:00:00,100 --> 00:00:03,199
+Chris abre su navegador y tiene doce extensiones.
+
+2
+00:00:03,349 --> 00:00:06,449
+Muchas pueden leer todo lo que haces en cada página.
+
+3
+00:00:06,599 --> 00:00:08,630
+Incluso en la página del banco.
+
+4
+00:00:08,780 --> 00:00:11,290
+Guárdalo, y pruébalo hoy mismo.
+
+5
+00:00:11,440 --> 00:00:12,080
+Chrome:
+
+6
+00:00:12,080 --> 00:00:15,080
+menú, Extensiones, Administrar.
+
+7
+00:00:15,230 --> 00:00:17,434
+Revisa los permisos de cada una.
+
+8
+00:00:17,584 --> 00:00:20,161
+Y borra las que no uses o no reconozcas.
+
+9
+00:00:20,311 --> 00:00:23,432
+Comenta BORRÉ cuantas extensiones borraste.
+
+10
+00:00:23,432 --> 00:00:24,158
+Y sígueme:
+
+11
+00:00:24,158 --> 00:00:28,033
+mañana hay otro hack del día.

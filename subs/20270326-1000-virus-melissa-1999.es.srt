@@ -1,0 +1,39 @@
+1
+00:00:00,100 --> 00:00:03,358
+Chris, ¿qué virus se mandaba solo a tus contactos?
+
+2
+00:00:03,508 --> 00:00:08,048
+Melissa, el 26 de marzo de 1999.
+
+3
+00:00:08,198 --> 00:00:10,817
+Venía escondido en un documento de Word.
+
+4
+00:00:10,967 --> 00:00:14,721
+Quédate hasta el final, que lo más importante viene ahora.
+
+5
+00:00:14,871 --> 00:00:18,589
+Al abrirlo, se enviaba a los primeros 50 contactos.
+
+6
+00:00:18,739 --> 00:00:21,919
+Como llegaba de un conocido, la gente lo abría.
+
+7
+00:00:22,069 --> 00:00:25,245
+Un archivo de un conocido también puede ser peligroso.
+
+8
+00:00:25,395 --> 00:00:28,517
+Comenta ADJUNTO si abres todos los adjuntos.
+
+9
+00:00:28,517 --> 00:00:29,226
+Y sígueme:
+
+10
+00:00:29,226 --> 00:00:32,557
+más historias de tech.

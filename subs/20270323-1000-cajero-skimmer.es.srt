@@ -1,0 +1,55 @@
+1
+00:00:00,100 --> 00:00:02,933
+Chris va a sacar dinero en un cajero de la calle.
+
+2
+00:00:03,083 --> 00:00:06,196
+Pegan aparatos en la ranura para copiar la tarjeta.
+
+3
+00:00:06,346 --> 00:00:06,711
+Uno:
+
+4
+00:00:06,711 --> 00:00:08,172
+mueve la ranura.
+
+5
+00:00:08,172 --> 00:00:10,532
+Si se mueve, no la uses.
+
+6
+00:00:10,682 --> 00:00:13,745
+Guárdalo ahora, que en el momento se te olvida.
+
+7
+00:00:13,895 --> 00:00:14,191
+Dos:
+
+8
+00:00:14,191 --> 00:00:17,401
+mira si el teclado está flojo o más alto.
+
+9
+00:00:17,551 --> 00:00:17,931
+Tres:
+
+10
+00:00:17,931 --> 00:00:20,231
+tapa el teclado con la mano.
+
+11
+00:00:20,381 --> 00:00:23,179
+Mejor, cajeros dentro de una sucursal.
+
+12
+00:00:23,329 --> 00:00:25,912
+Comenta CAJERO si ahora lo revisas.
+
+13
+00:00:25,912 --> 00:00:26,650
+Y sígueme:
+
+14
+00:00:26,650 --> 00:00:30,560
+mañana hay otro hack del día.

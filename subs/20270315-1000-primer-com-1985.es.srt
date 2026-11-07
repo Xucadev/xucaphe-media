@@ -1,0 +1,39 @@
+1
+00:00:00,100 --> 00:00:03,178
+Chris, ¿cuál fue el primer punto com de internet?
+
+2
+00:00:03,328 --> 00:00:08,089
+symbolics punto com, el 15 de marzo de 1985.
+
+3
+00:00:08,239 --> 00:00:10,742
+Lo registró una empresa de computadoras.
+
+4
+00:00:10,892 --> 00:00:13,954
+Guárdalo ahora, que en el momento se te olvida.
+
+5
+00:00:14,104 --> 00:00:16,562
+Faltaban años para que existiera la web.
+
+6
+00:00:16,712 --> 00:00:20,126
+Hoy cualquiera registra un nombre parecido al de tu banco.
+
+7
+00:00:20,276 --> 00:00:23,143
+Un punto com no hace que una página sea de fiar.
+
+8
+00:00:23,293 --> 00:00:26,772
+Comenta PUNTOCOM si no sabías cuál fue el primero.
+
+9
+00:00:26,772 --> 00:00:27,468
+Y sígueme:
+
+10
+00:00:27,468 --> 00:00:30,769
+más historias de tech.

@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:02,749
+Chris, ¿cómo sé si un enlace es falso?
+
+2
+00:00:02,899 --> 00:00:05,728
+Mira el nombre justo antes de la primera barra.
+
+3
+00:00:05,878 --> 00:00:07,814
+Ese es el dueño de la página.
+
+4
+00:00:07,964 --> 00:00:11,026
+Guárdalo ahora, que en el momento se te olvida.
+
+5
+00:00:11,176 --> 00:00:13,794
+En este, el dueño no es el banco.
+
+6
+00:00:13,944 --> 00:00:15,221
+Es pagosweb.net.
+
+7
+00:00:15,221 --> 00:00:18,586
+El nombre del banco está para engañarte.
+
+8
+00:00:18,736 --> 00:00:22,256
+Mantén el dedo sobre el enlace para ver la dirección completa.
+
+9
+00:00:22,406 --> 00:00:25,006
+Si dudas, escribe tú la dirección.
+
+10
+00:00:25,156 --> 00:00:28,259
+Comenta DOMINIO si ahora lees los enlaces.
+
+11
+00:00:28,259 --> 00:00:28,998
+Y sígueme:
+
+12
+00:00:28,998 --> 00:00:32,615
+más tecnología explicada.

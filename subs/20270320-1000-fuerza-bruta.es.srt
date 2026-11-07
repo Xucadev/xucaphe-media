@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:02,857
+Chris, ¿cómo adivinan una contraseña?
+
+2
+00:00:03,007 --> 00:00:03,836
+No adivinan:
+
+3
+00:00:03,836 --> 00:00:06,975
+un programa prueba todas las combinaciones.
+
+4
+00:00:07,125 --> 00:00:09,418
+Una tras otra, muy rápido.
+
+5
+00:00:09,568 --> 00:00:13,322
+Quédate hasta el final, que lo más importante viene ahora.
+
+6
+00:00:13,472 --> 00:00:16,764
+Cuanto más corta tu clave, antes la encuentran.
+
+7
+00:00:16,914 --> 00:00:19,018
+Lo que más importa es el largo:
+
+8
+00:00:19,018 --> 00:00:21,156
+una frase de varias palabras.
+
+9
+00:00:21,306 --> 00:00:24,162
+Y la verificación en dos pasos frena el ataque.
+
+10
+00:00:24,312 --> 00:00:26,941
+Comenta LARGA si tu clave es corta.
+
+11
+00:00:26,941 --> 00:00:27,692
+Y sígueme:
+
+12
+00:00:27,692 --> 00:00:31,340
+más tecnología explicada.

@@ -1,0 +1,39 @@
+1
+00:00:00,100 --> 00:00:03,366
+Chris, ¿por qué las apps se actualizan cada semana?
+
+2
+00:00:03,516 --> 00:00:06,371
+Muchas veces arreglan un fallo de seguridad.
+
+3
+00:00:06,521 --> 00:00:09,947
+Y cuando sale el arreglo, se sabe qué estaba roto.
+
+4
+00:00:10,097 --> 00:00:13,069
+Mándaselo a quien siempre te pregunta estas cosas.
+
+5
+00:00:13,219 --> 00:00:15,847
+Los atacantes buscan a quien no actualizó.
+
+6
+00:00:15,997 --> 00:00:18,546
+Activa las actualizaciones automáticas.
+
+7
+00:00:18,696 --> 00:00:20,676
+Y borra las apps que ya no usas.
+
+8
+00:00:20,826 --> 00:00:24,232
+Comenta ACTUALIZO si las tienes en automático.
+
+9
+00:00:24,232 --> 00:00:24,972
+Y sígueme:
+
+10
+00:00:24,972 --> 00:00:28,667
+cada semana, más por qués.

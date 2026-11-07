@@ -1,0 +1,43 @@
+1
+00:00:00,100 --> 00:00:02,486
+Chris, ¿cuál fue el primer tuit?
+
+2
+00:00:02,636 --> 00:00:05,062
+El 21 de marzo de 2006.
+
+3
+00:00:05,212 --> 00:00:06,762
+Jack Dorsey escribió:
+
+4
+00:00:06,762 --> 00:00:08,556
+configurando mi twttr.
+
+5
+00:00:08,706 --> 00:00:11,768
+Guárdalo ahora, que en el momento se te olvida.
+
+6
+00:00:11,918 --> 00:00:15,446
+Ese servicio se volvió Twitter, y hoy se llama X.
+
+7
+00:00:15,596 --> 00:00:18,148
+Lo que publicas ahí es público y se queda.
+
+8
+00:00:18,298 --> 00:00:21,177
+¿Te molestaría que lo lea tu jefe en diez años?
+
+9
+00:00:21,327 --> 00:00:24,554
+Comenta TUIT si tienes cuenta desde hace años.
+
+10
+00:00:24,554 --> 00:00:25,256
+Y sígueme:
+
+11
+00:00:25,256 --> 00:00:28,569
+más historias de tech.

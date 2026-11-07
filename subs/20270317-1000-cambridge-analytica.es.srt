@@ -1,0 +1,39 @@
+1
+00:00:00,100 --> 00:00:02,951
+Chris, ¿qué pasó con Cambridge Analytica?
+
+2
+00:00:03,101 --> 00:00:06,561
+El 17 de marzo de 2018 salió a la luz.
+
+3
+00:00:06,711 --> 00:00:10,356
+Obtuvieron datos de millones de usuarios de Facebook sin permiso.
+
+4
+00:00:10,506 --> 00:00:13,568
+Guárdalo ahora, que en el momento se te olvida.
+
+5
+00:00:13,718 --> 00:00:15,948
+Salieron de un test de personalidad.
+
+6
+00:00:16,098 --> 00:00:18,950
+La app se llevaba también los datos de tus amigos.
+
+7
+00:00:19,100 --> 00:00:23,324
+Cada test que conectas con tu cuenta puede llevarse más de lo que crees.
+
+8
+00:00:23,474 --> 00:00:26,507
+Comenta QUIZ si has hecho uno de esos tests.
+
+9
+00:00:26,507 --> 00:00:27,196
+Y sígueme:
+
+10
+00:00:27,196 --> 00:00:30,483
+más historias de tech.

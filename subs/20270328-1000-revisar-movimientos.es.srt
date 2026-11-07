@@ -1,0 +1,39 @@
+1
+00:00:00,100 --> 00:00:03,128
+Chris vuelve de Semana Santa y abre la app del banco.
+
+2
+00:00:03,278 --> 00:00:07,794
+Pagó con tarjeta en la gasolinera, el restaurante, el parqueo.
+
+3
+00:00:07,944 --> 00:00:11,630
+Si alguien la copió, aparecen cargos pequeños de prueba.
+
+4
+00:00:11,780 --> 00:00:14,842
+Guárdalo ahora, que en el momento se te olvida.
+
+5
+00:00:14,992 --> 00:00:17,122
+Revisa cada cargo de la semana.
+
+6
+00:00:17,272 --> 00:00:20,139
+Si no reconoces uno, llama al banco.
+
+7
+00:00:20,289 --> 00:00:21,939
+Y bloquea la tarjeta.
+
+8
+00:00:22,089 --> 00:00:24,539
+Comenta REVISÉ cuando lo revises.
+
+9
+00:00:24,539 --> 00:00:25,281
+Y sígueme:
+
+10
+00:00:25,281 --> 00:00:29,203
+mañana hay otro hack del día.

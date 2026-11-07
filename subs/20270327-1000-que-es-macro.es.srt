@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:03,495
+Chris, un documento me pide Habilitar contenido.
+
+2
+00:00:03,495 --> 00:00:04,373
+¿Qué hago?
+
+3
+00:00:04,523 --> 00:00:05,974
+Eso activa una macro:
+
+4
+00:00:05,974 --> 00:00:08,425
+un programa dentro del documento.
+
+5
+00:00:08,575 --> 00:00:10,466
+Sirve para automatizar tareas.
+
+6
+00:00:10,616 --> 00:00:13,678
+Guárdalo ahora, que en el momento se te olvida.
+
+7
+00:00:13,828 --> 00:00:16,498
+Pero también puede instalar programas espía.
+
+8
+00:00:16,648 --> 00:00:19,510
+Por eso Office las bloquea en archivos de internet.
+
+9
+00:00:19,660 --> 00:00:22,519
+Si no sabes quién lo hizo, no lo habilites.
+
+10
+00:00:22,669 --> 00:00:25,736
+Comenta MACROS si te ha salido ese aviso.
+
+11
+00:00:25,736 --> 00:00:26,484
+Y sígueme:
+
+12
+00:00:26,484 --> 00:00:30,125
+más tecnología explicada.

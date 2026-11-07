@@ -1,0 +1,35 @@
+1
+00:00:00,100 --> 00:00:03,500
+En la playa, Chris comparte el internet del teléfono.
+
+2
+00:00:03,650 --> 00:00:05,859
+Su clave es la que vino de fábrica.
+
+3
+00:00:06,009 --> 00:00:09,071
+Guárdalo ahora, que en el momento se te olvida.
+
+4
+00:00:09,221 --> 00:00:12,217
+Cualquiera cerca se conecta y se gasta sus datos.
+
+5
+00:00:12,367 --> 00:00:15,625
+Ajustes, Punto de acceso, Contraseña.
+
+6
+00:00:15,775 --> 00:00:17,545
+Y apágalo cuando termines.
+
+7
+00:00:17,695 --> 00:00:20,021
+Comenta CLAVE cuando la cambies.
+
+8
+00:00:20,021 --> 00:00:20,749
+Y sígueme:
+
+9
+00:00:20,749 --> 00:00:24,627
+mañana hay otro hack del día.

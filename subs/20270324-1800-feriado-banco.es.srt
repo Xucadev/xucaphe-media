@@ -1,0 +1,43 @@
+1
+00:00:00,100 --> 00:00:00,976
+Jueves Santo.
+
+2
+00:00:00,976 --> 00:00:04,180
+A Chris lo llaman del departamento de fraude.
+
+3
+00:00:04,330 --> 00:00:06,973
+"Hay un cargo raro en su tarjeta."
+
+4
+00:00:07,123 --> 00:00:11,158
+Como el banco está cerrado, le piden el código que le va a llegar.
+
+5
+00:00:11,308 --> 00:00:13,863
+Mándaselo a tus papás antes de que les llegue.
+
+6
+00:00:14,013 --> 00:00:17,258
+Aprovechan que en feriado es más difícil confirmar.
+
+7
+00:00:17,408 --> 00:00:20,086
+Ningún banco te pide códigos por teléfono.
+
+8
+00:00:20,236 --> 00:00:22,722
+Cuelga y llama tú al número de la tarjeta.
+
+9
+00:00:22,872 --> 00:00:26,346
+Comenta FERIADO si te han llamado en un feriado.
+
+10
+00:00:26,346 --> 00:00:27,070
+Y sígueme:
+
+11
+00:00:27,070 --> 00:00:30,940
+pronto, otra estafa expuesta.

@@ -1,0 +1,43 @@
+1
+00:00:00,100 --> 00:00:02,948
+Chris, ¿qué hay dentro de un código QR?
+
+2
+00:00:03,098 --> 00:00:05,912
+Solo un enlace, dibujado en cuadritos.
+
+3
+00:00:06,062 --> 00:00:06,807
+El problema:
+
+4
+00:00:06,807 --> 00:00:09,769
+no sabes a dónde lleva hasta que lo escaneas.
+
+5
+00:00:09,919 --> 00:00:12,982
+Guárdalo ahora, que en el momento se te olvida.
+
+6
+00:00:13,132 --> 00:00:16,202
+Por eso pegan códigos falsos encima de los reales.
+
+7
+00:00:16,352 --> 00:00:20,234
+Antes de abrirlo, mira la dirección que te enseña la cámara.
+
+8
+00:00:20,384 --> 00:00:23,241
+Si te pide la tarjeta o la clave, cierra.
+
+9
+00:00:23,391 --> 00:00:26,246
+Comenta QR si escaneas QR sin mirar.
+
+10
+00:00:26,246 --> 00:00:27,038
+Y sígueme:
+
+11
+00:00:27,038 --> 00:00:30,790
+más tecnología explicada.

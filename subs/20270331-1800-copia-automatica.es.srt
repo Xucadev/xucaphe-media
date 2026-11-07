@@ -1,0 +1,51 @@
+1
+00:00:00,100 --> 00:00:02,568
+Chris nunca ha hecho una copia del teléfono.
+
+2
+00:00:02,718 --> 00:00:05,101
+La mejor copia es la que se hace sola.
+
+3
+00:00:05,251 --> 00:00:05,940
+Android:
+
+4
+00:00:05,940 --> 00:00:09,213
+Ajustes, Google, Copia de seguridad.
+
+5
+00:00:09,363 --> 00:00:11,874
+Guárdalo, y pruébalo hoy mismo.
+
+6
+00:00:12,024 --> 00:00:12,672
+iPhone:
+
+7
+00:00:12,672 --> 00:00:16,084
+tu nombre, iCloud, Copia en iCloud.
+
+8
+00:00:16,234 --> 00:00:16,966
+WhatsApp:
+
+9
+00:00:16,966 --> 00:00:19,249
+Chats, Copia de seguridad.
+
+10
+00:00:19,399 --> 00:00:21,629
+Revisa la fecha de la última copia.
+
+11
+00:00:21,779 --> 00:00:24,181
+Comenta ACTIVÉ cuando la actives.
+
+12
+00:00:24,181 --> 00:00:24,908
+Y sígueme:
+
+13
+00:00:24,908 --> 00:00:28,789
+mañana hay otro hack del día.

@@ -1,0 +1,39 @@
+1
+00:00:00,100 --> 00:00:03,738
+Chris, ¿te acuerdas de cuando todo el mundo quería un Pentium?
+
+2
+00:00:03,888 --> 00:00:08,088
+El primero salió el 22 de marzo de 1993.
+
+3
+00:00:08,238 --> 00:00:10,613
+Era sinónimo de computadora rápida.
+
+4
+00:00:10,763 --> 00:00:14,516
+Quédate hasta el final, que lo más importante viene ahora.
+
+5
+00:00:14,666 --> 00:00:18,087
+Al año siguiente se supo que fallaba en algunas divisiones.
+
+6
+00:00:18,237 --> 00:00:20,319
+Hasta lo más nuevo trae errores.
+
+7
+00:00:20,469 --> 00:00:22,843
+Por eso existen las actualizaciones.
+
+8
+00:00:22,993 --> 00:00:26,734
+Comenta PENTIUM si tuviste una computadora con Pentium.
+
+9
+00:00:26,734 --> 00:00:27,414
+Y sígueme:
+
+10
+00:00:27,414 --> 00:00:30,680
+más historias de tech.

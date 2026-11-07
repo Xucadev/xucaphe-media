@@ -1,0 +1,39 @@
+1
+00:00:00,100 --> 00:00:03,245
+Chris, ¿cuál fue la primera llamada de la historia?
+
+2
+00:00:03,395 --> 00:00:06,538
+El 10 de marzo de 1876.
+
+3
+00:00:06,688 --> 00:00:10,264
+Alexander Graham Bell le habló a su asistente en otro cuarto.
+
+4
+00:00:10,414 --> 00:00:14,168
+Quédate hasta el final, que lo más importante viene ahora.
+
+5
+00:00:14,318 --> 00:00:17,987
+"Señor Watson, venga, quiero verlo."
+
+6
+00:00:18,137 --> 00:00:21,686
+Hoy el teléfono es la herramienta favorita de los estafadores.
+
+7
+00:00:21,836 --> 00:00:25,233
+Si te llaman pidiendo datos, cuelga y llama tú.
+
+8
+00:00:25,383 --> 00:00:28,010
+Comenta WATSON si sabías la frase.
+
+9
+00:00:28,010 --> 00:00:28,783
+Y sígueme:
+
+10
+00:00:28,783 --> 00:00:32,253
+más historias de tech.

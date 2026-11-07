@@ -1,0 +1,39 @@
+1
+00:00:00,100 --> 00:00:02,482
+A Chris lo llama un número de otro país.
+
+2
+00:00:02,632 --> 00:00:05,654
+Para el estafador es barato y difícil de rastrear.
+
+3
+00:00:05,804 --> 00:00:08,466
+Un programa marca miles de números al azar.
+
+4
+00:00:08,616 --> 00:00:11,588
+Mándaselo a quien siempre te pregunta estas cosas.
+
+5
+00:00:11,738 --> 00:00:14,611
+A veces solo quieren saber si tu número está activo.
+
+6
+00:00:14,761 --> 00:00:18,108
+Si no esperas una llamada de fuera, no contestes.
+
+7
+00:00:18,258 --> 00:00:20,077
+Bloquea y reporta el número.
+
+8
+00:00:20,227 --> 00:00:23,571
+Comenta BLOQUEO si te llaman números de fuera.
+
+9
+00:00:23,571 --> 00:00:24,298
+Y sígueme:
+
+10
+00:00:24,298 --> 00:00:27,958
+cada semana, más por qués.

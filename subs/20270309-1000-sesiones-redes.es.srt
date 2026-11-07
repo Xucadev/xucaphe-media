@@ -1,0 +1,39 @@
+1
+00:00:00,100 --> 00:00:03,350
+La cuenta de Chris sigue abierta en un teléfono que vendió.
+
+2
+00:00:03,500 --> 00:00:06,373
+Cada sesión se queda abierta hasta que la cierras.
+
+3
+00:00:06,523 --> 00:00:08,306
+Entra al Centro de cuentas.
+
+4
+00:00:08,456 --> 00:00:11,519
+Guárdalo ahora, que en el momento se te olvida.
+
+5
+00:00:11,669 --> 00:00:13,706
+Toca Dónde iniciaste sesión.
+
+6
+00:00:13,856 --> 00:00:15,985
+Cierra todo lo que no reconozcas.
+
+7
+00:00:16,135 --> 00:00:19,048
+Si ves algo raro, cambia la contraseña.
+
+8
+00:00:19,198 --> 00:00:22,112
+Comenta CERRÉ cuantas sesiones cerraste.
+
+9
+00:00:22,112 --> 00:00:22,840
+Y sígueme:
+
+10
+00:00:22,840 --> 00:00:26,723
+mañana hay otro hack del día.

@@ -1,0 +1,43 @@
+1
+00:00:00,100 --> 00:00:02,302
+El internet de Chris está lento…
+
+2
+00:00:02,302 --> 00:00:04,674
+y hay aparatos que no son suyos.
+
+3
+00:00:04,824 --> 00:00:09,000
+El vecino, una visita de hace meses, un teléfono viejo.
+
+4
+00:00:09,150 --> 00:00:12,376
+Entra a la app de tu proveedor o a la página del router.
+
+5
+00:00:12,526 --> 00:00:15,589
+Guárdalo ahora, que en el momento se te olvida.
+
+6
+00:00:15,739 --> 00:00:18,342
+Busca la lista de dispositivos conectados.
+
+7
+00:00:18,492 --> 00:00:21,668
+Si ves algo raro, cambia la clave del Wi-Fi.
+
+8
+00:00:21,818 --> 00:00:25,183
+La dirección del router suele venir en la etiqueta de abajo.
+
+9
+00:00:25,333 --> 00:00:27,896
+Comenta INTRUSO si encontraste uno.
+
+10
+00:00:27,896 --> 00:00:28,628
+Y sígueme:
+
+11
+00:00:28,628 --> 00:00:32,521
+mañana hay otro hack del día.

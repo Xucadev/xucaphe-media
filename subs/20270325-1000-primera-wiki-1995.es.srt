@@ -1,0 +1,39 @@
+1
+00:00:00,100 --> 00:00:02,888
+Chris, ¿de dónde sale la palabra wiki?
+
+2
+00:00:03,038 --> 00:00:07,772
+El 25 de marzo de 1995 nació la primera wiki.
+
+3
+00:00:07,922 --> 00:00:10,643
+Una página que los visitantes podían editar.
+
+4
+00:00:10,793 --> 00:00:13,856
+Guárdalo ahora, que en el momento se te olvida.
+
+5
+00:00:14,006 --> 00:00:16,796
+"Wiki wiki" en hawaiano quiere decir rápido.
+
+6
+00:00:16,946 --> 00:00:18,990
+De esa idea salió Wikipedia.
+
+7
+00:00:19,140 --> 00:00:21,470
+Revisa siempre de dónde sale un dato.
+
+8
+00:00:21,620 --> 00:00:23,990
+Comenta WIKI si usas Wikipedia.
+
+9
+00:00:23,990 --> 00:00:24,755
+Y sígueme:
+
+10
+00:00:24,755 --> 00:00:28,208
+más historias de tech.
