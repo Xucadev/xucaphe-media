@@ -1,0 +1,32 @@
+name: Traer imágenes de IA
+# Autorizado por Xucaphe (6 nov 2026). Baja a ia/ las imágenes exportadas de Canva listadas en ia/pedido.json:
+# {"items":[{"url":"https://export-download.canva.com/...","nombre":"2027-01/prestamo-1.png"}]}
+# Las URLs firmadas de exportación caducan en unas horas: pedir y traer el mismo día.
+on:
+  push:
+    paths: ["ia/pedido.json"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: { group: traer-ia, cancel-in-progress: false }
+jobs:
+  traer:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          python3 - <<'PY'
+          import json, os, urllib.request
+          d = json.load(open("ia/pedido.json"))
+          for it in d["items"]:
+              dest = os.path.join("ia", it["nombre"])
+              os.makedirs(os.path.dirname(dest), exist_ok=True)
+              urllib.request.urlretrieve(it["url"], dest)
+              print("ok", dest, os.path.getsize(dest))
+          PY
+      - run: |
+          git config user.name "github-actions"; git config user.email "github-actions@users.noreply.github.com"
+          git add ia
+          git commit -m "Imágenes de IA" || exit 0
+          git pull --rebase -q origin main && git push -q origin HEAD:main
