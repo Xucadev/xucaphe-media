@@ -11,6 +11,9 @@ for item in pedido["items"]:
     ok = False
     for m in pedido.get("modelos", MODELOS):
         body = {"contents": [{"parts": [{"text": item["texto"]}]}],
+                # contenido educativo de prevención de estafas: el filtro por defecto bloquea relatos de fraudes y amenazas
+                "safetySettings": [{"category": c, "threshold": pedido.get("umbral", "BLOCK_ONLY_HIGH")} for c in
+                                   ("HARM_CATEGORY_HARASSMENT", "HARM_CATEGORY_HATE_SPEECH", "HARM_CATEGORY_SEXUALLY_EXPLICIT", "HARM_CATEGORY_DANGEROUS_CONTENT")],
                 "generationConfig": {"responseModalities": ["AUDIO"],
                                      "speechConfig": {"voiceConfig": {"prebuiltVoiceConfig": {"voiceName": item.get("voz", "Orus")}}}}}
         req = urllib.request.Request(f"https://generativelanguage.googleapis.com/v1beta/models/{m}:generateContent",
