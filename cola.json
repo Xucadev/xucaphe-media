@@ -271,7 +271,17 @@
     "banco de sangre",
     "camaras wifi",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Supermarket and Blood Bank Fridges Hacked in Europe #shorts",
+     "description": "Happened in Tech #20: supermarket fridges were hacked in Europe… and even those at France's blood bank 🧊\nIn October, attackers remotely accessed the cooling controllers of an estimated 250 to 350 supermarkets in France and triggered defrost cycles. In the November wave, over 115 stores across several European countries were hit; some fridges reached 50 °C, and food had to be thrown out. Between November 1 and 2, they also targeted the cooling systems at 3 French blood bank (EFS) facilities: staff received the alerts and moved the products in time, preventing any loss. On November 5, the US FBI and CISA warned that any cooling equipment connected to the internet can be a target.\n\nThe lesson for your home (cameras, router, alarm, smart TV):\n1. Change the default factory password.\n2. Keep them updated.\n3. If you don't use remote access outside your home, turn it off.\n\nComment PASSWORD if you’ve already changed your camera or router password 👇\nShare this with anyone who has cameras at home.\n\nSource: BleepingComputer and CBS News (November 5, 2026); Fox Business (November 4, 2026).\nAI-generated voice · Educational content.\n#happenedintech #cybersecurity #hacking #digitalsecurity #tech"
+    },
+    "pt": {
+     "title": "Hackearam geladeiras de supermercados e banco de sangue na Europa #shorts",
+     "description": "Aconteceu na Tech Nº 20: hackearam as geladeiras de supermercados na Europa… e até as do banco de sangue da França 🧊\nEm outubro, invasores acessaram remotamente os controladores de refrigeração de 250 a 350 supermercados na França (estimativa) e ativaram o degelo. Na onda de novembro, mais de 115 lojas em vários países da Europa foram afetadas; algumas geladeiras chegaram a 50 °C e foi preciso jogar comida fora. Entre 1º e 2 de novembro, também atacaram os sistemas de refrigeração de 3 centros do banco de sangue da França (EFS): a equipe recebeu os alertas e transferiu os produtos a tempo, sem perdas. Em 5 de novembro, o FBI e a CISA dos Estados Unidos alertaram que qualquer equipamento de refrigeração conectado à internet pode ser alvo.\n\nA lição para sua casa (câmeras, roteador, alarme, smart TV):\n1. Troque a senha que vem de fábrica.\n2. Mantenha-os atualizados.\n3. Se você não usa o acesso fora de casa, desative-o.\n\nComente SENHA se você já trocou a senha da sua câmera ou roteador 👇\nEnvie para quem tem câmeras em casa.\n\nFonte: BleepingComputer e CBS News (5 de novembro de 2026); Fox Business (4 de novembro de 2026).\nVoz gerada por IA · Conteúdo educativo.\n#aconteceunatech #ciberseguranca #hacker #segurancadigital #tech"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, TikTok y Facebook 12:00)",
   "hora_nota": "Reel de actualidad: IG/TT/FB 12:00, YouTube 14:00",
@@ -556,7 +566,17 @@
     "pov"
    ],
    "largo": true,
-   "miniatura": "largos/ep02-mini1.png"
+   "miniatura": "largos/ep02-mini1.png",
+   "localizations": {
+    "en": {
+     "title": "POV: A stranger texts you \"by mistake\"… and in 90 days takes everything",
+     "description": "On a random Tuesday, a stranger texts you: \"Hi, are you Daniel?\". You reply out of politeness. In this POV you are Chris: you work in cybersecurity, yet in 90 days, a conversation that seemed like love ends with your savings, a bank loan, and your mom's money put into an investment platform that never existed.\n\nIt's the scam the FBI calls \"pig butchering\". And behind \"Valeria\" there's something almost no one talks about. Story recreated from real cases. At the end: the 5 rules so it doesn't happen to you.\n\nHas a wrong number ever texted you and tried to keep talking? Share it in the comments.\n\nChapters:\n0:00 The 3:12 screen\n0:55 The wrong message\n2:20 The trust\n4:37 The investment\n6:16 The escalation\n8:54 The withdrawal\n11:01 Pig butchering\n12:16 Who was Valeria?\n14:05 The second scam\n15:12 What you did after\n16:06 The 5 rules\n\nSources:\n· FBI IC3, Internet Crime Report 2024 (9.3 billion in crypto scams; 5.8 billion in investment fraud): ic3[.]gov/AnnualReport/Reports/2024_IC3Report.pdf\n· UN Human Rights (OHCHR), August 2023 report on people forced to scam in Southeast Asia: news[.]un[.]org/en/node/1140187\n· FBI IC3, PSA 240624 on fake crypto recovery law firms: ic3[.]gov/PSA/2024/PSA240624\n\nVoice and illustrations generated with AI · Story recreated for educational purposes.\n\n#scams #cybersecurity #crypto"
+    },
+    "pt": {
+     "title": "POV: Uma desconhecida te escreve \"por engano\"… e em 90 dias tira tudo de você",
+     "description": "Em uma terça-feira qualquer, uma desconhecida te manda mensagem: \"Olá, você é o Daniel?\". Você responde por educação. Neste POV você é o Chris: trabalha com cibersegurança e, mesmo assim, em 90 dias, uma conversa que parecia amor termina com suas economias, um empréstimo no banco e o dinheiro da sua mãe colocados em uma plataforma de investimento que nunca existiu.\n\nÉ o golpe que o FBI chama de \"pig butchering\": o abate de porcos. E por trás da \"Valeria\" há algo que quase ninguém conta. História recriada a partir de casos reais. No final: as 5 regras para que isso não aconteça com você.\n\nAlguma vez um número errado te mandou mensagem e quis continuar conversando? Conte nos comentários.\n\nCapítulos:\n0:00 A tela das 3:12\n0:55 A mensagem errada\n2:20 A confiança\n4:37 O investimento\n6:16 A escalada\n8:54 O saque\n11:01 O abate de porcos\n12:16 Quem era a Valeria?\n14:05 O segundo golpe\n15:12 O que você fez depois\n16:06 As 5 regras\n\nFontes:\n· FBI IC3, Relatório de Crimes na Internet 2024 (9,3 bilhões em golpes com cripto; 5,8 bilhões em fraude de investimento): ic3[.]gov/AnnualReport/Reports/2024_IC3Report.pdf\n· ONU Direitos Humanos (OHCHR), relatório de agosto de 2023 sobre pessoas forçadas a dar golpes no Sudeste Asiático: news[.]un[.]org/en/node/1140187\n· FBI IC3, PSA 240624 sobre falsos escritórios de recuperação de cripto: ic3[.]gov/PSA/2024/PSA240624\n\nVoz e ilustrações geradas com IA · História recriada para fins educativos.\n\n#golpes #ciberseguranca #cripto"
+    }
+   }
   }
  },
  {
@@ -800,7 +820,17 @@
     "estafa visa",
     "estafas",
     "hack del dia"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Working abroad with visa included: the fake job scam #shorts",
+     "description": "Hack of the day #18: \"work abroad with visa included, just pay the processing fee\" ✈️\nThey hire you without a real interview, promise a very high salary with no experience, and before you travel, they ask you to pay for a visa, processing, insurance, or a ticket.\n\nWhat to do:\n· Look up the company on your own and call their official number.\n· Check visa requirements on that country's official government website.\n· Be suspicious if they charge you to hire you.\n\nSend this to anyone looking to work abroad. Follow me: a new hack every day.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #jobs #scams #dominicanrepublic"
+    },
+    "pt": {
+     "title": "Trabalho no exterior com visto incluso: o golpe do emprego falso #shorts",
+     "description": "Hack do dia nº 18: \"trabalho no exterior com visto incluso, só pague a taxa\" ✈️\nEles te contratam sem entrevista de verdade, prometem um salário muito alto sem experiência e, antes de viajar, pedem para pagar visto, trâmites, seguro ou passagem.\n\nO que fazer:\n· Pesquise a empresa por conta própria e ligue para o número oficial.\n· Consulte os requisitos de visto no site oficial do governo daquele país.\n· Desconfie se cobrarem para contratar você.\n\nEnvie para quem está querendo trabalhar fora. Siga-me: um hack novo todo dia.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #ciberseguranca #emprego #golpes #republicadominicana"
+    }
+   }
   },
   "estilo": "tarjetas",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
@@ -818,7 +848,17 @@
     "backup 3-2-1",
     "ciberseguridad",
     "hack del dia"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "The 3-2-1 rule: the backup that saves you from ransomware #shorts",
+     "description": "Hack of the day #19: if everything gets wiped tomorrow, what do you recover? 💾\nRansomware hijacks your files and demands a ransom, and doesn't always give them back. The best defense is having a backup with the 3-2-1 rule.\n\nWhat to do:\n· 3 copies of your important files.\n· In 2 different locations (for example, your computer and an external drive).\n· 1 offsite or in the cloud.\n· Disconnect the external drive when finished and test once in a while that the backup opens.\n\nSend this to someone who has all their photos on a single phone. Follow me: a new hack every day.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #ransomware #backup #digitalsecurity"
+    },
+    "pt": {
+     "title": "A regra 3-2-1: o backup que te salva do ransomware #shorts",
+     "description": "Hack do dia Nº 19: se amanhã tudo for apagado, o que você recupera? 💾\nO ransomware sequestra seus arquivos e pede um resgate, e nem sempre os devolve. A melhor defesa é ter uma cópia com a regra 3-2-1.\n\nO que fazer:\n· 3 cópias dos seus arquivos importantes.\n· Em 2 lugares diferentes (por exemplo, o computador e um disco externo).\n· 1 fora de casa ou na nuvem.\n· Desconecte o disco externo ao terminar e teste de vez em quando se o backup abre.\n\nEnvie para quem tem todas as fotos em um único celular. Me siga: um hack novo todo dia.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #cibersegurança #ransomware #backup #segurançadigital"
+    }
+   }
   },
   "estilo": "tarjetas",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
@@ -837,7 +877,17 @@
     "seguridad movil",
     "hack del dia",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Before tapping a link on your phone, do this #shorts",
+     "description": "Hack of the day #20: before tapping a link, press and hold 👆\nYour phone shows you where it really leads before opening it. Pay attention to the name, how it ends (.do or .com.do for Dominican institutions), and beware of shortened links asking for your data.\n\nIf in doubt, don't open anything: go directly to the official app.\n\nSend this to your parents. Follow me: a new hack every day.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #phishing #scams #dr"
+    },
+    "pt": {
+     "title": "Antes de tocar em um link no celular, faça isso #shorts",
+     "description": "Hack do dia nº 20: antes de tocar em um link, mantenha o dedo pressionado 👆\nO celular mostra para onde ele realmente leva antes de abrir. Repare no nome, em como termina (.do ou .com.do para instituições dominicanas) e desconfie de links encurtados que pedem dados.\n\nSe tiver dúvidas, não abra nada: entre você mesmo no app oficial.\n\nEnvie para os seus pais. Me siga: um hack novo todo dia.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #cibersegurança #phishing #golpes #rd"
+    }
+   }
   },
   "estilo": "escena",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
@@ -855,7 +905,17 @@
     "mula de dinero",
     "republica dominicana",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "You got RD$85,000 by mistake… what would you do? (Part 1) #shorts",
+     "description": "Scam exposed · Part 1: it's 11:47 p.m. and you get RD$85,000 you weren't expecting 💸\nTwo minutes later, an unknown number asks you to return it… to another account.\n\nWhat would you do? Comment RETURN or BANK 👇\nTomorrow, Part 2 with the answer.\n\nRecreated story for educational purposes. AI-generated voice.\n#scams #cybersecurity #dominicanrepublic #bank #hackoftheday"
+    },
+    "pt": {
+     "title": "Caiu RD$85.000 por engano… o que você faria? (Parte 1) #shorts",
+     "description": "Golpe exposto · Parte 1: são 23:47 e cai RD$85.000 que você não esperava 💸\nDois minutos depois, um número desconhecido pede para você devolver… para outra conta.\n\nO que você faria? Comente DEVOLVO ou BANCO 👇\nAmanhã, a Parte 2 com a resposta.\n\nHistória recriada para fins educativos. Voz gerada por IA.\n#golpes #ciberseguranca #republicadominicana #banco #hackdodia"
+    }
+   }
   },
   "estilo": "escena",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
@@ -874,7 +934,17 @@
     "estafas",
     "banco",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "The \"accidental\" deposit: why you should NEVER return it yourself (Part 2) #shorts",
+     "description": "Scam exposed · Part 2: the right answer is BANK 🏦\n1. That money often comes from a stolen account.\n2. When the real owner claims it, the bank can reverse the deposit… and you've already sent your own money to the other account.\n3. If the money was stolen, your account was used to move it: that makes you a money mule, and you could be investigated.\n\nWhat to do: don't transfer anything and call your bank's official number. If it was a real mistake, the bank handles it between accounts.\n\nSend this to anyone who receives money via transfer. Follow me for the next scam exposed.\n\nAI-generated voice · Educational cybersecurity content.\n#scams #cybersecurity #dominicanrepublic #bank #tipoftheday"
+    },
+    "pt": {
+     "title": "O depósito \"por engano\": por que você NUNCA deve devolver (Parte 2) #shorts",
+     "description": "Golpe revelado · Parte 2: a resposta certa é BANCO 🏦\n1. Esse dinheiro muitas vezes vem de uma conta roubada.\n2. Quando o verdadeiro dono reclama, o banco pode estornar o depósito… e você já mandou seu dinheiro para a outra conta.\n3. Se o dinheiro era roubado, sua conta serviu para movimentá-lo: isso é ser uma mula financeira, e você pode ser investigado.\n\nO que fazer: não transfira nada e ligue para o número oficial do seu banco. Se foi um engano real, o banco resolve entre as contas.\n\nEnvie para quem recebe por transferência. Siga-me para o próximo golpe revelado.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#golpes #ciberseguranca #republicadominicana #banco #dicadodia"
+    }
+   }
   },
   "estilo": "escena",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
@@ -892,7 +962,17 @@
     "tecnologia",
     "por que",
     "tips"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Why does your phone get so hot while charging? #shorts",
+     "description": "Why? No. 1: your phone gets hot while charging 🔋\nCharging is putting energy into a chemical reaction: lithium ions travel inside the battery and that generates heat. If you also use it, the processor adds more. And heat is what ages the battery the most.\n\n3 tricks: don't charge it under your pillow, avoid heavy gaming while charging, and don't leave it in the sun in the car.\n\nSend this to someone who sleeps with their phone charging. Follow me for more whys.\n\nAI-generated voice · Educational content.\n#technology #battery #why #tips #cybersecurity"
+    },
+    "pt": {
+     "title": "Por que seu celular esquenta tanto ao carregar? #shorts",
+     "description": "Por quê? Nº 1: seu celular esquenta ao carregar 🔋\nCarregar é colocar energia em uma reação química: os íons de lítio viajam dentro da bateria e isso gera calor. Se você também o usa, o processador soma mais. E o calor é o que mais envelhece a bateria.\n\n3 dicas: não o carregue embaixo do travesseiro, evite jogos pesados enquanto carrega e não o deixe no sol dentro do carro.\n\nEnvie para quem dorme com o celular carregando. Siga-me para mais porquês.\n\nVoz gerada por IA · Conteúdo educativo.\n#tecnologia #bateria #porque #dicas #ciberseguranca"
+    }
+   }
   },
   "estilo": "escena",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
@@ -914,7 +994,17 @@
     "arpanet",
     "spam",
     "historia de la tecnologia"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "The first spam in history was sent in 1978 #shorts",
+     "description": "Tech history: the first spam in history was sent in 1978 📧\nOn May 3, 1978, Gary Thuerk, from the computer company DEC, sent an advertising email to around 400 people on ARPANET, the network that gave birth to the internet. He invited them to see their new computers. People complained, and the network administrators scolded the company.\n\nToday, spam is the gateway to many scams: if you didn't ask for it, don't click it.\n\nComment SPAM if you got one today 👇\nSend this to someone who is always deleting emails.\n\nSource: Guinness World Records and Brad Templeton's archive.\nVoice generated with AI · Educational content.\n#techhistory #spam #email #cybersecurity #funfacts"
+    },
+    "pt": {
+     "title": "O primeiro spam da história foi enviado em 1978 #shorts",
+     "description": "Aconteceu na tecnologia: o primeiro spam da história foi enviado em 1978 📧\nEm 3 de maio de 1978, Gary Thuerk, da empresa de computadores DEC, enviou um e-mail de propaganda para cerca de 400 pessoas na ARPANET, a rede que deu origem à internet. Ele convidava para ver seus novos computadores. As pessoas reclamaram, e os administradores da rede deram uma bronca na empresa.\n\nHoje, o spam é a porta de entrada para muitos golpes: se você não pediu, não clique.\n\nComente SPAM se você recebeu algum hoje 👇\nEnvie para quem vive apagando e-mails.\n\nFonte: Guinness World Records e arquivo de Brad Templeton.\nVoz gerada por IA · Conteúdo educativo.\n#historiadatecnologia #spam #email #ciberseguranca #curiosidades"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -934,7 +1024,17 @@
     "iphone",
     "android",
     "hack del dia"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Put your medical ID on your phone's lock screen #shorts",
+     "description": "Hack of the day: put your medical ID on the lock screen 🚑\nIf something happens to you on the street, whoever helps you can see your blood type, allergies, and an emergency contact without unlocking your phone.\niPhone: Health app > your photo > Medical ID > enable \"Show When Locked\".\nAndroid: Settings > Safety & emergency > Medical info and Emergency contacts (name varies by brand).\n\nComment DONE when you fill it out 👇\nSend this to your parents.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #emergencies #tips #rd"
+    },
+    "pt": {
+     "title": "Coloque sua ficha médica na tela de bloqueio do celular #shorts",
+     "description": "Dica do dia: coloque sua ficha médica na tela de bloqueio 🚑\nSe acontecer algo com você na rua, quem te socorrer poderá ver seu tipo sanguíneo, alergias e um contato de emergência sem desbloquear seu celular.\niPhone: app Saúde > sua foto > Ficha Médica > ative \"Mostrar ao Estar Bloqueado\".\nAndroid: Configurações > Segurança e emergência > Informações médicas e Contatos de emergência (o nome varia de acordo com a marca).\n\nComente PRONTO quando preencher 👇\nEnvie isso para os seus pais.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#dicadodia #ciberseguranca #emergencias #dicas #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook)"
  },
@@ -974,7 +1074,17 @@
     "estafas",
     "fraude",
     "estafa expuesta"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "You got scammed and now they offer to recover your money: it's another scam #shorts",
+     "description": "Scam exposed: you got scammed… and now they offer to get your money back 🚩\nAfter a scam, sometimes a second hit comes: someone claiming to be from a law firm, a government agency, or a \"recovery\" group promises to return what you lost if you pay an upfront fee.\nThe U.S. Federal Trade Commission (FTC) explains that scammers buy lists of people who already fell for a scam, and that no legitimate entity charges you upfront to recover your money.\nIf you got scammed: speak only with your bank and the police, looking up their numbers yourself.\n\nComment HEADS UP if someone offered you this 👇\nSend this to anyone who has already lost money in a scam.\n\nSource: FTC, alert on refund and recovery scams.\nAI-generated voice · Educational cybersecurity content.\n#scamexposed #scams #cybersecurity #fraud #rd"
+    },
+    "pt": {
+     "title": "Você foi golpeado e agora oferecem recuperar seu dinheiro: é outro golpe #shorts",
+     "description": "Golpe exposto: você foi enganado… e agora oferecem recuperar o seu dinheiro 🚩\nDepois de um golpe, às vezes vem um segundo impacto: alguém alegando ser de um escritório de advocacia, de uma agência do governo ou de um grupo de \"recuperação\" promete devolver o que você perdeu se pagar uma taxa antecipada.\nA Comissão Federal de Comércio dos EUA (FTC) explica que os golpistas compram listas de pessoas que já caíram em golpes, e que ninguém legítimo cobra antecipadamente para recuperar seu dinheiro.\nSe você foi enganado: fale apenas com o seu banco e com a polícia, buscando você mesmo os telefones deles.\n\nComente OLHO VIVO se alguém te ofereceu isso 👇\nEnvie para quem já perdeu dinheiro em um golpe.\n\nFonte: FTC, alerta sobre golpes de reembolso e recuperação.\nVoz gerada por IA · Conteúdo educacional de cibersegurança.\n#golpeexposto #golpes #ciberseguranca #fraude #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook)"
  },
@@ -994,7 +1104,17 @@
     "maquina de escribir",
     "curiosidades",
     "tecnologia"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Why are keyboard letters out of order? (QWERTY) #shorts",
+     "description": "Why: why are the letters on the keyboard scrambled? ⌨️\nThe QWERTY layout comes from 19th-century typewriters, created by Christopher Sholes. The most common explanation is that it separated letters used together so the typewriter keys wouldn't jam, although historians still debate the exact reasons.\n\nWhat's certain is this: when computers arrived, people already knew how to type this way, and the layout stuck.\n\nComment QWERTY if you're looking at it on your keyboard right now 👇\nSend it to someone who types with two fingers.\n\nAI-generated voice · Educational content.\n#why #technology #keyboard #trivia #techhistory"
+    },
+    "pt": {
+     "title": "Por que as letras do teclado estão desordenadas? (QWERTY) #shorts",
+     "description": "Por que: por que as letras do teclado estão desordenadas? ⌨️\nA ordem QWERTY vem das máquinas de escrever do século XIX, de Christopher Sholes. A explicação mais contada é que ela separava letras usadas juntas para que as hastes da máquina não travassem, embora os historiadores ainda discutam os motivos exatos.\n\nO certo é isto: quando os computadores chegaram, as pessoas já sabiam digitar assim, e a ordem ficou.\n\nComente QWERTY se você está vendo isso no seu teclado agora 👇\nMande para quem digita com dois dedos.\n\nVoz gerada por IA · Conteúdo educativo.\n#porque #tecnologia #teclado #curiosidades #historiadatecnologia"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -1014,7 +1134,17 @@
     "centro de control",
     "seguridad movil",
     "hack del dia"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Stop thieves from putting your phone in airplane mode #shorts",
+     "description": "Hack of the day: don't let anyone put your phone in airplane mode without unlocking it ✈️\nThe first thing a phone thief does is put it in airplane mode so you can't track it. On many phones, this can be done from the lock screen.\niPhone: Settings > Face ID & Passcode > under \"Allow Access When Locked\", turn off Control Center.\nAndroid: search Settings for \"block network and security\" or the option to hide quick settings with the screen locked (the name varies by brand).\n\nComment LOCKED once you turn it off 👇\nSend this to whoever rides the bus with their phone in hand.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #phonetheft #mobilesecurity #rd"
+    },
+    "pt": {
+     "title": "Impeça que coloquem seu celular em modo avião se for roubado #shorts",
+     "description": "Hack do dia: não deixe colocarem seu celular em modo avião sem desbloquear ✈️\nA primeira coisa que quem rouba um celular faz é colocar em modo avião para você não conseguir localizá-lo. Em muitos celulares isso pode ser feito com a tela bloqueada.\niPhone: Ajustes > Face ID e Código > em \"Permitir Acesso Quando Bloqueado\", desative Central de Controle.\nAndroid: busque em Configurações por \"bloquear rede e segurança\" ou a opção para não mostrar as configurações rápidas com a tela bloqueada (o nome varia conforme a marca).\n\nComente BLOQUEADO quando você desativar 👇\nMande para quem anda de ônibus com o celular na mão.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #cibersegurança #roubodecelular #segurançamovel #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook)"
  },
