@@ -1,0 +1,115 @@
+1
+00:00:00,100 --> 00:00:03,277
+A Chris le contaron que en Europa hackearon las neveras
+
+2
+00:00:03,277 --> 00:00:04,491
+de los supermercados.
+
+3
+00:00:04,491 --> 00:00:06,047
+Pensó que era un chiste.
+
+4
+00:00:06,197 --> 00:00:07,531
+No era chiste.
+
+5
+00:00:07,531 --> 00:00:09,721
+En octubre, en Francia,
+
+6
+00:00:09,721 --> 00:00:14,654
+atacaron el frío de entre 250 y 350 supermercados.
+
+7
+00:00:14,804 --> 00:00:17,754
+Les activaron el descongelado a distancia.
+
+8
+00:00:17,754 --> 00:00:22,489
+Algunas neveras llegaron a 50 grados, y hubo que botar la comida.
+
+9
+00:00:22,640 --> 00:00:25,035
+A principios de noviembre, otra ola:
+
+10
+00:00:25,035 --> 00:00:28,267
+más de 115 tiendas en varios países de Europa.
+
+11
+00:00:28,417 --> 00:00:29,280
+Y lo más serio:
+
+12
+00:00:29,280 --> 00:00:33,363
+los sistemas de frío de tres centros del banco de sangre de Francia.
+
+13
+00:00:33,513 --> 00:00:36,940
+Quédate hasta el final, que lo más importante viene ahora.
+
+14
+00:00:37,090 --> 00:00:41,256
+Por suerte, el personal recibió las alertas y movió todo a tiempo:
+
+15
+00:00:41,256 --> 00:00:42,562
+no se perdió nada.
+
+16
+00:00:42,712 --> 00:00:43,421
+Este jueves,
+
+17
+00:00:43,421 --> 00:00:46,670
+el FBI y la agencia de ciberseguridad de Estados Unidos
+
+18
+00:00:46,670 --> 00:00:50,267
+lanzaron una alerta para todos los que usan estos equipos.
+
+19
+00:00:50,417 --> 00:00:51,257
+¿Cómo entran?
+
+20
+00:00:51,257 --> 00:00:55,887
+Por equipos conectados a internet, sin actualizar o mal configurados.
+
+21
+00:00:56,037 --> 00:00:58,607
+Pero aquí viene lo que te toca a ti:
+
+22
+00:00:58,607 --> 00:01:01,105
+en tu casa también hay equipos así.
+
+23
+00:01:01,105 --> 00:01:04,559
+La cámara, el router, la alarma, el televisor.
+
+24
+00:01:04,709 --> 00:01:08,187
+Cámbiales la contraseña que traen de fábrica, y actualízalos.
+
+25
+00:01:08,337 --> 00:01:11,956
+Y si no los usas desde fuera de la casa, apaga el acceso remoto.
+
+26
+00:01:11,956 --> 00:01:15,236
+Lo que no está expuesto es mucho más difícil de atacar.
+
+27
+00:01:15,386 --> 00:01:19,536
+Comenta CLAVE si ya le cambiaste la clave a tu cámara o router.
+
+28
+00:01:19,536 --> 00:01:20,195
+Y sígueme:
+
+29
+00:01:20,195 --> 00:01:23,414
+más historias de tech.
