@@ -1,2 +1,5 @@
-OK ep03-t04 gemini-2.5-flash-preview-tts 120.1s
-OK ep03-t05 gemini-2.5-flash-preview-tts 112.4s
+OK ep03-t05 gemini-2.5-flash-preview-tts 10.0s
+ERR ep03-t06 gemini-2.5-flash-preview-tts 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceede
