@@ -1,1 +1,2 @@
-
+OK 20261224-2100-feliz-navidad gemini-3.1-flash-tts-preview 60.4s
+OK 20261225-2100-navidad-dominicana gemini-3.1-flash-tts-preview 51.6s
