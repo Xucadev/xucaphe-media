@@ -215,7 +215,8 @@
    "youtube": {
     "intentos": 0,
     "url": "https://youtube.com/shorts/NrZ7pAjy1GM",
-    "publicado": "2026-11-06T11:16:01+00:00"
+    "publicado": "2026-11-06T11:16:01+00:00",
+    "subs": []
    }
   }
  },
@@ -249,7 +250,8 @@
    "youtube": {
     "intentos": 0,
     "url": "https://youtube.com/shorts/akTYrRtaFwU",
-    "publicado": "2026-11-07T02:46:59+00:00"
+    "publicado": "2026-11-07T02:46:59+00:00",
+    "subs": []
    }
   }
  },
@@ -279,7 +281,15 @@
    }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
-  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/4lsQtCMBzHA",
+    "publicado": "2026-11-07T09:29:58+00:00",
+    "subs": []
+   }
+  }
  },
  {
   "id": "largo-ep01",
@@ -310,6 +320,16 @@
      "title": "POV: Roubam seu número de telefone e em 3 horas você perde tudo",
      "description": "O que acontece se uma noite seu celular diz \"Sem serviço\"… e não é a antena? Neste POV você é Chris: trabalha com cibersegurança, mas um sorteio falso no Instagram e uma clonagem de SIM são suficientes para que, em três horas, você perca seu e-mail, seu WhatsApp, o dinheiro da sua conta e quase a confiança da sua mãe.\n\nHistória recriada a partir de casos reais de clonagem de chip (SIM swapping). No final: as 5 configurações que você precisa fazer hoje para que isso não aconteça com você.\n\nVocê ou alguém que você conhece já teve o WhatsApp ou o número roubado? Conte nos comentários.\n\nCapítulos:\n0:00 Sem serviço\n0:54 O sorteio\n3:36 A ligação que você não ouviu\n5:28 Seu e-mail e seu banco\n7:25 Sua mãe\n9:00 Você acorda\n10:44 A única coisa que você salvou\n11:58 A corrida\n13:33 Do outro lado da tela\n15:39 Fechar todas as portas\n17:06 O que realmente aconteceu\n18:02 O que fazer hoje\n\nFontes:\n· FBI IC3, Internet Crime Report 2024 (982 denúncias, 25,98 milhões de dólares): ic3[.]gov/AnnualReport/Reports/2024_IC3Report.pdf\n· Europol, operação contra redes de SIM swapping: techmonitor[.]ai/technology/cybersecurity/europol-helps-smash-sim-card-fraud\n· Caso Jack Dorsey (2019): dplnews[.]com/la-peligrosa-estafa-de-moda-duplicar-tu-numero-de-movil-para-vaciarte-la-cuenta-del-banco/\n· Kroll sobre SIM swapping e 2FA: conventuslaw[.]com/report/sim-swapping-the-achilles-heel-of-two-factor/\n\nVoz e ilustrações geradas com IA · História recriada para fins educacionais.\n\n#ciberseguranca #golpes #simswapping"
     }
+   }
+  },
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtu.be/H-LQLSJ_djU",
+    "publicado": "2026-11-07T09:30:08+00:00",
+    "subs": [
+     "es"
+    ]
    }
   }
  },
