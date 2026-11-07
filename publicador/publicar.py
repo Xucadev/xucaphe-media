@@ -72,6 +72,9 @@ def yt_subtitulos(item, tok=None):
         if r.ok:
             hechos.append(lang)
             log(f"  ✔ subtítulos {lang} en {item['id']}")
+        elif "quotaExceeded" in r.text or "quota" in r.text.lower():
+            log(f"  · subtítulos {lang} en {item['id']}: cuota de YouTube agotada, se reintenta en la próxima pasada")
+            break
         else:
             e["subs_intentos"] = e.get("subs_intentos", 0) + 1
             e["subs_error"] = r.text[:300]
@@ -228,7 +231,10 @@ def main():
         falta = datetime.fromisoformat(item["fecha"]) - ahora
         # YouTube se sube hasta ADELANTO_H antes (programado con publishAt); el resto, a su hora
         solo_yt = falta > timedelta(0)
-        if falta > timedelta(hours=ADELANTO_H):
+        # "subir_desde": permite subir a YouTube antes de las 12 h (p. ej. el día de 24 videos, para repartir la cuota)
+        desde = item.get("subir_desde")
+        antes_ok = bool(desde) and ahora >= datetime.fromisoformat(desde)
+        if falta > timedelta(hours=ADELANTO_H) and not antes_ok:
             continue
         estado = item.setdefault("estado", {})
         video = RAIZ / item["video"]
