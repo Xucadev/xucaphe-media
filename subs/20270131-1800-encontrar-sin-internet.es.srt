@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:03,416
+Chris perdió el teléfono, y estaba sin internet.
+
+2
+00:00:03,566 --> 00:00:05,853
+Aun así, se puede encontrar.
+
+3
+00:00:06,003 --> 00:00:08,595
+Tu teléfono emite una señal por Bluetooth.
+
+4
+00:00:08,745 --> 00:00:12,759
+Si alguien de tu familia caería en esto, mándale este video.
+
+5
+00:00:12,909 --> 00:00:16,411
+Los teléfonos de otras personas que pasan cerca la detectan.
+
+6
+00:00:16,561 --> 00:00:18,353
+Mandan la ubicación cifrada:
+
+7
+00:00:18,353 --> 00:00:21,146
+ni ellos ni la empresa saben de quién es.
+
+8
+00:00:21,296 --> 00:00:24,685
+Actívalo en Buscar, o en Encontrar mi dispositivo:
+
+9
+00:00:24,685 --> 00:00:26,414
+la opción sin conexión.
+
+10
+00:00:26,564 --> 00:00:29,485
+Comenta ENCONTRAR si lo tienes activado.
+
+11
+00:00:29,485 --> 00:00:30,215
+Y sígueme:
+
+12
+00:00:30,215 --> 00:00:33,811
+más tecnología explicada.

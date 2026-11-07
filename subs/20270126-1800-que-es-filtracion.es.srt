@@ -1,0 +1,43 @@
+1
+00:00:00,100 --> 00:00:03,080
+La tienda donde Chris compra sufrió una filtración.
+
+2
+00:00:03,230 --> 00:00:06,877
+Se llevaron los correos, las contraseñas y los teléfonos.
+
+3
+00:00:07,027 --> 00:00:09,826
+Esos datos se venden o se publican en foros.
+
+4
+00:00:09,976 --> 00:00:12,948
+Mándaselo a quien siempre te pregunta estas cosas.
+
+5
+00:00:13,098 --> 00:00:17,414
+Después, programas automáticos los prueban en miles de páginas.
+
+6
+00:00:17,564 --> 00:00:20,502
+Si usas la misma clave en todas, entran.
+
+7
+00:00:20,652 --> 00:00:21,265
+Por eso:
+
+8
+00:00:21,265 --> 00:00:24,959
+una clave distinta en cada sitio, y dos pasos.
+
+9
+00:00:25,109 --> 00:00:28,352
+Comenta FILTRACIÓN si tu correo salió en una.
+
+10
+00:00:28,352 --> 00:00:29,072
+Y sígueme:
+
+11
+00:00:29,072 --> 00:00:32,644
+más tecnología explicada.

@@ -1,0 +1,43 @@
+1
+00:00:00,100 --> 00:00:03,389
+Chris no sabe lo que es usar una computadora sin mouse.
+
+2
+00:00:03,539 --> 00:00:09,090
+El 24 de enero de 1984 salió a la venta la primera Macintosh.
+
+3
+00:00:09,240 --> 00:00:13,301
+No fue la primera con mouse, pero sí la que lo llevó a las casas.
+
+4
+00:00:13,451 --> 00:00:17,204
+Quédate hasta el final, que lo más importante viene ahora.
+
+5
+00:00:17,354 --> 00:00:20,445
+En vez de escribir comandos, tocabas iconos.
+
+6
+00:00:20,595 --> 00:00:23,344
+Eso hizo las computadoras fáciles para todos.
+
+7
+00:00:23,494 --> 00:00:25,858
+Y lo fácil también se usa para engañar.
+
+8
+00:00:26,008 --> 00:00:28,682
+Un botón que se ve oficial no siempre lo es.
+
+9
+00:00:28,832 --> 00:00:32,123
+Comenta MOUSE si usaste una computadora vieja.
+
+10
+00:00:32,123 --> 00:00:32,839
+Y sígueme:
+
+11
+00:00:32,839 --> 00:00:36,183
+más historias de tech.

@@ -1,0 +1,43 @@
+1
+00:00:00,100 --> 00:00:02,932
+A una amiga de Chris le robaron el Instagram,
+
+2
+00:00:02,932 --> 00:00:04,989
+y se enteró tres días después.
+
+3
+00:00:05,139 --> 00:00:07,532
+Tu cuenta te puede avisar al momento.
+
+4
+00:00:07,682 --> 00:00:10,539
+Entra a Configuración, Centro de cuentas.
+
+5
+00:00:10,689 --> 00:00:13,752
+Guárdalo ahora, que en el momento se te olvida.
+
+6
+00:00:13,902 --> 00:00:18,204
+Contraseña y seguridad, y activa las alertas de inicio de sesión.
+
+7
+00:00:18,354 --> 00:00:21,671
+Ahí mismo, cierra las sesiones que no reconozcas.
+
+8
+00:00:21,821 --> 00:00:24,227
+Y activa la autenticación en dos pasos.
+
+9
+00:00:24,377 --> 00:00:26,919
+Comenta ALERTAS cuando las actives.
+
+10
+00:00:26,919 --> 00:00:27,646
+Y sígueme:
+
+11
+00:00:27,646 --> 00:00:31,522
+mañana hay otro hack del día.

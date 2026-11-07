@@ -1,0 +1,51 @@
+1
+00:00:00,100 --> 00:00:02,470
+Chris hace la tarea con Wikipedia.
+
+2
+00:00:02,470 --> 00:00:03,825
+Pero ¿cómo nació?
+
+3
+00:00:03,975 --> 00:00:07,107
+El 15 de enero de 2001 se lanzó Wikipedia.
+
+4
+00:00:07,257 --> 00:00:10,702
+Una enciclopedia gratis, escrita por voluntarios.
+
+5
+00:00:10,852 --> 00:00:14,605
+Quédate hasta el final, que lo más importante viene ahora.
+
+6
+00:00:14,755 --> 00:00:15,849
+Muchos pensaban:
+
+7
+00:00:15,849 --> 00:00:19,572
+si cualquiera puede editar, cualquiera puede mentir.
+
+8
+00:00:19,722 --> 00:00:22,851
+Funcionó porque cada artículo debe citar fuentes.
+
+9
+00:00:23,001 --> 00:00:25,882
+Esa es la regla contra las noticias falsas:
+
+10
+00:00:25,882 --> 00:00:27,325
+¿cuál es la fuente?
+
+11
+00:00:27,475 --> 00:00:30,543
+Comenta WIKIPEDIA si la usas para la tarea.
+
+12
+00:00:30,543 --> 00:00:31,256
+Y sígueme:
+
+13
+00:00:31,256 --> 00:00:34,596
+más historias de tech.

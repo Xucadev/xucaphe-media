@@ -1,0 +1,39 @@
+1
+00:00:00,100 --> 00:00:03,123
+Chris tiene su tarjeta guardada en veinte tiendas.
+
+2
+00:00:03,273 --> 00:00:06,178
+Cada una es un lugar más de donde la pueden robar.
+
+3
+00:00:06,328 --> 00:00:08,710
+Busca métodos de pago en cada tienda.
+
+4
+00:00:08,860 --> 00:00:11,923
+Guárdalo ahora, que en el momento se te olvida.
+
+5
+00:00:12,073 --> 00:00:14,457
+Borra la tarjeta donde ya no compras.
+
+6
+00:00:14,607 --> 00:00:17,430
+Y revisa también las guardadas en el navegador.
+
+7
+00:00:17,580 --> 00:00:20,468
+Para internet, mejor una tarjeta virtual.
+
+8
+00:00:20,618 --> 00:00:24,025
+Comenta BORRÉ cuántas tarjetas tenías guardadas.
+
+9
+00:00:24,025 --> 00:00:24,735
+Y sígueme:
+
+10
+00:00:24,735 --> 00:00:28,564
+mañana hay otro hack del día.

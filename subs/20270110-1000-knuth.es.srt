@@ -1,0 +1,59 @@
+1
+00:00:00,100 --> 00:00:03,030
+Chris, ¿te pagarían por encontrar un error?
+
+2
+00:00:03,030 --> 00:00:04,972
+Este profesor sí lo hacía.
+
+3
+00:00:05,122 --> 00:00:09,186
+Donald Knuth nació el 10 de enero de 1938.
+
+4
+00:00:09,336 --> 00:00:12,754
+Escribió uno de los libros más respetados de la informática.
+
+5
+00:00:12,904 --> 00:00:16,657
+Quédate hasta el final, que lo más importante viene ahora.
+
+6
+00:00:16,807 --> 00:00:21,065
+Y creó TeX, con el que se escriben muchos libros científicos.
+
+7
+00:00:21,216 --> 00:00:25,493
+A quien le encuentre un error, le manda 2.56 dólares:
+
+8
+00:00:25,493 --> 00:00:27,358
+un dólar hexadecimal.
+
+9
+00:00:27,508 --> 00:00:29,148
+Casi nadie los cobra:
+
+10
+00:00:29,148 --> 00:00:30,255
+se enmarcan.
+
+11
+00:00:30,405 --> 00:00:31,921
+Es la misma idea de hoy:
+
+12
+00:00:31,921 --> 00:00:34,556
+agradecer a quien encuentra los fallos.
+
+13
+00:00:34,706 --> 00:00:39,058
+Comenta 2.56 si te gustaría tener uno de esos cheques.
+
+14
+00:00:39,058 --> 00:00:39,864
+Y sígueme:
+
+15
+00:00:39,864 --> 00:00:44,051
+más mentes que cambiaron todo.

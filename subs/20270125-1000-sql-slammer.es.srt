@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:03,692
+Chris, ¿cuánto tarda un virus en dar la vuelta al mundo?
+
+2
+00:00:03,842 --> 00:00:08,851
+El 25 de enero de 2003, Slammer lo hizo en unos diez minutos.
+
+3
+00:00:09,001 --> 00:00:12,155
+Aprovechaba un fallo en un programa de bases de datos.
+
+4
+00:00:12,305 --> 00:00:15,367
+Guárdalo ahora, que en el momento se te olvida.
+
+5
+00:00:15,517 --> 00:00:18,589
+Infectó al menos setenta y cinco mil servidores.
+
+6
+00:00:18,739 --> 00:00:21,650
+Se cayeron redes, cajeros y hasta vuelos.
+
+7
+00:00:21,800 --> 00:00:22,351
+Lo peor:
+
+8
+00:00:22,351 --> 00:00:25,418
+el arreglo existía desde seis meses antes.
+
+9
+00:00:25,568 --> 00:00:28,002
+Los que actualizaron, se salvaron.
+
+10
+00:00:28,152 --> 00:00:31,129
+Comenta 10 si te sorprende la velocidad.
+
+11
+00:00:31,129 --> 00:00:31,873
+Y sígueme:
+
+12
+00:00:31,873 --> 00:00:35,280
+más historias de tech.

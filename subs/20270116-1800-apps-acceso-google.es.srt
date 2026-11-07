@@ -1,0 +1,43 @@
+1
+00:00:00,100 --> 00:00:03,223
+Chris ha tocado iniciar sesión con Google en cien apps.
+
+2
+00:00:03,373 --> 00:00:06,129
+Cada una puede quedarse con acceso a tu cuenta.
+
+3
+00:00:06,279 --> 00:00:08,138
+Según lo que aceptaste:
+
+4
+00:00:08,138 --> 00:00:10,894
+correo, contactos, o calendario.
+
+5
+00:00:11,044 --> 00:00:13,554
+Guárdalo, y pruébalo hoy mismo.
+
+6
+00:00:13,704 --> 00:00:16,477
+Entra a tu cuenta de Google, Seguridad.
+
+7
+00:00:16,627 --> 00:00:19,083
+Toca tus conexiones con apps de terceros.
+
+8
+00:00:19,233 --> 00:00:21,386
+Y quita el acceso a las que no usas.
+
+9
+00:00:21,536 --> 00:00:24,991
+Comenta QUITÉ cuántas apps le quitaste el acceso.
+
+10
+00:00:24,991 --> 00:00:25,696
+Y sígueme:
+
+11
+00:00:25,696 --> 00:00:29,512
+mañana hay otro hack del día.

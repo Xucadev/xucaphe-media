@@ -1,0 +1,59 @@
+1
+00:00:00,100 --> 00:00:02,285
+Suena el teléfono de la mamá de Chris.
+
+2
+00:00:02,435 --> 00:00:03,461
+Una voz seria:
+
+3
+00:00:03,461 --> 00:00:05,243
+"le habla la policía".
+
+4
+00:00:05,393 --> 00:00:07,970
+Dice que hay una orden de arresto a su nombre.
+
+5
+00:00:08,120 --> 00:00:10,432
+Tiene su nombre y su número de cédula.
+
+6
+00:00:10,582 --> 00:00:14,829
+Para resolverlo hoy, debe pagar una multa por transferencia.
+
+7
+00:00:14,829 --> 00:00:15,849
+Y no colgar.
+
+8
+00:00:15,999 --> 00:00:17,649
+¿Qué harías tú?
+
+9
+00:00:17,799 --> 00:00:17,962
+A:
+
+10
+00:00:17,962 --> 00:00:21,067
+pago la multa para no tener problemas.
+
+11
+00:00:21,067 --> 00:00:21,231
+B:
+
+12
+00:00:21,231 --> 00:00:23,933
+cuelgo y llamo yo a la policía.
+
+13
+00:00:24,083 --> 00:00:26,739
+Comenta PAGO o CUELGO y dime qué harías.
+
+14
+00:00:26,739 --> 00:00:29,395
+La parte 2 sale hoy a las 6 de la tarde.
+
+15
+00:00:29,395 --> 00:00:32,958
+Sígueme para no perdértela.

@@ -1,0 +1,43 @@
+1
+00:00:00,100 --> 00:00:03,583
+Chris paga un antivirus, pero no sabe cómo funciona.
+
+2
+00:00:03,733 --> 00:00:07,750
+Primero, compara cada archivo con una lista de huellas de virus.
+
+3
+00:00:07,900 --> 00:00:11,390
+Segundo, vigila el comportamiento de cada programa.
+
+4
+00:00:11,540 --> 00:00:15,553
+Si alguien de tu familia caería en esto, mándale este video.
+
+5
+00:00:15,703 --> 00:00:20,532
+Si uno empieza a cifrar todos tus archivos, lo frena, aunque sea nuevo.
+
+6
+00:00:20,682 --> 00:00:23,613
+Tu teléfono y Windows ya traen uno de fábrica.
+
+7
+00:00:23,763 --> 00:00:25,885
+Lo que más protege no se compra:
+
+8
+00:00:25,885 --> 00:00:28,509
+actualizar, y apps solo de la tienda.
+
+9
+00:00:28,659 --> 00:00:31,979
+Comenta ANTIVIRUS si tienes uno en el teléfono.
+
+10
+00:00:31,979 --> 00:00:32,685
+Y sígueme:
+
+11
+00:00:32,685 --> 00:00:36,221
+más tecnología explicada.

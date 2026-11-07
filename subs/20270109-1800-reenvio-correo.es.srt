@@ -1,0 +1,51 @@
+1
+00:00:00,100 --> 00:00:04,207
+Chris cambió su contraseña, pero alguien sigue leyendo su correo.
+
+2
+00:00:04,357 --> 00:00:08,335
+Cuando entran a tu correo, a veces crean una regla de reenvío.
+
+3
+00:00:08,485 --> 00:00:11,764
+Cada correo nuevo se copia a la dirección del atacante.
+
+4
+00:00:11,914 --> 00:00:14,424
+Guárdalo, y pruébalo hoy mismo.
+
+5
+00:00:14,574 --> 00:00:17,994
+Y aunque cambies la contraseña, la regla sigue ahí.
+
+6
+00:00:18,144 --> 00:00:18,928
+En Gmail:
+
+7
+00:00:18,928 --> 00:00:22,756
+Configuración, Reenvío, y también Filtros.
+
+8
+00:00:22,906 --> 00:00:23,819
+En Outlook:
+
+9
+00:00:23,819 --> 00:00:27,310
+Configuración, Correo, Reglas y Reenvío.
+
+10
+00:00:27,460 --> 00:00:30,068
+Borra cualquier regla que no hayas puesto tú.
+
+11
+00:00:30,218 --> 00:00:33,478
+Comenta REENVÍO si encontraste una regla rara.
+
+12
+00:00:33,478 --> 00:00:34,187
+Y sígueme:
+
+13
+00:00:34,187 --> 00:00:38,012
+mañana hay otro hack del día.

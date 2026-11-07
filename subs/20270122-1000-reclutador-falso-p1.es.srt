@@ -1,0 +1,55 @@
+1
+00:00:00,100 --> 00:00:02,607
+Chris lleva semanas buscando trabajo.
+
+2
+00:00:02,757 --> 00:00:04,508
+Le escribe una reclutadora:
+
+3
+00:00:04,508 --> 00:00:07,207
+vio su perfil y tiene un puesto remoto.
+
+4
+00:00:07,357 --> 00:00:10,896
+La entrevista es por chat, y lo aprueban el mismo día.
+
+5
+00:00:11,046 --> 00:00:14,244
+Solo falta pagar el curso de entrenamiento y el equipo.
+
+6
+00:00:14,394 --> 00:00:16,674
+Se lo devuelven en el primer sueldo.
+
+7
+00:00:16,824 --> 00:00:18,474
+¿Qué harías tú?
+
+8
+00:00:18,624 --> 00:00:18,786
+A:
+
+9
+00:00:18,786 --> 00:00:21,784
+pago el curso, que el sueldo lo vale.
+
+10
+00:00:21,784 --> 00:00:21,946
+B:
+
+11
+00:00:21,946 --> 00:00:25,682
+no pago nada y reviso que la empresa exista.
+
+12
+00:00:25,832 --> 00:00:28,509
+Comenta PAGO o REVISO y dime qué harías.
+
+13
+00:00:28,509 --> 00:00:31,187
+La parte 2 sale hoy a las 6 de la tarde.
+
+14
+00:00:31,187 --> 00:00:34,764
+Sígueme para no perdértela.

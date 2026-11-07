@@ -1,0 +1,39 @@
+1
+00:00:00,100 --> 00:00:04,209
+El teléfono de Chris se conectó solo a un Wi-Fi en el centro comercial.
+
+2
+00:00:04,359 --> 00:00:07,780
+Muchos teléfonos se conectan solos a redes abiertas.
+
+3
+00:00:07,930 --> 00:00:11,312
+Alguien puede crear una red falsa con un nombre conocido.
+
+4
+00:00:11,462 --> 00:00:13,973
+Guárdalo, y pruébalo hoy mismo.
+
+5
+00:00:14,123 --> 00:00:17,237
+En Android, apaga conectar a redes públicas.
+
+6
+00:00:17,387 --> 00:00:20,410
+En iPhone, activa preguntar al conectarse.
+
+7
+00:00:20,560 --> 00:00:23,161
+Y borra las redes guardadas que ya no usas.
+
+8
+00:00:23,311 --> 00:00:25,617
+Comenta WIFI cuando lo apagues.
+
+9
+00:00:25,617 --> 00:00:26,361
+Y sígueme:
+
+10
+00:00:26,361 --> 00:00:30,289
+mañana hay otro hack del día.

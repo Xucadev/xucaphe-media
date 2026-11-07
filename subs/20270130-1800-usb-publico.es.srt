@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:02,725
+Chris carga el teléfono en el aeropuerto,
+
+2
+00:00:02,725 --> 00:00:04,879
+en el primer USB que encuentra.
+
+3
+00:00:05,029 --> 00:00:07,593
+Un puerto USB no solo da corriente:
+
+4
+00:00:07,593 --> 00:00:09,154
+también pasa datos.
+
+5
+00:00:09,304 --> 00:00:13,795
+En teoría, uno modificado podría sacar información o instalar algo.
+
+6
+00:00:13,945 --> 00:00:16,917
+Mándaselo a quien siempre te pregunta estas cosas.
+
+7
+00:00:17,067 --> 00:00:20,347
+Casos reales hay pocos, pero el riesgo existe.
+
+8
+00:00:20,497 --> 00:00:24,598
+Lleva tu cargador y enchúfalo a la corriente, o usa una batería.
+
+9
+00:00:24,748 --> 00:00:28,806
+Y si pregunta "¿confiar en este dispositivo?", di que no.
+
+10
+00:00:28,956 --> 00:00:32,994
+Comenta USB si cargas el teléfono en cualquier sitio.
+
+11
+00:00:32,994 --> 00:00:33,756
+Y sígueme:
+
+12
+00:00:33,756 --> 00:00:37,507
+cada semana, más por qués.

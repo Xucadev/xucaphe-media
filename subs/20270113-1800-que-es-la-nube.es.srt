@@ -1,0 +1,51 @@
+1
+00:00:00,100 --> 00:00:02,688
+Chris guarda todas sus fotos en la nube.
+
+2
+00:00:02,688 --> 00:00:03,958
+Pero ¿dónde está?
+
+3
+00:00:04,108 --> 00:00:05,309
+La nube no flota:
+
+4
+00:00:05,309 --> 00:00:08,729
+son computadoras enormes, llamadas servidores.
+
+5
+00:00:08,879 --> 00:00:12,735
+Están en edificios llenos de máquinas, en distintos países.
+
+6
+00:00:12,885 --> 00:00:16,898
+Si alguien de tu familia caería en esto, mándale este video.
+
+7
+00:00:17,048 --> 00:00:21,571
+Tu foto se copia a uno de esos servidores, y casi siempre a más de uno.
+
+8
+00:00:21,721 --> 00:00:25,814
+Así, si se te pierde el teléfono, tus fotos siguen ahí.
+
+9
+00:00:25,964 --> 00:00:28,449
+Lo que hay que proteger es la entrada:
+
+10
+00:00:28,449 --> 00:00:30,516
+contraseña única y dos pasos.
+
+11
+00:00:30,666 --> 00:00:33,950
+Comenta NUBE si usas la nube sin saber qué es.
+
+12
+00:00:33,950 --> 00:00:34,664
+Y sígueme:
+
+13
+00:00:34,664 --> 00:00:38,219
+más tecnología explicada.

@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:03,143
+Chris le dio permiso a una app para subir una foto.
+
+2
+00:00:03,293 --> 00:00:05,539
+Y la app se quedó con acceso a todas.
+
+3
+00:00:05,689 --> 00:00:08,498
+También a las capturas de tu banco o de tu cédula.
+
+4
+00:00:08,648 --> 00:00:11,710
+Guárdalo ahora, que en el momento se te olvida.
+
+5
+00:00:11,860 --> 00:00:12,690
+En Android:
+
+6
+00:00:12,690 --> 00:00:16,026
+Administrador de permisos, Fotos y videos.
+
+7
+00:00:16,176 --> 00:00:17,002
+En iPhone:
+
+8
+00:00:17,002 --> 00:00:19,649
+Privacidad y seguridad, Fotos.
+
+9
+00:00:19,799 --> 00:00:22,977
+Cambia a acceso limitado, o quita el permiso.
+
+10
+00:00:23,127 --> 00:00:26,570
+Comenta FOTOS si alguna app tenía todas tus fotos.
+
+11
+00:00:26,570 --> 00:00:27,258
+Y sígueme:
+
+12
+00:00:27,258 --> 00:00:31,025
+mañana hay otro hack del día.

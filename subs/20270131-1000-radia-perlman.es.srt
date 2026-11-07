@@ -1,0 +1,39 @@
+1
+00:00:00,100 --> 00:00:04,253
+Chris, ¿por qué los mensajes de internet no se pierden dando vueltas?
+
+2
+00:00:04,403 --> 00:00:07,851
+En los años ochenta se conectaban muchas redes entre sí.
+
+3
+00:00:08,001 --> 00:00:11,397
+Y los mensajes podían quedarse dando vueltas en círculo.
+
+4
+00:00:11,547 --> 00:00:14,609
+Guárdalo ahora, que en el momento se te olvida.
+
+5
+00:00:14,759 --> 00:00:18,393
+Radia Perlman inventó una forma de encontrar un solo camino.
+
+6
+00:00:18,543 --> 00:00:21,142
+Se llama protocolo de árbol de expansión.
+
+7
+00:00:21,292 --> 00:00:25,238
+Es la base de casi todas las redes de oficinas y universidades.
+
+8
+00:00:25,388 --> 00:00:27,743
+Comenta REDES si no la conocías.
+
+9
+00:00:27,743 --> 00:00:28,478
+Y sígueme:
+
+10
+00:00:28,478 --> 00:00:32,456
+más mentes que cambiaron todo.

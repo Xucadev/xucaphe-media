@@ -1,0 +1,51 @@
+1
+00:00:00,100 --> 00:00:02,773
+Chris olvida sus contraseñas cada semana.
+
+2
+00:00:02,923 --> 00:00:05,030
+Hay algo que las va a reemplazar:
+
+3
+00:00:05,030 --> 00:00:06,414
+la llave de acceso.
+
+4
+00:00:06,564 --> 00:00:10,637
+Entras a tu cuenta con la huella, la cara o el PIN del teléfono.
+
+5
+00:00:10,787 --> 00:00:13,759
+Mándaselo a quien siempre te pregunta estas cosas.
+
+6
+00:00:13,909 --> 00:00:17,410
+Tu teléfono guarda una llave secreta que nunca sale de él.
+
+7
+00:00:17,560 --> 00:00:19,853
+La página solo tiene la otra mitad.
+
+8
+00:00:20,003 --> 00:00:22,824
+Por eso no te la roban con una página falsa:
+
+9
+00:00:22,824 --> 00:00:24,598
+solo funciona en la real.
+
+10
+00:00:24,748 --> 00:00:28,070
+Búscala en la configuración de seguridad de tus cuentas.
+
+11
+00:00:28,220 --> 00:00:31,244
+Comenta LLAVE si ya usas llaves de acceso.
+
+12
+00:00:31,244 --> 00:00:31,963
+Y sígueme:
+
+13
+00:00:31,963 --> 00:00:35,533
+más tecnología explicada.

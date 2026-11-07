@@ -1,0 +1,55 @@
+1
+00:00:00,100 --> 00:00:02,876
+Chris paga cinco suscripciones que ya no usa.
+
+2
+00:00:03,026 --> 00:00:05,502
+Pruebas gratis que se volvieron cobros.
+
+3
+00:00:05,652 --> 00:00:06,479
+En Android:
+
+4
+00:00:06,479 --> 00:00:09,281
+Google Play, Pagos y suscripciones.
+
+5
+00:00:09,431 --> 00:00:11,942
+Guárdalo, y pruébalo hoy mismo.
+
+6
+00:00:12,092 --> 00:00:12,936
+En iPhone:
+
+7
+00:00:12,936 --> 00:00:15,976
+Ajustes, tu nombre, Suscripciones.
+
+8
+00:00:16,126 --> 00:00:17,968
+Y revisa tu estado de cuenta:
+
+9
+00:00:17,968 --> 00:00:21,250
+un cobro chiquito que no reconoces es una alerta.
+
+10
+00:00:21,400 --> 00:00:24,458
+A veces prueban tu tarjeta con montos pequeños:
+
+11
+00:00:24,458 --> 00:00:25,734
+llama a tu banco.
+
+12
+00:00:25,884 --> 00:00:28,546
+Comenta CANCELÉ cuánto te ahorraste.
+
+13
+00:00:28,546 --> 00:00:29,285
+Y sígueme:
+
+14
+00:00:29,285 --> 00:00:33,199
+mañana hay otro hack del día.

@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:03,380
+Chris, la web que usas todos los días se regaló.
+
+2
+00:00:03,530 --> 00:00:09,112
+En 1989, Tim Berners-Lee trabajaba en el CERN, en Suiza.
+
+3
+00:00:09,262 --> 00:00:12,981
+Propuso un sistema para enlazar documentos entre computadoras.
+
+4
+00:00:13,131 --> 00:00:16,193
+Guárdalo ahora, que en el momento se te olvida.
+
+5
+00:00:16,343 --> 00:00:19,325
+Creó la primera página web y el primer navegador.
+
+6
+00:00:19,475 --> 00:00:24,953
+En 1993, el CERN la liberó para que cualquiera la usara sin pagar.
+
+7
+00:00:25,103 --> 00:00:27,836
+Por eso cualquiera puede hacer una página.
+
+8
+00:00:27,836 --> 00:00:29,178
+También una falsa.
+
+9
+00:00:29,328 --> 00:00:31,189
+Revisa siempre la dirección.
+
+10
+00:00:31,339 --> 00:00:34,806
+Comenta WEB si no sabías que la web se regaló.
+
+11
+00:00:34,806 --> 00:00:35,560
+Y sígueme:
+
+12
+00:00:35,560 --> 00:00:39,591
+más mentes que cambiaron todo.

@@ -1,0 +1,51 @@
+1
+00:00:00,100 --> 00:00:02,897
+Chris, ¿crees que a Google lo pueden hackear?
+
+2
+00:00:03,047 --> 00:00:04,546
+El 12 de enero de 2010,
+
+3
+00:00:04,546 --> 00:00:08,430
+Google contó que había sufrido un ataque muy sofisticado.
+
+4
+00:00:08,580 --> 00:00:12,127
+Y que otras empresas grandes también habían sido atacadas.
+
+5
+00:00:12,277 --> 00:00:15,249
+Mándaselo a quien siempre te pregunta estas cosas.
+
+6
+00:00:15,399 --> 00:00:17,268
+Se le llamó Operación Aurora.
+
+7
+00:00:17,418 --> 00:00:19,551
+Entraron por un fallo del navegador,
+
+8
+00:00:19,551 --> 00:00:22,151
+después de que alguien abriera un enlace.
+
+9
+00:00:22,301 --> 00:00:25,569
+Actualiza el navegador, y desconfía de los enlaces,
+
+10
+00:00:25,569 --> 00:00:27,918
+aunque vengan de alguien conocido.
+
+11
+00:00:28,068 --> 00:00:31,276
+Comenta AURORA si no conocías esta historia.
+
+12
+00:00:31,276 --> 00:00:32,005
+Y sígueme:
+
+13
+00:00:32,005 --> 00:00:35,379
+más historias de tech.

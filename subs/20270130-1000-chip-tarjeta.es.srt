@@ -1,0 +1,43 @@
+1
+00:00:00,100 --> 00:00:02,848
+Chris todavía pasa la tarjeta por la banda.
+
+2
+00:00:02,998 --> 00:00:05,625
+La banda guarda siempre los mismos datos.
+
+3
+00:00:05,775 --> 00:00:10,214
+Si alguien la copia con un aparato escondido, puede clonar tu tarjeta.
+
+4
+00:00:10,364 --> 00:00:14,117
+Quédate hasta el final, que lo más importante viene ahora.
+
+5
+00:00:14,267 --> 00:00:17,197
+El chip crea un código distinto en cada compra.
+
+6
+00:00:17,347 --> 00:00:19,463
+Ese código solo sirve una vez.
+
+7
+00:00:19,463 --> 00:00:20,903
+Copiarlo no sirve.
+
+8
+00:00:21,053 --> 00:00:23,534
+Paga con el chip o acercando la tarjeta.
+
+9
+00:00:23,684 --> 00:00:26,394
+Comenta CHIP si siempre usas el chip.
+
+10
+00:00:26,394 --> 00:00:27,127
+Y sígueme:
+
+11
+00:00:27,127 --> 00:00:30,728
+más tecnología explicada.

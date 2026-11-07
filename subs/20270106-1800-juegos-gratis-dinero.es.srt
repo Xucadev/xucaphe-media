@@ -1,0 +1,51 @@
+1
+00:00:00,100 --> 00:00:04,306
+Chris descargó un juego gratis, y ya lleva mil pesos gastados.
+
+2
+00:00:04,456 --> 00:00:05,911
+El juego es gratis.
+
+3
+00:00:05,911 --> 00:00:07,383
+Lo de adentro no.
+
+4
+00:00:07,533 --> 00:00:11,101
+Monedas, vidas, trajes, cajas sorpresa.
+
+5
+00:00:11,251 --> 00:00:14,223
+Mándaselo a quien siempre te pregunta estas cosas.
+
+6
+00:00:14,373 --> 00:00:18,097
+Están hechos para que pagues un poquito, muchas veces.
+
+7
+00:00:18,247 --> 00:00:20,609
+Y pagas con gemas, no con pesos:
+
+8
+00:00:20,609 --> 00:00:22,920
+así no sientes que es dinero.
+
+9
+00:00:23,070 --> 00:00:24,166
+Ponle un límite:
+
+10
+00:00:24,166 --> 00:00:26,528
+que cada compra pida contraseña.
+
+11
+00:00:26,678 --> 00:00:30,776
+Comenta GRATIS si alguna vez compraste en un juego gratis.
+
+12
+00:00:30,776 --> 00:00:31,483
+Y sígueme:
+
+13
+00:00:31,483 --> 00:00:35,090
+cada semana, más por qués.

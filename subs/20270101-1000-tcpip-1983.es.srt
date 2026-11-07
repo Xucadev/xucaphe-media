@@ -1,0 +1,55 @@
+1
+00:00:00,100 --> 00:00:03,830
+Chris, ¿sabías que el internet que usas nació un 1 de enero?
+
+2
+00:00:03,980 --> 00:00:04,582
+En 1983,
+
+3
+00:00:04,582 --> 00:00:07,892
+la red ARPANET cambió de idioma para que las
+
+4
+00:00:07,892 --> 00:00:10,168
+computadoras se entendieran.
+
+5
+00:00:10,318 --> 00:00:12,832
+Ese idioma se llama TCP/IP.
+
+6
+00:00:12,982 --> 00:00:16,045
+Guárdalo ahora, que en el momento se te olvida.
+
+7
+00:00:16,195 --> 00:00:20,586
+Ese día, las máquinas que no se habían actualizado se quedaron fuera.
+
+8
+00:00:20,736 --> 00:00:21,786
+Desde entonces,
+
+9
+00:00:21,786 --> 00:00:26,019
+cualquier red que hable TCP/IP se puede conectar con otra.
+
+10
+00:00:26,169 --> 00:00:28,331
+Y de ahí salió el internet de hoy.
+
+11
+00:00:28,481 --> 00:00:32,924
+Cada mensaje que mandas usa ese idioma de 1983.
+
+12
+00:00:33,074 --> 00:00:37,855
+Comenta 1983 si no sabías que internet tiene cumpleaños.
+
+13
+00:00:37,855 --> 00:00:38,709
+Y sígueme:
+
+14
+00:00:38,709 --> 00:00:42,357
+más historias de tech.

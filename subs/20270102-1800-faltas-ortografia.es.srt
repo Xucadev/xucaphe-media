@@ -1,0 +1,63 @@
+1
+00:00:00,100 --> 00:00:02,626
+Chris recibe un mensaje lleno de faltas:
+
+2
+00:00:02,626 --> 00:00:04,627
+"su cuenta a sido bloqueada".
+
+3
+00:00:04,777 --> 00:00:07,340
+¿Por qué los estafadores escriben tan mal?
+
+4
+00:00:07,490 --> 00:00:09,013
+A veces es descuido.
+
+5
+00:00:09,013 --> 00:00:10,993
+Pero hay otra explicación:
+
+6
+00:00:10,993 --> 00:00:12,154
+es un filtro.
+
+7
+00:00:12,304 --> 00:00:15,276
+Mándaselo a quien siempre te pregunta estas cosas.
+
+8
+00:00:15,426 --> 00:00:17,537
+Quien nota los errores no responde,
+
+9
+00:00:17,537 --> 00:00:20,059
+y el estafador no pierde tiempo con él.
+
+10
+00:00:20,209 --> 00:00:24,137
+Quien responde aunque se vea raro, es más fácil de convencer.
+
+11
+00:00:24,287 --> 00:00:24,985
+Pero ojo:
+
+12
+00:00:24,985 --> 00:00:29,035
+con la IA, cada vez llegan más mensajes perfectos.
+
+13
+00:00:29,185 --> 00:00:31,609
+Que esté bien escrito no lo hace real.
+
+14
+00:00:31,759 --> 00:00:34,936
+Comenta FALTAS si te llegó uno con faltas.
+
+15
+00:00:34,936 --> 00:00:35,693
+Y sígueme:
+
+16
+00:00:35,693 --> 00:00:39,429
+cada semana, más por qués.

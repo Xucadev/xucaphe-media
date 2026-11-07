@@ -1,0 +1,43 @@
+1
+00:00:00,100 --> 00:00:04,348
+Chris, ¿sabías que el primer virus de PC traía un número de teléfono?
+
+2
+00:00:04,498 --> 00:00:08,544
+El 19 de enero de 1986 apareció Brain.
+
+3
+00:00:08,694 --> 00:00:11,871
+Lo escribieron dos hermanos en Lahore, Pakistán.
+
+4
+00:00:12,021 --> 00:00:15,084
+Guárdalo ahora, que en el momento se te olvida.
+
+5
+00:00:15,234 --> 00:00:18,413
+Se pasaba de computadora en computadora en disquetes.
+
+6
+00:00:18,563 --> 00:00:22,842
+Dentro dejaron sus nombres, la dirección y los teléfonos de su tienda.
+
+7
+00:00:22,992 --> 00:00:24,698
+Hoy los virus no firman.
+
+8
+00:00:24,848 --> 00:00:28,983
+Por eso, desconfía de lo que llega de fuentes que no son oficiales.
+
+9
+00:00:29,133 --> 00:00:33,592
+Comenta BRAIN si sabías que el primer virus de PC tenía dirección.
+
+10
+00:00:33,592 --> 00:00:34,268
+Y sígueme:
+
+11
+00:00:34,268 --> 00:00:37,524
+más historias de tech.

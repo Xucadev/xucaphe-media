@@ -2460,5 +2460,1121 @@
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
   "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
+ },
+ {
+  "id": "20270101-1000-tcpip-1983",
+  "fecha": "2027-01-01T10:00:00-04:00",
+  "video": "2027-01/2027-01-01-1000-tcpip-1983.mp4",
+  "estilo": "historia",
+  "youtube": {
+   "title": "1 de enero de 1983: el día que nació el internet de hoy #shorts",
+   "description": "Pasó en tech N.º 11: el 1 de enero de 1983 nació el internet que usas hoy 🌐\nEse día, la red ARPANET cambió por completo a un nuevo idioma para que las computadoras se hablaran: TCP/IP. Las máquinas que no se habían actualizado se quedaron fuera. Desde entonces, cualquier red que hable TCP/IP se puede conectar con otra, y de ahí salió el internet de hoy.\n\nCada vez que abres una página o mandas un mensaje, usas ese idioma de 1983.\n\nComenta 1983 si no sabías que internet tiene cumpleaños 👇\nMándaselo a quien estudia informática.\n\nFuente: Internet Society.\nVoz generada con IA · Contenido educativo.\n#historiadelatecnologia #internet #tcpip #añonuevo #tecnologia",
+   "tags": [
+    "historia de internet",
+    "tcp ip",
+    "arpanet",
+    "año nuevo",
+    "tecnologia"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270101-1800-borrar-cuentas-viejas",
+  "fecha": "2027-01-01T16:00:00-04:00",
+  "video": "2027-01/2027-01-01-1800-borrar-cuentas-viejas.mp4",
+  "estilo": "historia",
+  "youtube": {
+   "title": "Empieza el año borrando las cuentas que ya no usas #shorts",
+   "description": "Hack del día N.º 43: empieza el año borrando las cuentas que ya no usas 🧹\nCada cuenta vieja es una puerta: si esa página sufre una filtración, salen tu correo y tu contraseña, y con eso prueban en tus otras cuentas.\n1. Busca en tu correo \"bienvenido\" o \"confirma tu cuenta\" para encontrar dónde te registraste.\n2. Entra y busca \"eliminar cuenta\" en la configuración.\n3. Si no la vas a borrar, al menos cámbiale la contraseña.\n\nComenta BORRÉ cuando cierres la primera 👇\nMándaselo a quien tiene cuentas en todas partes.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #añonuevo #privacidad #rd",
+   "tags": [
+    "borrar cuentas",
+    "privacidad",
+    "filtraciones",
+    "hack del dia",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270102-1000-sesiones-google",
+  "fecha": "2027-01-02T10:00:00-04:00",
+  "video": "2027-01/2027-01-02-1000-sesiones-google.mp4",
+  "estilo": "terminal",
+  "youtube": {
+   "title": "Mira desde qué dispositivos está abierta tu cuenta de Google #shorts",
+   "description": "Hack del día N.º 44: mira desde qué dispositivos está abierta tu cuenta de Google 💻\nTu cuenta de Google puede seguir abierta en un teléfono viejo, una computadora prestada o un dispositivo que no reconoces.\nEntra a myaccount.google.com (escríbelo tú) > Seguridad > Tus dispositivos > Administrar todos los dispositivos.\nSi ves uno que no reconoces, toca Salir y cambia tu contraseña.\n\nComenta SESIONES si encontraste un dispositivo raro 👇\nMándaselo a quien usa Gmail en todo.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #google #gmail #rd",
+   "tags": [
+    "cuenta de google",
+    "gmail",
+    "seguridad",
+    "hack del dia",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270102-1800-faltas-ortografia",
+  "fecha": "2027-01-02T16:00:00-04:00",
+  "video": "2027-01/2027-01-02-1800-faltas-ortografia.mp4",
+  "estilo": "terminal",
+  "youtube": {
+   "title": "¿Por qué los mensajes de estafa tienen tantas faltas de ortografía? #shorts",
+   "description": "¿Por qué? N.º 14: ¿por qué los mensajes de estafa tienen tantas faltas? ✍️\nA veces es descuido o traducción automática. Pero hay otra explicación que dan investigadores de seguridad: el mensaje sirve de filtro. Quien nota los errores no responde, y el estafador no pierde tiempo con él. Quien responde aunque el mensaje se vea raro es más fácil de convencer.\n\nOjo: con la IA, cada vez llegan más mensajes sin faltas. Que esté bien escrito no lo hace real.\n\nComenta FALTAS si te llegó uno con faltas 👇\nMándaselo a quien siempre corrige la ortografía.\n\nFuente: Microsoft Research (2012).\nVoz generada con IA · Contenido educativo.\n#estafas #porque #ciberseguridad #phishing #curiosidades",
+   "tags": [
+    "faltas de ortografia",
+    "estafas",
+    "phishing",
+    "por que",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270103-1000-bitcoin-genesis",
+  "fecha": "2027-01-03T10:00:00-04:00",
+  "video": "2027-01/2027-01-03-1000-bitcoin-genesis.mp4",
+  "estilo": "escena",
+  "youtube": {
+   "title": "3 de enero de 2009: nace Bitcoin con un mensaje escondido #shorts",
+   "description": "Pasó en tech N.º 12: 3 de enero de 2009: nace Bitcoin con un mensaje escondido ⛓️\nEse día se creó el primer bloque de Bitcoin, el bloque génesis. Su creador, que firmaba como Satoshi Nakamoto y nunca se supo quién es, dejó dentro un titular de periódico de ese día sobre el rescate a los bancos.\n\nLa lección para hoy: nadie puede devolverte un pago en cripto. Por eso los estafadores lo prefieren.\n\nComenta BITCOIN si sabías del mensaje escondido 👇\nMándaselo a quien habla de cripto.\n\nVoz generada con IA · Contenido educativo.\n#historiadelatecnologia #bitcoin #cripto #estafas #tecnologia",
+   "tags": [
+    "bitcoin",
+    "bloque genesis",
+    "satoshi nakamoto",
+    "cripto",
+    "historia de la tecnologia"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270103-1800-famoso-regala",
+  "fecha": "2027-01-03T16:00:00-04:00",
+  "video": "2027-01/2027-01-03-1800-famoso-regala.mp4",
+  "estilo": "escena",
+  "youtube": {
+   "title": "El famoso que regala dinero en Instagram es falso #shorts",
+   "description": "Estafa expuesta N.º 20: el \"famoso\" que regala dinero en Instagram es falso 🎁\nCopian la foto y el nombre de un artista o influencer, y publican: \"Para empezar el año, regalo dinero a mis seguidores\". Te escriben por mensaje: ganaste, pero primero paga el envío o una \"comisión\".\n\nLos famosos no te escriben para regalarte dinero. Mira si la cuenta tiene la verificación y los seguidores reales, y nunca pagues para recibir un premio.\n\nComenta FAMOSO si viste uno de estos perfiles 👇\nMándaselo a quien sigue a famosos.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#estafas #instagram #perfilesfalsos #ciberseguridad #rd",
+   "tags": [
+    "perfiles falsos",
+    "estafas instagram",
+    "sorteos falsos",
+    "estafas",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270104-1000-app-prestamo",
+  "fecha": "2027-01-04T10:00:00-04:00",
+  "video": "2027-01/2027-01-04-1000-app-prestamo.mp4",
+  "estilo": "escena",
+  "youtube": {
+   "title": "La app de préstamo rápido que después acosa a tus contactos #shorts",
+   "description": "Estafa expuesta N.º 21: la app de préstamo rápido que después acosa a tus contactos 📲\nEn la cuesta de enero aparecen apps que prestan rápido y sin papeles. Al instalarla, pide permiso para ver tus contactos y tus fotos. Si te atrasas un día, o aunque pagues, escriben a tu familia y a tu trabajo diciendo que eres un deudor, o te exigen pagos que nunca acordaste.\n\nAntes de pedir: busca la empresa en la lista oficial de entidades autorizadas, y si una app de préstamos te pide tus contactos, no la instales.\n\nComenta PRÉSTAMO si te ofrecieron uno así 👇\nMándaselo a quien anda corto en enero.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#estafas #prestamos #cuestadeenero #republicadominicana #ciberseguridad",
+   "tags": [
+    "apps de prestamo",
+    "prestamos falsos",
+    "cuesta de enero",
+    "estafas",
+    "republica dominicana"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270104-1800-passkey",
+  "fecha": "2027-01-04T16:00:00-04:00",
+  "video": "2027-01/2027-01-04-1800-passkey.mp4",
+  "estilo": "escena",
+  "youtube": {
+   "title": "¿Qué es una llave de acceso (passkey) y por qué es más segura? #shorts",
+   "description": "Tech explicada N.º 13: ¿qué es una llave de acceso y por qué va a reemplazar tu contraseña? 🔑\nUna llave de acceso (passkey) te deja entrar a tu cuenta con la huella, la cara o el PIN del teléfono, sin escribir contraseña. Tu teléfono guarda una llave secreta que nunca sale de él, y la página solo tiene la otra mitad.\n\nPor eso no te la pueden robar con una página falsa: la llave solo funciona en la página real. Google, Apple, Microsoft y muchas apps ya la ofrecen: búscala en la configuración de seguridad.\n\nComenta LLAVE si ya usas llaves de acceso 👇\nMándaselo a quien olvida sus contraseñas.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#tecnologia #passkeys #contraseñas #comofunciona #ciberseguridad",
+   "tags": [
+    "passkey",
+    "llave de acceso",
+    "contraseñas",
+    "tech explicada",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270105-1000-control-parental",
+  "fecha": "2027-01-05T10:00:00-04:00",
+  "video": "2027-01/2027-01-05-1000-control-parental.mp4",
+  "estilo": "tarjetas",
+  "youtube": {
+   "title": "Antes de Reyes: configura así la tablet o el teléfono del niño #shorts",
+   "description": "Hack del día N.º 45: antes de Reyes: configura así la tablet o el teléfono del niño 👑\nHazlo antes de entregarlo, con el niño delante si ya tiene edad para entenderlo.\nAndroid: instala Google Family Link y crea su cuenta desde la tuya.\niPhone o iPad: Ajustes > Tiempo en pantalla > Configurar para un hijo.\nAhí eliges qué apps puede bajar, cuánto tiempo y quién le puede escribir.\n\nY lo más importante: dile que si alguien le escribe algo raro, te lo cuente sin miedo a que le quites el aparato.\n\nComenta LISTO cuando lo configures 👇\nMándaselo a quien le va a regalar una tablet a un niño.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #diadereyes #controlparental #rd",
+   "tags": [
+    "control parental",
+    "dia de reyes",
+    "family link",
+    "hack del dia",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270105-1800-robux-gratis",
+  "fecha": "2027-01-05T16:00:00-04:00",
+  "video": "2027-01/2027-01-05-1800-robux-gratis.mp4",
+  "estilo": "tarjetas",
+  "youtube": {
+   "title": "\"Monedas gratis para tu juego\": la estafa que va por tus hijos #shorts",
+   "description": "Estafa expuesta N.º 22: \"Monedas gratis para tu juego\": la estafa que va por tus hijos 🎮\nEn videos, juegos y redes aparecen páginas que prometen monedas o pases gratis para juegos populares. Le piden al niño su usuario y contraseña, o que baje una app, o que \"verifique\" con la tarjeta de papá o mamá. Al final le roban la cuenta del juego, o te cobran.\n\nExplícales esta regla: las monedas gratis no existen. Nunca se da la contraseña, y para cualquier compra, se pregunta primero.\n\nComenta GRATIS si tu hijo vio algo así 👇\nMándaselo a papás de niños que juegan en línea.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#estafas #videojuegos #niños #ciberseguridad #diadereyes",
+   "tags": [
+    "estafas videojuegos",
+    "monedas gratis",
+    "niños",
+    "estafas",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270106-1000-compras-sin-permiso",
+  "fecha": "2027-01-06T10:00:00-04:00",
+  "video": "2027-01/2027-01-06-1000-compras-sin-permiso.mp4",
+  "estilo": "kinetic",
+  "youtube": {
+   "title": "Día de Reyes: evita que un niño compre con tu tarjeta en los juegos #shorts",
+   "description": "Hack del día N.º 46: Día de Reyes: activa esto para que no te vacíen la tarjeta con compras en juegos 💳\nSi la tableta, la consola o el teléfono tiene tu tarjeta, un niño puede comprar con dos toques.\nGoogle Play: Ajustes > Autenticación > pedir autenticación para todas las compras.\niPhone y iPad: Tiempo en pantalla > Restricciones > Compras en iTunes y App Store > No permitir, o Pedir la compra.\nEn las consolas, pon un PIN para compras en el control parental.\n\nComenta REYES si hoy llegó una consola o tablet a tu casa 👇\nMándaselo a quien le regaló una consola a un niño.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #diadereyes #controlparental #ciberseguridad #rd",
+   "tags": [
+    "compras dentro de apps",
+    "dia de reyes",
+    "control parental",
+    "hack del dia",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270106-1800-juegos-gratis-dinero",
+  "fecha": "2027-01-06T16:00:00-04:00",
+  "video": "2027-01/2027-01-06-1800-juegos-gratis-dinero.mp4",
+  "estilo": "kinetic",
+  "youtube": {
+   "title": "¿Por qué los juegos gratis ganan tanto dinero? #shorts",
+   "description": "¿Por qué? N.º 15: ¿por qué los juegos \"gratis\" ganan millones? 🎲\nPorque el juego es gratis, pero lo de adentro no: monedas, vidas, trajes, cajas sorpresa. Están diseñados para que pagues un poquito muchas veces, y para que no sientas que es dinero de verdad: pagas con gemas, no con pesos.\n\nNo es malo comprar, pero ponle un límite: activa que cada compra pida contraseña y revisa cada mes lo que gastaste en Google Play o en el App Store.\n\nComenta GRATIS si alguna vez compraste en un juego gratis 👇\nMándaselo a quien juega en el teléfono.\n\nVoz generada con IA · Contenido educativo.\n#porque #videojuegos #tecnologia #dinero #curiosidades",
+   "tags": [
+    "juegos gratis",
+    "compras dentro de la app",
+    "videojuegos",
+    "por que",
+    "tecnologia"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270107-1000-sorteo-reyes",
+  "fecha": "2027-01-07T10:00:00-04:00",
+  "video": "2027-01/2027-01-07-1000-sorteo-reyes.mp4",
+  "estilo": "crema",
+  "youtube": {
+   "title": "\"Comparte y gana\": el sorteo de Reyes que es una trampa #shorts",
+   "description": "Estafa expuesta N.º 23: \"Comparte y gana\": el sorteo de Reyes que es una trampa 🎁\nUna página con el nombre de una tienda conocida publica: \"Regalamos 100 bicicletas por el Día de Reyes, solo comparte y comenta\". Después te escribe: ganaste, entra a este enlace para reclamar y paga el envío. El enlace pide tu tarjeta.\n\nMira si la página es la oficial (antigüedad, seguidores, publicaciones de verdad). Las tiendas no cobran por entregar un premio.\n\nComenta SORTEO si viste un sorteo así 👇\nMándaselo al grupo de la familia.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#estafas #sorteosfalsos #diadereyes #republicadominicana #ciberseguridad",
+   "tags": [
+    "sorteos falsos",
+    "dia de reyes",
+    "estafas facebook",
+    "estafas",
+    "republica dominicana"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270107-1800-pin-buzon-voz",
+  "fecha": "2027-01-07T16:00:00-04:00",
+  "video": "2027-01/2027-01-07-1800-pin-buzon-voz.mp4",
+  "estilo": "crema",
+  "youtube": {
+   "title": "Ponle contraseña a tu buzón de voz (aunque nunca lo uses) #shorts",
+   "description": "Hack del día N.º 47: ponle contraseña a tu buzón de voz (aunque nunca lo uses) 📞\nAlgunas apps, como WhatsApp, pueden mandarte el código de verificación por llamada. Si no contestas, el código queda en tu buzón de voz. Si el buzón no tiene PIN o tiene el de fábrica, alguien puede escucharlo y quedarse con tu cuenta.\n\nLlama a tu buzón desde tu teléfono y busca la opción de cambiar la contraseña, o pregúntale a tu compañía cómo hacerlo. Y activa la verificación en dos pasos en WhatsApp.\n\nComenta BUZÓN cuando le pongas PIN 👇\nMándaselo a quien nunca revisa el buzón de voz.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #whatsapp #buzondevoz #rd",
+   "tags": [
+    "buzon de voz",
+    "whatsapp",
+    "codigo de verificacion",
+    "hack del dia",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270108-1000-carro-usado-p1",
+  "fecha": "2027-01-08T10:00:00-04:00",
+  "video": "2027-01/2027-01-08-1000-carro-usado-p1.mp4",
+  "estilo": "historia",
+  "youtube": {
+   "title": "El carro usado con \"papeles en orden\"… ¿qué harías? (Parte 1) #shorts",
+   "description": "Estafa expuesta N.º 24 · Parte 1/2: el carro usado \"con papeles en orden\" a un precio increíble 🚗\nChris lleva meses ahorrando para un carro. En Marketplace aparece uno por debajo del precio normal: el dueño se va del país y tiene prisa. Manda fotos de la matrícula y pide un depósito para \"apartarlo\" porque hay otros interesados.\n\n¿Qué harías tú?\n\nComenta PAGO o VEO y dime qué harías 👇\nParte 2: hoy a las 6 de la tarde. Sígueme para no perdértela.\nMándaselo a quien está buscando carro.\n\nHistoria recreada con fines educativos. Voz generada con IA.\n#estafas #carrosusados #marketplace #republicadominicana #ciberseguridad",
+   "tags": [
+    "carros usados",
+    "estafas marketplace",
+    "compra de carro",
+    "estafas",
+    "republica dominicana"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270108-1800-carro-usado-p2",
+  "fecha": "2027-01-08T16:00:00-04:00",
+  "video": "2027-01/2027-01-08-1800-carro-usado-p2.mp4",
+  "estilo": "historia",
+  "youtube": {
+   "title": "El carro usado era falso: así funciona la estafa (Parte 2) #shorts",
+   "description": "Estafa expuesta N.º 24 · Parte 2/2: la respuesta era B: ese carro no se vende 🛑\nLas fotos del carro y de la matrícula se copian de anuncios reales. El precio bajo, la prisa y \"hay otros interesados\" son para que pagues sin pensar.\n\nAntes de pagar: ve el carro en persona, con un mecánico de confianza; pide la matrícula original y verifica que el nombre coincide con la cédula del vendedor; revisa que no tenga oposiciones ni deudas; y paga en el traspaso, nunca para \"apartar\".\n\nComenta VEO si acertaste 👇\nMándaselo a quien está buscando carro.\n\nHistoria recreada con fines educativos. Voz generada con IA.\n#estafas #carrosusados #marketplace #republicadominicana #ciberseguridad",
+   "tags": [
+    "carros usados",
+    "estafas marketplace",
+    "compra de carro",
+    "estafas",
+    "republica dominicana"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270109-1000-iphone-2007",
+  "fecha": "2027-01-09T10:00:00-04:00",
+  "video": "2027-01/2027-01-09-1000-iphone-2007.mp4",
+  "estilo": "terminal",
+  "youtube": {
+   "title": "9 de enero de 2007: el día que el teléfono se volvió computadora #shorts",
+   "description": "Pasó en tech N.º 13: 9 de enero de 2007: el día que el teléfono se volvió computadora 📱\nEse día se presentó el primer iPhone: pantalla táctil, internet de verdad y casi sin botones. Al año siguiente llegaron las tiendas de apps, y con ellas una regla de seguridad que sigue hoy: bajar apps solo de la tienda oficial.\n\nHoy en tu teléfono están tu banco, tu correo y tus fotos. Trátalo como lo que es: una computadora.\n\nComenta 2007 si te acuerdas de tu primer smartphone 👇\nMándaselo a quien vivió el cambio de teléfono.\n\nVoz generada con IA · Contenido educativo.\n#historiadelatecnologia #iphone #smartphone #tecnologia #curiosidades",
+   "tags": [
+    "iphone 2007",
+    "historia del smartphone",
+    "apps",
+    "historia de la tecnologia",
+    "tecnologia"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270109-1800-reenvio-correo",
+  "fecha": "2027-01-09T16:00:00-04:00",
+  "video": "2027-01/2027-01-09-1800-reenvio-correo.mp4",
+  "estilo": "terminal",
+  "youtube": {
+   "title": "Revisa el reenvío de tu correo: así te espían sin tu contraseña #shorts",
+   "description": "Hack del día N.º 48: revisa esto en tu correo: así te espían sin cambiar tu contraseña 📧\nCuando alguien entra a un correo ajeno, a veces crea una regla de reenvío: una copia de cada correo nuevo se va a su dirección. Aunque cambies la contraseña, la regla sigue funcionando.\nEn Gmail (desde la computadora): Configuración > Ver todos los ajustes > Reenvío y correo POP/IMAP, y también Filtros y direcciones bloqueadas.\nEn Outlook: Configuración > Correo > Reglas y Reenvío.\nBorra cualquier dirección o regla que no hayas puesto tú.\n\nComenta REENVÍO si encontraste una regla rara 👇\nMándaselo a quien usa el correo para todo.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #gmail #correo #rd",
+   "tags": [
+    "reenvio de correo",
+    "gmail",
+    "outlook",
+    "hack del dia",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270110-1000-knuth",
+  "fecha": "2027-01-10T10:00:00-04:00",
+  "video": "2027-01/2027-01-10-1000-knuth.mp4",
+  "estilo": "escena",
+  "youtube": {
+   "title": "Donald Knuth: el profesor que pagaba por encontrarle errores #shorts",
+   "description": "Mentes N.º 9: Donald Knuth: el profesor que pagaba por encontrarle errores 🧾\nNació el 10 de enero de 1938. Escribe desde los años sesenta \"The Art of Computer Programming\", uno de los libros más respetados de la informática, y creó TeX, con el que se escriben muchos libros y artículos científicos.\n\nA quien encuentre un error en sus libros le manda 2.56 dólares: un \"dólar hexadecimal\". Casi nadie los cobra: se enmarcan. Hoy manda certificados en vez de cheques de verdad.\n\nLa idea es la misma de los programas de recompensas de hoy: agradecer a quien encuentra los fallos.\n\nComenta 2.56 si te gustaría tener uno de esos cheques 👇\nMándaselo a quien estudia programación.\n\nFuente: Stanford University (página de Donald Knuth).\nVoz generada con IA · Contenido educativo.\n#mentes #historiadelatecnologia #programacion #donaldknuth #tecnologia",
+   "tags": [
+    "donald knuth",
+    "the art of computer programming",
+    "tex",
+    "mentes",
+    "historia de la tecnologia"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270110-1800-wifi-automatico",
+  "fecha": "2027-01-10T16:00:00-04:00",
+  "video": "2027-01/2027-01-10-1800-wifi-automatico.mp4",
+  "estilo": "escena",
+  "youtube": {
+   "title": "Apaga esto: tu teléfono se conecta solo a Wi-Fi que no conoces #shorts",
+   "description": "Hack del día N.º 49: apaga esto en tu teléfono: se conecta solo a Wi-Fi que no conoces 📶\nMuchos teléfonos se conectan solos a redes abiertas o a redes con el mismo nombre que una que ya usaste. Alguien puede crear una red falsa con el nombre de la del aeropuerto o del centro comercial.\nAndroid: Ajustes > Redes e Internet > Wi-Fi > Preferencias > apaga \"Conectar a redes públicas\" (el nombre cambia según el teléfono).\niPhone: Ajustes > Wi-Fi > Preguntar al conectarse.\nY borra las redes guardadas que ya no usas.\n\nComenta WIFI cuando lo apagues 👇\nMándaselo a quien se conecta a todo Wi-Fi gratis.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #wifi #seguridadmovil #rd",
+   "tags": [
+    "wifi publico",
+    "redes abiertas",
+    "seguridad movil",
+    "hack del dia",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270111-1000-ubicacion-fotos",
+  "fecha": "2027-01-11T10:00:00-04:00",
+  "video": "2027-01/2027-01-11-1000-ubicacion-fotos.mp4",
+  "estilo": "escena",
+  "youtube": {
+   "title": "Tus fotos pueden decir dónde vives: quítales la ubicación #shorts",
+   "description": "Hack del día N.º 50: tus fotos pueden decir dónde vives: quítales la ubicación 📍\nMuchas fotos guardan dentro dónde se tomaron, con coordenadas exactas. Algunas redes la borran al publicar, pero si mandas la foto como archivo o la subes a otras páginas, puede ir completa.\nAl compartir: iPhone > Opciones > apaga Ubicación. Android (Google Fotos): Ajustes > quita la ubicación al compartir.\nPara que no se guarde nunca: apaga la ubicación en la app de cámara.\n\nComenta UBICACIÓN si no sabías esto 👇\nMándaselo a quien vende cosas por internet.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #privacidad #fotos #ciberseguridad #rd",
+   "tags": [
+    "ubicacion de fotos",
+    "metadatos",
+    "privacidad",
+    "hack del dia",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270111-1800-falso-tecnico",
+  "fecha": "2027-01-11T16:00:00-04:00",
+  "video": "2027-01/2027-01-11-1800-falso-tecnico.mp4",
+  "estilo": "escena",
+  "youtube": {
+   "title": "El \"técnico de la luz\" que toca tu puerta sin que lo llames #shorts",
+   "description": "Estafa expuesta N.º 25: el \"técnico de la luz\" que toca tu puerta sin que lo llames 🚪\nLlega alguien con camiseta y carnet, dice que viene de la distribuidora, del agua o del internet a revisar algo urgente. Una vez adentro, distrae a la persona mientras otro roba, o pide un pago en efectivo para \"evitar el corte\".\n\nSi no pediste la visita, no abras. Llama tú al número oficial que viene en tu factura y pregunta si mandaron a alguien. Los pagos se hacen en la oficina o en la app, nunca al técnico.\n\nComenta TÉCNICO si alguien así tocó tu puerta 👇\nMándaselo a quien vive con sus papás o abuelos.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#estafas #seguridad #republicadominicana #ciberseguridad #familia",
+   "tags": [
+    "falso tecnico",
+    "estafas en casa",
+    "distribuidora",
+    "estafas",
+    "republica dominicana"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270112-1000-reportar-sms",
+  "fecha": "2027-01-12T10:00:00-04:00",
+  "video": "2027-01/2027-01-12-1000-reportar-sms.mp4",
+  "estilo": "tarjetas",
+  "youtube": {
+   "title": "No solo borres el SMS de estafa: repórtalo así #shorts",
+   "description": "Hack del día N.º 51: no solo borres el SMS de estafa: repórtalo así 🚫\nBloquear y reportar ayuda a que el filtro de tu teléfono aprenda y avise a otros.\nAndroid (Mensajes de Google): mantén presionada la conversación > Bloquear > marca \"Denunciar como spam\".\niPhone: abre el mensaje > toca \"Reportar como no deseado\" si aparece, o toca el número > Bloquear este contacto.\nY activa el filtro: Android, Mensajes > Ajustes > Protección contra spam; iPhone, Ajustes > Mensajes > Filtrar remitentes desconocidos.\n\nComenta REPORTÉ cuando reportes el primero 👇\nMándaselo a quien recibe SMS de estafa todos los días.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #smishing #spam #rd",
+   "tags": [
+    "reportar spam",
+    "sms de estafa",
+    "smishing",
+    "hack del dia",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270112-1800-operacion-aurora",
+  "fecha": "2027-01-12T16:00:00-04:00",
+  "video": "2027-01/2027-01-12-1800-operacion-aurora.mp4",
+  "estilo": "tarjetas",
+  "youtube": {
+   "title": "12 de enero de 2010: el día que Google contó que lo hackearon #shorts",
+   "description": "Pasó en tech N.º 14: 12 de enero de 2010: Google contó que lo habían hackeado 🕵️\nEse día, Google publicó que había sufrido un ataque muy sofisticado desde China, y que otras empresas grandes también habían sido atacadas. Se le llamó Operación Aurora. Entraron aprovechando un fallo del navegador de la época, después de que un empleado abriera un enlace.\n\nDos lecciones que siguen vigentes: actualiza el navegador y desconfía de los enlaces, aunque vengan de alguien conocido.\n\nComenta AURORA si no conocías esta historia 👇\nMándaselo a quien estudia ciberseguridad.\n\nFuente: Blog oficial de Google (2010).\nVoz generada con IA · Contenido educativo.\n#historiadelatecnologia #ciberseguridad #google #hackeo #tecnologia",
+   "tags": [
+    "operacion aurora",
+    "google",
+    "hackeo",
+    "historia de la ciberseguridad",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270113-1000-recarga-doble",
+  "fecha": "2027-01-13T10:00:00-04:00",
+  "video": "2027-01/2027-01-13-1000-recarga-doble.mp4",
+  "estilo": "kinetic",
+  "youtube": {
+   "title": "La \"recarga doble\" que llega por WhatsApp es falsa #shorts",
+   "description": "Estafa expuesta N.º 26: la \"recarga doble\" que llega por WhatsApp es falsa 📶\nCirculan mensajes con el logo de una compañía de teléfono: recarga hoy y recibe el doble, solo por este enlace. La página pide tu número, tu tarjeta y a veces un código que te llega por SMS. Con eso te cobran, o se quedan con tu cuenta.\n\nLas promociones reales están en la app o la página oficial de tu compañía. Si no la ves ahí, no existe.\n\nComenta RECARGA si te llegó una promo así 👇\nMándaselo a quien siempre recarga el teléfono.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#estafas #recargas #whatsapp #republicadominicana #ciberseguridad",
+   "tags": [
+    "recarga doble",
+    "estafas whatsapp",
+    "phishing",
+    "estafas",
+    "republica dominicana"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270113-1800-que-es-la-nube",
+  "fecha": "2027-01-13T16:00:00-04:00",
+  "video": "2027-01/2027-01-13-1800-que-es-la-nube.mp4",
+  "estilo": "kinetic",
+  "youtube": {
+   "title": "¿Qué es \"la nube\" de verdad? #shorts",
+   "description": "Tech explicada N.º 14: ¿qué es \"la nube\" de verdad? ☁️\nLa nube no flota: son computadoras enormes, llamadas servidores, en edificios llenos de máquinas en distintos países. Cuando guardas una foto \"en la nube\", se copia por internet a uno de esos servidores, y casi siempre a más de uno, por si uno falla.\n\nEs muy segura contra robos o daños del teléfono. Lo que hay que proteger es la entrada: contraseña única y verificación en dos pasos en esa cuenta.\n\nComenta NUBE si usas la nube sin saber qué es 👇\nMándaselo a quien guarda todo en la nube.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#tecnologia #nube #comofunciona #ciberseguridad #curiosidades",
+   "tags": [
+    "la nube",
+    "servidores",
+    "copia de seguridad",
+    "tech explicada",
+    "tecnologia"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270114-1000-alertas-inicio-sesion",
+  "fecha": "2027-01-14T10:00:00-04:00",
+  "video": "2027-01/2027-01-14-1000-alertas-inicio-sesion.mp4",
+  "estilo": "crema",
+  "youtube": {
+   "title": "Activa esto y sabrás si alguien entra a tu Instagram #shorts",
+   "description": "Hack del día N.º 52: activa esto y sabrás al momento si alguien entra a tu Instagram 🔔\nInstagram y Facebook pueden avisarte cada vez que alguien inicia sesión desde un dispositivo nuevo.\nEn la app: Configuración > Centro de cuentas > Contraseña y seguridad > Alertas de inicio de sesión. Actívalas por notificación y por correo.\nAhí mismo, en \"Dónde iniciaste sesión\", cierra lo que no reconozcas, y activa la autenticación en dos pasos.\n\nComenta ALERTAS cuando las actives 👇\nMándaselo a quien tiene Instagram y Facebook.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #instagram #facebook #rd",
+   "tags": [
+    "alertas de inicio de sesion",
+    "instagram",
+    "facebook",
+    "hack del dia",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270114-1800-modo-incognito",
+  "fecha": "2027-01-14T16:00:00-04:00",
+  "video": "2027-01/2027-01-14-1800-modo-incognito.mp4",
+  "estilo": "crema",
+  "youtube": {
+   "title": "¿Por qué el modo incógnito no te hace invisible? #shorts",
+   "description": "¿Por qué? N.º 16: ¿por qué el modo incógnito NO te hace invisible? 🕶️\nEl modo incógnito solo hace una cosa: no guarda en tu teléfono o computadora el historial, las cookies ni lo que escribes en formularios. Pero las páginas que visitas, tu compañía de internet, y la red del trabajo o de la universidad pueden seguir viendo a dónde entras.\n\nSirve para usar una computadora prestada sin dejar tu sesión abierta. No sirve para esconderte.\n\nComenta INCÓGNITO si creías que te hacía invisible 👇\nMándaselo a quien usa el modo incógnito.\n\nVoz generada con IA · Contenido educativo.\n#porque #privacidad #navegador #tecnologia #ciberseguridad",
+   "tags": [
+    "modo incognito",
+    "privacidad",
+    "navegador",
+    "por que",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270115-1000-alquiler-falso-p1",
+  "fecha": "2027-01-15T10:00:00-04:00",
+  "video": "2027-01/2027-01-15-1000-alquiler-falso-p1.mp4",
+  "estilo": "historia",
+  "youtube": {
+   "title": "El apartamento barato que no puedes ver… ¿qué harías? (Parte 1) #shorts",
+   "description": "Estafa expuesta N.º 27 · Parte 1/2: el apartamento perfecto, barato y en buena zona… que no puedes ver 🏢\nChris empieza el semestre y busca apartamento cerca de la universidad. Encuentra uno precioso, amueblado y barato. El \"dueño\" vive afuera y no puede enseñarlo, pero le manda fotos, un contrato y le pide el depósito y el primer mes por transferencia para entregarle la llave.\n\n¿Qué harías tú?\n\nComenta PAGO o VISITO y dime qué harías 👇\nParte 2: hoy a las 6 de la tarde. Sígueme para no perdértela.\nMándaselo a quien está buscando apartamento.\n\nHistoria recreada con fines educativos. Voz generada con IA.\n#estafas #alquiler #apartamentos #republicadominicana #ciberseguridad",
+   "tags": [
+    "alquiler falso",
+    "estafas de alquiler",
+    "apartamentos",
+    "estafas",
+    "republica dominicana"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270115-1800-alquiler-falso-p2",
+  "fecha": "2027-01-15T16:00:00-04:00",
+  "video": "2027-01/2027-01-15-1800-alquiler-falso-p2.mp4",
+  "estilo": "historia",
+  "youtube": {
+   "title": "El apartamento barato era falso: así funciona la estafa (Parte 2) #shorts",
+   "description": "Estafa expuesta N.º 27 · Parte 2/2: la respuesta era B: ese apartamento no era suyo 🛑\nLas fotos se copian de anuncios reales o de páginas de alquiler vacacional. \"Vivo afuera\" es la excusa para que no lo veas, y el contrato lo hace cualquiera.\n\nAntes de pagar: visita el apartamento por dentro; pide ver el título o un documento que pruebe que es el dueño, o trata con una inmobiliaria conocida; busca las fotos en internet (búsqueda por imagen) para ver si salen en otro anuncio; y nunca pagues para \"apartar\" algo que no has visto.\n\nComenta VISITO si acertaste 👇\nMándaselo a quien está buscando apartamento.\n\nHistoria recreada con fines educativos. Voz generada con IA.\n#estafas #alquiler #apartamentos #republicadominicana #ciberseguridad",
+   "tags": [
+    "alquiler falso",
+    "estafas de alquiler",
+    "apartamentos",
+    "estafas",
+    "republica dominicana"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270116-1000-wikipedia-2001",
+  "fecha": "2027-01-16T10:00:00-04:00",
+  "video": "2027-01/2027-01-16-1000-wikipedia-2001.mp4",
+  "estilo": "terminal",
+  "youtube": {
+   "title": "15 de enero de 2001: nace Wikipedia #shorts",
+   "description": "Pasó en tech N.º 15: 15 de enero de 2001: nace la enciclopedia que cualquiera puede editar 📚\nEse día se lanzó Wikipedia, una enciclopedia gratis que escriben voluntarios. Muchos pensaban que no iba a funcionar: si cualquiera puede editar, cualquiera puede mentir. Funcionó porque cada artículo debe citar fuentes, y miles de personas revisan los cambios.\n\nEsa es la regla que te salva de las noticias falsas: ¿cuál es la fuente? Si no la hay, no lo compartas.\n\nComenta WIKIPEDIA si la usas para la tarea 👇\nMándaselo a quien estudia.\n\nVoz generada con IA · Contenido educativo.\n#historiadelatecnologia #wikipedia #internet #noticiasfalsas #tecnologia",
+   "tags": [
+    "wikipedia",
+    "historia de internet",
+    "fuentes",
+    "noticias falsas",
+    "historia de la tecnologia"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270116-1800-apps-acceso-google",
+  "fecha": "2027-01-16T16:00:00-04:00",
+  "video": "2027-01/2027-01-16-1800-apps-acceso-google.mp4",
+  "estilo": "terminal",
+  "youtube": {
+   "title": "Revisa qué apps tienen acceso a tu cuenta de Google #shorts",
+   "description": "Hack del día N.º 53: revisa qué apps tienen acceso a tu cuenta de Google 🔓\nCada vez que tocas \"Iniciar sesión con Google\" o le das permiso a una app, esa app puede quedarse con acceso a tu cuenta: tu correo, tus contactos o tu calendario, según lo que aceptaste.\nEntra a myaccount.google.com (escríbelo tú) > Seguridad > Tus conexiones con apps y servicios de terceros.\nQuita el acceso a las apps que ya no usas o que no reconoces.\n\nComenta QUITÉ cuántas apps le quitaste el acceso 👇\nMándaselo a quien entra a todo con Google.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #google #privacidad #rd",
+   "tags": [
+    "apps de terceros",
+    "cuenta de google",
+    "privacidad",
+    "hack del dia",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270117-1000-berners-lee",
+  "fecha": "2027-01-17T10:00:00-04:00",
+  "video": "2027-01/2027-01-17-1000-berners-lee.mp4",
+  "estilo": "escena",
+  "youtube": {
+   "title": "Tim Berners-Lee: el hombre que inventó la web y la regaló #shorts",
+   "description": "Mentes N.º 10: Tim Berners-Lee: el hombre que inventó la web y la regaló 🌍\nEn 1989, trabajando en el CERN, en Suiza, propuso un sistema para enlazar documentos entre computadoras. Creó la primera página web, el primer navegador y el lenguaje con el que se escriben las páginas. En 1993, el CERN liberó la tecnología para que cualquiera la usara sin pagar.\n\nPor eso hoy cualquiera puede hacer una página. Y por eso también cualquiera puede hacer una página falsa: revisa siempre la dirección.\n\nComenta WEB si no sabías que la web se regaló 👇\nMándaselo a quien diseña páginas web.\n\nFuente: CERN.\nVoz generada con IA · Contenido educativo.\n#mentes #historiadelatecnologia #web #internet #tecnologia",
+   "tags": [
+    "tim berners lee",
+    "world wide web",
+    "cern",
+    "mentes",
+    "historia de la tecnologia"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270117-1800-correo-te-grabe",
+  "fecha": "2027-01-17T16:00:00-04:00",
+  "video": "2027-01/2027-01-17-1800-correo-te-grabe.mp4",
+  "estilo": "escena",
+  "youtube": {
+   "title": "El correo de \"te hackeé la cámara, paga o lo publico\" es falso #shorts",
+   "description": "Estafa expuesta N.º 28: el correo que dice \"te hackeé la cámara, paga o lo publico\" es falso 📩\nLlega un correo amenazante: dicen que hackearon tu computadora, que te grabaron con la cámara y que publicarán el video si no pagas en cripto. Para asustarte, ponen una contraseña tuya de verdad.\n\nEsa contraseña salió de una filtración vieja de alguna página. No tienen ningún video: mandan el mismo correo a miles. No pagues, no respondas, borra el correo y cambia esa contraseña en todas las cuentas donde la uses.\n\nComenta CORREO si te llegó un correo así 👇\nMándaselo a quien se asusta con correos raros.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#estafas #correo #extorsion #ciberseguridad #hackdeldía",
+   "tags": [
+    "extorsion por correo",
+    "correo falso",
+    "filtraciones",
+    "estafas",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270118-1000-apps-acceso-fotos",
+  "fecha": "2027-01-18T10:00:00-04:00",
+  "video": "2027-01/2027-01-18-1000-apps-acceso-fotos.mp4",
+  "estilo": "escena",
+  "youtube": {
+   "title": "Revisa qué apps pueden ver todas tus fotos #shorts",
+   "description": "Hack del día N.º 54: revisa qué apps pueden ver TODAS tus fotos 🖼️\nMuchas apps piden ver tus fotos para subir una sola, y se quedan con acceso a todas, también a las capturas de tu banco o tu cédula.\nAndroid: Ajustes > Seguridad y privacidad > Privacidad > Administrador de permisos > Fotos y videos.\niPhone: Ajustes > Privacidad y seguridad > Fotos.\nCambia a \"Permitir acceso limitado\" o \"Fotos seleccionadas\", o quita el permiso.\n\nComenta FOTOS si alguna app tenía todas tus fotos 👇\nMándaselo a quien tiene mil apps.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #privacidad #fotos #seguridadmovil #rd",
+   "tags": [
+    "permisos de fotos",
+    "privacidad",
+    "seguridad movil",
+    "hack del dia",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270118-1800-stalkerware",
+  "fecha": "2027-01-18T16:00:00-04:00",
+  "video": "2027-01/2027-01-18-1800-stalkerware.mp4",
+  "estilo": "escena",
+  "youtube": {
+   "title": "¿Qué es una app espía y cómo saber si tienes una? #shorts",
+   "description": "Tech explicada N.º 15: ¿qué es una app espía y cómo saber si tienes una? 👁️\nHay apps que alguien instala a escondidas en el teléfono de otra persona para ver sus mensajes, su ubicación y sus fotos. Necesitan tener el teléfono en la mano unos minutos.\n\nSeñales: batería que dura mucho menos, el teléfono caliente sin usarlo, apps que no reconoces con permisos de accesibilidad o administrador, o que alguien sepa cosas que solo dijiste por mensaje.\n\nRevisa en Ajustes > Accesibilidad y en Apps de administración del dispositivo. Ponle código a tu teléfono y no lo prestes desbloqueado. Si sospechas que alguien te vigila para controlarte, busca ayuda antes de borrar la app: borrarla puede alertarlo.\n\nComenta ESPÍA si alguien que conoces debería ver esto 👇\nMándaselo a a quien sospecha que la vigilan.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#tecnologia #privacidad #seguridadmovil #comofunciona #ciberseguridad",
+   "tags": [
+    "app espia",
+    "stalkerware",
+    "privacidad",
+    "tech explicada",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270119-1000-virus-brain",
+  "fecha": "2027-01-19T10:00:00-04:00",
+  "video": "2027-01/2027-01-19-1000-virus-brain.mp4",
+  "estilo": "tarjetas",
+  "youtube": {
+   "title": "19 de enero de 1986: el primer virus de PC traía hasta un teléfono #shorts",
+   "description": "Pasó en tech N.º 16: 19 de enero de 1986: el primer virus de PC traía nombre, dirección y teléfono 💾\nSe llamó Brain y lo escribieron dos hermanos en Lahore, Pakistán, Basit y Amjad Farooq Alvi. Se pasaba de computadora en computadora en disquetes. Lo curioso: dentro del virus dejaron un mensaje con sus nombres, la dirección y los teléfonos de su tienda de computadoras.\n\nDijeron que querían proteger su programa de las copias piratas. Hoy los virus no firman: por eso hay que desconfiar de lo que llega de fuentes que no son oficiales.\n\nComenta BRAIN si sabías que el primer virus de PC tenía dirección 👇\nMándaselo a quien vivió los disquetes.\n\nFuente: F-Secure, Computing History.\nVoz generada con IA · Contenido educativo.\n#historiadelatecnologia #virus #malware #ciberseguridad #tecnologia",
+   "tags": [
+    "virus brain",
+    "primer virus de pc",
+    "malware",
+    "historia de la tecnologia",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270119-1800-privacidad-whatsapp",
+  "fecha": "2027-01-19T16:00:00-04:00",
+  "video": "2027-01/2027-01-19-1800-privacidad-whatsapp.mp4",
+  "estilo": "tarjetas",
+  "youtube": {
+   "title": "Que los desconocidos no vean tu foto ni tu info en WhatsApp #shorts",
+   "description": "Hack del día N.º 55: que los desconocidos no vean tu foto ni tu info en WhatsApp 🔒\nLos estafadores usan tu foto de perfil y tu info para hacerse pasar por ti con tu familia, o para saber a quién escribirle.\nWhatsApp > Ajustes > Privacidad:\n1. Foto del perfil: Mis contactos.\n2. Info: Mis contactos.\n3. Grupos: Mis contactos (así no te meten en grupos de estafa).\n4. Hora de últ. vez: como prefieras.\n\nComenta PRIVADO cuando lo cambies 👇\nMándaselo a quien recibe mensajes de desconocidos.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #whatsapp #privacidad #ciberseguridad #rd",
+   "tags": [
+    "privacidad whatsapp",
+    "foto de perfil",
+    "grupos",
+    "hack del dia",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270120-1000-prueba-gratis",
+  "fecha": "2027-01-20T10:00:00-04:00",
+  "video": "2027-01/2027-01-20-1000-prueba-gratis.mp4",
+  "estilo": "kinetic",
+  "youtube": {
+   "title": "La \"prueba gratis\" que te cobra todos los meses #shorts",
+   "description": "Estafa expuesta N.º 29: la \"prueba gratis\" que te cobra todos los meses 💸\nEn enero llegan anuncios de dietas, rutinas y apps con prueba gratis: \"solo paga el envío\" o \"pon tu tarjeta, no se cobra nada\". En la letra pequeña te suscribes a un cobro mensual que es difícil de cancelar.\n\nAntes de poner la tarjeta, busca cuánto cobra después de la prueba y cómo se cancela. Revisa tus suscripciones en Google Play o en el App Store, y mira tu estado de cuenta cada mes.\n\nComenta PRUEBA si te cobraron una prueba gratis 👇\nMándaselo a quien empezó el gimnasio en enero.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#estafas #suscripciones #propositos #ciberseguridad #rd",
+   "tags": [
+    "prueba gratis",
+    "suscripciones",
+    "cobros ocultos",
+    "estafas",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270120-1800-numeros-parecidos",
+  "fecha": "2027-01-20T16:00:00-04:00",
+  "video": "2027-01/2027-01-20-1800-numeros-parecidos.mp4",
+  "estilo": "kinetic",
+  "youtube": {
+   "title": "¿Por qué te llaman números casi iguales al tuyo? #shorts",
+   "description": "¿Por qué? N.º 17: ¿por qué te llaman números casi iguales al tuyo? 📞\nSe llama falsificar el número (spoofing). Con programas de llamadas por internet, el que llama puede elegir qué número aparece en tu pantalla. Ponen uno parecido al tuyo, o de tu misma zona, porque contestas más un número que se ve conocido.\n\nPor eso, que aparezca un número conocido, incluso el de tu banco, no prueba quién llama. Si te piden algo, cuelga y llama tú al número oficial.\n\nComenta PARECIDO si te llaman números parecidos al tuyo 👇\nMándaselo a quien no contesta números desconocidos.\n\nVoz generada con IA · Contenido educativo.\n#porque #llamadas #spoofing #ciberseguridad #rd",
+   "tags": [
+    "spoofing",
+    "llamadas falsas",
+    "numeros parecidos",
+    "por que",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270121-1000-recuperacion-cuenta",
+  "fecha": "2027-01-21T10:00:00-04:00",
+  "video": "2027-01/2027-01-21-1000-recuperacion-cuenta.mp4",
+  "estilo": "crema",
+  "youtube": {
+   "title": "Actualiza esto o no podrás recuperar tu cuenta #shorts",
+   "description": "Hack del día N.º 56: actualiza esto hoy o no podrás recuperar tu cuenta si la pierdes 🛟\nSi cambiaste de número o ya no usas aquel correo viejo, y algún día te roban la cuenta, no vas a poder recuperarla.\nGoogle: myaccount.google.com > Información personal > Correo y teléfono de recuperación.\nInstagram y Facebook: Centro de cuentas > Información personal.\nWhatsApp: Ajustes > Cuenta > Verificación en dos pasos > Correo electrónico.\nPon un número y un correo que sí uses.\n\nComenta RECUPERAR cuando lo actualices 👇\nMándaselo a quien cambió de número.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #cuentas #recuperacion #rd",
+   "tags": [
+    "recuperar cuenta",
+    "correo de recuperacion",
+    "telefono de recuperacion",
+    "hack del dia",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270121-1800-como-funciona-antivirus",
+  "fecha": "2027-01-21T16:00:00-04:00",
+  "video": "2027-01/2027-01-21-1800-como-funciona-antivirus.mp4",
+  "estilo": "crema",
+  "youtube": {
+   "title": "¿Cómo sabe un antivirus que algo es un virus? #shorts",
+   "description": "Tech explicada N.º 16: ¿cómo sabe un antivirus que algo es un virus? 🛡️\nDe dos formas. Primero, compara cada archivo con una lista enorme de huellas de virus conocidos. Segundo, vigila el comportamiento: si un programa empieza a cifrar todos tus archivos o a esconderse, lo frena aunque sea nuevo.\n\nEn tu teléfono y en Windows ya viene uno de fábrica (Google Play Protect, Microsoft Defender). Lo que más te protege no se compra: actualizaciones y no instalar apps de fuera de la tienda.\n\nComenta ANTIVIRUS si tienes uno en el teléfono 👇\nMándaselo a quien paga antivirus.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#tecnologia #antivirus #malware #comofunciona #ciberseguridad",
+   "tags": [
+    "antivirus",
+    "malware",
+    "windows defender",
+    "tech explicada",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270122-1000-reclutador-falso-p1",
+  "fecha": "2027-01-22T10:00:00-04:00",
+  "video": "2027-01/2027-01-22-1000-reclutador-falso-p1.mp4",
+  "estilo": "historia",
+  "youtube": {
+   "title": "\"Recursos Humanos\" te ofrece trabajo remoto en dólares… ¿qué harías? (Parte 1) #shorts",
+   "description": "Estafa expuesta N.º 30 · Parte 1/2: \"Recursos Humanos\" te escribe con un trabajo remoto en dólares 💼\nChris busca trabajo. Le escribe por WhatsApp una \"reclutadora\" de una empresa extranjera: vio su perfil y tiene un puesto remoto que paga en dólares. La entrevista es por chat, lo aprueban el mismo día, y solo falta pagar el curso de entrenamiento y el equipo, que le devuelven en el primer sueldo.\n\n¿Qué harías tú?\n\nComenta PAGO o REVISO y dime qué harías 👇\nParte 2: hoy a las 6 de la tarde. Sígueme para no perdértela.\nMándaselo a quien está buscando trabajo.\n\nHistoria recreada con fines educativos. Voz generada con IA.\n#estafas #empleo #trabajoremoto #republicadominicana #ciberseguridad",
+   "tags": [
+    "empleo falso",
+    "trabajo remoto",
+    "reclutador falso",
+    "estafas",
+    "republica dominicana"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270122-1800-reclutador-falso-p2",
+  "fecha": "2027-01-22T16:00:00-04:00",
+  "video": "2027-01/2027-01-22-1800-reclutador-falso-p2.mp4",
+  "estilo": "historia",
+  "youtube": {
+   "title": "El trabajo remoto en dólares era falso: así funciona la estafa (Parte 2) #shorts",
+   "description": "Estafa expuesta N.º 30 · Parte 2/2: la respuesta era B: un trabajo real no te cobra por entrar 🛑\nLas empresas de verdad no te cobran por el curso, el equipo ni los papeles. La entrevista solo por chat, la aprobación inmediata y el pago \"que te devuelven\" son las señales de siempre. A veces, además, te piden tu cédula y datos del banco \"para la nómina\".\n\nAntes de aceptar: busca la empresa y el puesto en su página oficial, pide una videollamada con alguien que trabaje ahí, y nunca pagues por un empleo.\n\nComenta REVISO si acertaste 👇\nMándaselo a quien está buscando trabajo.\n\nHistoria recreada con fines educativos. Voz generada con IA.\n#estafas #empleo #trabajoremoto #republicadominicana #ciberseguridad",
+   "tags": [
+    "empleo falso",
+    "trabajo remoto",
+    "reclutador falso",
+    "estafas",
+    "republica dominicana"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270123-1000-actualizar-router",
+  "fecha": "2027-01-23T10:00:00-04:00",
+  "video": "2027-01/2027-01-23-1000-actualizar-router.mp4",
+  "estilo": "terminal",
+  "youtube": {
+   "title": "Tu router también se actualiza (y casi nadie lo hace) #shorts",
+   "description": "Hack del día N.º 57: tu router también se actualiza (y casi nadie lo hace) 📡\nEl router es la puerta de toda tu casa a internet, y como el teléfono, recibe arreglos de seguridad. Si nadie lo actualiza, puede tener fallos conocidos durante años.\n1. Mira la etiqueta del router: ahí sale la dirección para entrar (por ejemplo 192.168.0.1) o el nombre de su app.\n2. Busca \"Actualizar firmware\" o \"Actualización\".\n3. Si el router es de tu compañía de internet, llámalos y pide que lo actualicen o te lo cambien si es muy viejo.\n\nComenta ROUTER si nunca lo habías actualizado 👇\nMándaselo a quien paga el internet de la casa.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #router #wifi #rd",
+   "tags": [
+    "actualizar router",
+    "firmware",
+    "wifi",
+    "hack del dia",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270123-1800-claude-shannon",
+  "fecha": "2027-01-23T16:00:00-04:00",
+  "video": "2027-01/2027-01-23-1800-claude-shannon.mp4",
+  "estilo": "terminal",
+  "youtube": {
+   "title": "Claude Shannon: el hombre que convirtió todo en unos y ceros #shorts",
+   "description": "Mentes N.º 11: Claude Shannon: el hombre que convirtió todo en unos y ceros 0️⃣1️⃣\nEn 1948 publicó \"Una teoría matemática de la comunicación\" y explicó cómo medir la información en bits: unos y ceros. Gracias a esa idea existen el internet, los mensajes, las fotos y la música digital. También trabajó en criptografía, la ciencia de cifrar mensajes.\n\nY tenía su lado divertido: construía malabaristas mecánicos y andaba en monociclo por los pasillos de su trabajo.\n\nComenta BIT si no sabías de dónde viene el bit 👇\nMándaselo a quien estudia ingeniería.\n\nFuente: Bell Labs, MIT.\nVoz generada con IA · Contenido educativo.\n#mentes #historiadelatecnologia #claudeshannon #ciencia #tecnologia",
+   "tags": [
+    "claude shannon",
+    "teoria de la informacion",
+    "bit",
+    "mentes",
+    "historia de la tecnologia"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270124-1000-macintosh-1984",
+  "fecha": "2027-01-24T10:00:00-04:00",
+  "video": "2027-01/2027-01-24-1000-macintosh-1984.mp4",
+  "estilo": "escena",
+  "youtube": {
+   "title": "24 de enero de 1984: la computadora que puso el mouse en las casas #shorts",
+   "description": "Pasó en tech N.º 17: 24 de enero de 1984: la computadora que puso el mouse en las casas 🖱️\nEse día salió a la venta la primera Macintosh, de Apple. No fue la primera con mouse y ventanas, pero sí la que los hizo populares en las casas: en vez de escribir comandos, tocabas iconos.\n\nEso hizo las computadoras fáciles para todos. Y lo fácil también se usa para engañar: un icono o un botón que \"se ve oficial\" no siempre lo es.\n\nComenta MOUSE si usaste una computadora vieja 👇\nMándaselo a quien vivió las computadoras viejas.\n\nVoz generada con IA · Contenido educativo.\n#historiadelatecnologia #macintosh #computadoras #tecnologia #curiosidades",
+   "tags": [
+    "macintosh 1984",
+    "historia de la computadora",
+    "mouse",
+    "historia de la tecnologia",
+    "tecnologia"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270124-1800-no-le-digas-a-nadie",
+  "fecha": "2027-01-24T16:00:00-04:00",
+  "video": "2027-01/2027-01-24-1800-no-le-digas-a-nadie.mp4",
+  "estilo": "escena",
+  "youtube": {
+   "title": "¿Por qué los estafadores te piden que no le digas a nadie? #shorts",
+   "description": "¿Por qué? N.º 18: ¿por qué los estafadores siempre te piden que no le digas a nadie? 🤫\nPorque la otra persona es su mayor peligro. Si le cuentas a tu familia, a tu banco o a un amigo, lo más probable es que te digan \"eso es estafa\". Por eso inventan excusas: \"es confidencial\", \"si le dices a alguien se cancela\", \"el banco no puede saberlo\", \"es una sorpresa\".\n\nLa regla es simple: si te piden secreto con dinero o códigos de por medio, cuéntaselo a alguien antes de hacer nada.\n\nComenta SECRETO si alguna vez te lo pidieron 👇\nMándaselo a tus papás.\n\nVoz generada con IA · Contenido educativo.\n#porque #estafas #ciberseguridad #familia #rd",
+   "tags": [
+    "señales de estafa",
+    "secreto",
+    "estafas",
+    "por que",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270125-1000-sql-slammer",
+  "fecha": "2027-01-25T10:00:00-04:00",
+  "video": "2027-01/2027-01-25-1000-sql-slammer.mp4",
+  "estilo": "escena",
+  "youtube": {
+   "title": "25 de enero de 2003: el virus que dio la vuelta al mundo en 10 minutos #shorts",
+   "description": "Pasó en tech N.º 18: 25 de enero de 2003: el virus que dio la vuelta al mundo en 10 minutos ⏱️\nSe llamó Slammer. Aprovechaba un fallo de un programa de bases de datos de Microsoft e infectó al menos 75.000 servidores, la mayoría en unos 10 minutos. Se cayeron redes, hubo cajeros que dejaron de funcionar y vuelos cancelados.\n\nLo peor: el arreglo existía desde seis meses antes. Los que habían actualizado no se infectaron.\n\nComenta 10 si te sorprende la velocidad 👇\nMándaselo a quien deja las actualizaciones para después.\n\nFuente: CAIDA, IEEE Security & Privacy (2003).\nVoz generada con IA · Contenido educativo.\n#historiadelatecnologia #malware #actualizaciones #ciberseguridad #tecnologia",
+   "tags": [
+    "sql slammer",
+    "gusano informatico",
+    "actualizaciones",
+    "historia de la ciberseguridad",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270125-1800-silenciar-desconocidos",
+  "fecha": "2027-01-25T16:00:00-04:00",
+  "video": "2027-01/2027-01-25-1800-silenciar-desconocidos.mp4",
+  "estilo": "escena",
+  "youtube": {
+   "title": "Silencia las llamadas de desconocidos en WhatsApp #shorts",
+   "description": "Hack del día N.º 58: activa esto y las llamadas de desconocidos en WhatsApp no te molestan más 🔕\nWhatsApp puede silenciar las llamadas de números que no tienes guardados: no suenan, pero aparecen en la lista de llamadas por si era alguien importante.\nWhatsApp > Ajustes > Privacidad > Llamadas > Silenciar llamadas de números desconocidos.\nY en Privacidad avanzada, activa \"Proteger la dirección IP en llamadas\".\n\nComenta SILENCIO cuando lo actives 👇\nMándaselo a quien recibe llamadas raras por WhatsApp.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #whatsapp #llamadas #ciberseguridad #rd",
+   "tags": [
+    "whatsapp llamadas",
+    "silenciar desconocidos",
+    "privacidad",
+    "hack del dia",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270126-1000-bloquear-chats",
+  "fecha": "2027-01-26T10:00:00-04:00",
+  "video": "2027-01/2027-01-26-1000-bloquear-chats.mp4",
+  "estilo": "tarjetas",
+  "youtube": {
+   "title": "Ponle candado a tus chats de WhatsApp #shorts",
+   "description": "Hack del día N.º 59: ponle candado a tus chats de WhatsApp (sin bloquear todo el teléfono) 🔐\nSi prestas el teléfono, cualquiera puede abrir tus chats. WhatsApp deja bloquear chats uno por uno con tu huella, tu cara o el código del teléfono.\nMantén presionado el chat > Bloquear chat (o entra al chat > nombre > Bloquear chat).\nLos chats bloqueados se mueven a una carpeta aparte que solo se abre con tu huella.\n\nComenta CANDADO si vas a usarlo 👇\nMándaselo a quien presta el teléfono.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #whatsapp #privacidad #ciberseguridad #rd",
+   "tags": [
+    "bloquear chat",
+    "whatsapp",
+    "privacidad",
+    "hack del dia",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270126-1800-que-es-filtracion",
+  "fecha": "2027-01-26T16:00:00-04:00",
+  "video": "2027-01/2027-01-26-1800-que-es-filtracion.mp4",
+  "estilo": "tarjetas",
+  "youtube": {
+   "title": "¿Qué pasa con tus datos después de una filtración? #shorts",
+   "description": "Tech explicada N.º 17: ¿qué pasa con tus datos después de una filtración? 🗂️\nCuando atacan una página y se llevan su base de datos, los correos, contraseñas y teléfonos se venden o se publican en foros. Después, programas automáticos prueban esos correos y contraseñas en miles de páginas: bancos, redes, tiendas. Si usas la misma clave en todas, entran.\n\nPor eso importa tanto tener una contraseña distinta en cada sitio, y la verificación en dos pasos.\n\nComenta FILTRACIÓN si tu correo salió en una 👇\nMándaselo a quien usa la misma contraseña en todo.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#tecnologia #filtraciones #contraseñas #comofunciona #ciberseguridad",
+   "tags": [
+    "filtracion de datos",
+    "contraseñas",
+    "relleno de credenciales",
+    "tech explicada",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270127-1000-tarjetas-guardadas",
+  "fecha": "2027-01-27T10:00:00-04:00",
+  "video": "2027-01/2027-01-27-1000-tarjetas-guardadas.mp4",
+  "estilo": "kinetic",
+  "youtube": {
+   "title": "Borra tu tarjeta de las tiendas donde ya no compras #shorts",
+   "description": "Hack del día N.º 60: borra tu tarjeta de las tiendas donde ya no compras 💳\nCada tienda o app donde guardaste tu tarjeta es un lugar más de donde la pueden robar si la hackean, o donde alguien con tu cuenta puede comprar.\n1. Entra a las tiendas y apps donde compraste y busca \"Métodos de pago\".\n2. Borra la tarjeta donde ya no compras.\n3. En el navegador: Chrome > Configuración > Métodos de pago; en iPhone, Ajustes > Safari > Autorrelleno.\nPara compras en línea, mejor una tarjeta virtual.\n\nComenta BORRÉ cuántas tarjetas tenías guardadas 👇\nMándaselo a quien compra por internet.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #ciberseguridad #comprasonline #tarjetas #rd",
+   "tags": [
+    "tarjeta guardada",
+    "compras online",
+    "metodos de pago",
+    "hack del dia",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270127-1800-reiniciar-telefono",
+  "fecha": "2027-01-27T16:00:00-04:00",
+  "video": "2027-01/2027-01-27-1800-reiniciar-telefono.mp4",
+  "estilo": "kinetic",
+  "youtube": {
+   "title": "¿Por qué es bueno reiniciar el teléfono cada semana? #shorts",
+   "description": "¿Por qué? N.º 19: ¿por qué es bueno reiniciar el teléfono cada semana? 🔄\nAlgunos programas espía se quedan solo en la memoria del teléfono mientras está encendido: al reiniciar, se borran y tienen que volver a entrar. Por eso la Agencia de Seguridad Nacional de EE. UU. recomienda apagar y encender el teléfono una vez por semana.\n\nNo te protege de todo, pero cuesta un minuto. Y de paso, muchas actualizaciones solo se terminan de instalar al reiniciar.\n\nComenta REINICIO si nunca apagas el teléfono 👇\nMándaselo a quien nunca apaga el teléfono.\n\nFuente: NSA, Buenas prácticas para dispositivos móviles.\nVoz generada con IA · Contenido educativo.\n#porque #seguridadmovil #tecnologia #ciberseguridad #curiosidades",
+   "tags": [
+    "reiniciar telefono",
+    "seguridad movil",
+    "nsa",
+    "por que",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270128-1000-dia-proteccion-datos",
+  "fecha": "2027-01-28T10:00:00-04:00",
+  "video": "2027-01/2027-01-28-1000-dia-proteccion-datos.mp4",
+  "estilo": "crema",
+  "youtube": {
+   "title": "Día de la Protección de Datos: así nació #shorts",
+   "description": "Pasó en tech N.º 19: hoy es el Día de la Protección de Datos: así nació 🗂️\nEl 28 de enero de 1981 se abrió a firma en el Consejo de Europa el Convenio 108, el primer tratado internacional para proteger los datos personales. Por eso cada 28 de enero se celebra este día.\n\nTres cosas para hoy: revisa qué apps tienen tus contactos y tu ubicación, no publiques tu cédula ni tu número completo, y borra las cuentas que ya no usas.\n\nComenta DATOS si no sabías que existía este día 👇\nMándaselo a quien comparte todo en redes.\n\nFuente: Consejo de Europa.\nVoz generada con IA · Contenido educativo.\n#historiadelatecnologia #privacidad #datospersonales #ciberseguridad #rd",
+   "tags": [
+    "dia de la proteccion de datos",
+    "convenio 108",
+    "privacidad",
+    "datos personales",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270128-1800-revisar-suscripciones",
+  "fecha": "2027-01-28T16:00:00-04:00",
+  "video": "2027-01/2027-01-28-1800-revisar-suscripciones.mp4",
+  "estilo": "crema",
+  "youtube": {
+   "title": "Revisa tus suscripciones: puede haber cobros que no recuerdas #shorts",
+   "description": "Hack del día N.º 61: revisa tus suscripciones: puede haber cobros que ni recuerdas 🧾\nPruebas gratis que se volvieron cobros, apps que ya no usas, cuentas compartidas que sigues pagando.\nAndroid: Google Play > tu foto > Pagos y suscripciones > Suscripciones.\niPhone: Ajustes > tu nombre > Suscripciones.\nY revisa tu estado de cuenta: si ves un cobro pequeño que no reconoces, llama a tu banco. A veces los ladrones prueban la tarjeta con montos chiquitos.\n\nComenta CANCELÉ cuánto te ahorraste 👇\nMándaselo a quien paga suscripciones.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#hackdeldía #suscripciones #dinero #ciberseguridad #rd",
+   "tags": [
+    "suscripciones",
+    "cobros",
+    "google play",
+    "hack del dia",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270129-1000-llamada-policia-p1",
+  "fecha": "2027-01-29T10:00:00-04:00",
+  "video": "2027-01/2027-01-29-1000-llamada-policia-p1.mp4",
+  "estilo": "historia",
+  "youtube": {
+   "title": "Te llaman \"de la policía\": hay una orden contra ti… ¿qué harías? (Parte 1) #shorts",
+   "description": "Estafa expuesta N.º 31 · Parte 1/2: te llaman \"de la policía\": hay una orden contra ti 🚔\nLlaman a la mamá de Chris. Una voz seria dice que es de la policía: hay una orden de arresto a su nombre por un delito con su cédula, y para \"resolverlo hoy\" sin ir presa debe pagar una multa por transferencia. Tiene su nombre y su número de cédula, y le pide que no cuelgue ni le diga a nadie.\n\n¿Qué harías tú?\n\nComenta PAGO o CUELGO y dime qué harías 👇\nParte 2: hoy a las 6 de la tarde. Sígueme para no perdértela.\nMándaselo a tus papás y abuelos.\n\nHistoria recreada con fines educativos. Voz generada con IA.\n#estafas #llamadas #policia #republicadominicana #ciberseguridad",
+   "tags": [
+    "llamada falsa",
+    "falsa policia",
+    "extorsion telefonica",
+    "estafas",
+    "republica dominicana"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270129-1800-llamada-policia-p2",
+  "fecha": "2027-01-29T16:00:00-04:00",
+  "video": "2027-01/2027-01-29-1800-llamada-policia-p2.mp4",
+  "estilo": "historia",
+  "youtube": {
+   "title": "La llamada de la policía era falsa: así funciona la estafa (Parte 2) #shorts",
+   "description": "Estafa expuesta N.º 31 · Parte 2/2: la respuesta era B: la policía no cobra multas por teléfono 🛑\nNinguna autoridad te llama para cobrarte una multa por transferencia, ni te pide que no cuelgues o no se lo digas a nadie. El nombre y la cédula pueden salir de filtraciones o de redes sociales: tenerlos no los hace policías.\n\nCuelga. Llama tú al número oficial de la policía o ve a un destacamento, y avisa a tu familia. Si ya pagaste, llama a tu banco de inmediato y denuncia.\n\nComenta CUELGO si acertaste 👇\nMándaselo a tus papás y abuelos.\n\nHistoria recreada con fines educativos. Voz generada con IA.\n#estafas #llamadas #policia #republicadominicana #ciberseguridad",
+   "tags": [
+    "llamada falsa",
+    "falsa policia",
+    "extorsion telefonica",
+    "estafas",
+    "republica dominicana"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270130-1000-chip-tarjeta",
+  "fecha": "2027-01-30T10:00:00-04:00",
+  "video": "2027-01/2027-01-30-1000-chip-tarjeta.mp4",
+  "estilo": "terminal",
+  "youtube": {
+   "title": "¿Por qué el chip de la tarjeta es más seguro que la banda? #shorts",
+   "description": "Tech explicada N.º 18: ¿por qué el chip de la tarjeta es más seguro que la banda? 💳\nLa banda magnética guarda siempre los mismos datos: si alguien la copia con un aparato escondido en un cajero o en un datáfono, puede clonar tu tarjeta. El chip, en cambio, crea un código distinto en cada compra, que solo sirve una vez. Copiarlo no sirve de nada.\n\nCuando puedas, paga con el chip o acercando la tarjeta, y revisa que el cajero no tenga piezas sueltas o raras.\n\nComenta CHIP si siempre usas el chip 👇\nMándaselo a quien paga con tarjeta.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#tecnologia #tarjetas #fraude #comofunciona #ciberseguridad",
+   "tags": [
+    "chip de tarjeta",
+    "banda magnetica",
+    "clonacion de tarjetas",
+    "tech explicada",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270130-1800-usb-publico",
+  "fecha": "2027-01-30T16:00:00-04:00",
+  "video": "2027-01/2027-01-30-1800-usb-publico.mp4",
+  "estilo": "terminal",
+  "youtube": {
+   "title": "¿Por qué no cargar el teléfono en un USB público? #shorts",
+   "description": "¿Por qué? N.º 20: ¿por qué te dicen que no cargues el teléfono en un USB público? 🔌\nUn puerto USB no solo da corriente: también pasa datos. En teoría, un puerto modificado podría intentar sacar información o instalar algo, y por eso el FBI y otras agencias han recomendado evitar los puertos públicos. Casos reales hay pocos, pero el riesgo existe y evitarlo es fácil.\n\nLleva tu cargador y enchúfalo a la corriente, o usa una batería portátil. Y si el teléfono pregunta \"¿Confiar en este dispositivo?\" o \"¿Transferir archivos?\", di que no.\n\nComenta USB si cargas el teléfono en cualquier sitio 👇\nMándaselo a quien viaja mucho.\n\nFuente: FBI (2023).\nVoz generada con IA · Contenido educativo.\n#porque #seguridadmovil #viajes #ciberseguridad #tecnologia",
+   "tags": [
+    "usb publico",
+    "cargar telefono",
+    "seguridad en viajes",
+    "por que",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270131-1000-radia-perlman",
+  "fecha": "2027-01-31T10:00:00-04:00",
+  "video": "2027-01/2027-01-31-1000-radia-perlman.mp4",
+  "estilo": "escena",
+  "youtube": {
+   "title": "Radia Perlman: la ingeniera que evitó que internet se enredara #shorts",
+   "description": "Mentes N.º 12: Radia Perlman: la ingeniera que evitó que internet se enredara 🕸️\nEn los años ochenta, cuando se conectaban muchas redes entre sí, los mensajes podían quedarse dando vueltas en círculo hasta colapsarlo todo. Radia Perlman inventó una forma de que las redes encontraran un solo camino sin círculos, el protocolo de árbol de expansión. Por eso la llaman la madre de internet, aunque a ella no le gusta ese título.\n\nSu trabajo es la base de casi todas las redes de las oficinas y universidades.\n\nComenta REDES si no la conocías 👇\nMándaselo a quien estudia redes.\n\nFuente: Internet Hall of Fame.\nVoz generada con IA · Contenido educativo.\n#mentes #historiadelatecnologia #redes #internet #tecnologia",
+   "tags": [
+    "radia perlman",
+    "redes",
+    "spanning tree",
+    "mentes",
+    "historia de la tecnologia"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+ },
+ {
+  "id": "20270131-1800-encontrar-sin-internet",
+  "fecha": "2027-01-31T16:00:00-04:00",
+  "video": "2027-01/2027-01-31-1800-encontrar-sin-internet.mp4",
+  "estilo": "escena",
+  "youtube": {
+   "title": "¿Cómo encuentran tu teléfono perdido aunque esté sin internet? #shorts",
+   "description": "Tech explicada N.º 19: ¿cómo encuentran tu teléfono perdido aunque esté sin internet? 📍\nTu teléfono, aunque no tenga datos ni Wi-Fi, emite una señal por Bluetooth. Los teléfonos de otras personas que pasan cerca la detectan, y mandan su ubicación de forma cifrada: ni ellos ni la empresa saben de quién es. Solo tú la ves en tu cuenta.\n\nActívalo: iPhone, Ajustes > tu nombre > Buscar > Buscar mi iPhone > Red de Buscar. Android, Ajustes > Google > Encontrar mi dispositivo > Encontrar tu dispositivo sin conexión.\n\nComenta ENCONTRAR si lo tienes activado 👇\nMándaselo a quien siempre pierde el teléfono.\n\nVoz generada con IA · Contenido educativo de ciberseguridad.\n#tecnologia #telefonoperdido #comofunciona #seguridadmovil #ciberseguridad",
+   "tags": [
+    "encontrar mi dispositivo",
+    "buscar mi iphone",
+    "telefono perdido",
+    "tech explicada",
+    "ciberseguridad"
+   ]
+  },
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  }
 ]

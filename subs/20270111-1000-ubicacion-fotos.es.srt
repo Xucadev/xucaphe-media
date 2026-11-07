@@ -1,0 +1,39 @@
+1
+00:00:00,100 --> 00:00:03,852
+Chris vende una silla por internet y manda una foto desde su casa.
+
+2
+00:00:04,002 --> 00:00:08,195
+Esa foto puede guardar dónde se tomó, con coordenadas exactas.
+
+3
+00:00:08,345 --> 00:00:13,158
+Algunas redes la borran, pero si la mandas como archivo, va completa.
+
+4
+00:00:13,308 --> 00:00:16,371
+Guárdalo ahora, que en el momento se te olvida.
+
+5
+00:00:16,521 --> 00:00:20,748
+En iPhone, al compartir, toca Opciones y apaga Ubicación.
+
+6
+00:00:20,898 --> 00:00:25,296
+En Android, en Google Fotos, quita la ubicación al compartir.
+
+7
+00:00:25,446 --> 00:00:29,295
+Y para que no se guarde nunca, apágala en la app de cámara.
+
+8
+00:00:29,445 --> 00:00:32,169
+Comenta UBICACIÓN si no sabías esto.
+
+9
+00:00:32,169 --> 00:00:32,925
+Y sígueme:
+
+10
+00:00:32,925 --> 00:00:36,889
+mañana hay otro hack del día.

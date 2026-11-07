@@ -1,0 +1,47 @@
+1
+00:00:00,100 --> 00:00:03,659
+Chris prestó su computadora y nunca cerró su cuenta de Google.
+
+2
+00:00:03,809 --> 00:00:06,869
+Tu cuenta puede seguir abierta en un teléfono viejo o en
+
+3
+00:00:06,869 --> 00:00:08,679
+un dispositivo que no conoces.
+
+4
+00:00:08,829 --> 00:00:10,479
+Revísalo en un minuto.
+
+5
+00:00:10,629 --> 00:00:13,692
+Guárdalo ahora, que en el momento se te olvida.
+
+6
+00:00:13,842 --> 00:00:16,449
+Entra a tu cuenta de Google y toca Seguridad.
+
+7
+00:00:16,599 --> 00:00:20,571
+Baja hasta Tus dispositivos, y toca Administrar todos.
+
+8
+00:00:20,721 --> 00:00:23,729
+Si ves uno que no reconoces, toca Salir.
+
+9
+00:00:23,879 --> 00:00:26,466
+Y después, cambia tu contraseña.
+
+10
+00:00:26,616 --> 00:00:30,226
+Comenta SESIONES si encontraste un dispositivo raro.
+
+11
+00:00:30,226 --> 00:00:30,920
+Y sígueme:
+
+12
+00:00:30,920 --> 00:00:34,704
+mañana hay otro hack del día.
