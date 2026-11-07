@@ -1,14 +1,1 @@
-ERR ep03-t01 gemini-3.1-flash-tts-preview sin audio: finishReason=SAFETY feedback={}
-OK ep03-t01 gemini-2.5-flash-preview-tts 178.7s
-ERR ep03-t02 gemini-3.1-flash-tts-preview 429 {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceede
-OK ep03-t02 gemini-2.5-flash-preview-tts 151.8s
-ERR ep03-t03 gemini-3.1-flash-tts-preview 429 {
-  "error": {
-    "code": 429,
-    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceede
-OK ep03-t03 gemini-2.5-flash-preview-tts 172.3s
-ERR ep03-t04 gemini-3.1-flash-tts-preview sin audio: finishReason=SAFETY feedback={}
-OK ep03-t04 gemini-2.5-flash-preview-tts 276.3s
+OK ep03-t00 gemini-2.5-flash-preview-tts 136.8s
