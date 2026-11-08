@@ -1,0 +1,1351 @@
+1
+00:00:00,250 --> 00:00:01,770
+Este eres tú.
+
+2
+00:00:01,770 --> 00:00:02,922
+Chris.
+
+3
+00:00:03,222 --> 00:00:05,334
+Trabajas en ciberseguridad.
+
+4
+00:00:05,334 --> 00:00:08,775
+Cada semana subes videos explicando estafas.
+
+5
+00:00:08,775 --> 00:00:11,493
+Y tu mamá los comparte todos.
+
+6
+00:00:11,793 --> 00:00:12,282
+Sábado.
+
+7
+00:00:12,282 --> 00:00:14,307
+Diez y cuarenta de la mañana.
+
+8
+00:00:14,307 --> 00:00:19,156
+Tú estás en el gimnasio, con el teléfono guardado en un locker.
+
+9
+00:00:19,456 --> 00:00:20,632
+Y a esa misma hora,
+
+10
+00:00:20,632 --> 00:00:23,232
+tu mamá está en la ventanilla de un banco,
+
+11
+00:00:23,232 --> 00:00:26,839
+sacando doscientos cincuenta mil pesos en efectivo.
+
+12
+00:00:27,139 --> 00:00:29,264
+Los ahorros de toda su vida.
+
+13
+00:00:29,564 --> 00:00:32,244
+La cajera le pregunta para qué es.
+
+14
+00:00:32,244 --> 00:00:33,584
+Y tu mamá miente.
+
+15
+00:00:33,584 --> 00:00:35,926
+Porque tú se lo pediste.
+
+16
+00:00:36,226 --> 00:00:36,651
+Bueno…
+
+17
+00:00:36,651 --> 00:00:37,998
+tu voz se lo pidió.
+
+18
+00:00:37,998 --> 00:00:41,497
+Hace veinte minutos, llorando por teléfono.
+
+19
+00:00:41,797 --> 00:00:43,897
+Pero tú nunca la llamaste.
+
+20
+00:00:44,197 --> 00:00:46,897
+Vamos directo al grano.
+
+21
+00:00:47,197 --> 00:00:48,354
+Dos semanas antes.
+
+22
+00:00:48,354 --> 00:00:50,734
+Estás en tu cuarto grabando un video:
+
+23
+00:00:50,734 --> 00:00:53,820
+tres señales de que un mensaje es estafa.
+
+24
+00:00:54,120 --> 00:00:54,912
+Buena luz.
+
+25
+00:00:54,912 --> 00:00:56,099
+Buen micrófono.
+
+26
+00:00:56,099 --> 00:00:59,424
+Dos minutos de tu voz, clarita, sin ruido.
+
+27
+00:00:59,424 --> 00:01:00,586
+Perfecta.
+
+28
+00:01:00,886 --> 00:01:04,110
+Lo subes a TikTok, a Instagram y a YouTube.
+
+29
+00:01:04,110 --> 00:01:06,359
+Mil doscientas reproducciones.
+
+30
+00:01:06,359 --> 00:01:08,009
+Estás orgulloso.
+
+31
+00:01:08,309 --> 00:01:10,140
+Ese mismo día, en otro país,
+
+32
+00:01:10,140 --> 00:01:13,664
+alguien que nunca has visto descarga ese video.
+
+33
+00:01:13,964 --> 00:01:15,503
+No le interesa tu consejo.
+
+34
+00:01:15,503 --> 00:01:17,077
+Le interesa tu voz.
+
+35
+00:01:17,377 --> 00:01:18,683
+Corta treinta segundos.
+
+36
+00:01:18,683 --> 00:01:21,294
+Y los mete en un programa de clonación de voz.
+
+37
+00:01:21,294 --> 00:01:23,560
+Hay muchos, y varios son gratis.
+
+38
+00:01:23,860 --> 00:01:26,158
+En unos minutos, escribe una frase.
+
+39
+00:01:26,158 --> 00:01:27,405
+Mami, me pasó algo.
+
+40
+00:01:27,405 --> 00:01:28,850
+Y el programa la dice.
+
+41
+00:01:28,850 --> 00:01:30,022
+Con tu voz.
+
+42
+00:01:30,322 --> 00:01:31,322
+¿Cómo funciona?
+
+43
+00:01:31,322 --> 00:01:34,721
+El programa escucha tu audio y aprende cómo suenas:
+
+44
+00:01:34,721 --> 00:01:38,770
+tu tono, tu ritmo, tu acento, cómo arrastras las eses.
+
+45
+00:01:39,070 --> 00:01:42,477
+Después, cualquier cosa que escriban, la dice con tu voz.
+
+46
+00:01:42,477 --> 00:01:44,151
+Frases que tú nunca dijiste.
+
+47
+00:01:44,151 --> 00:01:45,885
+En el tono que ellos quieran:
+
+48
+00:01:45,885 --> 00:01:47,080
+tranquilo, asustado…
+
+49
+00:01:47,080 --> 00:01:48,188
+o llorando.
+
+50
+00:01:48,488 --> 00:01:50,843
+Y no hace falta ser un genio para usarlo.
+
+51
+00:01:50,843 --> 00:01:53,199
+Se escribe, se le da a un botón, y listo.
+
+52
+00:01:53,199 --> 00:01:54,970
+Así de fácil se volvió.
+
+53
+00:01:55,270 --> 00:01:56,308
+Trampa número uno:
+
+54
+00:01:56,308 --> 00:01:57,518
+tu voz ya es pública.
+
+55
+00:01:57,518 --> 00:02:00,043
+Y para copiarla no hace falta mucha.
+
+56
+00:02:00,343 --> 00:02:02,977
+Investigadores de McAfee probaron estas herramientas.
+
+57
+00:02:02,977 --> 00:02:05,863
+Encontraron más de una docena gratis en internet.
+
+58
+00:02:06,163 --> 00:02:07,694
+Y con solo tres segundos de audio,
+
+59
+00:02:07,694 --> 00:02:11,072
+lograron una copia con un ochenta y cinco por ciento de parecido.
+
+60
+00:02:11,372 --> 00:02:14,837
+Con unos pocos audios más, llegaron al noventa y cinco por ciento.
+
+61
+00:02:14,837 --> 00:02:16,809
+Para tu mamá, eso es su hijo.
+
+62
+00:02:17,109 --> 00:02:18,648
+Y aquí en República Dominicana,
+
+63
+00:02:18,648 --> 00:02:20,833
+un experto en ciberseguridad ya lo advirtió:
+
+64
+00:02:20,833 --> 00:02:23,815
+con unos diez segundos de tu voz, te pueden clonar.
+
+65
+00:02:24,115 --> 00:02:25,130
+Un video.
+
+66
+00:02:25,130 --> 00:02:27,499
+Un estado con tu voz.
+
+67
+00:02:27,499 --> 00:02:30,996
+Una nota de voz que se reenvía.
+
+68
+00:02:30,996 --> 00:02:31,898
+Un live.
+
+69
+00:02:31,898 --> 00:02:33,589
+Todo sirve.
+
+70
+00:02:33,889 --> 00:02:36,428
+Pero una voz sola no basta.
+
+71
+00:02:36,428 --> 00:02:40,471
+Necesitan una historia que tu mamá se crea.
+
+72
+00:02:40,471 --> 00:02:43,178
+Y para eso, te estudian.
+
+73
+00:02:43,478 --> 00:02:45,840
+Entran al Facebook de tu mamá.
+
+74
+00:02:45,840 --> 00:02:46,706
+Es público.
+
+75
+00:02:46,706 --> 00:02:49,676
+Como el de casi todas las mamás.
+
+76
+00:02:49,976 --> 00:02:51,360
+Ahí está todo.
+
+77
+00:02:51,360 --> 00:02:53,239
+Tu nombre completo.
+
+78
+00:02:53,239 --> 00:02:55,415
+Tu foto de graduación.
+
+79
+00:02:55,415 --> 00:02:58,085
+Orgullosa de mi hijo Chris.
+
+80
+00:02:58,085 --> 00:03:00,063
+Y cómo te dice ella:
+
+81
+00:03:00,063 --> 00:03:01,403
+Chrisito.
+
+82
+00:03:01,703 --> 00:03:02,872
+Saben dónde vive,
+
+83
+00:03:02,872 --> 00:03:07,106
+porque publicó la foto de la marquesina recién pintada.
+
+84
+00:03:07,406 --> 00:03:08,940
+Saben que tiene ahorros,
+
+85
+00:03:08,940 --> 00:03:12,970
+porque comentó que está juntando para arreglar el techo.
+
+86
+00:03:13,270 --> 00:03:15,685
+Y en tu Instagram ven tu rutina:
+
+87
+00:03:15,685 --> 00:03:19,836
+todos los sábados subes una historia desde el gimnasio.
+
+88
+00:03:19,836 --> 00:03:22,097
+Siempre a la misma hora.
+
+89
+00:03:22,397 --> 00:03:24,616
+Con eso arman una ficha.
+
+90
+00:03:24,616 --> 00:03:26,373
+Como un expediente.
+
+91
+00:03:26,373 --> 00:03:29,517
+Nombre del hijo, apodo, dirección,
+
+92
+00:03:29,517 --> 00:03:35,146
+cuánto tiene ahorrado, y a qué hora el hijo no contesta.
+
+93
+00:03:35,446 --> 00:03:38,150
+Y escriben el guion de la llamada.
+
+94
+00:03:38,150 --> 00:03:39,503
+Qué dice el hijo.
+
+95
+00:03:39,503 --> 00:03:41,093
+Qué dice el abogado.
+
+96
+00:03:41,093 --> 00:03:43,639
+Qué contestar si la señora duda.
+
+97
+00:03:43,639 --> 00:03:46,475
+Lo han hecho cientos de veces.
+
+98
+00:03:46,775 --> 00:03:48,330
+Trampa número dos:
+
+99
+00:03:48,330 --> 00:03:54,051
+tu familia publica, sin saberlo, todo lo que ellos necesitan.
+
+100
+00:03:54,351 --> 00:03:56,948
+Y con eso eligen el momento perfecto:
+
+101
+00:03:56,948 --> 00:04:00,837
+el rato en que tú no vas a contestar el teléfono.
+
+102
+00:04:01,137 --> 00:04:01,744
+Sábado.
+
+103
+00:04:01,744 --> 00:04:03,304
+Diez y diecinueve.
+
+104
+00:04:03,304 --> 00:04:05,991
+Subes tu historia del gimnasio.
+
+105
+00:04:05,991 --> 00:04:09,302
+Guardas el teléfono en el locker.
+
+106
+00:04:09,602 --> 00:04:10,651
+Diez y veinte.
+
+107
+00:04:10,651 --> 00:04:14,322
+A tu mamá la llama un número que no conoce.
+
+108
+00:04:14,622 --> 00:04:15,389
+Contesta.
+
+109
+00:04:15,389 --> 00:04:18,312
+Y escucha a su hijo llorando.
+
+110
+00:04:18,612 --> 00:04:19,183
+Mami.
+
+111
+00:04:19,183 --> 00:04:20,669
+Mami, soy yo.
+
+112
+00:04:20,669 --> 00:04:22,498
+Choqué el carro.
+
+113
+00:04:22,498 --> 00:04:25,012
+Hay una señora herida.
+
+114
+00:04:25,012 --> 00:04:27,184
+Me tienen detenido.
+
+115
+00:04:27,184 --> 00:04:29,234
+Mami, ayúdame.
+
+116
+00:04:29,534 --> 00:04:30,343
+Es tu voz.
+
+117
+00:04:30,343 --> 00:04:32,202
+Tu forma de decir mami.
+
+118
+00:04:32,202 --> 00:04:35,806
+Hasta cómo se te quiebra cuando lloras.
+
+119
+00:04:36,106 --> 00:04:40,175
+Antes de que ella pueda preguntar nada, la voz se aleja.
+
+120
+00:04:40,175 --> 00:04:42,732
+Y toma el teléfono un hombre.
+
+121
+00:04:43,032 --> 00:04:44,513
+Señora, buenos días.
+
+122
+00:04:44,513 --> 00:04:45,845
+Soy el licenciado.
+
+123
+00:04:45,845 --> 00:04:49,330
+Su hijo está detenido en el destacamento.
+
+124
+00:04:49,630 --> 00:04:53,431
+La señora que él chocó está embarazada, y está grave.
+
+125
+00:04:53,431 --> 00:04:58,327
+Si no paga la fianza hoy, su hijo pasa el fin de semana preso.
+
+126
+00:04:58,627 --> 00:05:00,993
+Son doscientos cincuenta mil pesos.
+
+127
+00:05:00,993 --> 00:05:01,804
+En efectivo.
+
+128
+00:05:01,804 --> 00:05:05,837
+Un mensajero del tribunal pasa a buscarlos a su casa.
+
+129
+00:05:06,137 --> 00:05:07,098
+Tu mamá dice:
+
+130
+00:05:07,098 --> 00:05:08,724
+déjeme llamar a Chris.
+
+131
+00:05:08,724 --> 00:05:09,759
+Y él responde:
+
+132
+00:05:09,759 --> 00:05:13,603
+el teléfono de su hijo está retenido como evidencia.
+
+133
+00:05:13,603 --> 00:05:15,383
+No va a contestar.
+
+134
+00:05:15,683 --> 00:05:17,415
+Ella te llama igual.
+
+135
+00:05:17,415 --> 00:05:19,146
+Suena, suena, suena.
+
+136
+00:05:19,146 --> 00:05:24,185
+Tú estás en la caminadora, con los audífonos puestos.
+
+137
+00:05:24,485 --> 00:05:25,836
+Trampa número tres:
+
+138
+00:05:25,836 --> 00:05:29,179
+te llaman cuando saben que no puedes contestar.
+
+139
+00:05:29,179 --> 00:05:33,042
+Y le dan a ella una razón para que no te busque.
+
+140
+00:05:33,342 --> 00:05:37,408
+Y la última instrucción, la más importante:
+
+141
+00:05:37,408 --> 00:05:40,434
+Señora, no le diga nada a nadie.
+
+142
+00:05:40,434 --> 00:05:44,194
+Si esto sale, a su hijo le va peor.
+
+143
+00:05:44,494 --> 00:05:49,672
+Y si en el banco le preguntan, diga que es para arreglar el techo.
+
+144
+00:05:49,972 --> 00:05:52,142
+Ponte en su lugar un segundo.
+
+145
+00:05:52,142 --> 00:05:54,236
+Escuchas a tu hijo llorando.
+
+146
+00:05:54,236 --> 00:05:56,780
+Un abogado te dice que está preso.
+
+147
+00:05:56,780 --> 00:05:59,923
+Y te dice que si hablas, le va peor.
+
+148
+00:06:00,223 --> 00:06:03,133
+Tu mamá piensa en llamar a tu tía.
+
+149
+00:06:03,133 --> 00:06:05,188
+Pero no le diga a nadie.
+
+150
+00:06:05,188 --> 00:06:07,756
+Piensa en llamar a la policía.
+
+151
+00:06:07,756 --> 00:06:11,630
+Pero si esto sale, a su hijo le va peor.
+
+152
+00:06:11,930 --> 00:06:13,147
+¿Qué harías tú?
+
+153
+00:06:13,147 --> 00:06:15,499
+Escríbelo en los comentarios.
+
+154
+00:06:15,499 --> 00:06:16,310
+De verdad:
+
+155
+00:06:16,310 --> 00:06:18,869
+¿qué harías en ese minuto?
+
+156
+00:06:19,169 --> 00:06:20,862
+Trampa número cuatro:
+
+157
+00:06:20,862 --> 00:06:21,749
+el secreto.
+
+158
+00:06:21,749 --> 00:06:25,054
+Si te piden que no se lo cuentes a nadie,
+
+159
+00:06:25,054 --> 00:06:28,520
+y que le mientas a tu banco, es una estafa.
+
+160
+00:06:28,520 --> 00:06:29,615
+Siempre.
+
+161
+00:06:29,915 --> 00:06:31,047
+Diez y cuarenta.
+
+162
+00:06:31,047 --> 00:06:35,079
+Tu mamá llega al banco con el teléfono pegado a la oreja.
+
+163
+00:06:35,079 --> 00:06:37,651
+El licenciado no cuelga nunca.
+
+164
+00:06:37,951 --> 00:06:39,663
+Así nadie la puede llamar.
+
+165
+00:06:39,663 --> 00:06:42,878
+Y ella no tiene ni un segundo para pensar.
+
+166
+00:06:43,178 --> 00:06:45,329
+La cajera nota algo raro.
+
+167
+00:06:45,329 --> 00:06:46,964
+Señora, ¿todo bien?
+
+168
+00:06:46,964 --> 00:06:50,683
+¿Alguien le está pidiendo este dinero?
+
+169
+00:06:50,983 --> 00:06:52,956
+Esa pregunta la pudo salvar.
+
+170
+00:06:52,956 --> 00:06:56,126
+Pero tu mamá ya tiene la respuesta preparada:
+
+171
+00:06:56,126 --> 00:06:57,774
+es para el techo.
+
+172
+00:06:58,074 --> 00:06:59,032
+Once y quince.
+
+173
+00:06:59,032 --> 00:07:01,770
+Un muchacho en un motor llega a la casa.
+
+174
+00:07:01,770 --> 00:07:04,821
+Dice que es el mensajero del tribunal.
+
+175
+00:07:05,121 --> 00:07:07,660
+Tu mamá le entrega un sobre manila.
+
+176
+00:07:07,660 --> 00:07:09,910
+Doscientos cincuenta mil pesos.
+
+177
+00:07:09,910 --> 00:07:11,593
+A un desconocido.
+
+178
+00:07:11,893 --> 00:07:13,266
+El motor arranca.
+
+179
+00:07:13,266 --> 00:07:15,735
+Y el dinero se va con él.
+
+180
+00:07:16,035 --> 00:07:17,010
+Once y media.
+
+181
+00:07:17,010 --> 00:07:19,484
+El teléfono vuelve a sonar.
+
+182
+00:07:19,784 --> 00:07:21,433
+Señora, malas noticias.
+
+183
+00:07:21,433 --> 00:07:24,015
+La señora embarazada perdió el bebé.
+
+184
+00:07:24,015 --> 00:07:27,118
+La familia quiere demandar a su hijo.
+
+185
+00:07:27,418 --> 00:07:29,229
+Pero aceptan un acuerdo.
+
+186
+00:07:29,229 --> 00:07:31,341
+Cuatrocientos mil pesos más.
+
+187
+00:07:31,341 --> 00:07:32,546
+Hoy mismo.
+
+188
+00:07:32,846 --> 00:07:34,373
+Trampa número cinco:
+
+189
+00:07:34,373 --> 00:07:36,357
+si pagas una vez, vuelven.
+
+190
+00:07:36,357 --> 00:07:39,029
+La estafa no se acaba cuando pagas.
+
+191
+00:07:39,029 --> 00:07:41,845
+Se acaba cuando dejas de pagar.
+
+192
+00:07:42,145 --> 00:07:43,363
+Once y cuarenta.
+
+193
+00:07:43,363 --> 00:07:44,960
+Terminas de entrenar.
+
+194
+00:07:44,960 --> 00:07:46,628
+Abres el locker.
+
+195
+00:07:46,928 --> 00:07:49,453
+Catorce llamadas perdidas de tu mamá.
+
+196
+00:07:49,453 --> 00:07:50,926
+Seis de tu tía.
+
+197
+00:07:51,226 --> 00:07:52,864
+Se te hiela la sangre.
+
+198
+00:07:52,864 --> 00:07:54,059
+La llamas.
+
+199
+00:07:54,359 --> 00:07:56,527
+Y ella contesta gritando:
+
+200
+00:07:56,527 --> 00:07:57,394
+¡Chrisito!
+
+201
+00:07:57,394 --> 00:07:58,435
+¿Estás bien?
+
+202
+00:07:58,435 --> 00:08:00,012
+¿Te soltaron?
+
+203
+00:08:00,312 --> 00:08:01,876
+Tú no entiendes nada.
+
+204
+00:08:01,876 --> 00:08:03,739
+¿Soltarme de dónde, mami?
+
+205
+00:08:03,739 --> 00:08:05,977
+Yo estoy en el gimnasio.
+
+206
+00:08:06,277 --> 00:08:07,454
+Silencio.
+
+207
+00:08:07,454 --> 00:08:10,331
+Y luego, muy despacio:
+
+208
+00:08:10,331 --> 00:08:12,031
+Pero eras tú.
+
+209
+00:08:12,031 --> 00:08:13,862
+Yo te escuché.
+
+210
+00:08:13,862 --> 00:08:15,750
+Era tu voz.
+
+211
+00:08:16,050 --> 00:08:18,204
+Y en ese momento entiendes.
+
+212
+00:08:18,204 --> 00:08:22,351
+La voz que usas para enseñarle a la gente a no caer…
+
+213
+00:08:22,351 --> 00:08:25,992
+la usaron para engañar a tu propia mamá.
+
+214
+00:08:26,292 --> 00:08:27,710
+Llegas a la casa.
+
+215
+00:08:27,710 --> 00:08:28,627
+La abrazas.
+
+216
+00:08:28,627 --> 00:08:31,213
+Ella no deja de pedirte perdón.
+
+217
+00:08:31,213 --> 00:08:35,583
+Y tú no dejas de decirle que no tiene la culpa.
+
+218
+00:08:35,883 --> 00:08:37,153
+Llaman al banco.
+
+219
+00:08:37,153 --> 00:08:40,328
+Van al destacamento a poner la denuncia.
+
+220
+00:08:40,328 --> 00:08:44,270
+Guardan el número y la hora de cada llamada.
+
+221
+00:08:44,570 --> 00:08:49,422
+El dinero que se fue en efectivo, en un motor, ese no vuelve.
+
+222
+00:08:49,422 --> 00:08:53,054
+Pero el segundo pago no llegó a hacerse.
+
+223
+00:08:53,354 --> 00:08:55,786
+Esa noche, tu mamá no duerme.
+
+224
+00:08:55,786 --> 00:08:58,721
+Y te dice algo que no se te olvida:
+
+225
+00:08:58,721 --> 00:09:01,740
+yo creía que a mí no me iba a pasar.
+
+226
+00:09:01,740 --> 00:09:04,873
+Si yo comparto todos tus videos.
+
+227
+00:09:05,173 --> 00:09:08,084
+Y tienes que explicarle que no fue tonta.
+
+228
+00:09:08,084 --> 00:09:11,138
+Que la estafa estaba hecha justo para ella.
+
+229
+00:09:11,138 --> 00:09:14,428
+Con la voz de la persona que más quiere.
+
+230
+00:09:14,728 --> 00:09:16,944
+¿Por qué funciona tan bien?
+
+231
+00:09:16,944 --> 00:09:19,242
+Porque no ataca tu teléfono.
+
+232
+00:09:19,242 --> 00:09:21,252
+Ataca a tu cerebro.
+
+233
+00:09:21,552 --> 00:09:23,210
+Primero, el miedo.
+
+234
+00:09:23,210 --> 00:09:26,435
+Cuando escuchas a un hijo llorando,
+
+235
+00:09:26,435 --> 00:09:30,766
+el cerebro deja de pensar y solo quiere ayudar.
+
+236
+00:09:30,766 --> 00:09:31,492
+Ya.
+
+237
+00:09:31,792 --> 00:09:33,427
+Segundo, la prisa.
+
+238
+00:09:33,427 --> 00:09:34,336
+Hoy mismo.
+
+239
+00:09:34,336 --> 00:09:35,789
+Antes del lunes.
+
+240
+00:09:35,789 --> 00:09:40,691
+Sin tiempo para preguntar ni para llamar a nadie.
+
+241
+00:09:40,991 --> 00:09:43,006
+Tercero, la autoridad.
+
+242
+00:09:43,006 --> 00:09:47,035
+Un licenciado, un tribunal, un destacamento.
+
+243
+00:09:47,035 --> 00:09:52,796
+Palabras que dan miedo y que nadie se atreve a cuestionar.
+
+244
+00:09:53,096 --> 00:09:54,786
+Cuarto, el secreto.
+
+245
+00:09:54,786 --> 00:09:59,589
+Si no puedes contárselo a nadie, nadie te puede decir:
+
+246
+00:09:59,589 --> 00:10:01,284
+eso es estafa.
+
+247
+00:10:01,584 --> 00:10:03,065
+Y quinto, el amor.
+
+248
+00:10:03,065 --> 00:10:05,122
+Esa es el arma de verdad.
+
+249
+00:10:05,122 --> 00:10:09,192
+La voz clonada solo es la llave para entrar.
+
+250
+00:10:09,492 --> 00:10:11,592
+Y ahora quizás pienses:
+
+251
+00:10:11,592 --> 00:10:13,418
+eso es una película.
+
+252
+00:10:13,418 --> 00:10:14,690
+No lo es.
+
+253
+00:10:14,990 --> 00:10:16,525
+En 2023, en Arizona,
+
+254
+00:10:16,525 --> 00:10:20,747
+Jennifer DeStefano recibió una llamada con la voz de su
+
+255
+00:10:20,747 --> 00:10:26,339
+hija de quince años, llorando, diciendo que unos hombres la tenían.
+
+256
+00:10:26,639 --> 00:10:28,980
+Le pidieron un millón de dólares.
+
+257
+00:10:28,980 --> 00:10:31,463
+Su hija estaba bien, en otro sitio.
+
+258
+00:10:31,463 --> 00:10:32,882
+Era una voz clonada.
+
+259
+00:10:32,882 --> 00:10:36,667
+Ella lo contó ante el Senado de Estados Unidos.
+
+260
+00:10:36,967 --> 00:10:39,344
+En julio de 2025, en Florida,
+
+261
+00:10:39,344 --> 00:10:43,033
+Sharon Brightwell escuchó a su hija llorando:
+
+262
+00:10:43,033 --> 00:10:47,745
+había chocado, y una mujer embarazada estaba herida.
+
+263
+00:10:48,045 --> 00:10:51,877
+Pagó quince mil dólares en efectivo a un mensajero.
+
+264
+00:10:51,877 --> 00:10:54,583
+Después le pidieron treinta mil más.
+
+265
+00:10:54,583 --> 00:10:56,761
+Igualito que a tu mamá.
+
+266
+00:10:57,061 --> 00:10:59,047
+Y aquí, en octubre de 2025,
+
+267
+00:10:59,047 --> 00:11:02,356
+la Policía Nacional denunció que clonaron con
+
+268
+00:11:02,356 --> 00:11:06,475
+inteligencia artificial la voz y la imagen de su vocero,
+
+269
+00:11:06,475 --> 00:11:09,867
+sacadas de una entrevista de televisión.
+
+270
+00:11:10,167 --> 00:11:14,041
+Lo usaron para promocionar una supuesta plataforma de
+
+271
+00:11:14,041 --> 00:11:15,650
+inversión en Telegram.
+
+272
+00:11:15,650 --> 00:11:20,778
+Si pueden clonar al vocero de la Policía, te pueden clonar a ti.
+
+273
+00:11:21,078 --> 00:11:23,340
+En Estados Unidos, solo en 2024,
+
+274
+00:11:23,340 --> 00:11:26,945
+la gente denunció casi tres mil millones de dólares
+
+275
+00:11:26,945 --> 00:11:31,495
+perdidos en estafas de alguien que se hace pasar por otro.
+
+276
+00:11:31,795 --> 00:11:33,491
+Y en la encuesta de McAfee,
+
+277
+00:11:33,491 --> 00:11:36,946
+una de cada cuatro personas había vivido una estafa con
+
+278
+00:11:36,946 --> 00:11:39,909
+voz clonada, o conocía a alguien que sí.
+
+279
+00:11:40,209 --> 00:11:44,726
+Y de los que cayeron, el setenta y siete por ciento perdió dinero.
+
+280
+00:11:45,026 --> 00:11:46,395
+El FBI lo dice claro:
+
+281
+00:11:46,395 --> 00:11:49,589
+los criminales ya usan voces clonadas para fingir
+
+282
+00:11:49,589 --> 00:11:52,711
+emergencias de familiares y pedir dinero.
+
+283
+00:11:53,011 --> 00:11:55,221
+Ahora, lo que de verdad importa.
+
+284
+00:11:55,221 --> 00:11:58,916
+Lo que le habría salvado los ahorros a tu mamá.
+
+285
+00:11:59,216 --> 00:11:59,528
+Uno.
+
+286
+00:11:59,528 --> 00:12:01,791
+Una palabra clave en familia.
+
+287
+00:12:01,791 --> 00:12:05,597
+Una palabra rara, que nadie publique nunca.
+
+288
+00:12:05,897 --> 00:12:09,551
+Si alguien llama con una emergencia, se la piden.
+
+289
+00:12:09,551 --> 00:12:11,415
+Si no la sabe, se cuelga.
+
+290
+00:12:11,415 --> 00:12:13,953
+Es lo que recomienda el FBI.
+
+291
+00:12:14,253 --> 00:12:14,561
+Dos.
+
+292
+00:12:14,561 --> 00:12:15,946
+Cuelga y llama tú.
+
+293
+00:12:15,946 --> 00:12:18,255
+Al número que tienes guardado.
+
+294
+00:12:18,255 --> 00:12:21,640
+Y si no contesta, a alguien que esté con él.
+
+295
+00:12:21,640 --> 00:12:24,322
+Nunca al número que te llamó.
+
+296
+00:12:24,622 --> 00:12:27,987
+Y no te fíes del número que sale en la pantalla.
+
+297
+00:12:27,987 --> 00:12:30,792
+Se puede falsificar para que se parezca,
+
+298
+00:12:30,792 --> 00:12:34,257
+o hasta para que diga el nombre de tu hijo.
+
+299
+00:12:34,557 --> 00:12:35,023
+Tres.
+
+300
+00:12:35,023 --> 00:12:38,099
+Pregunta algo que solo él sabría.
+
+301
+00:12:38,099 --> 00:12:41,734
+No su cumpleaños, que está en Facebook.
+
+302
+00:12:41,734 --> 00:12:43,225
+Algo de la casa.
+
+303
+00:12:43,225 --> 00:12:45,166
+Algo de ustedes.
+
+304
+00:12:45,466 --> 00:12:46,076
+Cuatro.
+
+305
+00:12:46,076 --> 00:12:49,215
+La prisa y el secreto son la estafa.
+
+306
+00:12:49,215 --> 00:12:50,523
+Ningún abogado,
+
+307
+00:12:50,523 --> 00:12:55,231
+policía ni tribunal te pide efectivo por un mensajero,
+
+308
+00:12:55,231 --> 00:12:58,210
+ni que le mientas a tu banco.
+
+309
+00:12:58,510 --> 00:13:03,126
+Y si el dinero tiene que salir en efectivo, en un sobre,
+
+310
+00:13:03,126 --> 00:13:05,846
+para un mensajero que no conoces…
+
+311
+00:13:05,846 --> 00:13:06,258
+para.
+
+312
+00:13:06,258 --> 00:13:08,274
+Ahí ya no hay duda.
+
+313
+00:13:08,574 --> 00:13:09,059
+Cinco.
+
+314
+00:13:09,059 --> 00:13:11,644
+Cuida lo que publica tu familia.
+
+315
+00:13:11,644 --> 00:13:14,714
+Pon el Facebook de tu mamá en privado,
+
+316
+00:13:14,714 --> 00:13:18,799
+y no anuncies dónde estás mientras estás ahí.
+
+317
+00:13:19,099 --> 00:13:20,253
+Y si ya pasó:
+
+318
+00:13:20,253 --> 00:13:26,643
+llama al banco de inmediato, guarda cada número y cada hora, y denuncia.
+
+319
+00:13:26,643 --> 00:13:28,862
+Y no culpes a quien cayó.
+
+320
+00:13:28,862 --> 00:13:32,329
+Le hablaron con la voz de su hijo.
+
+321
+00:13:32,629 --> 00:13:35,470
+Y una más, para ti, que sí subes videos:
+
+322
+00:13:35,470 --> 00:13:38,170
+no tienes que desaparecer de internet.
+
+323
+00:13:38,170 --> 00:13:43,379
+Pero sí tienes que decirle a tu familia que tu voz se puede copiar.
+
+324
+00:13:43,679 --> 00:13:46,183
+Porque el problema no es que te clonen.
+
+325
+00:13:46,183 --> 00:13:50,035
+El problema es que tu familia no sepa que eso existe.
+
+326
+00:13:50,335 --> 00:13:53,501
+Hoy, antes de dormir, llama a tu mamá.
+
+327
+00:13:53,501 --> 00:13:54,334
+A tu papá.
+
+328
+00:13:54,334 --> 00:13:55,334
+A tu abuela.
+
+329
+00:13:55,334 --> 00:13:58,117
+Y acuerden su palabra clave.
+
+330
+00:13:58,417 --> 00:14:00,916
+Y cuéntame en los comentarios:
+
+331
+00:14:00,916 --> 00:14:03,331
+¿en tu familia ya tienen una?
+
+332
+00:14:03,331 --> 00:14:04,581
+No la escribas.
+
+333
+00:14:04,581 --> 00:14:06,530
+Solo dime sí o no.
+
+334
+00:14:06,830 --> 00:14:09,324
+Mándale este video al grupo de la familia.
+
+335
+00:14:09,324 --> 00:14:12,267
+Puede que le salves los ahorros a alguien.
+
+336
+00:14:12,567 --> 00:14:13,541
+Yo soy Chris.
+
+337
+00:14:13,541 --> 00:14:13,915
+Y sí:
+
+338
+00:14:13,915 --> 00:14:17,137
+a mí también me pueden clonar la voz.

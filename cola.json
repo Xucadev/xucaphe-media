@@ -1018,6 +1018,30 @@
   "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
  },
  {
+  "id": "largo-ep03",
+  "fecha": "2026-11-17T16:00:00-04:00",
+  "video": "largos/ep03.mp4",
+  "estilo": "largo",
+  "youtube": {
+   "title": "POV: Te clonan la voz… y llaman a tu mamá pidiendo dinero",
+   "description": "Un sábado por la mañana, tu mamá está en la ventanilla del banco sacando los ahorros de toda su vida. Te está haciendo un favor: hace veinte minutos la llamaste llorando. Pero tú estás en el gimnasio, con el teléfono guardado en un locker. Tú nunca la llamaste.\n\nEn este POV eres Chris: trabajas en ciberseguridad, subes videos todas las semanas… y con unos segundos de esos videos alguien clonó tu voz con inteligencia artificial. Historia recreada a partir de casos reales. Al final: la palabra clave familiar y lo que de verdad te habría salvado.\n\n¿En tu familia ya tienen una palabra clave? No la escribas. Solo dime sí o no en los comentarios.\n\nCapítulos:\n0:00 La ventanilla del banco\n0:46 Tu voz está en todas partes\n2:33 Te estudian\n4:00 La llamada\n6:29 El banco\n7:41 Las llamadas perdidas\n9:14 Por qué funciona\n10:09 No es ciencia ficción\n11:52 Lo que te habría salvado\n13:32 La palabra clave\n\nFuentes:\n· McAfee, \"The Artificial Imposter\" (mayo de 2023): encuesta a 7.054 adultos de 7 países\n· FBI IC3, anuncio de servicio público PSA241203 (3 de diciembre de 2024) sobre audio generado con IA en estafas\n· FTC, datos de fraude de 2024 (marzo de 2025): pérdidas por estafas de suplantación\n· El Día (RD, 5 de octubre de 2025): la Policía Nacional denuncia la clonación de la voz de su vocero\n\nVoz e ilustraciones generadas con IA · Historia recreada con fines educativos.\n\n#estafas #ciberseguridad #inteligenciaartificial",
+   "tags": [
+    "voz clonada",
+    "clonación de voz",
+    "inteligencia artificial",
+    "estafa",
+    "llamada falsa",
+    "palabra clave",
+    "ciberseguridad",
+    "república dominicana",
+    "pov",
+    "deepfake"
+   ],
+   "largo": true,
+   "miniatura": "largos/ep03-mini1.png"
+  }
+ },
+ {
   "id": "20261118-0000-primer-spam",
   "fecha": "2026-11-18T00:00:00-04:00",
   "subir_desde": "2026-11-12T08:00:00-04:00",
