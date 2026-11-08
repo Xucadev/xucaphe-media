@@ -427,7 +427,17 @@
     "republica dominicana",
     "hackeo",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Possible ITLA data leak: what to do if you study there #shorts",
+     "description": "It happened in Tech No. 38: ITLA is investigating a possible student data leak… and here's what you need to do 🎓\nOn Saturday, November 7, the Instituto Tecnológico de Las Américas (ITLA) reported that it is investigating a possible cybersecurity incident, performing technical evaluations alongside the National Cybersecurity Center (CNCS). According to a cyber intelligence alert circulating on social media, on November 6 someone announced on a dark web forum an alleged database with more than 23,000 records (active and inactive students, academic info, and ID documents). ITLA has not confirmed the leak: the investigation is ongoing.\n\nThe danger is rarely the leak itself, but the messages that come afterwards using your real data. If you study or studied there:\n1. Change your ITLA password and any account where you reuse it.\n2. Enable two-factor authentication on your email.\n3. If you're asked for codes, payments, or your ID via message or call, do not answer.\n4. Follow the case only through ITLA's official channels.\n\nComment CHANGED if you already changed your password 👇\nSend this to someone who studies or studied at ITLA.\n\nSource: Official ITLA statement (November 7, 2026); El Día and Listín Diario (November 7, 2026).\nStory recreated for educational purposes. AI-generated voice.\n#ithappenedintech #cybersecurity #itla #dataleak #dominicanrepublic"
+    },
+    "pt": {
+     "title": "Possível vazamento de dados do ITLA: o que fazer se você estuda lá #shorts",
+     "description": "Aconteceu em Tech N.º 38: o ITLA investiga um possível vazamento de dados de estudantes… e é isso que você precisa fazer 🎓\nNo sábado, 7 de novembro, o Instituto Tecnológico de Las Américas (ITLA) informou que investiga um possível incidente de cibersegurança, realizando avaliações técnicas com o Centro Nacional de Cibersegurança (CNCS). Segundo um alerta de ciberinteligência que circulou nas redes, em 6 de novembro alguém anunciou em um fórum clandestino um suposto banco de dados com mais de 23.000 registros (estudantes ativos e inativos, informações acadêmicas e documentos de identidade). O ITLA não confirmou o vazamento: a investigação continua.\n\nO perigo quase nunca é o vazamento em si, mas as mensagens que chegam depois usando seus dados reais. Se você estuda ou estudou lá:\n1. Altere sua senha do ITLA e a de qualquer conta onde você a repita.\n2. Ative a verificação em duas etapas no seu e-mail.\n3. Se pedirem códigos, pagamentos ou seu documento por mensagem ou ligação, não responda.\n4. Acompanhe o caso apenas pelos canais oficiais do ITLA.\n\nComente MUDEI se você já alterou sua senha 👇\nEnvie para alguém que estuda ou estudou no ITLA.\n\nFonte: Comunicado oficial do ITLA (7 de novembro de 2026); El Día e Listín Diario (7 de novembro de 2026).\nHistória recriada para fins educativos. Voz gerada por IA.\n#aconteceuemtech #ciberseguranca #itla #vazamentodedados #republicadominicana"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, TikTok y Facebook 12:00)",
   "hora_nota": "Reel de actualidad: IG/TT/FB 12:00, YouTube 14:00",
@@ -1048,7 +1058,17 @@
     "deepfake"
    ],
    "largo": true,
-   "miniatura": "largos/ep03-mini1.png"
+   "miniatura": "largos/ep03-mini1.png",
+   "localizations": {
+    "en": {
+     "title": "POV: Your voice is cloned… and they call your mom asking for money",
+     "description": "On a Saturday morning, your mom is at the bank teller withdrawing her life savings. She’s doing you a favor: twenty minutes ago you called her crying. But you're at the gym, with your phone locked away in a locker. You never called her.\n\nIn this POV you are Chris: you work in cybersecurity, you upload videos every week… and with a few seconds of those videos someone cloned your voice with artificial intelligence. Story recreated from real cases. At the end: the family keyword and what really would have saved you.\n\nDoes your family already have a keyword? Don't write it. Just tell me yes or no in the comments.\n\nChapters:\n0:00 The bank teller\n0:46 Your voice is everywhere\n2:33 They study you\n4:00 The call\n6:29 The bank\n7:41 The missed calls\n9:14 Why it works\n10:09 It's not science fiction\n11:52 What would have saved you\n13:32 The keyword\n\nSources:\n· McAfee, \"The Artificial Imposter\" (May 2023): survey of 7,054 adults across 7 countries\n· FBI IC3, public service announcement PSA241203 (December 3, 2024) on AI-generated audio in scams\n· FTC, 2024 fraud data (March 2025): losses from impersonation scams\n· El Día (DR, October 5, 2025): National Police reports voice cloning of its spokesperson\n\nVoice and illustrations generated with AI · Story recreated for educational purposes.\n\n#scams #cybersecurity #artificialintelligence"
+    },
+    "pt": {
+     "title": "POV: Clonam a sua voz… e ligam para a sua mãe pedindo dinheiro",
+     "description": "Num sábado de manhã, a sua mãe está no guichê do banco tirando as economias de uma vida inteira. Ela está te fazendo um favor: há vinte minutos você ligou para ela chorando. Mas você está na academia, com o celular guardado num armário. Você nunca ligou para ela.\n\nNeste POV você é o Chris: trabalha com cibersegurança, posta vídeos toda semana… e com alguns segundos desses vídeos alguém clonou a sua voz com inteligência artificial. História recriada a partir de casos reais. No final: a palavra-chave familiar e o que realmente teria te salvado.\n\nNa sua família vocês já têm uma palavra-chave? Não escreva qual é. Só me diga sim ou não nos comentários.\n\nCapítulos:\n0:00 O guichê do banco\n0:46 A sua voz está em todos os lugares\n2:33 Eles te estudam\n4:00 A ligação\n6:29 O banco\n7:41 As chamadas perdidas\n9:14 Por que funciona\n10:09 Não é ficção científica\n11:52 O que teria te salvado\n13:32 A palavra-chave\n\nFontes:\n· McAfee, \"The Artificial Imposter\" (maio de 2023): pesquisa com 7.054 adultos de 7 países\n· FBI IC3, anúncio de serviço público PSA241203 (3 de dezembro de 2024) sobre áudio gerado com IA em golpes\n· FTC, dados de fraude de 2024 (março de 2025): perdas por golpes de falsificação de identidade\n· El Día (RD, 5 de outubro de 2025): Polícia Nacional denuncia clonagem da voz de seu porta-voz\n\nVoz e ilustrações geradas com IA · História recriada para fins educativos.\n\n#golpes #ciberseguranca #inteligenciaartificial"
+    }
+   }
   }
  },
  {
@@ -1127,7 +1147,17 @@
     "pagar con el telefono",
     "tarjeta",
     "tech explicada"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Is tap to pay with your phone safe? How NFC works #shorts",
+     "description": "Tech explained: is tap to pay with your phone safe? 📲\nContactless payment uses NFC, a connection that only works a few centimeters away. When you pay with your phone, the store doesn't receive your real card number: it receives a substitute number (a \"token\") that works only for that payment.\n\nThe important part: set a fingerprint or passcode lock on your phone, because without it, anyone holding it could make a payment.\n\nComment NFC if you already pay with your phone 👇\nSend this to someone who still carries a wallet full of cards.\n\nAI-generated voice · Educational cybersecurity content.\n#techexplained #payments #nfc #cybersecurity #technology"
+    },
+    "pt": {
+     "title": "É seguro pagar aproximando o celular? Como funciona o NFC #shorts",
+     "description": "Tecnologia explicada: é seguro pagar aproximando o celular? 📲\nO pagamento por aproximação usa NFC, uma conexão que só funciona a poucos centímetros. Quando você paga com o celular, a loja não recebe o número real do seu cartão: recebe um número substituto (um \"token\") que serve apenas para esse pagamento.\n\nO importante: coloque bloqueio por digital ou código no celular, porque sem isso qualquer pessoa com ele na mão poderia pagar.\n\nComente NFC se você já paga com o celular 👇\nEnvie para quem ainda anda com a carteira cheia de cartões.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#tecnologiaexplicada #pagamentos #nfc #ciberseguranca #tecnologia"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -1237,7 +1267,17 @@
     "smishing",
     "estafas",
     "estafa expuesta"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "\"You have an unpaid toll\": the SMS scam #shorts",
+     "description": "Scam exposed: \"you have an unpaid toll\": the SMS that drains cards 🚗\nAn SMS arrives saying you owe a toll and that if you don't pay today you'll be charged a fine. The link leads to a page that copies the toll service and asks for your card.\nThe FBI warned about this scam in 2024, with thousands of complaints, and it has been copied in many countries.\nWhat to do: don't tap the link. Check your balance by going directly to the official app or website of the toll service.\n\nComment TOLL if you got one like this 👇\nSend this to whoever drives every day.\n\nSource: FBI IC3, public alert of April 2024.\nAI-generated voice · Cybersecurity educational content.\n#scamexposed #smishing #scams #cybersecurity #dr"
+    },
+    "pt": {
+     "title": "\"Você tem um pedágio pendente\": o golpe por SMS #shorts",
+     "description": "Golpe exposto: \"você tem um pedágio pendente\": o SMS que limpa cartões 🚗\nChega um SMS dizendo que você deve um pedágio e que, se não pagar hoje, receberá uma multa. O link leva a uma página que imita a do serviço de pedágio e pede o seu cartão.\nO FBI alertou sobre este golpe em 2024, com milhares de denúncias, e ele foi copiado em muitos países.\nO que fazer: não clique no link. Verifique seu saldo entrando você mesmo no aplicativo ou site oficial do serviço de pedágio.\n\nComente PEDÁGIO se recebeu um assim 👇\nEnvie para quem dirige todo dia.\n\nFonte: FBI IC3, aviso público de abril de 2024.\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#golpeexposto #smishing #golpes #ciberseguranca #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -1277,7 +1317,17 @@
     "compras por internet",
     "estafas",
     "estafa expuesta"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "The cheap puppy that never arrives: the pet scam #shorts",
+     "description": "Scam exposed: the cheap puppy that never arrives 🐶\nThey post photos of purebred puppies at a very low price. You pay the deposit and then the extra charges start: shipping, a special crate, insurance, a vaccine. The puppy doesn't exist: the photos are stolen from other sites.\nWhat to do: never pay upfront for a pet you haven't seen in person. Search the photo on Google Images to check if it appears on another site, and if you can, adopt from a shelter.\n\nComment PUPPY if you know someone who was looking for a pet 👇\nSend this to anyone looking for a puppy.\n\nAI-generated voice · Educational cybersecurity content.\n#scamexposed #scams #pets #shopping #dr"
+    },
+    "pt": {
+     "title": "O filhote barato que nunca chega: o golpe dos pets #shorts",
+     "description": "Golpe exposto: o filhote barato que nunca chega 🐶\nEles postam fotos de filhotes de raça por um preço muito baixo. Você paga a reserva e depois começam as cobranças: o transporte, uma caixa especial, um seguro, uma vacina. O cachorrinho não existe: as fotos são roubadas de outros sites.\nO que fazer: não pague adiantado por um pet que você não viu pessoalmente. Pesquise a foto no Google Imagens para ver se ela aparece em outro site e, se puder, adote em um abrigo.\n\nComente CACHORRINHO se você conhece alguém que estava procurando um pet 👇\nEnvie para quem está procurando um filhote.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#golpeexposto #golpes #pets #compras #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -1297,7 +1347,17 @@
     "estafa de un timbre",
     "llamadas",
     "por que"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Why do they call from another country and hang up on the first ring? #shorts",
+     "description": "Why?: Why do they call you from another country and hang up on the first ring? 📞\nIt's called a one-ring scam (in Japanese, \"wangiri\"): they call, hang up, and wait for you to call back. If you do, you're connected to a premium-rate international number, and part of that fee goes to the scammer.\nThe U.S. Federal Communications Commission (FCC) recommends not returning calls from numbers you don't recognize, especially if they look foreign, and checking your bill.\nIf it was really someone you know, they'll text you.\n\nComment RING if it has happened to you in the middle of the night 👇\nSend this to your parents.\n\nSource: FCC, one-ring scam guide.\nAI-generated voice · Educational content.\n#why #scams #calls #cybersecurity #rd"
+    },
+    "pt": {
+     "title": "Por que ligam de outro país e desligam no primeiro toque? #shorts",
+     "description": "Por quê?: por que te ligam de outro país e desligam no primeiro toque? 📞\nÉ o chamado golpe do toque único (em japonês, \"wangiri\"): ligam, desligam e esperam que você retorne a ligação. Se fizer isso, te conectam a um número internacional de tarifa alta e parte desse valor fica com o golpista.\nA Comissão Federal de Comunicações dos EUA (FCC) recomenda não retornar chamadas de números que você não reconhece, especialmente se parecerem do exterior, e verificar a fatura.\nSe era realmente alguém conhecido, a pessoa vai te mandar mensagem.\n\nComente TOQUE se isso já aconteceu com você de madrugada 👇\nMande para os seus pais.\n\nFonte: FCC, guia sobre o golpe do toque único.\nVoz gerada por IA · Conteúdo educativo.\n#porque #golpes #ligacoes #ciberseguranca #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook)"
  },
@@ -1314,7 +1374,17 @@
     "seguridad movil",
     "hack del dia",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Enable this on your SIM before your phone gets stolen #shorts",
+     "description": "Daily Hack No. 21: SIM PIN 🔒\nIf your phone gets stolen, they can put your SIM into another device and receive your bank and WhatsApp codes. With SIM PIN enabled, your SIM won't work on another phone without that code.\n\nAndroid: Settings > SIM lock. iPhone: Settings > Cellular > SIM PIN. Change the factory PIN, and remember that if you enter it wrong 3 times, it will ask for your carrier's PUK.\n\nSend this to someone who always has their phone in hand. Follow me: a new hack every day.\n\nAI-generated voice · Educational cybersecurity content.\n#dailyhack #cybersecurity #mobilesecurity #tips #dr"
+    },
+    "pt": {
+     "title": "Ative isso no seu chip antes que roubem seu celular #shorts",
+     "description": "Hack do dia Nº 21: o PIN do SIM 🔒\nSe roubarem seu celular, podem colocar seu chip em outro aparelho e receber seus códigos do banco e do WhatsApp. Com o PIN do SIM ativado, seu chip não funciona em outro celular sem essa senha.\n\nAndroid: Configurações > Bloqueio do SIM. iPhone: Configurações > Dados Celulares > PIN do SIM. Altere o PIN de fábrica e lembre-se de que, se errar 3 vezes, ele pedirá o PUK da sua operadora.\n\nMande para quem vive com o celular na mão. Me siga: um hack novo todo dia.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #cibersegurança #segurançamóvel #dicas #rd"
+    }
+   }
   },
   "estilo": "escena",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
@@ -1335,7 +1405,17 @@
     "banca",
     "seguridad",
     "hack del dia"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Shop online with a virtual card you can delete #shorts",
+     "description": "Hack of the day: shop online with a card you can delete 💳\nMany banks let you create a virtual card from their app: a different number from your physical card, which you can block or delete whenever you want, and sometimes with a spending limit.\nUse it for online purchases and subscriptions. If the store suffers a data breach, you delete that card and yours remains untouched.\nLook for it in your bank's app as \"virtual card\" or \"digital card\".\n\nComment VIRTUAL if your bank has it 👇\nSend this to anyone who shops online.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #shopping #banking #dr"
+    },
+    "pt": {
+     "title": "Compre online com um cartão virtual que você pode apagar #shorts",
+     "description": "Dica do dia: compre online com um cartão que você pode apagar 💳\nMuitos bancos deixam você criar um cartão virtual pelo aplicativo: um número diferente do seu cartão físico, que você pode bloquear ou apagar quando quiser, e às vezes com um limite de gastos.\nUse para compras online e assinaturas. Se a loja sofrer um vazamento de dados, você apaga esse cartão e o seu continua intacto.\nProcure no app do seu banco como \"cartão virtual\" ou \"cartão digital\".\n\nComente VIRTUAL se o seu banco tem isso 👇\nMande para quem faz compras online.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#dicadodia #cibersegurança #compras #bancos #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook)"
  },
@@ -1355,7 +1435,17 @@
     "cripto",
     "estafas",
     "estafa expuesta"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "You fall in love in chat and it ends in an investment: the scam #shorts",
+     "description": "Scam exposed: you fall in love in chat… and it ends in an investment 💔\nIt starts with a \"wrong number\" message or a match. Weeks of conversation, affection every day. One day they tell you they make a lot of money with an investment platform and show you how to use it. You see profits on screen, you invest more… and when you want to withdraw, they ask for taxes and fees.\nThe FBI calls this crypto investment fraud and counts it among the scams that steal the most money.\nRule: if someone you haven't met in person talks to you about investments, it's a scam.\n\nComment LOVE if you know a case like this 👇\nSend it to someone who is meeting people online.\n\nSource: FBI IC3.\nStory recreated for educational purposes. AI-generated voice.\n#scamexposed #scams #dating #investments #dr"
+    },
+    "pt": {
+     "title": "Você se apaixona no chat e termina em investimento: o golpe #shorts",
+     "description": "Golpe exposto: você se apaixona no chat… e termina em um investimento 💔\nComeça com uma mensagem \"errada\" ou um match. Semanas de conversa, carinho todos os dias. Um dia te contam que ganham muito dinheiro com uma plataforma de investimento e te ensinam a usá-la. Você vê lucros na tela, investe mais… e quando quer retirar, pedem impostos e taxas.\nO FBI chama isso de fraude de investimento com cripto e a coloca entre os golpes que mais roubam dinheiro.\nRegra: se alguém que você não conhece pessoalmente fala sobre investimentos, é golpe.\n\nComente AMOR se você conhece um caso assim 👇\nMande para quem está conhecendo alguém pela internet.\n\nFonte: FBI IC3.\nHistória recriada para fins educativos. Voz gerada por IA.\n#golpeexposto #golpes #relacionamento #investimentos #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook)"
  },
@@ -1375,7 +1465,17 @@
     "inteligencia artificial",
     "estafas con ia",
     "tech explicada"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "How to tell if a video is fake (deepfake made with AI) #shorts",
+     "description": "Tech explained: how to tell if a video is fake, made with AI 🎭\nA deepfake is a video made or modified with artificial intelligence so that someone appears to say or do something they never did. They are used to advertise fake investments using celebrity faces or to ask for money.\nClues: the mouth doesn't match the voice, strange blinking, blurry edges around the face or hair, and above all, asking you for money or to act fast.\nThe best proof isn't in the video: search for the news on a trusted media outlet or confirm through another channel.\n\nComment FAKE if you've ever doubted a video 👇\nSend it to your family group.\n\nAI-generated voice · Educational cybersecurity content.\n#techexplained #deepfake #ai #scams #cybersecurity"
+    },
+    "pt": {
+     "title": "Como saber se um vídeo é falso (deepfake feito com IA) #shorts",
+     "description": "Tech explicada: como saber se um vídeo é falso, feito com IA 🎭\nUm deepfake é um vídeo feito ou modificado com inteligência artificial para que alguém pareça dizer ou fazer algo que nunca fez. São usados para anunciar investimentos falsos com rostos de famosos ou para pedir dinheiro.\nPistas: a boca não bate com a voz, piscadas estranhas, bordas borradas no rosto ou no cabelo e, acima de tudo, pedirem dinheiro ou exigirem que você aja rápido.\nA melhor prova não está no vídeo: busque a notícia em um veículo confiável ou confirme por outro canal.\n\nComente FALSO se você já duvidou de um vídeo 👇\nMande no grupo da família.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#techexplicada #deepfake #ia #golpes #ciberseguranca"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
