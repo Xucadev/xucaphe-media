@@ -1,0 +1,95 @@
+1
+00:00:00,100 --> 00:00:03,614
+A Chris le escribió un amigo que estudia en el ITLA:
+
+2
+00:00:03,614 --> 00:00:05,406
+¿se filtraron mis datos?
+
+3
+00:00:05,556 --> 00:00:06,263
+Este sábado,
+
+4
+00:00:06,263 --> 00:00:10,497
+el ITLA informó que investiga un posible incidente de ciberseguridad.
+
+5
+00:00:10,647 --> 00:00:13,780
+Y que lo revisa junto al Centro Nacional de Ciberseguridad.
+
+6
+00:00:13,930 --> 00:00:14,487
+¿Por qué?
+
+7
+00:00:14,487 --> 00:00:17,894
+Una alerta en redes dice que alguien anunció en un foro
+
+8
+00:00:17,894 --> 00:00:20,789
+clandestino más de veintitrés mil registros.
+
+9
+00:00:20,939 --> 00:00:24,613
+Supuestamente, con datos académicos y documentos de identidad.
+
+10
+00:00:24,763 --> 00:00:25,034
+Ojo:
+
+11
+00:00:25,034 --> 00:00:27,678
+el ITLA no ha confirmado la filtración.
+
+12
+00:00:27,678 --> 00:00:29,271
+Todavía se investiga.
+
+13
+00:00:29,421 --> 00:00:32,058
+Mándaselo a quien siempre te pregunta estas cosas.
+
+14
+00:00:32,208 --> 00:00:34,217
+Pero aquí viene lo que te toca:
+
+15
+00:00:34,217 --> 00:00:38,534
+el peligro casi nunca es la filtración, es lo que llega después.
+
+16
+00:00:38,684 --> 00:00:42,271
+Mensajes que usan tus datos reales para parecer oficiales.
+
+17
+00:00:42,421 --> 00:00:45,660
+Si estudias o estudiaste allí, cambia tu contraseña,
+
+18
+00:00:45,660 --> 00:00:47,512
+y también donde la repites.
+
+19
+00:00:47,662 --> 00:00:50,502
+Activa la verificación en dos pasos en tu correo.
+
+20
+00:00:50,652 --> 00:00:55,446
+Si te piden códigos, pagos o tu cédula por mensaje, no respondas.
+
+21
+00:00:55,596 --> 00:00:59,446
+Y las novedades del caso, solo por los canales oficiales del ITLA.
+
+22
+00:00:59,596 --> 00:01:02,336
+Comenta CAMBIÉ si ya cambiaste tu contraseña.
+
+23
+00:01:02,336 --> 00:01:02,945
+Y sígueme:
+
+24
+00:01:02,945 --> 00:01:06,055
+más historias de tech.
