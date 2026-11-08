@@ -1,0 +1,6 @@
+# Xucaphe
+# Todo el contenido es público y se puede indexar, también por buscadores con IA.
+User-agent: *
+Allow: /
+
+Sitemap: https://xucadev.github.io/xucaphe-media/sitemap.xml

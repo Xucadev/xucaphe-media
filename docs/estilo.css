@@ -1,0 +1,86 @@
+/* Xucaphe — hoja de estilo compartida */
+@font-face{font-family:"Bricolage";src:url(assets/fonts/bricolage.woff2) format("woff2");font-weight:500 800;font-display:swap}
+@font-face{font-family:"Atkinson";src:url(assets/fonts/atkinson-400-normal.woff2) format("woff2");font-weight:400;font-display:swap}
+@font-face{font-family:"Atkinson";src:url(assets/fonts/atkinson-700-normal.woff2) format("woff2");font-weight:700;font-display:swap}
+@font-face{font-family:"Atkinson";src:url(assets/fonts/atkinson-400-italic.woff2) format("woff2");font-weight:400;font-style:italic;font-display:swap}
+
+:root{
+  --noche:#061426;      /* fondo: la noche, no un negro gris */
+  --noche-2:#0b203a;    /* superficies elevadas */
+  --linea:#1c3a5c;
+  --texto:#eaf6ff;
+  --suave:#a9c8e0;
+  --azul:#3cc8ff;       /* protegido / información */
+  --azul-hondo:#1484d6;
+  --coral:#ff5f6d;      /* estafa */
+  --oro:#ffd36b;        /* si ya pasó */
+  --papel:#f3eee4;      /* el fondo claro de Chris: lo familiar e imprimible */
+  --tinta:#13212f;
+  --display:"Bricolage",ui-sans-serif,system-ui,sans-serif;
+  --cuerpo:"Atkinson",ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  --ancho:1120px;
+  --r-s:10px;--r-m:18px;--r-l:28px;
+}
+*,*::before,*::after{box-sizing:border-box}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%;scroll-padding-top:84px}
+body{margin:0;background:var(--noche);color:var(--texto);font:400 1.125rem/1.6 var(--cuerpo);text-rendering:optimizeLegibility}
+img{max-width:100%;height:auto;display:block}
+a{color:var(--azul);text-underline-offset:.18em;text-decoration-thickness:1px}
+a:hover{text-decoration-thickness:2px}
+:focus-visible{outline:3px solid var(--azul);outline-offset:3px;border-radius:6px}
+h1,h2,h3{font-family:var(--display);font-weight:800;line-height:1.05;letter-spacing:-.02em;margin:0;text-wrap:balance}
+p{margin:0 0 1em}
+.envoltura{width:min(100% - 40px,var(--ancho));margin-inline:auto}
+.saltar{position:absolute;left:12px;top:-60px;background:var(--azul);color:var(--noche);padding:10px 14px;border-radius:var(--r-s);font-weight:700;z-index:99}
+.saltar:focus{top:12px}
+.visualmente-oculto{position:absolute!important;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+
+/* ---------- Botones ---------- */
+.boton{display:inline-flex;align-items:center;gap:.55em;font:700 1.0625rem/1 var(--cuerpo);padding:.95em 1.3em;border-radius:999px;border:2px solid transparent;text-decoration:none;cursor:pointer;transition:transform .15s,background-color .15s,border-color .15s}
+.boton:active{transform:translateY(1px)}
+.boton svg{width:1.15em;height:1.15em;flex:none;fill:currentColor}
+.boton-azul{background:var(--azul);color:#03111f}
+.boton-azul:hover{background:#7ad9ff}
+.boton-borde{border-color:var(--linea);color:var(--texto);background:transparent}
+.boton-borde:hover{border-color:var(--azul)}
+.boton-coral{background:var(--coral);color:#2a0509}
+.boton-coral:hover{background:#ff8791}
+
+/* ---------- Cabecera ---------- */
+.cabecera{position:sticky;top:0;z-index:20;background:rgba(6,20,38,.82);backdrop-filter:saturate(1.4) blur(12px);-webkit-backdrop-filter:saturate(1.4) blur(12px);border-bottom:1px solid rgba(28,58,92,.6)}
+.cabecera .envoltura{display:flex;align-items:center;gap:20px;min-height:68px}
+.marca{display:flex;align-items:center;gap:10px;color:var(--texto);text-decoration:none;font:800 1.35rem/1 var(--display);letter-spacing:-.02em}
+.marca img{width:34px;height:34px;border-radius:9px}
+.menu{display:flex;gap:4px;margin-left:auto}
+.menu a{color:var(--suave);text-decoration:none;padding:8px 12px;border-radius:999px;font-weight:700;font-size:1rem}
+.menu a:hover{color:var(--texto);background:var(--noche-2)}
+.cabecera .boton{padding:.7em 1.05em;font-size:.95rem}
+@media (max-width:820px){.menu{display:none}.cabecera .boton{margin-left:auto}}
+
+/* ---------- Pie ---------- */
+.pie{border-top:1px solid var(--linea);margin-top:40px;padding:48px 0 60px;color:var(--suave);font-size:1rem}
+.pie .envoltura{display:grid;gap:28px;grid-template-columns:1.4fr 1fr}
+.pie p{margin:0 0 .6em}
+.pie nav{display:flex;flex-wrap:wrap;gap:10px 18px;align-content:flex-start}
+.pie nav a{color:var(--texto)}
+@media (max-width:720px){.pie .envoltura{grid-template-columns:1fr}}
+
+/* ---------- Páginas de error y legales ---------- */
+.pagina-error{min-height:calc(100vh - 69px);display:grid;place-items:center;padding:48px 0 80px;background:radial-gradient(60% 50% at 70% 20%,rgba(20,132,214,.22),transparent 70%)}
+.pagina-error .envoltura{display:grid;grid-template-columns:auto 1fr;gap:48px;align-items:center;max-width:900px}
+.pagina-error .retrato{width:240px;border-radius:50%;aspect-ratio:1;object-fit:cover;object-position:50% 20%;border:3px solid var(--linea);box-shadow:0 0 0 10px rgba(60,200,255,.06)}
+.pagina-error .codigo{font:800 1rem/1 var(--display);color:var(--azul);margin-bottom:14px}
+.pagina-error h1{font-size:clamp(2.4rem,6vw,4rem);margin-bottom:18px}
+.pagina-error p{color:var(--suave);max-width:52ch}
+.pagina-error .acciones{display:flex;flex-wrap:wrap;gap:12px;margin-top:26px}
+.pagina-error .aviso{border-left:3px solid var(--coral);padding:2px 0 2px 16px;color:var(--texto)}
+@media (max-width:720px){.pagina-error .envoltura{grid-template-columns:1fr;gap:28px}.pagina-error .retrato{width:160px}}
+
+.legal{padding:56px 0 40px}
+.legal .envoltura{max-width:720px}
+.legal h1{font-size:clamp(2.2rem,5vw,3.2rem);margin-bottom:10px}
+.legal h2{font-size:1.45rem;margin:2.2em 0 .5em;color:var(--azul)}
+.legal p,.legal li{color:#cfe2f2}
+.legal .fecha{color:var(--suave)}
+
+@media (prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;scroll-behavior:auto!important}}

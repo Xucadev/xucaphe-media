@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Xucaphe: estafas y hackeos reales explicados en un minuto</title>
+<meta name="description" content="Aprende a reconocer estafas por WhatsApp, llamadas falsas del banco y robos de cuentas. Juego para practicar, kit anti-estafas para la familia y qué hacer si te estafaron. Gratis y sin registrarte.">
+<link rel="canonical" href="{{URL}}">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<meta name="theme-color" content="#061426">
+<meta name="color-scheme" content="dark">
+<meta name="author" content="Xucaphe">
+
+<link rel="icon" href="favicon.ico" sizes="any">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="site.webmanifest">
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="es_DO">
+<meta property="og:site_name" content="Xucaphe">
+<meta property="og:title" content="Xucaphe: que no te vean como mango bajito">
+<meta property="og:description" content="Estafas y hackeos reales explicados en un minuto. Practica con el juego ¿estafa o real? y comparte el kit anti-estafas con tu familia.">
+<meta property="og:url" content="{{URL}}">
+<meta property="og:image" content="{{URL}}og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Chris, el personaje de Xucaphe, frente a su laptop junto al texto: Que no te vean como mango bajito">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Xucaphe: que no te vean como mango bajito">
+<meta name="twitter:description" content="Estafas y hackeos reales explicados en un minuto. Gratis, sin registrarte y sin anuncios.">
+<meta name="twitter:image" content="{{URL}}og.jpg">
+
+<link rel="preload" href="assets/fonts/bricolage.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="assets/fonts/atkinson-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="estilo.css">
+
+<script type="application/ld+json">
+{{JSONLD}}
+</script>
+
+<style>
+/* ---------- Fondo de circuitos (la línea del logo) ---------- */
+.circuitos{position:absolute;inset:0 0 -120px;z-index:-1;overflow:hidden;pointer-events:none;-webkit-mask-image:linear-gradient(#000 70%,transparent);mask-image:linear-gradient(#000 70%,transparent)}
+.circuitos::before{content:"";position:absolute;inset:0;background:radial-gradient(50% 60% at 78% 30%,rgba(20,132,214,.30),transparent 70%),radial-gradient(40% 40% at 10% 90%,rgba(60,200,255,.08),transparent 70%)}
+.circuitos svg{position:absolute;right:-80px;top:-40px;width:900px;opacity:.22}
+
+/* ---------- Portada ---------- */
+.portada{position:relative;isolation:isolate;padding:64px 0 80px}
+.portada .envoltura{display:grid;grid-template-columns:1.2fr .8fr;gap:48px;align-items:center}
+.portada h1{font-size:clamp(2.9rem,6.4vw,5.4rem);line-height:.95;letter-spacing:-.035em;margin-bottom:26px;text-wrap:initial}
+.portada h1 .rompe{display:block;color:var(--azul)}
+.portada .bajada{font-size:1.3rem;color:var(--suave);max-width:34ch;margin-bottom:30px}
+.portada .acciones{display:flex;flex-wrap:wrap;gap:12px}
+.promesa{display:flex;flex-wrap:wrap;gap:8px 22px;margin:34px 0 0;padding:0;list-style:none;color:var(--suave);font-size:1rem}
+.promesa li{display:flex;align-items:center;gap:8px}
+.promesa svg{width:18px;height:18px;flex:none;color:var(--azul)}
+@media (max-width:900px){.portada{padding:36px 0 56px}.portada .envoltura{grid-template-columns:1fr;gap:40px}}
+
+/* ---------- Juego: ¿estafa o real? ---------- */
+.juego{position:relative;background:linear-gradient(180deg,#0e2846,#081a30);border:1px solid var(--linea);border-radius:36px;padding:22px 22px 24px;box-shadow:0 30px 80px -30px rgba(0,0,0,.7),0 0 0 8px rgba(60,200,255,.04);max-width:470px;justify-self:end;width:100%}
+.juego-tope{display:flex;align-items:center;gap:12px;padding:4px 4px 16px;border-bottom:1px solid var(--linea)}
+.juego-tope img{width:52px;height:52px;border-radius:50%;object-fit:cover;object-position:50% 18%;background:var(--noche);border:2px solid var(--linea);transition:border-color .2s}
+.juego-tope b{display:block;font-family:var(--display);font-size:1.15rem;line-height:1.1}
+.juego-tope span{color:var(--suave);font-size:.95rem}
+.juego-tope .marcador{margin-left:auto;text-align:right;font-family:var(--display);font-weight:800;font-size:1.05rem;color:var(--texto);white-space:nowrap}
+.juego[data-estado="bien"] .juego-tope img{border-color:var(--azul)}
+.juego[data-estado="mal"] .juego-tope img{border-color:var(--coral)}
+.chat{min-height:220px;padding:22px 4px 8px;display:flex;flex-direction:column;justify-content:flex-end;gap:8px}
+.remitente{font-size:.92rem;color:var(--suave);display:flex;align-items:center;gap:8px}
+.remitente .punto{width:8px;height:8px;border-radius:50%;background:var(--suave)}
+.burbuja{align-self:flex-start;max-width:92%;background:#173659;color:var(--texto);padding:14px 16px 10px;border-radius:4px 20px 20px 20px;font-size:1.08rem;line-height:1.45;overflow-wrap:anywhere}
+.burbuja .hora{display:block;text-align:right;font-size:.8rem;color:var(--suave);margin-top:4px}
+.burbuja .enlace{color:#8fdcff;text-decoration:underline}
+.escribiendo{align-self:flex-start;background:#173659;border-radius:4px 20px 20px 20px;padding:14px 18px;display:none;gap:5px}
+.escribiendo i{width:8px;height:8px;border-radius:50%;background:var(--suave);animation:salto 1s infinite}
+.escribiendo i:nth-child(2){animation-delay:.15s}.escribiendo i:nth-child(3){animation-delay:.3s}
+@keyframes salto{0%,60%,100%{transform:translateY(0);opacity:.5}30%{transform:translateY(-4px);opacity:1}}
+.juego.cargando .escribiendo{display:flex}
+.juego.cargando .burbuja,.juego.cargando .remitente{display:none}
+.burbuja.entra{animation:entra .35s cubic-bezier(.2,.8,.3,1.2)}
+@keyframes entra{from{opacity:0;transform:translateY(10px) scale(.97)}to{opacity:1;transform:none}}
+.respuestas{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:14px}
+.respuestas .boton{justify-content:center;width:100%}
+.veredicto{display:none;margin-top:14px;padding:16px 18px;border-radius:var(--r-m);background:var(--noche);border:1px solid var(--linea)}
+.veredicto h3{font-size:1.3rem;margin-bottom:6px}
+.veredicto p{margin:0 0 12px;color:#d4e6f4;font-size:1.02rem}
+.juego[data-estado="bien"] .veredicto h3{color:var(--azul)}
+.juego[data-estado="mal"] .veredicto h3{color:var(--coral)}
+.juego[data-estado="bien"] .veredicto,.juego[data-estado="mal"] .veredicto{display:block}
+.juego[data-estado="bien"] .respuestas,.juego[data-estado="mal"] .respuestas,.juego[data-estado="fin"] .respuestas{display:none}
+.fin{display:none;text-align:center;padding:10px 4px 2px}
+.juego[data-estado="fin"] .fin{display:block}
+.juego[data-estado="fin"] .chat{display:none}
+.fin h3{font-size:1.7rem;margin:6px 0 8px}
+.fin p{color:var(--suave)}
+.fin .acciones{justify-content:center}
+.boton-borde{background:transparent}
+.enlace-texto{background:none;border:0;padding:0;font:inherit;color:var(--azul);text-decoration:underline;cursor:pointer}
+
+/* ---------- Secciones ---------- */
+.seccion{padding:96px 0}
+.seccion-cabeza{max-width:640px;margin-bottom:44px}
+.seccion-cabeza h2{font-size:clamp(2.2rem,4.6vw,3.4rem);margin-bottom:14px}
+.seccion-cabeza p{color:var(--suave);font-size:1.2rem;margin:0}
+@media (max-width:720px){.seccion{padding:64px 0}}
+
+/* Recurso 1: checklist (azul) */
+.checklist{display:grid;grid-template-columns:.8fr 1.2fr;gap:56px;align-items:start}
+.checklist-lado{position:sticky;top:110px}
+.checklist-lado h3{font-size:clamp(1.8rem,3.4vw,2.5rem);margin-bottom:14px}
+.checklist-lado p{color:var(--suave)}
+.anillo{--p:0;width:148px;aspect-ratio:1;border-radius:50%;background:conic-gradient(var(--azul) calc(var(--p)*1%),var(--linea) 0);display:grid;place-items:center;margin:26px 0 18px;transition:--p .3s}
+.anillo div{width:118px;aspect-ratio:1;border-radius:50%;background:var(--noche);display:grid;place-items:center;text-align:center;font-family:var(--display);font-weight:800;font-size:2.1rem;line-height:1}
+.anillo small{display:block;font:400 .85rem/1.2 var(--cuerpo);color:var(--suave);margin-top:4px}
+.lista-check{list-style:none;margin:0;padding:0;border-top:1px solid var(--linea)}
+.lista-check li{border-bottom:1px solid var(--linea)}
+.lista-check label{display:grid;grid-template-columns:30px 1fr;gap:14px;padding:18px 6px;cursor:pointer;border-radius:var(--r-s)}
+.lista-check label:hover{background:rgba(60,200,255,.04)}
+.lista-check input{appearance:none;-webkit-appearance:none;width:26px;height:26px;margin:1px 0 0;border:2px solid var(--linea);border-radius:8px;display:grid;place-items:center;cursor:pointer;transition:background .15s,border-color .15s}
+.lista-check input::after{content:"";width:12px;height:7px;border-left:3px solid #03111f;border-bottom:3px solid #03111f;transform:rotate(-45deg) translate(1px,-1px);opacity:0}
+.lista-check input:checked{background:var(--azul);border-color:var(--azul)}
+.lista-check input:checked::after{opacity:1}
+.lista-check b{display:block;font-size:1.12rem}
+.lista-check span{display:block;color:var(--suave);font-size:1rem;margin-top:2px}
+.lista-check input:checked + div b{text-decoration:line-through;text-decoration-color:rgba(60,200,255,.6);text-decoration-thickness:2px}
+@media (max-width:900px){.checklist{grid-template-columns:1fr;gap:20px}.checklist-lado{position:static}}
+
+/* Recurso 2: kit familiar (papel) */
+.hoja{background:var(--papel);color:var(--tinta);border-radius:var(--r-l);padding:clamp(28px,5vw,64px);display:grid;grid-template-columns:1.25fr .75fr;gap:48px;position:relative;overflow:hidden}
+.hoja h3{font-size:clamp(2rem,4vw,3rem);margin-bottom:12px;color:var(--tinta)}
+.hoja .intro{font-size:1.2rem;color:#3d4c5c;max-width:46ch}
+.reglas{list-style:none;padding:0;margin:28px 0 0;display:grid;gap:22px}
+.reglas li{display:grid;grid-template-columns:52px 1fr;gap:16px;align-items:start}
+.reglas .icono{width:52px;height:52px;border-radius:16px;background:var(--tinta);color:var(--papel);display:grid;place-items:center}
+.reglas .icono svg{width:26px;height:26px}
+.reglas b{display:block;font-size:1.2rem;line-height:1.3;margin-bottom:2px}
+.reglas span{color:#3d4c5c}
+.palabra{align-self:start;background:#fff;border-radius:var(--r-m);padding:26px;box-shadow:0 1px 0 rgba(19,33,47,.06),0 18px 40px -24px rgba(19,33,47,.35);transform:rotate(1.2deg)}
+.palabra img{width:96px;height:96px;border-radius:50%;object-fit:cover;object-position:50% 18%;margin-bottom:14px;background:var(--papel)}
+.palabra h4{font:800 1.4rem/1.15 var(--display);margin:0 0 10px}
+.palabra p{color:#3d4c5c;font-size:1.02rem;margin:0}
+.hoja .acciones{display:flex;flex-wrap:wrap;gap:12px;margin-top:30px}
+.hoja .boton-oscuro{background:var(--tinta);color:var(--papel)}
+.hoja .boton-oscuro:hover{background:#25394d}
+.hoja .boton-linea{border-color:#c9c0b0;color:var(--tinta);background:transparent}
+.hoja .boton-linea:hover{border-color:var(--tinta)}
+.hoja :focus-visible{outline-color:var(--azul-hondo)}
+@media (max-width:900px){.hoja{grid-template-columns:1fr}.palabra{transform:none}}
+
+/* Recurso 3: si ya pasó (oro) — es una secuencia real, por eso va numerada */
+.urgencia{display:grid;grid-template-columns:.8fr 1.2fr;gap:56px}
+.urgencia h3{font-size:clamp(1.8rem,3.4vw,2.5rem);margin-bottom:14px}
+.urgencia .lado p{color:var(--suave)}
+.urgencia .lado .nota{border-left:3px solid var(--oro);padding:2px 0 2px 16px;color:var(--texto);margin-top:20px}
+.pasos{list-style:none;margin:0;padding:0;counter-reset:paso}
+.pasos li{counter-increment:paso;display:grid;grid-template-columns:56px 1fr;gap:18px;padding:0 0 26px;position:relative}
+.pasos li::before{content:counter(paso);width:44px;height:44px;border-radius:50%;background:var(--oro);color:#2a1f00;font:800 1.25rem/44px var(--display);text-align:center}
+.pasos li:not(:last-child)::after{content:"";position:absolute;left:21px;top:52px;bottom:6px;width:2px;background:linear-gradient(var(--oro),rgba(255,211,107,.15))}
+.pasos b{display:block;font-size:1.18rem;margin:8px 0 4px}
+.pasos span{color:var(--suave)}
+@media (max-width:900px){.urgencia{grid-template-columns:1fr;gap:20px}}
+.divisor{height:1px;background:var(--linea);margin:96px 0}
+@media (max-width:720px){.divisor{margin:64px 0}}
+
+/* ---------- Videos ---------- */
+.tira{display:grid;grid-auto-flow:column;grid-auto-columns:minmax(180px,220px);gap:16px;overflow-x:auto;padding:4px 4px 18px;scroll-snap-type:x mandatory;scrollbar-color:var(--linea) transparent}
+.tira a{scroll-snap-align:start;display:block;border-radius:var(--r-m);overflow:hidden;border:1px solid var(--linea);background:var(--noche-2);text-decoration:none;color:var(--texto);transition:border-color .15s,transform .15s}
+.tira a:hover{border-color:var(--azul);transform:translateY(-3px)}
+.tira img{aspect-ratio:9/16;width:100%;object-fit:cover}
+.tira span{display:block;padding:12px 14px 14px;font-weight:700;font-size:.98rem;line-height:1.3}
+.videos-pie{display:flex;flex-wrap:wrap;gap:12px;margin-top:22px}
+
+.temas{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border-top:1px solid var(--linea);margin-top:64px}
+.temas div{padding:26px 26px 26px 0;border-bottom:1px solid var(--linea)}
+.temas div:not(:nth-child(3n)){border-right:1px solid var(--linea)}
+.temas div:not(:nth-child(3n+1)){padding-left:26px}
+.temas h3{font-size:1.35rem;margin-bottom:6px}
+.temas p{color:var(--suave);margin:0;font-size:1.02rem}
+@media (max-width:820px){.temas{grid-template-columns:1fr}.temas div{border-right:0!important;padding-left:0!important}}
+
+/* ---------- Chris ---------- */
+.chris{display:grid;grid-template-columns:auto 1fr;gap:56px;align-items:center;background:linear-gradient(120deg,var(--noche-2),rgba(11,32,58,.3));border:1px solid var(--linea);border-radius:var(--r-l);padding:clamp(28px,5vw,56px);overflow:hidden}
+.chris img{width:min(300px,60vw);border-radius:50%;aspect-ratio:1;object-fit:cover;object-position:50% 25%;border:3px solid var(--linea)}
+.chris h2{font-size:clamp(2rem,4vw,3rem);margin-bottom:16px}
+.chris p{color:#d0e3f2;max-width:56ch}
+.chris .cita{font-family:var(--display);font-weight:700;font-size:1.45rem;line-height:1.3;color:var(--texto);margin-top:20px}
+@media (max-width:820px){.chris{grid-template-columns:1fr;gap:26px}}
+
+/* ---------- Redes ---------- */
+.redes{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.red{display:grid;grid-template-columns:48px 1fr;gap:14px;align-items:center;padding:18px 20px;border-radius:var(--r-m);background:var(--noche-2);border:1px solid var(--linea);color:var(--texto);text-decoration:none;transition:border-color .15s,background-color .15s}
+.red:hover{border-color:var(--c,var(--azul));background:#0e2644}
+.red .logo{width:48px;height:48px;border-radius:14px;display:grid;place-items:center;background:var(--c,var(--azul));color:#fff}
+.red .logo svg{width:24px;height:24px;fill:currentColor}
+.red b{display:block;font-size:1.12rem;line-height:1.2}
+.red div span{display:block;color:var(--suave);font-size:.96rem;line-height:1.35;margin-top:2px}
+.red.principal{grid-column:span 3;grid-template-columns:72px 1fr auto;padding:26px 28px;background:linear-gradient(110deg,#2a0d14,var(--noche-2) 55%);border-color:#4a1d27}
+.red.principal .logo{width:72px;height:72px;border-radius:20px}
+.red.principal .logo svg{width:36px;height:36px}
+.red.principal b{font-size:1.5rem;font-family:var(--display)}
+.red.principal .boton{pointer-events:none;color:#03111f}
+@media (max-width:900px){.redes{grid-template-columns:1fr 1fr}.red.principal{grid-column:span 2}}
+@media (max-width:560px){.redes{grid-template-columns:1fr}.red.principal{grid-column:auto;grid-template-columns:56px 1fr}.red.principal .logo{width:56px;height:56px}.red.principal .boton{display:none}}
+
+/* ---------- Contacto ---------- */
+.contacto{text-align:center;max-width:720px;margin-inline:auto}
+.contacto h2{font-size:clamp(2.2rem,4.6vw,3.4rem);margin-bottom:14px}
+.contacto p{color:var(--suave);font-size:1.2rem}
+.contacto .correo{font:800 clamp(1.3rem,3.6vw,2rem)/1.2 var(--display);color:var(--texto);text-decoration:none;border-bottom:3px solid var(--azul);overflow-wrap:anywhere}
+.contacto .correo:hover{color:var(--azul)}
+.contacto .ojo{font-size:1rem;margin-top:22px}
+
+@media print{
+  .cabecera,.portada,#videos,#chris,#redes,#contacto,.pie,.divisor,button,.acciones,.circuitos{display:none!important}
+  body{background:#fff;color:#000}
+  .seccion{padding:0}
+  .hoja,.palabra{background:#fff;box-shadow:none;transform:none;border:1px solid #999}
+  .lista-check span,.checklist-lado p,.pasos span,.urgencia .lado p{color:#333}
+  .anillo{display:none}
+}
+</style>
+</head>
+<body>
+<a class="saltar" href="#contenido">Saltar al contenido</a>
+
+<header class="cabecera">
+  <div class="envoltura">
+    <a class="marca" href="./" aria-label="Xucaphe, inicio"><img src="favicon.svg" alt="" width="34" height="34">Xucaphe</a>
+    <nav class="menu" aria-label="Secciones">
+      <a href="#juego">Juego</a>
+      <a href="#recursos">Recursos</a>
+      <a href="#videos">Videos</a>
+      <a href="#redes">Redes</a>
+      <a href="#contacto">Contacto</a>
+    </nav>
+    <a class="boton boton-azul" href="{{YT}}?sub_confirmation=1" rel="noopener">{{icon:youtube}}Suscribirme</a>
+  </div>
+</header>
+
+<main id="contenido">
+
+<section class="portada" aria-labelledby="titulo">
+  <div class="circuitos" aria-hidden="true">
+    <svg viewBox="0 0 900 700" fill="none" stroke="#3cc8ff" stroke-width="1.5">
+      <path d="M900 90H640l-60 60H420M900 210H700l-40 40v120l-50 50H470M900 330H760M760 330v190l-60 60H520M620 0v80l40 40h120M520 700V600l-40-40H300M330 0v60l50 50h90"/>
+      <g fill="#3cc8ff"><circle cx="420" cy="150" r="5"/><circle cx="470" cy="420" r="5"/><circle cx="520" cy="580" r="5"/><circle cx="780" cy="120" r="5"/><circle cx="300" cy="560" r="5"/><circle cx="470" cy="110" r="5"/></g>
+    </svg>
+  </div>
+  <div class="envoltura">
+    <div>
+      <h1 id="titulo">Que no te vean <span class="rompe">como mango bajito.</span></h1>
+      <p class="bajada">Estafas y hackeos reales, explicados en un minuto para que tú y tu familia los vean venir.</p>
+      <div class="acciones">
+        <a class="boton boton-azul" href="#familia">Ver el kit para la familia</a>
+        <a class="boton boton-borde" href="{{YT}}" rel="noopener">{{icon:youtube}}Ver los videos</a>
+      </div>
+      <ul class="promesa" aria-label="Lo que prometemos">
+        <li>{{check}}Gratis</li>
+        <li>{{check}}Sin registrarte</li>
+        <li>{{check}}Sin pedirte el correo</li>
+        <li>{{check}}Sin anuncios</li>
+      </ul>
+    </div>
+
+    <div class="juego cargando" id="juego" data-estado="jugando" aria-labelledby="juego-titulo">
+      <div class="juego-tope">
+        <img id="cara" src="assets/img/chris.webp" alt="Chris" width="320" height="380">
+        <div><b id="juego-titulo">¿Estafa o real?</b><span>Practica con Chris</span></div>
+        <div class="marcador" id="marcador" aria-live="polite">1 de 8</div>
+      </div>
+      <div class="chat" aria-live="polite">
+        <div class="remitente" id="remitente"><span class="punto"></span><span></span></div>
+        <div class="burbuja" id="burbuja"></div>
+        <div class="escribiendo" aria-hidden="true"><i></i><i></i><i></i></div>
+      </div>
+      <div class="respuestas">
+        <button class="boton boton-coral" type="button" data-r="estafa">Es estafa</button>
+        <button class="boton boton-azul" type="button" data-r="real">Es real</button>
+      </div>
+      <div class="veredicto" aria-live="assertive">
+        <h3 id="v-titulo"></h3>
+        <p id="v-texto"></p>
+        <button class="boton boton-borde" type="button" id="siguiente">Siguiente mensaje</button>
+      </div>
+      <div class="fin">
+        <img src="assets/img/chris-seguro.webp" alt="" width="96" height="114" style="width:96px;height:96px;border-radius:50%;object-fit:cover;object-position:50% 18%;margin:0 auto">
+        <h3 id="fin-titulo"></h3>
+        <p id="fin-texto"></p>
+        <div class="acciones">
+          <a class="boton boton-azul" id="compartir-juego" href="#" rel="noopener">{{icon:whatsapp}}Retar a la familia</a>
+          <button class="boton boton-borde" type="button" id="otra-vez">Jugar otra vez</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="seccion" id="recursos" aria-labelledby="recursos-titulo">
+  <div class="envoltura">
+    <div class="seccion-cabeza">
+      <h2 id="recursos-titulo">Lo que te prometimos en los videos</h2>
+      <p>Todo está aquí completo. No tienes que dejar tu correo ni crear una cuenta para usarlo.</p>
+    </div>
+
+    <div class="checklist" id="web">
+      <div class="checklist-lado">
+        <h3>Revisa tu web en 15 minutos</h3>
+        <p>Para quien tiene una página con WordPress, PHP o un hosting compartido. Lo que marques se queda guardado solo en tu navegador.</p>
+        <div class="anillo" id="anillo" role="img" aria-label="0 de 12 revisiones hechas"><div><span id="cuenta">0</span><small>de 12</small></div></div>
+        <button class="boton boton-borde" type="button" id="imprimir">Imprimir o guardar en PDF</button>
+      </div>
+      <ol class="lista-check" id="lista">
+        <li><label><input type="checkbox"><div><b>PHP con soporte de seguridad</b><span>Mira la versión en el panel de tu hosting. PHP 8.1 o anterior ya no recibe parches: toca migrar. Si tu hosting la administra, pide confirmación por escrito.</span></div></label></li>
+        <li><label><input type="checkbox"><div><b>WordPress (o tu gestor) actualizado</b><span>Escritorio &gt; Actualizaciones. Activa las actualizaciones automáticas de seguridad.</span></div></label></li>
+        <li><label><input type="checkbox"><div><b>Plugins y temas al día, y fuera los que no usas</b><span>Un plugin desactivado sigue siendo una puerta si tiene un fallo. Bórralo. Nunca instales plugins "premium" pirateados.</span></div></label></li>
+        <li><label><input type="checkbox"><div><b>HTTPS en todas las páginas</b><span>El candado debe salir siempre, y la versión http:// debe redirigir sola a https://. Revisa que el certificado no esté por vencer.</span></div></label></li>
+        <li><label><input type="checkbox"><div><b>Contraseñas únicas y largas</b><span>Una distinta para el hosting, el panel de la web, el correo y el dominio. Guárdalas en un gestor de contraseñas.</span></div></label></li>
+        <li><label><input type="checkbox"><div><b>Verificación en dos pasos</b><span>Actívala en el hosting, en el panel de administración, en el correo y en la cuenta del dominio. Mejor con app de códigos que con SMS.</span></div></label></li>
+        <li><label><input type="checkbox"><div><b>Usuarios administradores: solo los necesarios</b><span>Borra cuentas viejas de diseñadores o empleados que ya no están. Cada persona, su propia cuenta.</span></div></label></li>
+        <li><label><input type="checkbox"><div><b>Copias de seguridad automáticas, fuera del servidor</b><span>Que se guarden en otro sitio (no solo en el mismo hosting) y prueba una vez restaurar una copia.</span></div></label></li>
+        <li><label><input type="checkbox"><div><b>Accesos por FTP o SSH revisados</b><span>Usa SFTP en vez de FTP, cambia claves que hayas compartido y borra accesos que ya nadie usa.</span></div></label></li>
+        <li><label><input type="checkbox"><div><b>Dominio protegido</b><span>Bloqueo de transferencia activado, renovación automática y un correo de contacto al que sí tienes acceso.</span></div></label></li>
+        <li><label><input type="checkbox"><div><b>Sin errores a la vista</b><span>Los errores de PHP no deben mostrarse a los visitantes (dan pistas a un atacante). Los formularios, con protección contra spam.</span></div></label></li>
+        <li><label><input type="checkbox"><div><b>Avisos activados</b><span>Da de alta tu web en Google Search Console (te avisa de problemas de seguridad) y usa un monitor gratuito que te avise si la web se cae.</span></div></label></li>
+      </ol>
+    </div>
+
+    <div class="divisor" role="presentation"></div>
+
+    <article class="hoja" id="familia" aria-labelledby="familia-titulo">
+      <div>
+        <h3 id="familia-titulo">Kit anti-estafas para la familia</h3>
+        <p class="intro">Tres reglas y una palabra clave. Mándaselo a tus papás, a tus abuelos o al grupo de la familia.</p>
+        <ul class="reglas">
+          <li><span class="icono">{{svg:candado}}</span><div><b>Un código que te llega por mensaje no se le da a nadie.</b><span>Ni al banco, ni al "courier", ni a un familiar. El banco nunca te lo pide.</span></div></li>
+          <li><span class="icono">{{svg:telefono}}</span><div><b>Si te llaman con prisa pidiendo dinero, cuelga y llama tú.</b><span>Al número de siempre o al que sale en la página oficial.</span></div></li>
+          <li><span class="icono">{{svg:pregunta}}</span><div><b>Antes de tocar un enlace, pregunta.</b><span>Bonos, premios, remesas retenidas o "tu cuenta será bloqueada" casi siempre son estafa.</span></div></li>
+        </ul>
+        <div class="acciones">
+          <a class="boton boton-oscuro" id="compartir-kit" href="#" rel="noopener">{{icon:whatsapp}}Mandarlo por WhatsApp</a>
+          <button class="boton boton-linea" type="button" data-imprimir>Imprimirlo</button>
+        </div>
+      </div>
+      <aside class="palabra" aria-labelledby="palabra-titulo">
+        <img src="assets/img/chris-dedo.webp" alt="Chris levantando el dedo para dar un consejo" width="320" height="380" loading="lazy">
+        <h4 id="palabra-titulo">La palabra clave familiar</h4>
+        <p>Con la IA ya se puede imitar la voz de alguien con unos segundos de audio. Pónganse de acuerdo en persona con una palabra que solo ustedes sepan y que no esté en redes. Si alguien llama llorando "soy yo, me pasó algo", se la pides.</p>
+      </aside>
+    </article>
+
+    <div class="divisor" role="presentation"></div>
+
+    <div class="urgencia" id="estafa">
+      <div class="lado">
+        <h3>Me estafaron o me robaron la cuenta. ¿Y ahora?</h3>
+        <p>Respira. Le pasa a gente muy inteligente, y actuar rápido sí cambia el resultado. Hazlo en este orden.</p>
+        <p class="nota">No le pagues a nadie que te prometa "recuperar tu dinero". Es la segunda estafa más común después de la primera.</p>
+      </div>
+      <ol class="pasos">
+        <li><div><b>Llama a tu banco ya</b><span>Al número que viene detrás de tu tarjeta. Bloquea la tarjeta y reporta los movimientos: cuanto antes, más posibilidades hay.</span></div></li>
+        <li><div><b>Cambia la contraseña y cierra sesiones</b><span>De la cuenta afectada y de tu correo. Activa la verificación en dos pasos y cierra las sesiones que no reconozcas.</span></div></li>
+        <li><div><b>Guarda las pruebas</b><span>Capturas de los mensajes, números, enlaces y comprobantes. No borres el chat.</span></div></li>
+        <li><div><b>Avisa a tus contactos</b><span>Si te robaron WhatsApp o una red social, el estafador les va a escribir pidiendo dinero en tu nombre.</span></div></li>
+        <li><div><b>Denuncia</b><span>En República Dominicana, ante la Policía Nacional (DICAT, delitos de alta tecnología) o la Procuraduría (PEDATEC). En otro país, en la unidad de delitos informáticos de tu policía.</span></div></li>
+      </ol>
+    </div>
+  </div>
+</section>
+
+<section class="seccion" id="videos" aria-labelledby="videos-titulo" style="padding-top:0">
+  <div class="envoltura">
+    <div class="seccion-cabeza">
+      <h2 id="videos-titulo">Videos cortos, todos los días</h2>
+      <p>Casos que están pasando ahora mismo, contados en menos de un minuto. Estos son algunos de los últimos.</p>
+    </div>
+    <div class="tira" role="list">
+      {{REELS}}
+    </div>
+    <div class="videos-pie">
+      <a class="boton boton-azul" href="{{YT}}/shorts" rel="noopener">{{icon:youtube}}Ver todos en YouTube</a>
+      <a class="boton boton-borde" href="https://www.tiktok.com/@xucaphee" rel="noopener">{{icon:tiktok}}Verlos en TikTok</a>
+    </div>
+
+    <div class="temas">
+      <div><h3>Estafa expuesta</h3><p>Desarmamos estafas reales paso a paso para que la reconozcas cuando te llegue.</p></div>
+      <div><h3>Hack del día</h3><p>Un truco de protección al día, sencillo y que puedes hacer en tu celular.</p></div>
+      <div><h3>¿Por qué funciona así?</h3><p>La tecnología de todos los días explicada sin tecnicismos.</p></div>
+      <div><h3>Historias de la tecnología</h3><p>Los hackeos, inventos y científicos que cambiaron cómo vivimos.</p></div>
+      <div><h3>Noticias del día</h3><p>Filtraciones y ataques recientes, de aquí y del mundo, y qué significan para ti.</p></div>
+      <div><h3>Un video largo cada semana</h3><p>Ciberseguridad a fondo en YouTube y Facebook, contada como una historia.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="seccion" id="chris" aria-labelledby="chris-titulo" style="padding-top:0">
+  <div class="envoltura">
+    <div class="chris">
+      <img src="assets/img/chris-laptop.webp" alt="Chris, el personaje de Xucaphe, trabajando en su laptop" width="320" height="380" loading="lazy">
+      <div>
+        <h2 id="chris-titulo">Él es Chris</h2>
+        <p>Sabe de ciberseguridad y aun así, a veces, cae. Como cualquiera. La diferencia es que después te cuenta exactamente qué pasó y qué hacer para que no te pase a ti.</p>
+        <p>Lo vas a ver en los videos equivocándose, descubriendo trampas y explicando cada una con calma, sin regaños y sin palabras raras.</p>
+        <p class="cita">Caer no te hace tonto. Quedarte callado sí le sirve al estafador.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="seccion" id="redes" aria-labelledby="redes-titulo" style="padding-top:0">
+  <div class="envoltura">
+    <div class="seccion-cabeza">
+      <h2 id="redes-titulo">Síguelo donde ya estás</h2>
+      <p>El mismo cuidado en todas las redes. Escoge la que más usas.</p>
+    </div>
+    <div class="redes">
+      <a class="red principal" style="--c:#ff0033" href="{{YT}}?sub_confirmation=1" rel="noopener me"><span class="logo">{{icon:youtube}}</span><div><b>YouTube</b><span>Videos largos cada semana y Shorts todos los días.</span></div><span class="boton boton-azul" aria-hidden="true">Suscribirme</span></a>
+      <a class="red" style="--c:#111;--c2:#25f4ee" href="https://www.tiktok.com/@xucaphee" rel="noopener me"><span class="logo" style="box-shadow:inset -3px -3px 0 #fe2c55,inset 3px 3px 0 #25f4ee">{{icon:tiktok}}</span><div><b>TikTok</b><span>@xucaphee</span></div></a>
+      <a class="red" style="--c:#d62976" href="https://www.instagram.com/xucapheee/" rel="noopener me"><span class="logo" style="background:radial-gradient(circle at 30% 107%,#fdf497 0%,#fd5949 45%,#d6249f 60%,#285aeb 90%)">{{icon:instagram}}</span><div><b>Instagram</b><span>@xucapheee</span></div></a>
+      <a class="red" style="--c:#0866ff" href="https://www.facebook.com/1393879633819489" rel="noopener me"><span class="logo">{{icon:facebook}}</span><div><b>Facebook</b><span>Reels y videos largos</span></div></a>
+      <a class="red" style="--c:#2b2b2b" href="https://www.threads.com/@xucapheee" rel="noopener me"><span class="logo" style="border:1px solid #444">{{icon:threads}}</span><div><b>Threads</b><span>@xucapheee</span></div></a>
+      <a class="red" style="--c:#0085ff" href="https://bsky.app/profile/xucaphe.bsky.social" rel="noopener me"><span class="logo">{{icon:bluesky}}</span><div><b>Bluesky</b><span>@xucaphe.bsky.social</span></div></a>
+      <a class="red" style="--c:#e60023" href="https://www.pinterest.com/Xucaphe/" rel="noopener me"><span class="logo">{{icon:pinterest}}</span><div><b>Pinterest</b><span>Guías y tableros para guardar</span></div></a>
+    </div>
+  </div>
+</section>
+
+<section class="seccion" id="contacto" aria-labelledby="contacto-titulo" style="padding-top:24px">
+  <div class="envoltura contacto">
+    <h2 id="contacto-titulo">¿Te llegó algo raro?</h2>
+    <p>Mándalo y lo explicamos en un video. También para dudas, propuestas o colaboraciones.</p>
+    <a class="correo" href="mailto:Projectsmanagers@proton.me">Projectsmanagers@proton.me</a>
+    <p class="ojo">Tapa tu nombre, tus números de cuenta y cualquier código antes de mandar la captura. Nadie de Xucaphe te va a pedir contraseñas, códigos ni dinero.</p>
+  </div>
+</section>
+
+</main>
+
+<footer class="pie">
+  <div class="envoltura">
+    <div>
+      <p><b style="color:var(--texto)">Xucaphe</b>, ciberseguridad explicada desde República Dominicana.</p>
+      <p>Contenido educativo. Las voces e ilustraciones de los videos se generan con IA.</p>
+      <p>Esta página también identifica la herramienta privada con la que el canal publica sus propios videos.</p>
+    </div>
+    <nav aria-label="Enlaces del pie">
+      <a href="#juego">Juego</a>
+      <a href="#web">Checklist de tu web</a>
+      <a href="#familia">Kit para la familia</a>
+      <a href="#estafa">Si ya te estafaron</a>
+      <a href="#redes">Redes</a>
+      <a href="privacidad.html">Política de privacidad</a>
+    </nav>
+  </div>
+</footer>
+
+<script>
+(function(){
+  'use strict';
+  var URL_SITIO='{{URL}}';
+
+  /* Los enlaces del SmartLink de Metricool llegan con ?utm_...: se quitan de la barra
+     para que, si alguien comparte la página, el enlace salga limpio. No se guarda nada. */
+  try{
+    if(/[?&]utm_/.test(location.search)&&history.replaceState){
+      history.replaceState(null,'',location.pathname+location.hash);
+    }
+  }catch(e){}
+
+  function wa(texto){return 'https://wa.me/?text='+encodeURIComponent(texto)}
+  document.getElementById('compartir-kit').href=wa('Mira esto antes de que te llegue una estafa: 3 reglas y una palabra clave para la familia. '+URL_SITIO+'#familia');
+
+  /* ---------- Checklist ---------- */
+  var cajas=[].slice.call(document.querySelectorAll('#lista input'));
+  var KEY='xucaphe-checklist-web', guardado=[];
+  try{guardado=JSON.parse(localStorage.getItem(KEY)||'[]')}catch(e){}
+  var anillo=document.getElementById('anillo'), cuenta=document.getElementById('cuenta');
+  function pintar(){
+    var n=cajas.filter(function(c){return c.checked}).length;
+    anillo.style.setProperty('--p',Math.round(n/cajas.length*100));
+    cuenta.textContent=n;
+    anillo.setAttribute('aria-label',n+' de '+cajas.length+' revisiones hechas');
+  }
+  cajas.forEach(function(c,i){
+    c.checked=!!guardado[i];
+    c.addEventListener('change',function(){
+      try{localStorage.setItem(KEY,JSON.stringify(cajas.map(function(x){return x.checked})))}catch(e){}
+      pintar();
+    });
+  });
+  pintar();
+  document.getElementById('imprimir').addEventListener('click',function(){window.print()});
+  [].forEach.call(document.querySelectorAll('[data-imprimir]'),function(b){b.addEventListener('click',function(){window.print()})});
+
+  /* ---------- Juego ---------- */
+  var M=[
+    {de:'+1 829 *** **17',txt:'Hola mami, se me dañó el celular y este es mi número nuevo. Guárdalo. Necesito que me hagas una transferencia urgente, después te explico 🙏',r:'estafa',
+     por:'Número nuevo, prisa y dinero en el mismo mensaje. Llama al número de siempre de tu hijo antes de mandar un peso.'},
+    {de:'Mensaje de texto',txt:'Su paquete está retenido en aduanas. Para liberarlo pague RD$ 185 aquí: <span class="enlace">entrega-aduana-rd.com/pago</span>',r:'estafa',
+     por:'Monto pequeño para que no lo pienses y un enlace raro. Si esperas un paquete, entra tú a la página oficial del courier.'},
+    {de:'Google',txt:'G-482913 es tu código de verificación de Google. No lo compartas con nadie.',r:'real',
+     por:'Es real si tú lo acabas de pedir. Ese código es solo para ti: si alguien te lo pide por llamada o por chat, ahí empieza la estafa.'},
+    {de:'+1 809 *** **52',txt:'Disculpa, te envié un código de 6 dígitos por error a tu número. ¿Me lo puedes pasar? 🙏',r:'estafa',
+     por:'Ese código es el de tu WhatsApp. Si lo das, te roban la cuenta y le escriben a tus contactos pidiendo dinero.'},
+    {de:'App de tu banco',txt:'Compra aprobada por RD$ 1,250.00 en Supermercado. ¿No fuiste tú? Llama al número que está detrás de tu tarjeta.',r:'real',
+     por:'No trae enlace ni te da otro número: te manda al de tu tarjeta. Así avisan los bancos de verdad.'},
+    {de:'Recursos Humanos',txt:'Oferta de empleo desde casa: gana US$ 300 al día dando likes a videos de YouTube. Escríbenos por Telegram para empezar hoy.',r:'estafa',
+     por:'Te pagan poquito al principio para ganarse tu confianza y luego te piden "invertir". Nadie paga US$ 300 por dar likes.'},
+    {de:'Tu banco',txt:'Estimado cliente, su cuenta ha sido suspendida por actividad inusual. Valide sus datos en las próximas 2 horas: <span class="enlace">bit.ly/valida-cuenta</span>',r:'estafa',
+     por:'Miedo y reloj corriendo, más un enlace acortado. Tu banco no te pide validar datos por un enlace.'},
+    {de:'Sorteo aniversario',txt:'🎉 ¡Felicidades! Tu número salió ganador de un iPhone 17 en el sorteo del supermercado. Solo paga RD$ 950 del envío.',r:'estafa',
+     por:'Si ganaste algo, no tienes que pagar para recibirlo. Ni el envío.'}
+  ];
+  var juego=document.getElementById('juego'), burbuja=document.getElementById('burbuja'),
+      rem=document.querySelector('#remitente span:last-child'), cara=document.getElementById('cara'),
+      marcador=document.getElementById('marcador'), vt=document.getElementById('v-titulo'), vx=document.getElementById('v-texto');
+  var quieto=window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var i=0, bien=0, orden=[];
+  function barajar(){orden=M.map(function(_,k){return k});for(var k=orden.length-1;k>0;k--){var j=Math.floor(Math.random()*(k+1));var t=orden[k];orden[k]=orden[j];orden[j]=t}}
+  function hora(){var d=new Date();return d.getHours()+':'+('0'+d.getMinutes()).slice(-2)}
+  function mostrar(){
+    var m=M[orden[i]];
+    juego.dataset.estado='jugando';
+    cara.src='assets/img/chris.webp';cara.alt='Chris esperando tu respuesta';
+    marcador.textContent=(i+1)+' de '+M.length;
+    juego.classList.add('cargando');
+    setTimeout(function(){
+      rem.textContent=m.de;
+      burbuja.innerHTML=m.txt+'<span class="hora">'+hora()+'</span>';
+      juego.classList.remove('cargando');
+      burbuja.classList.remove('entra');void burbuja.offsetWidth;burbuja.classList.add('entra');
+    },quieto?0:(i===0?1100:650));
+  }
+  [].forEach.call(document.querySelectorAll('.respuestas button'),function(b){
+    b.addEventListener('click',function(){
+      if(juego.classList.contains('cargando'))return;
+      var m=M[orden[i]], ok=b.dataset.r===m.r;
+      if(ok)bien++;
+      juego.dataset.estado=ok?'bien':'mal';
+      cara.src=ok?'assets/img/chris-seguro.webp':'assets/img/chris-sorpresa.webp';
+      cara.alt=ok?'Chris contento':'Chris sorprendido';
+      vt.textContent=ok?(m.r==='estafa'?'¡Bien visto! Es estafa.':'¡Bien! Es real.'):(m.r==='estafa'?'Uy, era estafa.':'Este sí era real.');
+      vx.textContent=m.por;
+      document.getElementById('siguiente').textContent=i<M.length-1?'Siguiente mensaje':'Ver mi resultado';
+      document.getElementById('siguiente').focus({preventScroll:true});
+    });
+  });
+  document.getElementById('siguiente').addEventListener('click',function(){
+    i++;
+    if(i<M.length){mostrar();return}
+    juego.dataset.estado='fin';
+    marcador.textContent=bien+' de '+M.length;
+    var t,x;
+    if(bien===M.length){t='¡Perfecto! Ni un mango bajito.';x='Acertaste los '+M.length+'. Ahora toca que tu familia también los vea venir.'}
+    else if(bien>=6){t='Muy bien: '+bien+' de '+M.length+'.';x='Casi nadie te agarra. Repasa los que fallaste y reta a tu familia.'}
+    else{t=bien+' de '+M.length+'. Vamos a practicar.';x='Tranquilo, estos mensajes están hechos para engañar. El kit para la familia te ayuda con lo básico.'}
+    document.getElementById('fin-titulo').textContent=t;
+    document.getElementById('fin-texto').textContent=x;
+    document.getElementById('compartir-juego').href=wa('Saqué '+bien+' de '+M.length+' en el juego ¿Estafa o real? de Xucaphe. A ver cuántos sacas tú: '+URL_SITIO+'#juego');
+  });
+  document.getElementById('otra-vez').addEventListener('click',function(){i=0;bien=0;barajar();mostrar()});
+  barajar();mostrar();
+})();
+</script>
+</body>
+</html>
