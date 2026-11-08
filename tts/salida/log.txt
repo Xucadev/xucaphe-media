@@ -1,1 +1,2 @@
-OK 20261108-1200-itla-filtracion gemini-3.1-flash-tts-preview 73.7s
+OK ep03-t05 gemini-2.5-flash-preview-tts 49.9s
+OK ep03-t06 gemini-2.5-flash-preview-tts 75.5s
