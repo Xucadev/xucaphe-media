@@ -430,7 +430,17 @@
    ]
   },
   "otras_redes": "Metricool (Instagram, TikTok y Facebook 12:00)",
-  "hora_nota": "Reel de actualidad: IG/TT/FB 12:00, YouTube 14:00"
+  "hora_nota": "Reel de actualidad: IG/TT/FB 12:00, YouTube 14:00",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/wYRKvzA4eJY",
+    "publicado": "2026-11-08T16:12:55+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261108-1800-vista-previa",
