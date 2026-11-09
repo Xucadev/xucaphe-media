@@ -516,7 +516,13 @@
    }
   },
   "estilo": "tarjetas",
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "estado": {
+   "youtube": {
+    "intentos": 1,
+    "error": "{\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"The request metadata specifies an invalid video description.\",\n    \"errors\": [\n      {\n        \"message\": \"The request metadata specifies an invalid video description.\",\n        \"domain\": \"youtube.video\",\n        \"reason\": \"invalidDescription\",\n        \"location\": \"body.snippet.description\",\n        \"locationType\": \"other\"\n      }\n    ]\n  }\n}\n"
+   }
+  }
  },
  {
   "id": "20261109-1800-sim-swap",
