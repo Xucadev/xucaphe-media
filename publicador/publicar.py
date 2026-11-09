@@ -83,12 +83,17 @@ def yt_subtitulos(item, tok=None):
     return True
 
 
+def _yt_txt(t: str) -> str:
+    # YouTube rechaza < y > en títulos y descripciones (invalidDescription, 9 nov)
+    return t.replace(" > ", " → ").replace(">", "→").replace("<", "‹")
+
+
 def youtube(item, video: Path):
     d = item["youtube"]
     tok = yt_token()
     cuando = datetime.fromisoformat(item["fecha"])
     meta = {
-        "snippet": {"title": d["title"][:100], "description": d["description"], "tags": d.get("tags", []),
+        "snippet": {"title": _yt_txt(d["title"])[:100], "description": _yt_txt(d["description"]), "tags": d.get("tags", []),
                     "categoryId": "28", "defaultLanguage": "es", "defaultAudioLanguage": "es"},
         "status": {"privacyStatus": "public", "selfDeclaredMadeForKids": False,
                    "containsSyntheticMedia": True},
@@ -99,7 +104,7 @@ def youtube(item, video: Path):
                               publishAt=cuando.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.000Z"))
     # Títulos y descripciones traducidos (los rellena tts/traducir.py): YouTube los muestra en el idioma del espectador
     if d.get("localizations"):
-        meta["localizations"] = {k: {"title": v["title"][:100], "description": v["description"]} for k, v in d["localizations"].items()}
+        meta["localizations"] = {k: {"title": _yt_txt(v["title"])[:100], "description": _yt_txt(v["description"])} for k, v in d["localizations"].items()}
     size = video.stat().st_size
     r = requests.post(
         "https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status" + (",localizations" if d.get("localizations") else ""),
