@@ -1600,7 +1600,17 @@
     "bug",
     "programacion",
     "curiosidades"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "The first \"bug\" in history was an actual insect #shorts",
+     "description": "It happened in tech No. 1: the first bug was a real insect 🦋\nOn September 9, 1947, the Harvard Mark II computer started failing. The team found a moth trapped in a relay, pasted it into the logbook, and noted that it was the first actual case of a bug being found. Grace Hopper, a programming pioneer, told this story her whole life, and the logbook is preserved in a museum.\n\nSource: Smithsonian National Museum of American History.\nSend this to whoever says their code has bugs. Follow me for more tech stories.\n\nAI-generated voice · Educational content.\n#historyoftechnology #programming #curiosities #technology #cybersecurity"
+    },
+    "pt": {
+     "title": "O primeiro \"bug\" da história foi um inseto de verdade #shorts",
+     "description": "Aconteceu na tech N.º 1: o primeiro bug foi um inseto real 🦋\nEm 9 de setembro de 1947, o computador Harvard Mark II começou a falhar. A equipe encontrou uma mariposa presa em um relé, colou-a no caderno de registro e anotou que era o primeiro caso real de um bug encontrado. Grace Hopper, pioneira da programação, contou essa história a vida toda, e o caderno está preservado em um museu.\n\nFonte: Smithsonian National Museum of American History.\nEnvie para quem diz que seu código tem bugs. Siga-me para mais histórias de tech.\n\nVoz gerada por IA · Conteúdo educativo.\n#historiadatecnologia #programacao #curiosidades #tecnologia #ciberseguranca"
+    }
+   }
   },
   "estilo": "escena",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
@@ -1622,7 +1632,17 @@
     "derechos de autor",
     "phishing",
     "estafa expuesta"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "\"Your account will be deleted for copyright\": it's a scam #shorts",
+     "description": "Scam exposed: \"your account will be deleted for copyright\" 📛\nYou get a direct message or an email from a profile with a name like \"Support\" or \"Help Center\": your account will be deleted in 24 hours for copyright infringement, unless you \"appeal\" through a link. The link asks for your username, password, and verification code. With that, they steal your account.\nInstagram shows real notices inside the app (Settings → Emails from Instagram / Account Status), not via direct messages.\n\nComment SUPPORT if they messaged you like this 👇\nSend this to anyone running a business on Instagram.\n\nAI-generated voice · Educational cybersecurity content.\n#scamexposed #instagram #accounttheft #cybersecurity #rd"
+    },
+    "pt": {
+     "title": "\"Sua conta será excluída por direitos autorais\": é um golpe #shorts",
+     "description": "Golpe exposto: \"sua conta será excluída por direitos autorais\" 📛\nVocê recebe uma mensagem direta ou um e-mail de um perfil com nome do tipo \"Suporte\" ou \"Central de Ajuda\": sua conta será excluída em 24 horas por violar direitos autorais, a menos que você \"recorra\" em um link. O link pede seu usuário, sua senha e o código de verificação. Com isso, eles roubam a sua conta.\nO Instagram mostra os avisos reais dentro do aplicativo (Configurações → E-mails do Instagram / Status da conta), não por mensagens diretas.\n\nComente SUPORTE se escreveram para você assim 👇\nEnvie para quem tem um negócio no Instagram.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#golpeexposto #instagram #roubodecontas #ciberseguranca #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook)"
  },
@@ -1642,7 +1662,17 @@
     "carga optimizada",
     "tips",
     "tecnologia"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Why does your phone battery last less over the years? #shorts",
+     "description": "Why?: Why does your phone battery last less over the years? 🔋\nPhone batteries are lithium-ion and degrade with every charge cycle: with use, they store less and less energy. Heat wears them down faster.\nTo make them last: avoid leaving your phone in the sun or charging it under your pillow, and if your phone has an \"optimized charging\" or charge limit option, turn it on.\nAnd watch out for \"battery saver apps\": many just show ads and ask for unnecessary permissions.\n\nComment BATTERY if yours can't hold a charge anymore 👇\nSend this to someone who lives attached to their charger.\n\nAI-generated voice · Educational content.\n#why #battery #technology #tips #facts"
+    },
+    "pt": {
+     "title": "Por que a bateria do celular dura menos com os anos? #shorts",
+     "description": "Por quê?: Por que a bateria do celular dura menos com os anos? 🔋\nAs baterias de celular são de íons de lítio e se desgastam a cada ciclo de carga: com o uso, elas guardam cada vez menos energia. O calor as desgasta mais rápido.\nPara durar mais: evite deixar o celular no sol ou carregá-lo embaixo do travesseiro e, se o seu celular tiver a opção de \"carregamento otimizado\" ou limitar a carga, ative-a.\nE cuidado com os \"apps para economizar bateria\": muitos só mostram anúncios e pedem permissões demais.\n\nComente BATERIA se a sua não aguenta mais 👇\nMande para quem vive grudado no carregador.\n\nVoz gerada por IA · Conteúdo educativo.\n#porque #bateria #tecnologia #dicas #curiosidades"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -1662,7 +1692,17 @@
     "microfono",
     "privacidad",
     "hack del dia"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "The green dot that warns you an app is using your camera #shorts",
+     "description": "Hack of the day: the green dot that warns you an app is using your camera 🟢\nSince iOS 14 and Android 12, your phone shows a dot (green or orange) at the top of the screen when an app uses the camera or microphone.\nIf you see it without using any app, swipe down the control center or notification bar: it tells you which app it was.\nThen go to Settings → Privacy (or Permissions) and revoke camera and microphone access for apps that don't need it.\n\nComment DOT if you've ever seen it for no reason 👇\nSend this to someone who cares about their privacy.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #privacy #camera #tips"
+    },
+    "pt": {
+     "title": "O pontinho verde que avisa que um app usa sua câmera #shorts",
+     "description": "Dica do dia: o pontinho verde que avisa que um app usa sua câmera 🟢\nDesde o iOS 14 e Android 12, o celular mostra um ponto (verde ou laranja) no topo da tela quando um app usa a câmera ou o microfone.\nSe você o vir sem estar usando nenhum app, deslize a central de controle ou a barra de notificações: ele indica qual app foi.\nDepois vá em Configurações → Privacidade (ou Permissões) e remova o acesso à câmera e ao microfone dos apps que não precisam.\n\nComente PONTO se você já viu isso sem motivo 👇\nEnvie para quem se preocupa com a própria privacidade.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#dicadodia #ciberseguranca #privacidade #camera #dicas"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook)"
  },
