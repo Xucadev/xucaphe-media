@@ -1,17 +1,9 @@
 {
  "items": [
   {
-   "id": "ep03-t05",
+   "id": "20261109-1200-carro-falso",
    "voz": "Orus",
-   "texto": "Narra esta historia para un video de YouTube en formato POV, en segunda persona. Voz de narrador cercano, cálido y con suspenso, en español latino neutro con calidez caribeña, como si se la contaras a un amigo. Ritmo natural, ni rápido ni lento. Baja la voz en los momentos tensos, sube la energía en las sorpresas, respeta cada coma y cada punto. Lee las cifras con naturalidad. Entre cada párrafo haz una pausa clara de casi un segundo:\n\nTres. Pregunta algo que solo él sabría. No su cumpleaños, que está en Facebook. Algo de la casa. Algo de ustedes.\n\nCuatro. La prisa y el secreto son la estafa. Ningún abogado, policía ni tribunal te pide efectivo por un mensajero, ni que le mientas a tu banco.\n\nY si el dinero tiene que salir en efectivo, en un sobre, para un mensajero que no conoces… para. Ahí ya no hay duda.\n\nCinco. Cuida lo que publica tu familia. Pon el Facebook de tu mamá en privado, y no anuncies dónde estás mientras estás ahí."
-  },
-  {
-   "id": "ep03-t06",
-   "voz": "Orus",
-   "texto": "Narra esta historia para un video de YouTube en formato POV, en segunda persona. Voz de narrador cercano, cálido y con suspenso, en español latino neutro con calidez caribeña, como si se la contaras a un amigo. Ritmo natural, ni rápido ni lento. Baja la voz en los momentos tensos, sube la energía en las sorpresas, respeta cada coma y cada punto. Lee las cifras con naturalidad. Entre cada párrafo haz una pausa clara de casi un segundo:\n\nY si ya pasó: llama al banco de inmediato, guarda cada número y cada hora, y denuncia. Y no culpes a quien cayó. Le hablaron con la voz de su hijo.\n\nY una más, para ti, que sí subes videos: no tienes que desaparecer de internet. Pero sí tienes que decirle a tu familia que tu voz se puede copiar.\n\nPorque el problema no es que te clonen. El problema es que tu familia no sepa que eso existe.\n\nHoy, antes de dormir, llama a tu mamá. A tu papá. A tu abuela. Y acuerden su palabra clave.\n\nY cuéntame en los comentarios: ¿en tu familia ya tienen una? No la escribas. Solo dime sí o no.\n\nMándale este video al grupo de la familia. Puede que le salves los ahorros a alguien.\n\nYo soy Chris. Y sí: a mí también me pueden clonar la voz."
+   "texto": "Lee este guion de un video corto de ciberseguridad como un creador de contenido latino, cercano, claro y con energía, en español neutro con calidez caribeña. Haz pausas naturales en comas y puntos, sube la emoción en lo urgente y baja la voz en lo misterioso. Entre cada párrafo haz una pausa larga de un segundo completo:\n\nA Chris le salió en Facebook un Hyundai a un precio buenísimo.\n\nEscribió por WhatsApp, y el vendedor le pidió una separación por transferencia.\n\n¿Qué harías tú? A: transfiero ya. B: primero lo veo.\n\nEn Santo Domingo, alguien eligió la A. Hizo tres transferencias.\n\nEn total, RD$89,500. Y el carro nunca llegó.\n\nEste fin de semana, la Policía Cibernética informó el arresto, en Pantoja, del hombre acusado de esa venta.\n\nSi alguien de tu familia caería en esto, mándale este video.\n\nEl truco: un carro real, un precio demasiado bajo, y prisa por cobrar.\n\nPero aquí viene lo que te toca: la regla de oro. Si la cuenta no está a nombre del dueño de la matrícula, no transfieras.\n\nAntes de pagar, busca la placa en la web de la DGII.\n\nTe dice la marca, el modelo, el año, y si tiene oposición.\n\nVe a ver el carro en persona, y pide la certificación del Plan Piloto, para saber si tiene reporte de robo.\n\nY si te apuran por WhatsApp para que pagues hoy, esa prisa es la alarma.\n\nComenta CARRO si estás buscando uno. Y sígueme: pronto, otra estafa expuesta."
   }
- ],
- "modelos": [
-  "gemini-2.5-flash-preview-tts"
  ]
 }
