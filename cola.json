@@ -520,7 +520,11 @@
   "estado": {
    "youtube": {
     "intentos": 1,
-    "error": "{\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"The request metadata specifies an invalid video description.\",\n    \"errors\": [\n      {\n        \"message\": \"The request metadata specifies an invalid video description.\",\n        \"domain\": \"youtube.video\",\n        \"reason\": \"invalidDescription\",\n        \"location\": \"body.snippet.description\",\n        \"locationType\": \"other\"\n      }\n    ]\n  }\n}\n"
+    "url": "https://youtube.com/shorts/R-XvANp0JWQ",
+    "publicado": "2026-11-09T11:11:53+00:00",
+    "subs": [
+     "es"
+    ]
    }
   }
  },
@@ -540,7 +544,17 @@
     "ciberseguridad"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok, Threads, Bluesky)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok, Threads, Bluesky)",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/d959DqYos_I",
+    "publicado": "2026-11-09T11:12:02+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261109-1800-sim-swap",
@@ -569,7 +583,17 @@
   },
   "estilo": "tarjetas",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
-  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/4VS5Bp5vB4g",
+    "publicado": "2026-11-09T11:12:09+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261110-1000-falso-familiar",
