@@ -621,7 +621,17 @@
    }
   },
   "estilo": "tarjetas",
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/1rS1H1qRRaY",
+    "publicado": "2026-11-10T04:20:54+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261110-1800-actualizaciones",
