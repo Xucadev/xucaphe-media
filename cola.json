@@ -649,7 +649,17 @@
     "ciberseguridad"
    ]
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok, Threads, Bluesky)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok, Threads, Bluesky)",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/6FRH925F3FI",
+    "publicado": "2026-11-10T12:52:02+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261110-1800-actualizaciones",
@@ -678,7 +688,17 @@
   },
   "estilo": "tarjetas",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
-  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/ePrN2k0dras",
+    "publicado": "2026-11-10T12:52:10+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "largo-ep02",
@@ -711,6 +731,16 @@
      "title": "POV: Uma desconhecida te escreve \"por engano\"… e em 90 dias tira tudo de você",
      "description": "Em uma terça-feira qualquer, uma desconhecida te manda mensagem: \"Olá, você é o Daniel?\". Você responde por educação. Neste POV você é o Chris: trabalha com cibersegurança e, mesmo assim, em 90 dias, uma conversa que parecia amor termina com suas economias, um empréstimo no banco e o dinheiro da sua mãe colocados em uma plataforma de investimento que nunca existiu.\n\nÉ o golpe que o FBI chama de \"pig butchering\": o abate de porcos. E por trás da \"Valeria\" há algo que quase ninguém conta. História recriada a partir de casos reais. No final: as 5 regras para que isso não aconteça com você.\n\nAlguma vez um número errado te mandou mensagem e quis continuar conversando? Conte nos comentários.\n\nCapítulos:\n0:00 A tela das 3:12\n0:55 A mensagem errada\n2:20 A confiança\n4:37 O investimento\n6:16 A escalada\n8:54 O saque\n11:01 O abate de porcos\n12:16 Quem era a Valeria?\n14:05 O segundo golpe\n15:12 O que você fez depois\n16:06 As 5 regras\n\nFontes:\n· FBI IC3, Relatório de Crimes na Internet 2024 (9,3 bilhões em golpes com cripto; 5,8 bilhões em fraude de investimento): ic3[.]gov/AnnualReport/Reports/2024_IC3Report.pdf\n· ONU Direitos Humanos (OHCHR), relatório de agosto de 2023 sobre pessoas forçadas a dar golpes no Sudeste Asiático: news[.]un[.]org/en/node/1140187\n· FBI IC3, PSA 240624 sobre falsos escritórios de recuperação de cripto: ic3[.]gov/PSA/2024/PSA240624\n\nVoz e ilustrações geradas com IA · História recriada para fins educativos.\n\n#golpes #ciberseguranca #cripto"
     }
+   }
+  },
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtu.be/MuoDR6R9tx4",
+    "publicado": "2026-11-10T12:52:17+00:00",
+    "subs": [
+     "es"
+    ]
    }
   }
  },
