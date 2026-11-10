@@ -1403,7 +1403,17 @@
     "spam",
     "privacidad",
     "hack del dia"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "The Gmail + trick to find out who sold your email #shorts",
+     "description": "Hack of the day: the Gmail + trick to find out who sold your email ✉️\nIn Gmail you can add a + and a word to your email address and it still reaches you: if you are ana@gmail.com, ana+store@gmail.com is also yours.\nUse it when signing up at stores. If one day you get spam at ana+store, you already know who leaked or sold your email, and you can create a filter to send it to the trash.\nIt doesn't work on all websites (some don't accept the +), but it does on many.\n\nComment ALIAS if you've already tried it 👇\nSend this to whoever signs up at every store.\n\nAI-generated voice · Cybersecurity educational content.\n#hackoftheday #cybersecurity #gmail #privacy #tips"
+    },
+    "pt": {
+     "title": "O truque do + no Gmail para saber quem vendeu seu e-mail #shorts",
+     "description": "Hack do dia: o truque do + no Gmail para saber quem vendeu seu e-mail ✉️\nNo Gmail você pode adicionar um + e uma palavra ao seu e-mail e continua recebendo do mesmo jeito: se você é ana@gmail.com, ana+loja@gmail.com também é seu.\nUse ao se cadastrar em lojas. Se um dia chegar spam em ana+loja, você já sabe quem vazou ou vendeu seu e-mail, e pode criar um filtro para mandá-lo para a lixeira.\nNão funciona em todos os sites (alguns não aceitam o +), mas em muitos sim.\n\nComente ALIAS se você já testou 👇\nEnvie para quem se cadastra em todas as lojas.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #cibersegurança #gmail #privacidade #dicas"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook)"
  },
@@ -1601,7 +1611,17 @@
     "cifrado",
     "privacidad",
     "hack del dia"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Enable WhatsApp encrypted backup #shorts",
+     "description": "Hack of the day: your WhatsApp chats are encrypted… but your backup might not be 🔐\nWhatsApp messages travel encrypted, but the backup saved to Google Drive or iCloud isn't unless you turn it on.\nTurn it on like this: WhatsApp → Settings → Chats → Chat backup → End-to-end encrypted backup.\nIt asks for a password or a 64-digit key: save it well, because if you lose it, you won't be able to recover your backup.\n\nComment ENCRYPTED when you turn it on 👇\nSend this to someone who has years of chats on WhatsApp.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #whatsapp #privacy #dr"
+    },
+    "pt": {
+     "title": "Ative o backup criptografado do WhatsApp #shorts",
+     "description": "Hack do dia: suas conversas do WhatsApp são criptografadas… mas seu backup talvez não 🔐\nAs mensagens do WhatsApp viajam criptografadas, mas o backup salvo no Google Drive ou iCloud não está se você não ativar.\nAtive assim: WhatsApp → Configurações → Conversas → Backup de conversas → Backup criptografado de ponta a ponta.\nVai pedir uma senha ou uma chave de 64 dígitos: guarde bem, porque se você perder, não vai conseguir recuperar o backup.\n\nComente CRIPTOGRAFADO quando ativar 👇\nEnvie para quem tem anos de conversas no WhatsApp.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #ciberseguranca #whatsapp #privacidade #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook)"
  },
@@ -1854,7 +1874,17 @@
     "virus falso",
     "ciberseguridad",
     "computadora"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "\"Your PC is infected, call now!\": Fake tech support scam #shorts",
+     "description": "Scam Exposed #2: Fake tech support 🚨\nThe screen turns red, an alarm sounds, and they tell you to call now. If you call, someone very nice asks you to install a remote access program to \"fix it\"... and with that, they control your computer, charge you for a fake fix, or access your bank.\n\nThe key: real error messages don't include a number for you to call. Close the browser; if it won't let you, restart. Don't call and don't install anything.\n\nSend this to your parents. Follow me for the next scam exposed.\n\nAI-generated voice · Educational cybersecurity content.\n#scams #cybersecurity #techsupport #virus #hackoftheday"
+    },
+    "pt": {
+     "title": "\"Seu PC está infectado, ligue agora!\": O golpe do falso suporte técnico #shorts",
+     "description": "Golpe Exposto Nº 2: O falso suporte técnico 🚨\nA tela fica vermelha, toca um alarme e dizem para você ligar agora. Se você ligar, alguém muito simpático pede para instalar um programa de acesso remoto para \"consertar\"... e com isso controla seu computador, te cobra por um conserto falso ou entra no seu banco.\n\nA chave: mensagens de erro reais não trazem um número para você ligar. Feche o navegador; se não deixar, reinicie. Não ligue e não instale nada.\n\nMande para os seus pais. Siga-me para o próximo golpe exposto.\n\nVoz gerada por IA · Conteúdo educacional de cibersegurança.\n#golpes #ciberseguranca #suportetecnico #virus #hackdodia"
+    }
+   }
   },
   "estilo": "escena",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
@@ -1872,7 +1902,17 @@
     "satelites",
     "tecnologia explicada",
     "relatividad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "How Does Your Phone Know Where You Are? GPS Explained #shorts",
+     "description": "Tech Explained No. 1: GPS 📍\nAbout 30 satellites orbit at about 20,000 km high with atomic clocks, constantly sending their time. Your phone measures how long the signal takes, calculates the distance to each satellite, and with 4 of them, finds the only point where you can be. And Einstein's relativity has to be corrected: up there, clocks run fast by about 38 microseconds a day.\n\nFact: GPS only receives. Satellites don't know where you are.\n\nSend this to whoever gets lost with the map in their hand. Follow me for more tech explained.\n\nAI-generated voice · Educational content.\n#gps #technology #science #howitworks #satellites"
+    },
+    "pt": {
+     "title": "Como o seu celular sabe onde você está? O GPS explicado #shorts",
+     "description": "Tech explicada N.º 1: o GPS 📍\nCerca de 30 satélites giram a uns 20.000 km de altura com relógios atômicos e enviam sua hora o tempo todo. Seu celular mede quanto tempo o sinal demora, calcula a distância até cada satélite e, com 4, encontra o único ponto onde você pode estar. E é preciso corrigir a relatividade de Einstein: lá no alto, os relógios se adiantam cerca de 38 microssegundos por dia.\n\nFato: o GPS só recebe. Os satélites não sabem onde você está.\n\nMande para quem se perde com o mapa na mão. Siga-me para mais tech explicada.\n\nVoz gerada por IA · Conteúdo educativo.\n#gps #tecnologia #ciencia #comofunciona #satelites"
+    }
+   }
   },
   "estilo": "escena",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
