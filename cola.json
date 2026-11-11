@@ -770,7 +770,17 @@
    }
   },
   "estilo": "tarjetas",
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/H6j8rQfcCvo",
+    "publicado": "2026-11-11T07:09:15+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261111-1800-voz-clonada",
