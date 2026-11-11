@@ -1661,7 +1661,17 @@
     "supermercado",
     "estafas",
     "estafa expuesta"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "The WhatsApp supermarket coupon is a scam #shorts",
+     "description": "Scam exposed: the supermarket coupon circulating on WhatsApp 🛒\nA message arrives: \"The supermarket is celebrating its anniversary and giving away a 5,000 pesos coupon.\" It asks you to fill out a survey and share it with 10 contacts or 5 groups to \"activate\" it.\nThe coupon doesn't exist. What they want is for you to leave your data, install something, or forward it to reach more people.\nBefore sharing, check the supermarket's official social media (search for them yourself) and see if there really is a promotion.\n\nComment COUPON if you got it in your family group 👇\nSend this to your family group.\n\nAI-generated voice · Educational cybersecurity content.\n#scamexposed #whatsapp #scams #supermarket #dr"
+    },
+    "pt": {
+     "title": "O cupom de supermercado do WhatsApp é um golpe #shorts",
+     "description": "Golpe exposto: o cupom de supermercado que circula pelo WhatsApp 🛒\nChega uma mensagem: \"O supermercado está comemorando seu aniversário e presenteando com um cupom de 5.000 pesos\". Pede para você preencher uma pesquisa e compartilhar com 10 contatos ou 5 grupos para \"ativá-lo\".\nO cupom não existe. O que eles querem é que você deixe seus dados, instale algo ou reenvie para alcançar mais pessoas.\nAntes de compartilhar, entre nas redes oficiais do supermercado (buscando você mesmo) e veja se realmente existe uma promoção.\n\nComente CUPOM se chegou no grupo da família 👇\nMande para o grupo da família.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#golpeexposto #whatsapp #golpes #supermercado #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -1681,7 +1691,17 @@
     "ingenieria de software",
     "nasa",
     "mentes"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Margaret Hamilton: the software that took humans to the Moon #shorts",
+     "description": "Minds: the software that took humans to the Moon 🚀\nMargaret Hamilton led the team at MIT that wrote the flight software for the Apollo missions. During the 1969 moon landing, the computer started giving overload alarms, and the system her team designed prioritized critical tasks so the landing could continue.\nShe is credited with coining the term \"software engineering\". In 2016 she received the Presidential Medal of Freedom, and she passed away this year at 90.\n\nComment MOON if you didn't know her story 👇\nSend this to someone studying programming.\n\nSource: NASA and MIT.\nAI-generated voice · Educational content.\n#minds #techhistory #programming #womeninscience #technology"
+    },
+    "pt": {
+     "title": "Margaret Hamilton: o software que levou o ser humano à Lua #shorts",
+     "description": "Mentes: o software que levou o ser humano à Lua 🚀\nMargaret Hamilton liderou no MIT a equipe que escreveu o software de voo das missões Apollo. No pouso na Lua em 1969, o computador começou a dar alarmes por excesso de trabalho, e o sistema que sua equipe projetou priorizou o que era importante para que a aterrissagem continuasse.\nA ela é atribuído o termo \"engenharia de software\". Em 2016 recebeu a Medalha Presidencial da Liberdade, e faleceu este ano, aos 90.\n\nComente LUA se você não conhecia a história dela 👇\nEnvie para quem estuda programação.\n\nFonte: NASA e MIT.\nVoz gerada por IA · Conteúdo educativo.\n#mentes #historiadatecnologia #programacao #mulheresnaciencia #tecnologia"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook)"
  },
@@ -1840,7 +1860,17 @@
     "camaras de seguridad",
     "contraseña de fabrica",
     "tech explicada"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "What is a botnet? Your camera could be attacking others #shorts",
+     "description": "Tech explained: your security camera might be attacking others without you knowing 📹\nA botnet is an army of infected devices controlled remotely. In 2016, one called Mirai used hundreds of thousands of internet-connected cameras and recorders with default passwords to knock down widely used internet services for hours.\nProtect your devices: change the default password on cameras, recorders, and router, and keep them updated.\n\nComment ZOMBIE if your camera has the default password 👇\nSend this to anyone who has cameras at home.\n\nSource: KrebsOnSecurity and Dyn (October 2016).\nAI-generated voice · Educational cybersecurity content.\n#techexplained #botnet #cameras #cybersecurity #dr"
+    },
+    "pt": {
+     "title": "O que é uma botnet? Sua câmera pode estar atacando outros #shorts",
+     "description": "Tech explicada: sua câmera de segurança pode estar atacando outros sem você saber 📹\nUma botnet é um exército de dispositivos infectados que alguém controla à distância. Em 2016, uma chamada Mirai usou centenas de milhares de câmeras e gravadores conectados à internet que tinham a senha de fábrica, e derrubou por horas serviços de internet muito usados.\nProteja seus dispositivos: mude a senha de fábrica de câmeras, gravadores e roteador, e atualize-os.\n\nComente ZUMBI se sua câmera tem a senha de fábrica 👇\nEnvie para quem tem câmeras em casa.\n\nFonte: KrebsOnSecurity e Dyn (outubro de 2016).\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#techexplicada #botnet #cameras #ciberseguranca #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook)"
  },
@@ -1857,7 +1887,17 @@
     "internet lento",
     "por que",
     "tecnologia"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Why Wi-Fi doesn't reach your room well? #shorts",
+     "description": "Why? No. 2: Wi-Fi doesn't reach your room 📶\nWi-Fi is radio waves, and block and concrete walls eat up a good part of the signal. Your router has two bands: the 2.4 GHz reaches farther but is slower, and the 5 GHz is faster but struggles more to penetrate walls. The microwave operates on almost the same frequency as the 2.4 GHz.\n\nImprove it for free: router up high, in the center of the house, in plain sight, and away from the microwave. In your room, use the 2.4 GHz network.\n\nSend this to whoever is always complaining about Wi-Fi. Follow me for more whys.\n\nAI-generated voice · Educational content.\n#wifi #technology #why #tips #internet"
+    },
+    "pt": {
+     "title": "Por que o Wi-Fi não chega bem no seu quarto? #shorts",
+     "description": "Por quê? N.º 2: o Wi-Fi não chega no seu quarto 📶\nO Wi-Fi é feito de ondas de rádio, e as paredes de bloco e concreto comem boa parte do sinal. Seu roteador tem duas bandas: a de 2,4 GHz chega mais longe, mas é mais lenta, e a de 5 GHz é mais rápida, mas atravessa pior as paredes. O micro-ondas trabalha quase na mesma frequência da de 2,4 GHz.\n\nMelhore de graça: roteador no alto, no centro da casa, à vista e longe do micro-ondas. No seu quarto, use a rede de 2,4 GHz.\n\nMande para quem sempre se queixa do Wi-Fi. Siga-me para mais porquês.\n\nVoz gerada por IA · Conteúdo educativo.\n#wifi #tecnologia #porque #dicas #internet"
+    }
+   }
   },
   "estilo": "escena",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
@@ -1951,7 +1991,17 @@
     "seguridad movil",
     "hack del dia",
     "tips"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Dial *#06# on your phone TODAY (and save that number) #shorts",
+     "description": "Daily Hack #22: dial *#06# 📱\nYour IMEI will appear, a 15-digit number that identifies your phone. If it gets stolen, your carrier can block it with that number so it won't work with any line. The problem: once it's stolen, you can't see it anymore.\n\nWrite it down today: screenshot in your email, paper at home, or the phone box.\n\nSend this to your family group. Follow me: a new hack every day.\n\nAI-generated voice · Educational cybersecurity content.\n#dailyhack #cybersecurity #imei #mobilesecurity #dr"
+    },
+    "pt": {
+     "title": "Digite *#06# no seu celular HOJE (e guarde esse número) #shorts",
+     "description": "Hack do dia Nº 22: digite *#06# 📱\nVai aparecer o IMEI, um número de 15 dígitos que identifica o seu celular. Se for roubado, sua operadora pode bloqueá-lo com esse número para que não funcione com nenhuma linha. O problema: quando for roubado, você não consegue mais ver.\n\nAnote hoje mesmo: print no seu e-mail, papel em casa ou na caixa do celular.\n\nMande no grupo da família. Me siga: um hack novo todo dia.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #ciberseguranca #imei #segurancamovel #rd"
+    }
+   }
   },
   "estilo": "escena",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
@@ -1969,7 +2019,17 @@
     "historia de la tecnologia",
     "windows",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "The day 8.5 million computers crashed at the same time #shorts",
+     "description": "Happened in tech No. 2: July 19, 2024 💻\nAirports, banks, hospitals, and TV networks woke up to the blue screen of death. It wasn't an attack: CrowdStrike, a cybersecurity company, sent an update with a bug to its protection software for Windows. Microsoft estimated about 8.5 million affected devices, less than 1% of all Windows machines, but they were in the most critical places.\n\nThe lesson: even security needs testing and phased rollouts.\n\nSource: Microsoft and CrowdStrike (July 2024).\nSend this to whoever was at an airport that day. Follow me for more tech stories.\n\nAI-generated voice · Educational content.\n#techhistory #cybersecurity #windows #crowdstrike #technology"
+    },
+    "pt": {
+     "title": "O dia em que 8,5 milhões de computadores apagaram ao mesmo tempo #shorts",
+     "description": "Aconteceu na tech Nº 2: 19 de julho de 2024 💻\nAeroportos, bancos, hospitais e emissoras de TV acordaram com a tela azul da morte. Não foi um ataque: a CrowdStrike, uma empresa de cibersegurança, enviou uma atualização com falha para o seu programa de proteção para Windows. A Microsoft calculou cerca de 8,5 milhões de dispositivos afetados, menos de 1% dos Windows, mas eles estavam nos lugares mais críticos.\n\nA lição: até a segurança precisa de testes e implantações graduais.\n\nFonte: Microsoft e CrowdStrike (julho de 2024).\nEnvie para quem estava em um aeroporto nesse dia. Siga-me para mais histórias de tech.\n\nVoz gerada por IA · Conteúdo educativo.\n#historiadatecnologia #ciberseguranca #windows #crowdstrike #tecnologia"
+    }
+   }
   },
   "estilo": "escena",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
@@ -1988,7 +2048,17 @@
     "tecnologia explicada",
     "seguridad",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "If a website can send your password, run: how they're really stored #shorts",
+     "description": "Tech explained No. 2: how a password is stored 🔐\nA serious website doesn't store your password: it stores its hash, a fingerprint that cannot be reversed (like juice from a blender: you can't get the fruits back from the juice). When logging in, it compares the fingerprints. And it adds a secret ingredient for each person, the \"salt\".\n\nThat's why, if a page can send you your password as is, it stores it unprotected: use one there that you don't repeat anywhere else.\n\nSend this to the one who uses the same password for everything. Follow me for more tech explained.\n\nAI-generated voice · Educational cybersecurity content.\n#cybersecurity #passwords #technology #howitworks #digitalsecurity"
+    },
+    "pt": {
+     "title": "Se um site pode te mandar sua senha, fuja: é assim que se guarda de verdade #shorts",
+     "description": "Tech explicada N.º 2: como uma senha é guardada 🔐\nUm site sério não guarda a sua senha: guarda o hash dela, uma pegada que não pode ser revertida (como o suco do liquidificador: do suco você não tira as frutas). Ao fazer login, ele compara as pegadas. E adiciona um ingrediente secreto para cada pessoa, o \"sal\".\n\nPor isso, se uma página pode te enviar sua senha exatamente como é, ela a guarda sem proteção: use lá uma que você não repita em lugar nenhum.\n\nMande para quem usa a mesma senha em tudo. Siga-me para mais tech explicada.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#cibersegurança #senhas #tecnologia #comofunciona #segurançadigital"
+    }
+   }
   },
   "estilo": "escena",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
@@ -2006,7 +2076,17 @@
     "historia de la tecnologia",
     "criptografia",
     "mentes brillantes"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "The mathematician who broke Enigma and no one knew for decades #shorts",
+     "description": "Minds No. 2: Alan Turing 🧠\nThe Germans encrypted their messages with the Enigma machine, which changed the key every day. At Bletchley Park, Turing and his team built machines that searched for that key at full speed. Reading those messages saved ships and, according to many historians, shortened the war. Everything remained an official secret for years. In addition, he laid the foundations of modern computing and asked himself if a machine could think.\n\nSend this to someone who loves history. Follow me for more minds that changed everything.\n\nVoice generated with AI · Educational content.\n#alanturing #enigma #historyoftechnology #cryptography #cybersecurity"
+    },
+    "pt": {
+     "title": "O matemático que decifrou a Enigma e ninguém soube por décadas #shorts",
+     "description": "Mentes N.º 2: Alan Turing 🧠\nOs alemães criptografavam suas mensagens com a máquina Enigma, que mudava a chave todos os dias. Em Bletchley Park, Turing e sua equipe construíram máquinas que buscavam essa chave a toda velocidade. Ler essas mensagens salvou navios e, segundo muitos historiadores, encurtou a guerra. Tudo foi segredo oficial por anos. Além disso, estabeleceu as bases da computação moderna e se perguntou se uma máquina poderia pensar.\n\nEnvie para quem gosta de história. Siga-me para mais mentes que mudaram tudo.\n\nVoz gerada por IA · Conteúdo educativo.\n#alanturing #enigma #historiadatecnologia #criptografia #ciberseguranca"
+    }
+   }
   },
   "estilo": "escena",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
@@ -2026,7 +2106,17 @@
     "seguridad movil",
     "hack del dia",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Enable this on WhatsApp before your account gets stolen #shorts",
+     "description": "Daily Hack No. 23: WhatsApp two-step verification 🔐\nIt's a 6-digit PIN that only you know. Even if someone gets the code sent to you via text, without that PIN they can't access your account.\n\nEnable it: Settings → Account → Two-step verification → Turn on. Don't use your birthday and add your email in case you forget it. WhatsApp never asks for it via text message.\n\nSend it to your family group. Follow me: a new hack every day.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #whatsapp #mobilesecurity #rd"
+    },
+    "pt": {
+     "title": "Ative isso no WhatsApp antes que roubem sua conta #shorts",
+     "description": "Hack do dia N.º 23: a verificação em duas etapas do WhatsApp 🔐\nÉ um PIN de 6 dígitos que só você sabe. Mesmo que alguém consiga o código que chega por mensagem, sem esse PIN não entra na sua conta.\n\nAtive agora: Configurações → Conta → Verificação em duas etapas → Ativar. Não use sua data de nascimento e adicione seu e-mail caso esqueça. O WhatsApp nunca pede isso por mensagem.\n\nMande no grupo da família. Siga-me: um hack novo a cada dia.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #ciberseguranca #whatsapp #segurancamovel #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -2063,7 +2153,17 @@
     "paginas falsas",
     "por que",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "The browser padlock does NOT mean the website is safe #shorts",
+     "description": "Why? No. 3: the browser padlock 🔒\nThe padlock only means the connection is encrypted: no one along the way can read what you type. But it doesn't tell you who is on the other side, and tons of fake websites have it too, because getting it is free.\n\nWhat matters: that the website name is exact and that you navigated there yourself, not through a link sent to you. The padlock is necessary, but not sufficient.\n\nSend this to someone who trusts the little padlock. Follow me for more whys.\n\nAI-generated voice · Cybersecurity educational content.\n#cybersecurity #phishing #https #why #digitalsecurity"
+    },
+    "pt": {
+     "title": "O cadeado do navegador NÃO significa que a página é segura #shorts",
+     "description": "Por quê? Nº 3: o cadeado do navegador 🔒\nO cadeado só diz que a conexão é criptografada: ninguém no caminho lê o que você digita. Mas não diz quem está do outro lado, e muitas páginas falsas também têm, porque conseguir é grátis.\n\nO que importa: que o nome da página seja exato e que você tenha chegado por conta própria, não por um link que te mandaram. O cadeado é necessário, mas não suficiente.\n\nEnvie para quem confia no cadeado. Siga-me para mais porquês.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#ciberseguranca #phishing #https #porque #segurancadigital"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
