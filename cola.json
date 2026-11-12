@@ -2154,7 +2154,17 @@
     "sorteo falso",
     "republica dominicana",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "\"You won a phone, just pay shipping\": the fake prize scam #shorts",
+     "description": "Exposed Scam No. 3: the fake prize 🎁\n\"Congratulations, you won a phone. Just pay shipping.\" The prize doesn't exist: what they want is your card, and then they charge you much more.\n\n3 signs: you didn't enter anything, a real prize doesn't charge you to receive it, and they rush you (\"expires today\").\nDon't tap the link. If you really entered, go to the brand's official website yourself.\n\nSend this to whoever always wins things. Follow me for the next exposed scam.\n\nAI-generated voice · Cybersecurity educational content.\n#scams #cybersecurity #dominicanrepublic #fakegiveaway #hackoftheday"
+    },
+    "pt": {
+     "title": "\"Você ganhou um celular, só pague o frete\": o golpe do prêmio falso #shorts",
+     "description": "Golpe exposto Nº 3: o prêmio falso 🎁\n\"Parabéns, você ganhou um celular. Só pague o frete.\" O prêmio não existe: o que eles querem é o seu cartão, e depois te cobram muito mais.\n\n3 sinais: você não participou de nada, um prêmio real não te cobra para entregar e eles te apressam (\"expira hoje\").\nNão toque no link. Se você realmente participou, acesse você mesmo o site oficial da marca.\n\nEnvie para quem sempre ganha coisas. Me siga para o próximo golpe exposto.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#golpes #ciberseguranca #republicadominicana #sorteiofalso #hackdodia"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
   "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
@@ -2220,7 +2230,17 @@
     "vendedores",
     "republica dominicana",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "\"I already paid you, click here to receive it\": Marketplace seller scam #shorts",
+     "description": "Exposed Scam No. 4: the fake Marketplace payment 💸\nThe \"buyer\" tells you they already paid and sends you a link to receive it. That page looks like a bank and asks for your card, the code on the back, or your password. With that, they don't pay you: they empty your account.\n\nThe rule: to get paid you only give your account number, never your card or your passwords. And don't deliver anything until you see the money in your own banking app.\n\nSend this to whoever sells on Marketplace. Follow me for the next exposed scam.\n\nAI-generated voice · Educational cybersecurity content.\n#scams #marketplace #cybersecurity #dominicanrepublic #hackoftheday"
+    },
+    "pt": {
+     "title": "\"Já te paguei, entre aqui para receber\": o golpe nos vendedores do Marketplace #shorts",
+     "description": "Golpe Exposto N.º 4: o falso pagamento do Marketplace 💸\nO \"comprador\" diz que já pagou e te envia um link para receber. Essa página parece de um banco e pede seu cartão, o código atrás ou sua senha. Com isso eles não te pagam: esvaziam a sua conta.\n\nA regra: para receber você só dá o número da sua conta, nunca seu cartão nem suas senhas. E não entregue nada até ver o dinheiro no seu próprio aplicativo do banco.\n\nMande para quem vende no Marketplace. Siga-me para o próximo golpe exposto.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#golpes #marketplace #ciberseguranca #republicadominicana #hackdodia"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -2238,7 +2258,17 @@
     "privacidad",
     "como funciona",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Not even WhatsApp can read your messages: end-to-end encryption explained #shorts",
+     "description": "Tech explained No. 3: end-to-end encryption 🔐\nYour phone scrambles the message with a key before sending it. It travels as meaningless letters and only the other person's phone has the key to assemble it. The keys are created on the phones, not at the company.\n\nHeads up: if someone opens your phone, they see the messages already assembled. Encryption protects the path; you take care of the front door.\n\nSend this to the person who thinks they're being spied on via WhatsApp. Follow me for more tech explained.\n\nVoice generated with AI · Educational cybersecurity content.\n#cybersecurity #encryption #whatsapp #howitworks #privacy"
+    },
+    "pt": {
+     "title": "Nem o WhatsApp pode ler suas mensagens: criptografia de ponta a ponta explicada #shorts",
+     "description": "Tech explicada Nº 3: criptografia de ponta a ponta 🔐\nSeu celular embaralha a mensagem com uma chave antes de enviá-la. Ela viaja como letras sem sentido e só o celular da outra pessoa tem a chave para montá-la. As chaves são criadas nos celulares, não na empresa.\n\nAtenção: se alguém abrir o seu celular, verá as mensagens já montadas. A criptografia protege o caminho; a porta de entrada quem cuida é você.\n\nMande para quem acha que está sendo espionado pelo WhatsApp. Me siga para mais tech explicada.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#ciberseguranca #criptografia #whatsapp #comofunciona #privacidade"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
   "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
@@ -2257,7 +2287,17 @@
     "seguridad movil",
     "hack del dia",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Your phone shows your bank codes without unlocking it: fix it like this #shorts",
+     "description": "Hack of the day No. 25: hide notification content 📵\nBank and WhatsApp codes appear in full on the lock screen. With your phone for just one minute, someone can request a code and read it right there.\n\nAndroid: Settings → Notifications → Lock screen → Hide content.\niPhone: Settings → Notifications → Show Previews → When Unlocked.\n(Names may vary slightly depending on the brand.)\n\nSend this to whoever leaves their phone on the table. Follow me: a new hack every day.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #mobilesecurity #tips #tech"
+    },
+    "pt": {
+     "title": "Seu celular mostra seus códigos do banco sem desbloquear: corrija assim #shorts",
+     "description": "Hack do dia Nº 25: oculte o conteúdo das notificações 📵\nOs códigos do banco e do WhatsApp aparecem completos na tela de bloqueio. Com o seu celular por um minuto, alguém pode pedir um código e ler ali mesmo.\n\nAndroid: Configurações → Notificações → Tela de bloqueio → Ocultar conteúdo.\niPhone: Ajustes → Notificações → Pré-visualizações → Se desbloqueado.\n(Os nomes mudam um pouco dependendo da marca.)\n\nEnvie para quem deixa o celular na mesa. Siga-me: um hack novo todo dia.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #ciberseguranca #segurancamovel #dicas #tech"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -2275,7 +2315,17 @@
     "virus",
     "correo",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "The love email that infected the world: the ILOVEYOU virus #shorts",
+     "description": "Happened in tech No. 3: the ILOVEYOU virus (May 2000) 💌\nAn email arrived with the subject \"I LOVE YOU\" and an attachment that looked like a love letter. In reality, it was a program: it damaged files and forwarded itself to the victim's contacts. Since it came from someone known, people opened it. In a few days, it went around the world.\n\nToday's lesson: an unexpected attachment is suspicious, even if it comes from someone you know.\n\nSend this to someone who opens everything they get. Follow me for more tech stories.\n\nAI-generated voice · Educational content.\n#techhistory #cybersecurity #virus #curiosities #technology"
+    },
+    "pt": {
+     "title": "O e-mail de amor que infectou o mundo: o vírus ILOVEYOU #shorts",
+     "description": "Aconteceu na tech Nº 3: o vírus ILOVEYOU (maio de 2000) 💌\nChegava um e-mail com o assunto \"I LOVE YOU\" e um anexo que parecia uma carta de amor. Na verdade era um programa: danificava arquivos e se reenviava sozinho para os contatos da vítima. Como vinha de alguém conhecido, as pessoas abriam. Em poucos dias deu a volta ao mundo.\n\nA lição de hoje: um anexo inesperado é suspeito, mesmo que venha de alguém que você conhece.\n\nMande para quem abre tudo o que chega. Siga-me para mais histórias de tech.\n\nVoz gerada por IA · Conteúdo educativo.\n#historiadatecnologia #ciberseguranca #virus #curiosidades #tecnologia"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
   "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
@@ -2294,7 +2344,17 @@
     "estafas",
     "republica dominicana",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Black Friday: 80% off sneakers… what would you do? (Part 1) #shorts",
+     "description": "Scam exposed · Part 1: it's Black Friday and an ad pops up 🛍️\nBrand-name sneakers at -80%, 3 left and the offer ends in 10 minutes. At checkout: transfer only, to a personal account. It's RD$3,500.\n\nWhat would you do? Comment A (I transfer fast) or B (I check the store) 👇\nThis afternoon, Part 2 with the answer.\n\nStory recreated for educational purposes. Voice generated with AI.\n#scams #blackfriday #cybersecurity #dominicanrepublic #shopping"
+    },
+    "pt": {
+     "title": "Black Friday: tênis com 80% de desconto… o que você faria? (Parte 1) #shorts",
+     "description": "Golpe exposto · Parte 1: é Black Friday e aparece um anúncio para você 🛍️\nTênis de marca com -80%, restam 3 e a oferta acaba em 10 minutos. Na hora de pagar: apenas transferência, para uma conta pessoal. São RD$3.500.\n\nO que você faria? Comente A (transfiro rápido) ou B (verifico a loja) 👇\nHoje à tarde, a Parte 2 com a resposta.\n\nHistória recriada para fins educativos. Voz gerada por IA.\n#golpes #blackfriday #ciberseguranca #republicadominicana #compras"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -2312,7 +2372,17 @@
     "compras seguras",
     "estafas",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "4 signs of a fake Black Friday store (Part 2) #shorts",
+     "description": "Scam exposed · Part 2: the correct answer is B 🛑\nThat store was fake. 4 signs:\n1. An -80% discount on name brand items is almost never real.\n2. The countdown timer is there so you don't think.\n3 and 4. Only bank transfers and to a personal account: when nothing arrives, there's no one to complain to.\n\nBefore buying, search the store name + \"scam\" and pay with a card, which can be disputed. If you already paid, call your bank that same day.\n\nSend this to whoever is shopping today. Follow me for the next scam exposed.\n\nAI-generated voice · Cybersecurity educational content.\n#scams #blackfriday #cybersecurity #safeshopping #hackoftheday"
+    },
+    "pt": {
+     "title": "Os 4 sinais de uma loja falsa de Black Friday (Parte 2) #shorts",
+     "description": "Golpe exposto · Parte 2: a resposta correta é B 🛑\nEssa loja era falsa. 4 sinais:\n1. Um desconto de -80% em algo de marca quase nunca é real.\n2. O relógio de contagem regressiva está lá para você não pensar.\n3 e 4. Apenas transferência e para uma conta pessoal: quando não chegar nada, não tem a quem reclamar.\n\nAntes de comprar, pesquise o nome da loja + \"golpe\" e pague com cartão, que dá para contestar. Se você já pagou, ligue para o seu banco no mesmo dia.\n\nEnvie para quem vai fazer compras hoje. Siga-me para o próximo golpe exposto.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#golpes #blackfriday #ciberseguranca #comprasseguras #dicadodia"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -2330,7 +2400,17 @@
     "seguridad digital",
     "como funciona",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "How a program guesses your password (and why long wins) #shorts",
+     "description": "Tech explained No. 4: brute force 💻\nIt's trying all combinations, one by one. An 8-lowercase-letter password has about 208 billion (26⁸), and a powerful computer can try billions per second if the database is stolen.\n\nEvery letter you add multiplies the work. That's why 4 random words together beat a short password with symbols: easier to remember, much harder to guess.\nLong, unique for every site, and if you can, in a password manager.\n\nSend this to the one who uses their name and birth year. Follow me for more tech explained.\n\nAI-generated voice · Educational cybersecurity content.\n#cybersecurity #passwords #howitworks #digitalsecurity #technology"
+    },
+    "pt": {
+     "title": "Como um programa adivinha sua senha (e por que a longa vence) #shorts",
+     "description": "Tech explicada N.º 4: força bruta 💻\nÉ testar todas as combinações, uma por uma. Uma senha de 8 letras minúsculas tem cerca de 208 bilhões (26⁸), e um computador potente pode testar bilhões por segundo se o banco de dados for roubado.\n\nCada letra que você adiciona multiplica o trabalho. Por isso, 4 palavras aleatórias juntas vencem uma senha curta com símbolos: mais fácil de lembrar, muito mais difícil de adivinhar.\nLonga, única para cada site e, se puder, em um gerenciador de senhas.\n\nMande para quem usa o próprio nome e o ano. Siga-me para mais tech explicada.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#ciberseguranca #senhas #comofunciona #segurancadigital #tecnologia"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -2348,7 +2428,17 @@
     "historia de la ciberseguridad",
     "hackers",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "The most wanted hacker in the US didn't just use computers: Kevin Mitnick #shorts",
+     "description": "Minds No. 3: Kevin Mitnick 🧠\nHe was the most wanted hacker in the United States, and his best tool was the phone: he called employees, pretended to be a coworker, and asked for passwords. That is social engineering: tricking the person, not the machine. The FBI arrested him in 1995 and he spent about 5 years in prison. Upon release, he dedicated himself to teaching companies how to defend themselves.\n\nIf someone calls you asking for passwords or codes: hang up and call the official number yourself.\n\nSend this to someone who answers everything. Follow me for more minds.\n\nAI-generated voice · Educational cybersecurity content.\n#cybersecurity #socialengineering #hackers #techhistory #minds"
+    },
+    "pt": {
+     "title": "O hacker mais procurado dos EUA não usava só computadores: Kevin Mitnick #shorts",
+     "description": "Mentes N.º 3: Kevin Mitnick 🧠\nEle foi o hacker mais procurado dos Estados Unidos, e sua melhor ferramenta era o telefone: ligava para funcionários, se passava por um colega e pedia senhas. Isso é engenharia social: enganar a pessoa, não a máquina. O FBI o prendeu em 1995 e ele passou cerca de 5 anos na prisão. Ao sair, dedicou-se a ensinar empresas a se defenderem.\n\nSe alguém te ligar pedindo senhas ou códigos: desligue e ligue você mesmo para o número oficial.\n\nEnvie para quem atende tudo. Siga-me para mais mentes.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#ciberseguranca #engenhariasocial #hackers #historiadatecnologia #mentes"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
   "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
@@ -2367,7 +2457,17 @@
     "seguridad en casa",
     "hack del dia",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Your router might have the default password (and it's online) #shorts",
+     "description": "Hack of the day No. 26: change your router's admin password 📡\nIt's not the Wi-Fi password: it's the configuration one. Many models come with passwords like admin/admin and those lists are public. With it, someone on your network can change everything.\n\n3 things: log in with the details on the label and change the admin password, update the router, and set a long password for the Wi-Fi (WPA3 or WPA2). If you don't know how, ask your internet provider.\n\nSend this to someone who has never touched their router. Follow me: a new hack every day.\n\nAI-generated voice · Cybersecurity educational content.\n#hackoftheday #cybersecurity #wifi #router #rd"
+    },
+    "pt": {
+     "title": "Seu roteador pode ter a senha de fábrica (e está na internet) #shorts",
+     "description": "Hack do dia N.º 26: mude a senha de administrador do roteador 📡\nNão é a senha do Wi-Fi: é a da configuração. Muitos modelos vêm com senhas tipo admin/admin e essas listas são públicas. Com ela, alguém na sua rede pode mudar tudo.\n\n3 coisas: entre com os dados da etiqueta e mude a senha de administrador, atualize o roteador e coloque no Wi-Fi uma senha longa (WPA3 ou WPA2). Se não souber como, peça ao seu provedor de internet.\n\nEnvie para quem nunca mexeu no roteador. Siga-me: um hack novo todo dia.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #cibersegurança #wifi #roteador #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
