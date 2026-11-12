@@ -1245,7 +1245,17 @@
     }
    }
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/xadVgdtzrog",
+    "publicado": "2026-11-12T18:30:11+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261118-0100-ficha-medica",
@@ -1275,7 +1285,17 @@
     }
    }
   },
-  "otras_redes": "Metricool (Instagram, Facebook)"
+  "otras_redes": "Metricool (Instagram, Facebook)",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/BhrotvsXhag",
+    "publicado": "2026-11-12T18:30:16+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261118-0200-pago-nfc",
@@ -1305,7 +1325,17 @@
     }
    }
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/w_qnIE_VaK8",
+    "publicado": "2026-11-12T18:30:24+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261118-0300-recuperar-dinero",
@@ -1335,7 +1365,17 @@
     }
    }
   },
-  "otras_redes": "Metricool (Instagram, Facebook)"
+  "otras_redes": "Metricool (Instagram, Facebook)",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/3VT7cIfLC4A",
+    "publicado": "2026-11-12T18:30:31+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261118-0400-qwerty",
