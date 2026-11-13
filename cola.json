@@ -963,7 +963,17 @@
   },
   "estilo": "tarjetas",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
-  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/_qnLFV5j66A",
+    "publicado": "2026-11-13T12:30:55+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261114-1000-qr-falso",
@@ -1415,7 +1425,17 @@
     }
    }
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/g7l2jounE3I",
+    "publicado": "2026-11-13T12:31:02+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261118-0500-modo-avion-bloqueo",
@@ -1445,7 +1465,17 @@
     }
    }
   },
-  "otras_redes": "Metricool (Instagram, Facebook)"
+  "otras_redes": "Metricool (Instagram, Facebook)",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/d7y_Iz8KBZ4",
+    "publicado": "2026-11-13T12:31:09+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261118-0600-peaje-sms",
@@ -1475,7 +1505,17 @@
     }
    }
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/21PqYE7u6WI",
+    "publicado": "2026-11-13T12:31:15+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261118-0700-correo-alias",
@@ -1505,7 +1545,17 @@
     }
    }
   },
-  "otras_redes": "Metricool (Instagram, Facebook)"
+  "otras_redes": "Metricool (Instagram, Facebook)",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/esFTUU0VJN4",
+    "publicado": "2026-11-13T12:31:22+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261118-0800-mascota-falsa",
