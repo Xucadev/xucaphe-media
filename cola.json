@@ -1040,7 +1040,17 @@
   },
   "estilo": "tarjetas",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
-  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/p7gVcOB2VR0",
+    "publicado": "2026-11-14T14:08:20+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261115-1000-empleo-extranjero",
@@ -1595,7 +1605,17 @@
     }
    }
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/oyhuYePyUxY",
+    "publicado": "2026-11-14T14:08:26+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261118-0900-llamada-un-timbre",
@@ -1625,7 +1645,17 @@
     }
    }
   },
-  "otras_redes": "Metricool (Instagram, Facebook)"
+  "otras_redes": "Metricool (Instagram, Facebook)",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/Jgp7x6jAcOQ",
+    "publicado": "2026-11-14T14:08:32+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261118-1000-pin-sim",
@@ -1683,7 +1713,17 @@
     }
    }
   },
-  "otras_redes": "Metricool (Instagram, Facebook)"
+  "otras_redes": "Metricool (Instagram, Facebook)",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/87ahx3T_25g",
+    "publicado": "2026-11-14T14:08:37+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261118-1300-romance-inversion",
@@ -1713,7 +1753,17 @@
     }
    }
   },
-  "otras_redes": "Metricool (Instagram, Facebook)"
+  "otras_redes": "Metricool (Instagram, Facebook)",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/wOlFJt1PIVY",
+    "publicado": "2026-11-14T14:08:44+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261118-1400-deepfake-video",
