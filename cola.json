@@ -1813,7 +1813,17 @@
     }
    }
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/-5GyLUWTymo",
+    "publicado": "2026-11-15T16:37:49+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261118-1500-backup-whatsapp-cifrado",
@@ -1843,7 +1853,17 @@
     }
    }
   },
-  "otras_redes": "Metricool (Instagram, Facebook)"
+  "otras_redes": "Metricool (Instagram, Facebook)",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/oZBQJw4q44c",
+    "publicado": "2026-11-15T16:37:59+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261118-1600-cupon-supermercado",
@@ -1873,7 +1893,17 @@
     }
    }
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/v1T4ITWnjrg",
+    "publicado": "2026-11-15T16:38:03+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261118-1700-margaret-hamilton",
@@ -1903,7 +1933,17 @@
     }
    }
   },
-  "otras_redes": "Metricool (Instagram, Facebook)"
+  "otras_redes": "Metricool (Instagram, Facebook)",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/SWUHBaQxWeM",
+    "publicado": "2026-11-15T16:38:09+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261118-1800-primer-bug",
