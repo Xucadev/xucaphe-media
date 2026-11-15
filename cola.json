@@ -3474,7 +3474,17 @@
     "como funciona",
     "seguridad digital",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Why you shouldn't postpone updates #shorts",
+     "description": "Tech explained No. 7: what a security update really brings 🩹\nWhen someone discovers a flaw in a program, the company fixes it and sends an update: a patch. The problem: once the patch is published, attackers can study what was fixed and target those who haven't updated.\n\nThat's why it's best to update soon, especially your phone, browser, and banking apps. Turn on automatic updates.\n\nComment UPDATED if you already updated today 👇\nSend this to someone who puts off updates.\n\nAI-generated voice · Educational cybersecurity content.\n#cybersecurity #updates #howitworks #digitalsecurity #technology"
+    },
+    "pt": {
+     "title": "Por que não deixar as atualizações para depois #shorts",
+     "description": "Tech explicada Nº 7: o que uma atualização de segurança realmente traz 🩹\nQuando alguém descobre uma falha em um programa, a empresa corrige e envia uma atualização: um patch. O problema: quando o patch é publicado, os atacantes podem estudar o que foi corrigido e atacar quem não atualizou.\n\nPor isso vale a pena atualizar logo, principalmente o celular, o navegador e os apps do banco. Ative as atualizações automáticas.\n\nComente ATUALIZEI se você já atualizou hoje 👇\nMande para quem deixa as atualizações para depois.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#ciberseguranca #atualizacoes #comofunciona #segurancadigital #tecnologia"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
   "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
@@ -3493,7 +3503,17 @@
     "contraseñas",
     "hack del dia",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Check if your email was leaked (free, in 1 minute) #shorts",
+     "description": "Hack of the day No. 33: check if your email was leaked 🔎\nGo to haveibeenpwned.com (type it yourself, no links) and enter your email. It tells you which company leaks it appeared in. If it shows up:\n1. Change the password for those accounts and any other where you used the same one.\n2. Turn on two-step verification.\nAppearing doesn't mean you were hacked: it means that password is no longer secret.\n\nComment LEAKED if your email appeared 👇\nSend this to whoever has been using the same email for years.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #databreaches #passwords #dr"
+    },
+    "pt": {
+     "title": "Veja se seu e-mail foi vazado (grátis, em 1 minuto) #shorts",
+     "description": "Hack do dia N.º 33: veja se seu e-mail apareceu em um vazamento 🔎\nAcesse haveibeenpwned.com (digite você mesmo, sem links) e coloque seu e-mail. Ele mostra em quais vazamentos de empresas ele apareceu. Se aparecer:\n1. Mude a senha dessas contas e de qualquer outra onde usou a mesma.\n2. Ative a verificação em duas etapas.\nAparecer não significa que você foi hackeado: significa que essa senha não é mais secreta.\n\nComente VAZOU se seu e-mail apareceu 👇\nMande para quem usa o mesmo e-mail há anos.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #ciberseguranca #vazamentos #senhas #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -3511,7 +3531,17 @@
     "hackeos",
     "historia de la tecnologia",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "SolarWinds: The Attack Hidden in an Update (Part 1) #shorts",
+     "description": "Happened in Tech No. 8 · Part 1/2: December 13, 2020: the attack hidden in an update 🕵️\nOn that day, one of the most famous attacks became public: someone had inserted malicious code into an update for Orion, a SolarWinds software that companies and governments use to monitor their networks. Around 18,000 customers installed the tainted update, trusting it.\n\nComment PART 2 if you want to know how they were discovered 👇\nPart 2: Wednesday the 16th at 6 PM. Follow me so you don't miss it.\nSend this to anyone who works in tech.\n\nSource: SolarWinds (December 2020).\nAI-generated voice · Educational content.\n#techhistory #cybersecurity #solarwinds #hacks #technology"
+    },
+    "pt": {
+     "title": "SolarWinds: O ataque escondido em uma atualização (Parte 1) #shorts",
+     "description": "Aconteceu na Tech N.º 8 · Parte 1/2: 13 de dezembro de 2020: o ataque escondido em uma atualização 🕵️\nNesse dia veio a público um dos ataques mais famosos: alguém tinha colocado código malicioso em uma atualização do Orion, um programa da SolarWinds que empresas e governos usam para monitorar suas redes. Cerca de 18.000 clientes instalaram a atualização contaminada, confiando nela.\n\nComente PARTE 2 se você quer saber como eles foram descobertos 👇\nParte 2: quarta-feira, dia 16, às 6 da tarde. Siga-me para não perder.\nEnvie para quem trabalha em tecnologia.\n\nFonte: SolarWinds (dezembro de 2020).\nVoz gerada por IA · Conteúdo educativo.\n#historiadatecnologia #ciberseguranca #solarwinds #hacks #tecnologia"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
   "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
@@ -3530,7 +3560,17 @@
     "navidad",
     "estafas",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Dirt-cheap Christmas tickets that never existed #shorts",
+     "description": "Scam exposed No. 10: dirt-cheap Christmas tickets that never existed ✈️\nIn December, \"agencies\" appear on social media with tickets way below the normal price. They send you a booking that looks real and ask for a wire transfer. When you get to the airport, there's nothing.\n\nBefore paying: look up the booking code on the airline's official website, be suspicious if they only accept bank transfer, and search for the agency's name + \"scam\".\n\nComment TICKET if you're traveling for Christmas 👇\nSend this to someone looking for flight tickets.\n\nAI-generated voice · Educational cybersecurity content.\n#scams #travel #christmas #dominicanrepublic #cybersecurity"
+    },
+    "pt": {
+     "title": "Passagens baratinhas de Natal que nunca existiram #shorts",
+     "description": "Golpe exposto N.º 10: passagens baratinhas de Natal que nunca existiram ✈️\nEm dezembro, aparecem \"agências\" nas redes sociais com passagens muito abaixo do preço normal. Eles te enviam uma reserva que parece real e pedem transferência. Ao chegar no aeroporto, não tem nada.\n\nAntes de pagar: busque o código de reserva no site oficial da companhia aérea, desconfie se aceitarem apenas transferência e pesquise o nome da agência + \"golpe\".\n\nComente PASSAGEM se você vai viajar no Natal 👇\nEnvie para quem está procurando passagens.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#golpes #viagens #natal #republicadominicana #ciberseguranca"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -3548,7 +3588,17 @@
     "aeropuerto",
     "por que",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Why be careful with free airport Wi-Fi? #shorts",
+     "description": "Why? No. 8: why be careful with free airport Wi-Fi? 📶\nToday almost all websites are encrypted, so the risk isn't that they read everything you do. The real risk: fake networks with a name similar to the official one, and \"login\" pages asking for your email and password or card details.\n\nOnly connect to the network indicated by the airport, don't enter passwords on a login page, and if you can, use your phone's cellular data for banking.\n\nComment WIFI if you connect at the airport 👇\nSend this to whoever is traveling this Christmas.\n\nVoz generada con IA · Contenido educativo.\n#wifi #travel #why #cybersecurity #christmas"
+    },
+    "pt": {
+     "title": "Por que ter cuidado com o Wi-Fi grátis do aeroporto? #shorts",
+     "description": "Por quê? N.º 8: por que ter cuidado com o Wi-Fi grátis do aeroporto? 📶\nHoje quase todas as páginas são criptografadas, então o risco não é que leiam tudo o que você faz. O risco real: redes falsas com um nome parecido com o oficial, e páginas de \"cadastro\" que pedem seu e-mail e senha ou dados do cartão.\n\nConecte-se apenas à rede indicada pelo aeroporto, não coloque senhas em uma página de cadastro e, se puder, use os dados móveis do celular para o banco.\n\nComente WIFI se você se conecta no aeroporto 👇\nEnvie para quem vai viajar neste Natal.\n\nVoz gerada por IA · Conteúdo educativo.\n#wifi #viagens #porque #ciberseguranca #natal"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
   "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
@@ -3567,7 +3617,17 @@
     "seguridad movil",
     "hack del dia",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Turn this on before your phone gets stolen during the holidays #shorts",
+     "description": "Hack of the day No. 34: turn on phone theft protection before the holidays 🛡️\nIf your phone is stolen while unlocked, the thief can change your passwords. Recent versions of Android and iPhone have extra protections:\niPhone: Settings → Face ID & Passcode → Stolen Device Protection.\nAndroid: Settings → Google → All Services → Theft Protection (the name varies by brand).\nAlso: turn on Find My Device.\n\nComment ACTIVATED if you already have it 👇\nSend this to someone who always has their phone in their hand.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #theft #mobilesecurity #dr"
+    },
+    "pt": {
+     "title": "Ative isso antes que roubem seu celular nas festas #shorts",
+     "description": "Hack do dia N.º 34: ative a proteção contra roubo do celular antes das festas 🛡️\nSe roubarem seu celular desbloqueado, o ladrão pode mudar suas senhas. As versões recentes do Android e iPhone têm proteções extras:\niPhone: Ajustes → Face ID e Código → Proteção de Dispositivo Roubado.\nAndroid: Configurações → Google → Todos os serviços → Proteção contra roubo (o nome varia de acordo com a marca).\nTambém: ative Encontre Meu Dispositivo.\n\nComente ATIVADO se você já tem 👇\nEnvie para quem vive com o celular na mão.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #ciberseguranca #roubo #segurancamovel #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -3585,7 +3645,17 @@
     "tarjeta",
     "como funciona",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Is it safe to pay by tapping your card or phone? #shorts",
+     "description": "Tech explained No. 8: Is it safe to pay by tapping your card or phone? 📲\nWhen paying contactless, the card or phone generates a different code for each purchase. If someone copies that code, it won't work for another purchase. With a phone, it's even better: the store receives a substitute number, not your card's, and you have to unlock it with your face, fingerprint, or passcode.\n\nIt's still important: purchase alerts turned on.\n\nComment TAP if you pay by tapping your phone 👇\nSend this to someone who still doesn't dare to pay with their phone.\n\nAI-generated voice · Educational cybersecurity content.\n#cybersecurity #payments #nfc #howitworks #technology"
+    },
+    "pt": {
+     "title": "É seguro pagar aproximando o cartão ou o celular? #shorts",
+     "description": "Tech explicada Nº 8: é seguro pagar aproximando o cartão ou o celular? 📲\nAo pagar por aproximação, o cartão ou o celular gera um código diferente para cada compra. Se alguém copiar esse código, ele não serve para outra compra. Com o celular é ainda melhor: a loja recebe um número substituto, não o do seu cartão, e você precisa desbloquear com seu rosto, digital ou senha.\n\nContinua sendo importante: alertas de compra ativados.\n\nComente APROXIMO se você paga aproximando o celular 👇\nEnvie para quem ainda não tem coragem de pagar com o celular.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#ciberseguranca #pagamentos #nfc #comofunciona #tecnologia"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
   "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
@@ -3604,7 +3674,17 @@
     "phishing",
     "estafas",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "\"Vote for me in this contest\": how Instagram accounts are stolen #shorts",
+     "description": "Scam exposed No. 11: \"vote for me in this contest\": how Instagram accounts are stolen 🗳️\nA friend messages you from her account: she's in a contest and needs your vote. The link asks you to \"log in with Instagram\" to vote. It's a fake page: with your username and password they steal your account, and move on to your contacts. Your friend already fell for it.\n\nIf they ask you to log in to vote, don't do it. Call your friend through another channel.\n\nComment VOTE if you got a \"vote for me\" 👇\nSend this to whoever always votes for their friends.\n\nAI-generated voice · Cybersecurity educational content.\n#scams #instagram #stolenaccounts #cybersecurity #hackoftheday"
+    },
+    "pt": {
+     "title": "\"Vote em mim neste concurso\": assim roubam contas do Instagram #shorts",
+     "description": "Golpe exposto Nº 11: \"vote em mim neste concurso\": assim roubam contas do Instagram 🗳️\nUma amiga te escreve da conta dela: ela está em um concurso e precisa do seu voto. O link pede para você \"fazer login com o Instagram\" para votar. É uma página falsa: com seu usuário e senha roubam sua conta, e continuam com seus contatos. Sua amiga já caiu antes.\n\nSe pedirem para você fazer login para votar, não faça. Ligue para sua amiga por outro meio.\n\nComente VOTO se você recebeu um \"vote em mim\" 👇\nEnvie para quem sempre vota nos amigos.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#golpes #instagram #contasroubadas #cibersegurança #hackdodia"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
