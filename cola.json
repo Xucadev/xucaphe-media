@@ -1078,7 +1078,17 @@
    }
   },
   "estilo": "tarjetas",
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/3R1Zss-XvNk",
+    "publicado": "2026-11-15T02:26:07+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261115-1800-backup-321",
