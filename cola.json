@@ -2022,7 +2022,17 @@
     }
    }
   },
-  "otras_redes": "Metricool (Instagram, Facebook)"
+  "otras_redes": "Metricool (Instagram, Facebook)",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/BXjFmUxpjfk",
+    "publicado": "2026-11-16T18:30:58+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261118-2000-bateria-dura-menos",
@@ -2052,7 +2062,17 @@
     }
    }
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/XosCBDIXY4o",
+    "publicado": "2026-11-16T18:31:07+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261118-2100-punto-verde-camara",
@@ -2082,7 +2102,17 @@
     }
    }
   },
-  "otras_redes": "Metricool (Instagram, Facebook)"
+  "otras_redes": "Metricool (Instagram, Facebook)",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/6PWZ4giS1is",
+    "publicado": "2026-11-16T18:31:16+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261118-2200-visa-garantizada",
@@ -2112,7 +2142,17 @@
     }
    }
   },
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/OCDrL51DumA",
+    "publicado": "2026-11-16T18:31:23+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261118-2300-botnet",
