@@ -3762,7 +3762,17 @@
     "fireeye",
     "historia de la tecnologia",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "How they uncovered the hidden SolarWinds attack (Part 2) #shorts",
+     "description": "Happened in tech No. 8 · Part 2/2: how they uncovered the hidden attack in the SolarWinds update 🔍\nIt was uncovered by FireEye, a cybersecurity company, while investigating a theft of their own tools: tracking how they got in, they reached the tainted update. It's called a supply chain attack: instead of attacking you, they attack someone you trust.\n\nWhat was learned: review what each program does, grant only necessary permissions, and watch out for anything weird, even if it comes from a trusted vendor.\n\nComment CHAIN if you want more cases like this 👇\nSend this to whoever works in tech.\n\nSource: FireEye and SolarWinds (December 2020).\nAI-generated voice · Educational content.\n#techhistory #cybersecurity #solarwinds #hacks #technology"
+    },
+    "pt": {
+     "title": "Como descobriram o ataque escondido da SolarWinds (Parte 2) #shorts",
+     "description": "Aconteceu na tech Nº 8 · Parte 2/2: como descobriram o ataque escondido na atualização da SolarWinds 🔍\nFoi revelado pela FireEye, uma empresa de cibersegurança, ao investigar o roubo de suas próprias ferramentas: rastreando como entraram, chegaram à atualização contaminada. É chamado de ataque à cadeia de suprimentos: em vez de atacar você, atacam alguém em quem você confia.\n\nO que se aprendeu: revisar o que cada programa faz, conceder apenas as permissões necessárias e ficar atento ao que é estranho, mesmo que venha de um fornecedor confiável.\n\nComente CADEIA se quiser mais casos assim 👇\nMande para quem trabalha com tecnologia.\n\nFonte: FireEye e SolarWinds (dezembro de 2020).\nVoz gerada por IA · Conteúdo educativo.\n#historiadatecnologia #ciberseguranca #solarwinds #hacks #tecnologia"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -3780,7 +3790,17 @@
     "seguridad digital",
     "hack del dia",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "A password manager: the best Christmas gift (free) #shorts",
+     "description": "Hack of the day No. 35: a password manager: your best Christmas gift (and it's free) 🎁\nA password manager stores all your encrypted passwords and fills them in for you. You only learn one, the main one. That way you can have a different and long password on every site.\nIt already comes on your phone: Google's on Android and Passwords on iPhone. There are also options like Bitwarden.\nThe main password: long, unique, and with two-step verification.\n\nComment MANAGER if you already use one 👇\nSend it to whoever keeps their passwords on a piece of paper.\n\nAI-generated voice · Cybersecurity educational content.\n#hackoftheday #cybersecurity #passwords #passwordmanager #dr"
+    },
+    "pt": {
+     "title": "Um gerenciador de senhas: o melhor presente de Natal (grátis) #shorts",
+     "description": "Hack do dia Nº 35: um gerenciador de senhas: seu melhor presente de Natal (e é grátis) 🎁\nUm gerenciador de senhas guarda todas as suas senhas criptografadas e as preenche para você. Você só decora uma, a principal. Assim você pode ter uma senha diferente e longa em cada site.\nJá vem no seu celular: o do Google no Android e Senhas no iPhone. Também há opções como o Bitwarden.\nA senha principal: longa, única e com verificação em duas etapas.\n\nComente GERENCIADOR se você já usa um 👇\nMande para quem guarda as senhas num papelzinho.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #ciberseguranca #senhas #gerenciadordesenhas #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -3798,7 +3818,17 @@
     "seguridad digital",
     "por que",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Why do passwords require uppercase letters and symbols? #shorts",
+     "description": "Why? No. 9: Why are you asked for uppercase letters and symbols? (and why it's no longer the most important thing) 🔣\nFor years, rules required an uppercase letter, a number, and a symbol. The result: passwords like \"Maria2024!\", easy to guess. NIST, the U.S. standards agency, now recommends prioritizing length and not forcing those combinations or making you change your password periodically without a reason.\n\nBetter: a phrase of several random words, unique for each site.\n\nComment LONG if your password is already long 👇\nSend this to whoever uses M4r!a2024.\n\nSource: NIST, SP 800-63B guide.\nAI-generated voice · Educational content.\n#passwords #cybersecurity #why #digitalsecurity #technology"
+    },
+    "pt": {
+     "title": "Por que pedem letras maiúsculas e símbolos na senha? #shorts",
+     "description": "Por quê? Nº 9: por que pedem letras maiúsculas e símbolos? (e por que não é mais o mais importante) 🔣\nDurante anos, as regras pediam uma letra maiúscula, um número e um símbolo. O resultado: senhas como \"Maria2024!\", fáceis de adivinhar. O NIST, a agência de normas dos EUA, hoje recomenda priorizar o comprimento e não obrigar essas combinações nem trocar a senha periodicamente sem motivo.\n\nMelhor: uma frase de várias palavras aleatórias, diferente para cada site.\n\nComente LONGA se a sua senha já for longa 👇\nEnvie para quem usa M4r!a2024.\n\nFonte: NIST, guia SP 800-63B.\nVoz gerada por IA · Conteúdo educativo.\n#senhas #ciberseguranca #porque #segurancadigital #tecnologia"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
   "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
@@ -3817,7 +3847,17 @@
     "navidad",
     "republica dominicana",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "\"Your money transfer is on hold\"… what would you do? (Part 1) #shorts",
+     "description": "Scam exposed No. 12 · Part 1/2: \"your money transfer is on hold\": the December message 💸\nYour family abroad always sends you something for Christmas. You get a message from a \"remittance company\": you have a money transfer on hold, and to release it you have to pay a fee through a link.\n\nWhat would you do?\n\nComment PAY or CALL and tell me what you'd do 👇\nPart 2: today at 6 PM. Follow me so you don't miss it.\nSend this to anyone who receives remittances.\n\nStory recreated for educational purposes. Voice generated with AI.\n#scams #remittances #christmas #dominicanrepublic #cybersecurity"
+    },
+    "pt": {
+     "title": "\"Você tem uma remessa retida\"… o que você faria? (Parte 1) #shorts",
+     "description": "Golpe exposto Nº 12 · Parte 1/2: \"você tem uma remessa retida\": a mensagem de dezembro 💸\nSua família lá de fora sempre te manda algo no Natal. Chega uma mensagem de uma \"empresa de remessas\": você tem uma remessa retida e para liberá-la é preciso pagar uma taxa por um link.\n\nO que você faria?\n\nComente PAGO ou LIGO e me diga o que você faria 👇\nParte 2: hoje às 6 da tarde. Me siga para não perder.\nMande para quem recebe remessas.\n\nHistória recriada para fins educativos. Voz gerada por IA.\n#golpes #remessas #natal #republicadominicana #ciberseguranca"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -3835,7 +3875,17 @@
     "navidad",
     "republica dominicana",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "The held remittance was fake: how the scam works (Part 2) #shorts",
+     "description": "Scam Exposed No. 12 · Part 2/2: the answer was B: that remittance didn't exist 🛑\nThe message is fake: they send it to thousands of numbers hoping someone is expecting a remittance. The \"fee\" is the excuse for you to put your card on their website.\n\nBefore paying anything: ask your family if they sent you something and call the remittance company at their official number. Remittances are collected at the agency or in your account, not by paying through a link.\n\nComment I'D CALL if you got it right 👇\nSend this to anyone who receives remittances.\n\nStory recreated for educational purposes. Voice generated with AI.\n#scams #remittances #christmas #dominicanrepublic #cybersecurity"
+    },
+    "pt": {
+     "title": "A remessa retida era falsa: assim funciona o golpe (Parte 2) #shorts",
+     "description": "Golpe Exposto N.º 12 · Parte 2/2: a resposta era B: essa remessa não existia 🛑\nA mensagem é falsa: eles a enviam para milhares de números esperando que alguém esteja aguardando uma remessa. A \"taxa\" é a desculpa para você colocar seu cartão na página deles.\n\nAntes de pagar qualquer coisa: pergunte à sua família se te mandaram algo e ligue para a empresa de remessas pelo número oficial. As remessas são recebidas na agência ou na sua conta, não pagando por um link.\n\nComente LIGO se você acertou 👇\nEnvie para quem recebe remessas.\n\nHistória recriada para fins educativos. Voz gerada com IA.\n#golpes #remessas #natal #republicadominicana #ciberseguranca"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -3853,7 +3903,17 @@
     "tarjeta",
     "como funciona",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "How does your bank know a purchase is unusual? #shorts",
+     "description": "Tech explained No. 9: how does your bank know a purchase is unusual? 🤖\nBanks compare every purchase with your habits: where you buy, at what time, how much, and in what type of store. If something strays far from the pattern (a large purchase in the middle of the night in another country, for example), they stop it or write to you to confirm.\n\nThat's why it's a good idea to notify the bank before traveling and keep your alerts turned on. And if they write to confirm, verify in the app, not through a link.\n\nComment BLOCK if your bank has ever blocked a purchase 👇\nSend this to someone who gets annoyed when the bank blocks a purchase.\n\nAI-generated voice · Educational cybersecurity content.\n#cybersecurity #banks #fraud #howitworks #technology"
+    },
+    "pt": {
+     "title": "Como o seu banco sabe que uma compra é suspeita? #shorts",
+     "description": "Tech explicada N.º 9: como o seu banco sabe que uma compra é suspeita? 🤖\nOs bancos comparam cada compra com o seu costume: onde você compra, a que horas, quanto e em que tipo de loja. Se algo sair muito do padrão (uma compra grande de madrugada em outro país, por exemplo), eles bloqueiam ou te mandam mensagem para confirmar.\n\nPor isso é bom avisar o banco antes de viajar e manter os alertas ativados. E se te mandarem mensagem para confirmar, verifique pelo aplicativo, não por um link.\n\nComente BLOQUEIO se o seu banco já bloqueou uma compra sua 👇\nEnvie para quem fica irritado quando o banco bloqueia uma compra.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#ciberseguranca #bancos #fraude #comofunciona #tecnologia"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -3871,7 +3931,17 @@
     "historia de la ciberseguridad",
     "mentes",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "The Astronomer Who Caught a Spy for 75 Cents #shorts",
+     "description": "Minds No. 7: Clifford Stoll: the astronomer who caught a spy for 75 cents 🕵️\nIn 1986, Clifford Stoll was working at a Berkeley lab and found a 75-cent discrepancy in the computer accounting system. Investigating it, he discovered an intruder using the lab to break into military networks. He tracked him for months and helped identify a hacker selling information to the KGB. He told the story in the book \"The Cuckoo's Egg\".\n\nThe lesson: small, strange details matter.\n\nComment 75 if you want more stories like this 👇\nSend this to someone who pays attention to detail.\n\nAI-generated voice · Educational content.\n#minds #techhistory #cybersecurity #hackers #curiosities"
+    },
+    "pt": {
+     "title": "O astrônomo que pegou um espião por 75 centavos #shorts",
+     "description": "Mentes Nº 7: Clifford Stoll: o astrônomo que pegou um espião por 75 centavos 🕵️\nEm 1986, Clifford Stoll trabalhava em um laboratório de Berkeley e encontrou uma divergência de 75 centavos na conta de uso dos computadores. Investigando, descobriu um intruso que usava o laboratório para entrar em redes militares. Ele o seguiu por meses e ajudou a identificar um hacker que vendia informações para a KGB. Ele contou isso no livro \"O Ovo do Cuco\".\n\nA lição: pequenos detalhes estranhos importam.\n\nComente 75 se quiser mais histórias assim 👇\nEnvie para quem é detalhista.\n\nVoz gerada por IA · Conteúdo educativo.\n#mentes #historiadatecnologia #ciberseguranca #hackers #curiosidades"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
   "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
@@ -3890,7 +3960,17 @@
     "privacidad",
     "hack del dia",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Before selling your old phone, do this (in order) #shorts",
+     "description": "Hack of the day No. 36: before selling or giving away your old phone, do this 📱\nIf you only delete photos, your accounts remain. Do it in order:\n1. Back up everything you want to keep.\n2. Log out of WhatsApp, banking apps, Google or iCloud (on iPhone, turn off Find My).\n3. Factory reset: Settings → System → Reset (Android) or General → Transfer or Reset (iPhone).\n4. Remove the SIM and memory card.\n\nComment ERASED if you're going to sell yours 👇\nSend this to someone getting a new phone.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #privacy #mobilesecurity #tech"
+    },
+    "pt": {
+     "title": "Antes de vender seu celular antigo, faça isso (em ordem) #shorts",
+     "description": "Hack do dia Nº 36: antes de vender ou doar seu celular antigo, faça isso 📱\nSe você só apagar as fotos, suas contas continuam lá. Faça em ordem:\n1. Faça backup do que quiser guardar.\n2. Encerre a sessão no WhatsApp, no banco, no Google ou iCloud (no iPhone, desative o Buscar).\n3. Restaure de fábrica: Configurações → Sistema → Restaurar (Android) ou Geral → Transferir ou Redefinir (iPhone).\n4. Retire o chip SIM e o cartão de memória.\n\nComente APAGADO se vai vender o seu 👇\nEnvie para quem vai estrear celular novo.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #ciberseguranca #privacidade #segurancamovel #dicas"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -3908,7 +3988,17 @@
     "mirai",
     "por que",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Why can a smart camera or light bulb be a risk? #shorts",
+     "description": "Why? No. 10: why can a smart camera or light bulb be a risk? 💡\nSmart devices are small computers connected to the internet. If they keep their factory password and remain unupdated, they can be taken over remotely. In 2016, a program called Mirai took over hundreds of thousands of cameras and routers using factory passwords, using them to take down famous websites.\n\nWhen setting it up: change the password, update it, and connect it to a guest network if your router has one.\n\nComment PASSWORD if you have a smart device at home 👇\nSend this to someone who is going to gift a smart camera or light bulb.\n\nAI-generated voice · Educational content.\n#cybersecurity #smarthome #why #christmas #technology"
+    },
+    "pt": {
+     "title": "Por que uma câmera ou lâmpada inteligente pode ser um risco? #shorts",
+     "description": "Por quê? N.º 10: por que uma câmera ou uma lâmpada inteligente pode ser um risco? 💡\nOs dispositivos inteligentes são pequenos computadores conectados à internet. Se continuarem com a senha de fábrica e sem atualizar, podem ser acessados de fora. Em 2016, um programa chamado Mirai tomou centenas de milhares de câmeras e roteadores usando senhas de fábrica, e os usou para derrubar sites famosos.\n\nAo instalar: mude a senha, atualize-o e conecte-o a uma rede de convidados se o seu roteador tiver uma.\n\nComente SENHA se você tem algo inteligente em casa 👇\nEnvie para quem vai dar uma câmera ou lâmpada inteligente de presente.\n\nVoz gerada por IA · Conteúdo educativo.\n#ciberseguranca #casainteligente #porque #natal #tecnologia"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
   "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
