@@ -1232,7 +1232,17 @@
    }
   },
   "estilo": "escena",
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/6vxaNNrZflM",
+    "publicado": "2026-11-17T10:19:12+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261117-1800-telefono-caliente",
@@ -1261,7 +1271,17 @@
   },
   "estilo": "escena",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
-  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/ZQF8-QgMGEI",
+    "publicado": "2026-11-17T10:19:20+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "largo-ep03",
@@ -1294,6 +1314,16 @@
      "title": "POV: Clonam a sua voz… e ligam para a sua mãe pedindo dinheiro",
      "description": "Num sábado de manhã, a sua mãe está no guichê do banco tirando as economias de uma vida inteira. Ela está te fazendo um favor: há vinte minutos você ligou para ela chorando. Mas você está na academia, com o celular guardado num armário. Você nunca ligou para ela.\n\nNeste POV você é o Chris: trabalha com cibersegurança, posta vídeos toda semana… e com alguns segundos desses vídeos alguém clonou a sua voz com inteligência artificial. História recriada a partir de casos reais. No final: a palavra-chave familiar e o que realmente teria te salvado.\n\nNa sua família vocês já têm uma palavra-chave? Não escreva qual é. Só me diga sim ou não nos comentários.\n\nCapítulos:\n0:00 O guichê do banco\n0:46 A sua voz está em todos os lugares\n2:33 Eles te estudam\n4:00 A ligação\n6:29 O banco\n7:41 As chamadas perdidas\n9:14 Por que funciona\n10:09 Não é ficção científica\n11:52 O que teria te salvado\n13:32 A palavra-chave\n\nFontes:\n· McAfee, \"The Artificial Imposter\" (maio de 2023): pesquisa com 7.054 adultos de 7 países\n· FBI IC3, anúncio de serviço público PSA241203 (3 de dezembro de 2024) sobre áudio gerado com IA em golpes\n· FTC, dados de fraude de 2024 (março de 2025): perdas por golpes de falsificação de identidade\n· El Día (RD, 5 de outubro de 2025): Polícia Nacional denuncia clonagem da voz de seu porta-voz\n\nVoz e ilustrações geradas com IA · História recriada para fins educativos.\n\n#golpes #ciberseguranca #inteligenciaartificial"
     }
+   }
+  },
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtu.be/gYTKnIx4gF4",
+    "publicado": "2026-11-17T10:19:26+00:00",
+    "subs": [
+     "es"
+    ]
    }
   }
  },
