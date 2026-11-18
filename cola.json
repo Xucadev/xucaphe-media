@@ -4169,7 +4169,17 @@
     "netflix",
     "estafas",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "\"Your subscription was suspended\": the fake holiday email #shorts",
+     "description": "Scam exposed No. 14: \"your subscription was suspended\": the fake holiday email 📺\nDuring the holidays, everyone watches series, and emails or messages arrive saying \"your streaming account was suspended, update your payment\". The link leads to a copy of the page that asks for your card.\n\nDon't tap the link: open the app yourself or type the official address. If there's a real payment issue, you'll see it there.\n\nComment NETFLIX if you got one like this 👇\nSend this to whoever shares your Netflix account.\n\nAI-generated voice · Cybersecurity educational content.\n#scams #streaming #phishing #christmas #cybersecurity"
+    },
+    "pt": {
+     "title": "\"Sua assinatura foi suspensa\": o e-mail falso das festas #shorts",
+     "description": "Golpe exposto N.º 14: \"sua assinatura foi suspensa\": o e-mail falso das festas 📺\nNas férias todo mundo assiste a séries, e chegam e-mails ou mensagens de \"sua conta de streaming foi suspensa, atualize seu pagamento\". O link leva a uma cópia da página que pede o seu cartão.\n\nNão toque no link: abra você mesmo o app ou digite o endereço oficial. Se houver um problema de pagamento de verdade, você vai ver lá.\n\nComente NETFLIX se você recebeu um assim 👇\nMande para quem compartilha a conta da Netflix com você.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#golpes #streaming #phishing #natal #ciberseguranca"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
   "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
