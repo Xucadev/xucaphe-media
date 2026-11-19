@@ -2309,7 +2309,17 @@
   },
   "estilo": "escena",
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
-  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
+  "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/1IYoghAM4Xs",
+    "publicado": "2026-11-19T16:50:25+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261120-1000-soporte-falso",
