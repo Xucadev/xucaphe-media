@@ -2270,7 +2270,17 @@
    }
   },
   "estilo": "escena",
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/xx_3ZWgYEEw",
+    "publicado": "2026-11-19T07:44:18+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261119-1800-hedy-lamarr",
