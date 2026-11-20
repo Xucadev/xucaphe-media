@@ -4117,7 +4117,17 @@
     "navidad",
     "falso soporte",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "If they ask you to pay with gift cards, it's a scam #shorts",
+     "description": "Scam exposed No. 13: if they ask you to pay with gift cards, it's a scam 🎴\n\"Buy gift cards and send me the codes\": used by fake tech support, fake bosses, and fake relatives. Once you give the code, the money is spent in minutes and almost never recovered.\n\nThe FTC (the US consumer protection agency) rule is simple: anyone who demands you pay with gift cards is a scammer. Gift cards are for gifts.\n\nComment GIFT if someone asked you to pay like this 👇\nSend it to your parents.\n\nSource: FTC.\nAI-generated voice · Educational cybersecurity content.\n#scams #giftcards #christmas #cybersecurity #hackoftheday"
+    },
+    "pt": {
+     "title": "Se pedirem para pagar com cartão de presente, é golpe #shorts",
+     "description": "Golpe exposto N.º 13: se pedirem para pagar com cartão de presente, é golpe 🎴\n\"Compre cartões de presente e me mande os códigos\": usado por falsos suportes, falsos chefes e falsos parentes. Assim que você dá o código, o dinheiro é gasto em minutos e quase nunca é recuperado.\n\nA regra da FTC (a agência de proteção ao consumidor dos EUA) é simples: quem exige pagamento com cartão de presente é golpista. Cartões de presente são para dar de presente.\n\nComente PRESENTE se alguém te pediu para pagar assim 👇\nMande para os seus pais.\n\nFonte: FTC.\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#golpes #cartaodepresente #natal #ciberseguranca #hackdodia"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -4135,7 +4145,17 @@
     "seguridad movil",
     "como funciona",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "How your phone recognizes your face (and which is safer) #shorts",
+     "description": "Tech explained No. 10: how your phone recognizes your face 🙂\nThere are two types. Those that only use the normal camera compare a photo, and can be easier to fool. 3D sensor ones, like iPhone's Face ID, project over 30,000 invisible infrared light dots to measure the shape of your face, and work in the dark.\n\nIf your phone only uses the camera, for banking it's better to use fingerprint or passcode.\n\nComment FACE if you unlock with your face 👇\nSend this to whoever unlocks with their face.\n\nSource: Apple, Face ID support.\nAI-generated voice · Cybersecurity educational content.\n#technology #facerecognition #howitworks #mobilesecurity #cybersecurity"
+    },
+    "pt": {
+     "title": "Como seu celular reconhece seu rosto (e qual é mais seguro) #shorts",
+     "description": "Tech explicada Nº 10: como seu celular reconhece seu rosto 🙂\nExistem dois tipos. Os que usam apenas a câmera normal comparam uma foto e podem ser mais fáceis de enganar. Os de sensor 3D, como o Face ID do iPhone, projetam mais de 30.000 pontos invisíveis de luz infravermelha para medir o formato do seu rosto, e funcionam no escuro.\n\nSe o seu celular usa apenas a câmera, para o banco é melhor usar a impressão digital ou a senha.\n\nComente ROSTO se você desbloqueia com o rosto 👇\nEnvie para quem desbloqueia com o rosto.\n\nFonte: Apple, suporte do Face ID.\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#tecnologia #reconhecimentofacial #comofunciona #segurancamovel #ciberseguranca"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
   "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
@@ -4154,7 +4174,17 @@
     "estafas",
     "hack del dia",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Agree on a codeword with your family this Christmas #shorts",
+     "description": "Hack of the day No. 37: agree on a codeword with your family this Christmas 👨‍👩‍👧\nWith AI, someone's voice can already be mimicked with a few seconds of audio. If they call you crying \"it's me, something happened, send me money\", ask for the codeword. Only your family knows it.\n\nPick it in person at Christmas dinner, don't post it on social media, and don't write it in the chat.\n\nComment CODEWORD if you've already set it 👇\nSend this to the family group.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #clonedvoice #family #dr"
+    },
+    "pt": {
+     "title": "Combine uma palavra-chave com sua família neste Natal #shorts",
+     "description": "Hack do dia N.º 37: combine uma palavra-chave com sua família neste Natal 👨‍👩‍👧\nCom a IA já é possível imitar a voz de alguém com apenas alguns segundos de áudio. Se te ligarem chorando \"sou eu, aconteceu algo, me manda dinheiro\", peça a palavra-chave. Só a sua família sabe.\n\nEscolham pessoalmente na ceia de Natal, não a coloquem nas redes e não a escrevam no chat.\n\nComente CHAVE se já combinaram 👇\nMande para o grupo da família.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #ciberseguranca #vozclonada #familia #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -4172,7 +4202,17 @@
     "viajes",
     "por que",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Why shouldn't you post that you're traveling while away? #shorts",
+     "description": "Why? No. 11: why shouldn't you post that you're traveling while you're away? 🏖️\n\"Heading to the beach for the whole week\" tells anyone that your house is empty. And your photos can show your location, your street, or what you have at home.\n\nBetter: post the photos when you return, check who views your stories, and remove the location from your photos.\n\nComment TRAVEL if you usually post in real time 👇\nSend this to someone who posts everything in real time.\n\nAI-generated voice · Educational content.\n#privacy #travel #why #socialmedia #cybersecurity"
+    },
+    "pt": {
+     "title": "Por que não postar que está viajando enquanto estiver fora? #shorts",
+     "description": "Por quê? Nº 11: por que não postar que você está viajando enquanto estiver fora? 🏖️\n\"Saindo pra praia a semana toda\" diz a qualquer um que sua casa está vazia. E suas fotos podem mostrar a localização, sua rua ou o que você tem em casa.\n\nMelhor: poste as fotos quando voltar, confira quem vê seus stories e remova a localização das fotos.\n\nComente VIAGEM se você costuma postar em tempo real 👇\nEnvie para quem posta tudo em tempo real.\n\nVoz gerada por IA · Conteúdo educativo.\n#privacidade #viagens #porque #redessociais #ciberseguranca"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
   "hora_nota": "YouTube a las 16:00 (mejor hora en Metricool); IG/TikTok a las 18:00"
@@ -4295,7 +4335,17 @@
     "familia",
     "palabra clave",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Merry Christmas: a security gift for your family this Christmas Eve #shorts",
+     "description": "Merry Christmas: from Chris to you and your family 🎄\nThank you for every video you shared this year: every time someone sends it to their mom, one less scam works.\n\nA gift for tonight: agree on a family passphrase. If someone calls asking for money in a hurry, ask for it. If they don't know it, hang up.\n\nAnd then, enjoy together. Merry Christmas!\n\nComment CHRISTMAS and tell me where you're watching from 👇\nSend this to your whole family.\n\nAI-generated voice · Educational content.\n#merrychristmas #christmaseve #family #cybersecurity #rd"
+    },
+    "pt": {
+     "title": "Feliz Natal: um presente de segurança para sua família nesta Véspera de Natal #shorts",
+     "description": "Feliz Natal: do Chris para você e sua família 🎄\nObrigado por cada vídeo que você compartilhou este ano: toda vez que alguém envia para a mãe, um golpe a menos funciona.\n\nUm presente para esta noite: combinem uma palavra-chave em família. Se alguém ligar pedindo dinheiro com pressa, peçam a palavra. Se não souber, desliguem.\n\nE depois, aproveitem juntos. Feliz Natal!\n\nComente NATAL e me diga de onde você está nos assistindo 👇\nEnvie para toda a sua família.\n\nVoz gerada por IA · Conteúdo educativo.\n#feliznatal #vesperadenatal #familia #ciberseguranca #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
   "hora_nota": "Felicitación de Navidad (prueba de subnichos: cálido vs. dominicano con humor), 21:00 en todas las redes"
