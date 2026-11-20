@@ -2347,7 +2347,17 @@
    }
   },
   "estilo": "escena",
-  "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
+  "otras_redes": "Metricool (Instagram, Facebook, TikTok)",
+  "estado": {
+   "youtube": {
+    "intentos": 0,
+    "url": "https://youtube.com/shorts/HVV0z7VOkN4",
+    "publicado": "2026-11-20T04:08:49+00:00",
+    "subs": [
+     "es"
+    ]
+   }
+  }
  },
  {
   "id": "20261120-1800-gps",
