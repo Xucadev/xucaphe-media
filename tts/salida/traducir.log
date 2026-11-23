@@ -1,57 +1,66 @@
 modelos: ['gemini-flash-latest', 'gemini-3.8-flash', 'gemini-3.7-flash', 'gemini-3.6-flash', 'gemini-3.5-flash', 'gemini-2.5-flash', 'gemini-omni-1.2-flash', 'gemini-omni-1.1-flash', 'gemini-omni-flash-preview', 'gemini-3-flash-preview', 'gemini-flash-lite-latest', 'gemini-3.5-flash-lite', 'gemini-3.1-flash-lite', 'gemini-2.5-flash-lite', 'gemini-3.1-flash-lite-preview']
-ERR 20261225-1000-telefono-nuevo-p1 gemini-flash-latest  The read operation timed out
-ERR 20261225-1000-telefono-nuevo-p1 gemini-3.8-flash  The read operation timed out
-ERR 20261225-1000-telefono-nuevo-p1 gemini-3.7-flash  The read operation timed out
-OK 20261225-1000-telefono-nuevo-p1 gemini-3.6-flash 196s
-ERR 20261227-1800-villa-falsa gemini-flash-latest 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
-ERR 20261227-1800-villa-falsa gemini-3.8-flash 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
-ERR 20261227-1800-villa-falsa gemini-3.7-flash 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
-OK 20261227-1800-villa-falsa gemini-3.6-flash 320s
-ERR 20261228-1000-inocentes-falso gemini-flash-latest 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
-ERR 20261228-1000-inocentes-falso gemini-3.8-flash 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
-ERR 20261228-1000-inocentes-falso gemini-3.7-flash 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
-OK 20261228-1000-inocentes-falso gemini-3.6-flash 357s
-ERR 20261228-1800-linus-torvalds gemini-flash-latest 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
-ERR 20261228-1800-linus-torvalds gemini-3.8-flash 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
-ERR 20261228-1800-linus-torvalds gemini-3.7-flash  The read operation timed out
-OK 20261228-1800-linus-torvalds gemini-3.6-flash 463s
-ERR 20261229-1000-tres-cuentas-clave gemini-flash-latest 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
-ERR 20261229-1000-tres-cuentas-clave gemini-3.8-flash 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
-ERR 20261229-1000-tres-cuentas-clave gemini-3.7-flash 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
-OK 20261229-1000-tres-cuentas-clave gemini-3.6-flash 538s
-ERR 20261229-1800-bug-bounty gemini-flash-latest 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
-ERR 20261229-1800-bug-bounty gemini-3.8-flash 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
-ERR 20261229-1800-bug-bounty gemini-3.7-flash  The read operation timed out
-OK 20261229-1800-bug-bounty gemini-3.6-flash 678s
-ERR 20261230-1000-corte-luz-falso gemini-flash-latest 429 {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceede
-ERR 20261230-1000-corte-luz-falso gemini-3.8-flash 429 {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceede
-ERR 20261230-1000-corte-luz-falso gemini-3.7-flash 429 {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceede
-OK 20261230-1000-corte-luz-falso gemini-3.6-flash 761s
-ERR 20261230-1800-hora-exacta gemini-flash-latest 429 {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceede
-ERR 20261230-1800-hora-exacta gemini-3.8-flash 429 {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceede
-OK 20261230-1800-hora-exacta gemini-3.7-flash 835s
-OK 20261231-1000-y2k gemini-3.7-flash 855s
-OK 20261231-1800-propositos-2027 gemini-3.7-flash 870s
-ERR 20270101-1000-tcpip-1983 gemini-3.7-flash 429 {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceede
-OK 20270101-1000-tcpip-1983 gemini-3.6-flash 906s
-ERR 20270101-1800-borrar-cuentas-viejas gemini-3.7-flash 429 {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceede
-OK 20270101-1800-borrar-cuentas-viejas gemini-3.6-flash 945s
-OK 20270102-1000-sesiones-google gemini-3.6-flash 974s
-OK 20270102-1800-faltas-ortografia gemini-3.6-flash 987s
-OK 20270103-1000-bitcoin-genesis gemini-3.6-flash 998s
-OK 20270103-1800-famoso-regala gemini-3.6-flash 1012s
-OK 20270104-1000-app-prestamo gemini-3.6-flash 1026s
-OK 20270104-1800-passkey gemini-3.6-flash 1040s
-OK 20270105-1000-control-parental gemini-3.6-flash 1053s
-OK 20270105-1800-robux-gratis gemini-3.6-flash 1068s
-OK 20270106-1000-compras-sin-permiso gemini-3.6-flash 1083s
-OK 20270106-1800-juegos-gratis-dinero gemini-3.6-flash 1096s
-OK 20270107-1000-sorteo-reyes gemini-3.6-flash 1110s
-OK 20270107-1800-pin-buzon-voz gemini-3.6-flash 1127s
-OK 20270108-1000-carro-usado-p1 gemini-3.6-flash 1144s
-OK 20270108-1800-carro-usado-p2 gemini-3.6-flash 1166s
-OK 20270109-1000-iphone-2007 gemini-3.6-flash 1199s
-tiempo agotado, sigo mañana
-traducidas 27
+ERR 20270109-1800-reenvio-correo gemini-flash-latest  The read operation timed out
+ERR 20270109-1800-reenvio-correo gemini-3.8-flash 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
+ERR 20270109-1800-reenvio-correo gemini-3.7-flash 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
+OK 20270109-1800-reenvio-correo gemini-3.6-flash 86s
+ERR 20270110-1000-knuth gemini-flash-latest 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
+ERR 20270110-1000-knuth gemini-3.8-flash 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
+ERR 20270110-1000-knuth gemini-3.7-flash 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
+OK 20270110-1000-knuth gemini-3.6-flash 111s
+ERR 20270110-1800-wifi-automatico gemini-flash-latest 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
+ERR 20270110-1800-wifi-automatico gemini-3.8-flash 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
+ERR 20270110-1800-wifi-automatico gemini-3.7-flash  The read operation timed out
+OK 20270110-1800-wifi-automatico gemini-3.6-flash 194s
+ERR 20270111-1000-ubicacion-fotos gemini-flash-latest 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
+ERR 20270111-1000-ubicacion-fotos gemini-3.8-flash 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
+ERR 20270111-1000-ubicacion-fotos gemini-3.7-flash  The read operation timed out
+OK 20270111-1000-ubicacion-fotos gemini-3.6-flash 276s
+ERR 20270111-1800-falso-tecnico gemini-flash-latest  The read operation timed out
+ERR 20270111-1800-falso-tecnico gemini-3.8-flash 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
+ERR 20270111-1800-falso-tecnico gemini-3.7-flash 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
+OK 20270111-1800-falso-tecnico gemini-3.6-flash 365s
+ERR 20270112-1000-reportar-sms gemini-flash-latest 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
+ERR 20270112-1000-reportar-sms gemini-3.8-flash 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
+ERR 20270112-1000-reportar-sms gemini-3.7-flash 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
+OK 20270112-1000-reportar-sms gemini-3.6-flash 390s
+ERR 20270112-1800-operacion-aurora gemini-flash-latest 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
+ERR 20270112-1800-operacion-aurora gemini-3.8-flash 429 {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceede
+ERR 20270112-1800-operacion-aurora gemini-3.7-flash 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
+ERR 20270112-1800-operacion-aurora gemini-3.6-flash  The read operation timed out
+ERR 20270112-1800-operacion-aurora gemini-3.5-flash 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
+ERR 20270112-1800-operacion-aurora gemini-2.5-flash 404 {   "error": {     "code": 404,     "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://aistudio.google.com/docs/get-
+ERR 20270112-1800-operacion-aurora gemini-omni-1.2-flash 429 {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceede
+ERR 20270112-1800-operacion-aurora gemini-omni-1.1-flash 429 {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceede
+ERR 20270113-1000-recarga-doble gemini-flash-latest 429 {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceede
+ERR 20270113-1000-recarga-doble gemini-3.8-flash 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
+ERR 20270113-1000-recarga-doble gemini-3.7-flash 429 {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceede
+OK 20270113-1000-recarga-doble gemini-3.6-flash 612s
+ERR 20270113-1800-que-es-la-nube gemini-flash-latest 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
+ERR 20270113-1800-que-es-la-nube gemini-3.8-flash 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
+ERR 20270113-1800-que-es-la-nube gemini-3.7-flash 429 {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceede
+ERR 20270113-1800-que-es-la-nube gemini-3.6-flash 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
+ERR 20270113-1800-que-es-la-nube gemini-3.5-flash 503 {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
+ERR 20270113-1800-que-es-la-nube gemini-omni-1.2-flash 429 {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceede
+ERR 20270113-1800-que-es-la-nube gemini-omni-1.1-flash 429 {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceede
+ERR 20270114-1000-alertas-inicio-sesion gemini-flash-latest 429 {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceede
+ERR 20270114-1000-alertas-inicio-sesion gemini-3.8-flash 429 {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceede
+OK 20270114-1000-alertas-inicio-sesion gemini-3.6-flash 760s
+OK 20270114-1800-modo-incognito gemini-3.6-flash 771s
+OK 20270115-1000-alquiler-falso-p1 gemini-3.6-flash 786s
+OK 20270115-1800-alquiler-falso-p2 gemini-3.6-flash 820s
+OK 20270116-1000-wikipedia-2001 gemini-3.6-flash 834s
+OK 20270116-1800-apps-acceso-google gemini-3.6-flash 852s
+OK 20270117-1000-berners-lee gemini-3.6-flash 863s
+OK 20270117-1800-correo-te-grabe gemini-3.6-flash 876s
+OK 20270118-1000-apps-acceso-fotos gemini-3.6-flash 891s
+OK 20270118-1800-stalkerware gemini-3.6-flash 908s
+ERR 20270119-1000-virus-brain gemini-3.6-flash 429 {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceede
+ERR 20270119-1000-virus-brain gemini-3.5-flash 429 {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceede
+OK 20270119-1800-privacidad-whatsapp gemini-3.6-flash 979s
+ERR 20270120-1000-prueba-gratis gemini-3.6-flash 429 {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceede
+ERR 20270120-1000-prueba-gratis gemini-3.5-flash 429 {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceede
+ERR 20270120-1800-numeros-parecidos gemini-3.6-flash 429 {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceede
+sin cupo en ningún modelo, sigo mañana
+traducidas 18
 subtítulos: sigo mañana
 subtítulos traducidos 0

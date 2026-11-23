@@ -5338,7 +5338,17 @@
     "outlook",
     "hack del dia",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Check your email forwarding: this is how they spy on you without your password #shorts",
+     "description": "Hack of the day No. 48: check this in your email: this is how they spy on you without changing your password 📧\nWhen someone accesses someone else's email, they sometimes create a forwarding rule: a copy of every new email goes to their address. Even if you change your password, the rule keeps working.\nOn Gmail (from a computer): Settings → See all settings → Forwarding and POP/IMAP, and also Filters and Blocked Addresses.\nOn Outlook: Settings → Mail → Rules and Forwarding.\nDelete any address or rule that you didn't set up yourself.\n\nComment FORWARD if you found a weird rule 👇\nSend this to whoever uses email for everything.\n\nAI-generated voice · Cybersecurity educational content.\n#hackoftheday #cybersecurity #gmail #email #dr"
+    },
+    "pt": {
+     "title": "Verifique o encaminhamento do seu e-mail: assim te espionam sem sua senha #shorts",
+     "description": "Hack do dia Nº 48: verifique isso no seu e-mail: assim te espionam sem mudar sua senha 📧\nQuando alguém entra no e-mail de outra pessoa, às vezes cria uma regra de encaminhamento: uma cópia de cada e-mail novo vai para o endereço dela. Mesmo que você mude a senha, a regra continua funcionando.\nNo Gmail (pelo computador): Configurações → Ver todas as configurações → Encaminhamento e POP/IMAP, e também Filtros e endereços bloqueados.\nNo Outlook: Configurações → Email → Regras e Encaminhamento.\nExclua qualquer endereço ou regra que você não tenha criado.\n\nComente ENCAMINHAR se você encontrou uma regra estranha 👇\nEnvie para quem usa o e-mail para tudo.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #ciberseguranca #gmail #email #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -5356,7 +5366,17 @@
     "tex",
     "mentes",
     "historia de la tecnologia"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Donald Knuth: the professor who paid to find his errors #shorts",
+     "description": "Minds No. 9: Donald Knuth: the professor who paid for finding his errors 🧾\nBorn on January 10, 1938. Since the sixties, he has been writing \"The Art of Computer Programming\", one of the most respected books in computer science, and created TeX, which is used to write many scientific books and articles.\n\nTo anyone who finds an error in his books, he sends 2.56 dollars: a \"hexadecimal dollar\". Hardly anyone cashes them: they get framed. Today he sends certificates instead of real checks.\n\nThe idea is the same as today's bug bounty programs: to thank whoever finds the flaws.\n\nComment 2.56 if you would like to have one of those checks 👇\nSend this to anyone studying programming.\n\nSource: Stanford University (Donald Knuth's page).\nAI-generated voice · Educational content.\n#minds #techhistory #programming #donaldknuth #technology"
+    },
+    "pt": {
+     "title": "Donald Knuth: o professor que pagava por encontrarem seus erros #shorts",
+     "description": "Mentes N.º 9: Donald Knuth: o professor que pagava por encontrarem seus erros 🧾\nNasceu em 10 de janeiro de 1938. Escreve desde os anos sessenta \"The Art of Computer Programming\", um dos livros mais respeitados da ciência da computação, e criou o TeX, com o qual se escrevem muitos livros e artigos científicos.\n\nA quem encontrar um erro em seus livros, ele envia 2,56 dólares: um \"dólar hexadecimal\". Quase ninguém os desconta: são emoldurados. Hoje ele envia certificados em vez de cheques de verdade.\n\nA ideia é a mesma dos programas de recompensa de hoje: agradecer a quem encontra as falhas.\n\nComente 2.56 se você gostaria de ter um desses cheques 👇\nEnvie para quem estuda programação.\n\nFonte: Stanford University (página de Donald Knuth).\nVoz gerada por IA · Conteúdo educativo.\n#mentes #historiadatecnologia #programacao #donaldknuth #tecnologia"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -5374,7 +5394,17 @@
     "seguridad movil",
     "hack del dia",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Turn this off: your phone automatically connects to unknown Wi-Fi #shorts",
+     "description": "Hack of the day No. 49: turn this off on your phone: it automatically connects to unknown Wi-Fi 📶\nMany phones automatically connect to open networks or networks with the same name as one you've used before. Someone could create a fake network with the name of the airport or the mall.\nAndroid: Settings → Network & Internet → Wi-Fi → Preferences → turn off \"Connect to public networks\" (the name varies by phone).\niPhone: Settings → Wi-Fi → Ask to Join Networks.\nAnd delete saved networks you no longer use.\n\nComment WIFI when you turn it off 👇\nSend this to someone who connects to every free Wi-Fi.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #wifi #mobilesecurity #rd"
+    },
+    "pt": {
+     "title": "Desligue isso: seu celular se conecta sozinho a Wi-Fi desconhecido #shorts",
+     "description": "Hack do dia Nº 49: desligue isso no seu celular: ele se conecta sozinho a Wi-Fi desconhecido 📶\nMuitos celulares se conectam sozinhos a redes abertas ou a redes com o mesmo nome de uma que você já usou. Alguém pode criar uma rede falsa com o nome da do aeroporto ou do shopping.\nAndroid: Configurações → Rede e Internet → Wi-Fi → Preferências → desative \"Conectar a redes públicas\" (o nome muda dependendo do aparelho).\niPhone: Ajustes → Wi-Fi → Solicitar Conexão.\nE apague as redes salvas que você não usa mais.\n\nComente WIFI quando desligar 👇\nMande para quem se conecta a qualquer Wi-Fi grátis.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #ciberseguranca #wifi #segurancamovel #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -5392,7 +5422,17 @@
     "privacidad",
     "hack del dia",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Your photos can reveal where you live: remove location #shorts",
+     "description": "Hack of the day No. 50: your photos can reveal where you live: remove the location 📍\nMany photos store inside where they were taken, with exact coordinates. Some networks delete it when posting, but if you send the photo as a file or upload it to other websites, it might include all data.\nWhen sharing: iPhone → Options → turn off Location. Android (Google Photos): Settings → remove location when sharing.\nTo never save it: turn off location in the camera app.\n\nComment LOCATION if you didn't know this 👇\nSend this to anyone who sells things online.\n\nAI generated voice · Educational cybersecurity content.\n#hackoftheday #privacy #photos #cybersecurity #dr"
+    },
+    "pt": {
+     "title": "Suas fotos podem dizer onde você mora: tire a localização #shorts",
+     "description": "Hack do dia N.º 50: suas fotos podem dizer onde você mora: tire a localização 📍\nMuitas fotos guardam onde foram tiradas, com coordenadas exatas. Algumas redes a apagam ao publicar, mas se você enviar a foto como arquivo ou em outros sites, ela pode ir completa.\nAo compartilhar: iPhone → Opções → desative a Localização. Android (Google Fotos): Configurações → remova a localização ao compartilhar.\nPara nunca salvar: desative a localização no aplicativo da câmera.\n\nComente LOCALIZAÇÃO se você não sabia disso 👇\nEnvie para quem vende coisas pela internet.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #privacidade #fotos #ciberseguranca #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -5410,7 +5450,17 @@
     "distribuidora",
     "estafas",
     "republica dominicana"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "The \"electrician\" knocking on your door unannounced #shorts",
+     "description": "Scam exposed No. 25: The \"utility technician\" knocking on your door unannounced 🚪\nSomeone arrives wearing a uniform shirt and ID badge, claiming to be from the electric, water, or internet company to check something urgent. Once inside, they distract the person while an accomplice steals, or they demand a cash payment to \"prevent a cutoff.\"\n\nIf you didn't request a visit, don't open the door. Call the official number on your bill yourself and ask if they sent someone. Payments are made at the office or through the app, never to the technician.\n\nComment TECHNICIAN if someone like this knocked on your door 👇\nSend this to anyone living with their parents or grandparents.\n\nAI generated voice · Cybersecurity educational content.\n#scams #security #dominicanrepublic #cybersecurity #family"
+    },
+    "pt": {
+     "title": "O \"técnico da luz\" que bate à sua porta sem você chamar #shorts",
+     "description": "Golpe exposto N.º 25: o \"técnico da luz\" que bate à sua porta sem você chamar 🚪\nChega alguém com camisa da empresa e crachá, dizendo que é da distribuidora de energia, água ou internet para checar algo urgente. Uma vez lá dentro, distrai a pessoa enquanto outro rouba, ou pede um pagamento em dinheiro para \"evitar o corte\".\n\nSe você não pediu a visita, não abra. Ligue você mesmo para o número oficial que vem na sua fatura e pergunte se mandaram alguém. Os pagamentos são feitos na agência ou no aplicativo, nunca ao técnico.\n\nComente TÉCNICO se alguém assim bateu à sua porta 👇\nEnvie para quem mora com os pais ou avós.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#golpes #segurança #republicadominicana #cibersegurança #família"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -5428,7 +5478,17 @@
     "smishing",
     "hack del dia",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Don't just delete scam SMS: report it like this #shorts",
+     "description": "Hack of the day No. 51: don't just delete scam SMS: report it like this 🚫\nBlocking and reporting helps your phone's filter learn and alert others.\nAndroid (Google Messages): press and hold the conversation → Block → check \"Report spam\".\niPhone: open the message → tap \"Report Junk\" if it appears, or tap the number → Block this Contact.\nAnd turn on the filter: Android, Messages → Settings → Spam protection; iPhone, Settings → Messages → Filter Unknown Senders.\n\nComment REPORTED when you report your first one 👇\nSend this to someone who gets scam SMS every day.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #smishing #spam #dr"
+    },
+    "pt": {
+     "title": "Não apague apenas o SMS de golpe: denuncie assim #shorts",
+     "description": "Hack do dia N.º 51: não apague apenas o SMS de golpe: denuncie assim 🚫\nBloquear e denunciar ajuda o filtro do seu celular a aprender e avisar os outros.\nAndroid (Mensagens do Google): mantenha a conversa pressionada → Bloquear → marque \"Denunciar spam\".\niPhone: abra a mensagem → toque em \"Relatar Indesejado\" se aparecer, ou toque no número → Bloquear este Contato.\nE ative o filtro: Android, Mensagens → Configurações → Proteção contra spam; iPhone, Ajustes → Mensagens → Filtrar Remetentes Desconhecidos.\n\nComente DENUNCIEI quando denunciar o primeiro 👇\nEnvie para quem recebe SMS de golpe todos os dias.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #cibersegurança #smishing #spam #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -5464,7 +5524,17 @@
     "phishing",
     "estafas",
     "republica dominicana"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "The \"double top-up\" on WhatsApp is fake #shorts",
+     "description": "Scam exposed No. 26: the \"double top-up\" on WhatsApp is fake 📶\nMessages are circulating with a phone company's logo: top up today and get double, only through this link. The page asks for your number, your card, and sometimes a code sent via SMS. With that, they charge you or take over your account.\n\nReal promotions are in your company's app or official website. If you don't see it there, it doesn't exist.\n\nComment TOPUP if you got a promo like this 👇\nSend this to someone who always tops up their phone.\n\nAI-generated voice · Cybersecurity educational content.\n#scams #topup #whatsapp #dominicanrepublic #cybersecurity"
+    },
+    "pt": {
+     "title": "A \"recarga dupla\" que chega pelo WhatsApp é falsa #shorts",
+     "description": "Golpe exposto Nº 26: a \"recarga dupla\" que chega pelo WhatsApp é falsa 📶\nCirculam mensagens com o logo de uma operadora: recarregue hoje e receba o dobro, só por este link. A página pede seu número, seu cartão e às vezes um código que chega por SMS. Com isso, cobram você ou roubam sua conta.\n\nAs promoções reais estão no app ou no site oficial da sua operadora. Se você não vir lá, não existe.\n\nComente RECARGA se recebeu uma promoção assim 👇\nMande para quem sempre recarrega o celular.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#golpes #recargas #whatsapp #republicadominicana #ciberseguranca"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -5500,7 +5570,17 @@
     "facebook",
     "hack del dia",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Turn this on and you'll know if someone logs into your Instagram #shorts",
+     "description": "Hack of the day No. 52: turn this on and you'll instantly know if someone logs into your Instagram 🔔\nInstagram and Facebook can notify you every time someone logs in from a new device.\nIn the app: Settings → Accounts Center → Password and security → Login alerts. Turn them on via notification and email.\nRight there, under \"Where you're logged in\", log out of anything you don't recognize, and turn on two-factor authentication.\n\nComment ALERTS once you enable them 👇\nSend this to anyone who has Instagram and Facebook.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #instagram #facebook #dr"
+    },
+    "pt": {
+     "title": "Ative isso e saiba se alguém entrar no seu Instagram #shorts",
+     "description": "Hack do dia Nº 52: ative isso e saiba na hora se alguém entrar no seu Instagram 🔔\nO Instagram e o Facebook podem te avisar toda vez que alguém entrar a partir de um dispositivo novo.\nNo app: Configurações → Central de Contas → Senha e segurança → Alertas de login. Ative por notificação e por e-mail.\nAli mesmo, em \"Onde você fez login\", encerre o que não reconhecer e ative a autenticação em duas etapas.\n\nComente ALERTAS quando ativar 👇\nEnvie para quem tem Instagram e Facebook.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #ciberseguranca #instagram #facebook #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -5518,7 +5598,17 @@
     "navegador",
     "por que",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Why incognito mode doesn't make you invisible? #shorts",
+     "description": "Why? No. 16: Why incognito mode does NOT make you invisible? 🕶️\nIncognito mode only does one thing: it doesn't save your history, cookies, or what you type in forms on your phone or computer. But the websites you visit, your internet provider, and your work or university network can still see where you go.\n\nIt's useful for using a borrowed computer without leaving your session logged in. It's not for hiding.\n\nComment INCOGNITO if you thought it made you invisible 👇\nSend this to someone who uses incognito mode.\n\nAI-generated voice · Educational content.\n#why #privacy #browser #technology #cybersecurity"
+    },
+    "pt": {
+     "title": "Por que o modo anônimo não te deixa invisível? #shorts",
+     "description": "Por quê? N.º 16: por que o modo anônimo NÃO te deixa invisível? 🕶️\nO modo anônimo só faz uma coisa: não salva no seu celular ou computador o histórico, os cookies nem o que você digita em formulários. Mas os sites que você visita, seu provedor de internet e a rede do trabalho ou da faculdade ainda podem ver onde você entra.\n\nServe para usar um computador emprestado sem deixar sua conta aberta. Não serve para se esconder.\n\nComente ANÔNIMO se você achava que ele te deixava invisível 👇\nMande para quem usa o modo anônimo.\n\nVoz gerada por IA · Conteúdo educativo.\n#porque #privacidade #navegador #tecnologia #ciberseguranca"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -5536,7 +5626,17 @@
     "apartamentos",
     "estafas",
     "republica dominicana"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "The cheap apartment you can't see… what would you do? (Part 1) #shorts",
+     "description": "Scam Exposed No. 27 · Part 1/2: the perfect, cheap apartment in a good area… that you can't see 🏢\nChris is starting the semester and looking for an apartment near college. He finds a gorgeous, furnished, and cheap one. The \"landlord\" lives abroad and can't show it, but sends him photos, a contract, and asks for the deposit and first month's rent via transfer to hand over the key.\n\nWhat would you do?\n\nComment PAY or VISIT and tell me what you would do 👇\nPart 2: today at 6 PM. Follow me so you don't miss it.\nSend this to someone looking for an apartment.\n\nStory recreated for educational purposes. AI-generated voice.\n#scams #rentals #apartments #dominicanrepublic #cybersecurity"
+    },
+    "pt": {
+     "title": "O apartamento barato que você não pode ver… o que faria? (Parte 1) #shorts",
+     "description": "Golpe Exposto N.º 27 · Parte 1/2: o apartamento perfeito, barato e em boa área… que você não pode ver 🏢\nChris começa o semestre e procura um apartamento perto da faculdade. Ele encontra um lindo, mobiliado e barato. O \"dono\" mora fora e não pode mostrá-lo, mas envia fotos, um contrato e pede o depósito e o primeiro mês por transferência para entregar a chave.\n\nO que você faria?\n\nComente PAGO ou VISITO e me diga o que você faria 👇\nParte 2: hoje às 18h. Siga-me para não perder.\nEnvie para quem está procurando apartamento.\n\nHistória recriada para fins educativos. Voz gerada por IA.\n#golpes #aluguel #apartamentos #republicadominicana #ciberseguranca"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -5554,7 +5654,17 @@
     "apartamentos",
     "estafas",
     "republica dominicana"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "The cheap apartment was fake: how the scam works (Part 2) #shorts",
+     "description": "Exposed Scam No. 27 · Part 2/2: the answer was B: that apartment wasn't theirs 🛑\nPhotos are copied from real listings or vacation rental sites. \"I live abroad\" is the excuse so you can't view it, and anyone can fake a contract.\n\nBefore paying: visit the apartment inside; ask to see the title deed or a document proving ownership, or deal with a reputable real estate agency; search the photos online (reverse image search) to see if they appear in another listing; and never pay to \"hold\" a place you haven't seen.\n\nComment VISIT if you got it right 👇\nSend this to someone looking for an apartment.\n\nStory recreated for educational purposes. AI-generated voice.\n#scams #rentals #apartments #dominicanrepublic #cybersecurity"
+    },
+    "pt": {
+     "title": "O apartamento barato era falso: como funciona o golpe (Parte 2) #shorts",
+     "description": "Golpe Exposto N.º 27 · Parte 2/2: a resposta era B: esse apartamento não era dele 🛑\nAs fotos são copiadas de anúncios reais ou de sites de aluguel por temporada. \"Moro fora\" é a desculpa para você não ver, e o contrato qualquer um faz.\n\nAntes de pagar: visite o apartamento por dentro; peça para ver a escritura ou um documento que comprove quem é o dono, ou negocie com uma imobiliária conhecida; busque as fotos na internet (pesquisa por imagem) para ver se aparecem em outro anúncio; e nunca pague para \"reservar\" algo que você não viu.\n\nComente VISITO se você acertou 👇\nEnvie para quem está procurando apartamento.\n\nHistória recriada para fins educativos. Voz gerada por IA.\n#golpes #aluguel #apartamentos #republicadominicana #ciberseguranca"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -5572,7 +5682,17 @@
     "fuentes",
     "noticias falsas",
     "historia de la tecnologia"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "January 15, 2001: Wikipedia is born #shorts",
+     "description": "Happened in tech No. 15: January 15, 2001: the encyclopedia anyone can edit is born 📚\nOn that day, Wikipedia was launched, a free encyclopedia written by volunteers. Many thought it wouldn't work: if anyone can edit, anyone can lie. It worked because every article must cite sources, and thousands of people review the changes.\n\nThat's the rule that saves you from fake news: what's the source? If there isn't one, don't share it.\n\nComment WIKIPEDIA if you use it for homework 👇\nSend this to someone who studies.\n\nAI-generated voice · Educational content.\n#techhistory #wikipedia #internet #fakenews #technology"
+    },
+    "pt": {
+     "title": "15 de janeiro de 2001: nasce a Wikipedia #shorts",
+     "description": "Aconteceu na tech Nº 15: 15 de janeiro de 2001: nasce a enciclopédia que qualquer um pode editar 📚\nNesse dia foi lançada a Wikipedia, uma enciclopédia gratuita escrita por voluntários. Muitos achavam que não ia funcionar: se qualquer um pode editar, qualquer um pode mentir. Funcionou porque cada artigo deve citar fontes, e milhares de pessoas revisam as alterações.\n\nEssa é a regra que te salva das notícias falsas: qual é a fonte? Se não houver, não compartilhe.\n\nComente WIKIPEDIA se você a usa para a tarefa 👇\nEnvie para quem estuda.\n\nVoz gerada por IA · Conteúdo educativo.\n#historiadatecnologia #wikipedia #internet #noticiasfalsas #tecnologia"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -5590,7 +5710,17 @@
     "privacidad",
     "hack del dia",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Check which apps have access to your Google account #shorts",
+     "description": "Daily Hack No. 53: check which apps have access to your Google account 🔓\nEvery time you tap \"Sign in with Google\" or grant permission to an app, that app can keep access to your account: your email, your contacts, or your calendar, depending on what you accepted.\nGo to myaccount.google.com (type it yourself) → Security → Your connections to third-party apps & services.\nRevoke access to apps you no longer use or don't recognize.\n\nComment REMOVED with how many apps you revoked access from 👇\nSend this to whoever logs into everything with Google.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #google #privacy #dr"
+    },
+    "pt": {
+     "title": "Veja quais apps têm acesso à sua conta do Google #shorts",
+     "description": "Hack do dia Nº 53: veja quais apps têm acesso à sua conta do Google 🔓\nToda vez que você toca em \"Fazer login com o Google\" ou dá permissão a um app, esse app pode continuar com acesso à sua conta: seu e-mail, seus contatos ou sua agenda, dependendo do que você aceitou.\nAcesse myaccount.google.com (digite você mesmo) → Segurança → Suas conexões com apps e serviços de terceiros.\nRemova o acesso dos apps que você não usa mais ou não reconhece.\n\nComente REMOVI e quantos apps você removeu o acesso 👇\nEnvie para quem entra em tudo com o Google.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #ciberseguranca #google #privacidade #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -5608,7 +5738,17 @@
     "cern",
     "mentes",
     "historia de la tecnologia"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Tim Berners-Lee: The man who invented the web and gave it away #shorts",
+     "description": "Minds No. 10: Tim Berners-Lee: The man who invented the web and gave it away 🌍\nIn 1989, working at CERN in Switzerland, he proposed a system to link documents between computers. He created the first webpage, the first browser, and the language used to write webpages. In 1993, CERN released the technology for anyone to use without paying.\n\nThat's why today anyone can make a website. And that's also why anyone can make a fake website: always check the address.\n\nComment WEB if you didn't know the web was given away for free 👇\nSend this to anyone who designs websites.\n\nSource: CERN.\nAI-generated voice · Educational content.\n#minds #technologyhistory #web #internet #technology"
+    },
+    "pt": {
+     "title": "Tim Berners-Lee: o homem que inventou a web e a deu de graça #shorts",
+     "description": "Mentes N.º 10: Tim Berners-Lee: o homem que inventou a web e a deu de graça 🌍\nEm 1989, trabalhando no CERN, na Suíça, propôs um sistema para vincular documentos entre computadores. Criou a primeira página web, o primeiro navegador e a linguagem com a qual as páginas são escritas. Em 1993, o CERN liberou a tecnologia para que qualquer pessoa pudesse usá-la sem pagar.\n\nPor isso hoje qualquer pessoa pode criar uma página. E por isso também qualquer pessoa pode criar uma página falsa: verifique sempre o endereço.\n\nComente WEB se você não sabia que a web foi dada de graça 👇\nEnvie para quem desenvolve páginas web.\n\nFonte: CERN.\nVoz gerada por IA · Conteúdo educativo.\n#mentes #historiadatecnologia #web #internet #tecnologia"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -5626,7 +5766,17 @@
     "filtraciones",
     "estafas",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "The \"I hacked your camera, pay or I'll leak it\" email is fake #shorts",
+     "description": "Scam exposed No. 28: the email saying \"I hacked your camera, pay or I'll leak it\" is fake 📩\nA threatening email arrives: they claim they hacked your computer, recorded you on camera, and will leak the video if you don't pay in crypto. To scare you, they include a real password of yours.\n\nThat password came from an old leak from some website. They don't have any video: they send the exact same email to thousands. Don't pay, don't reply, delete the email, and change that password on every account where you use it.\n\nComment EMAIL if you received an email like this 👇\nSend this to anyone who gets scared by weird emails.\n\nAI-generated voice · Educational cybersecurity content.\n#scams #email #extortion #cybersecurity #hackoftheday"
+    },
+    "pt": {
+     "title": "O e-mail \"hackeei sua câmera, pague ou publico\" é falso #shorts",
+     "description": "Golpe exposto Nº 28: o e-mail que diz \"hackeei sua câmera, pague ou publico\" é falso 📩\nChega um e-mail ameaçador: dizem que hackearam seu computador, que te gravaram com a câmera e que vão publicar o vídeo se você não pagar em cripto. Para te assustar, colocam uma senha sua de verdade.\n\nEssa senha veio de um vazamento antigo de algum site. Eles não têm vídeo nenhum: mandam o mesmo e-mail para milhares. Não pague, não responda, apague o e-mail e mude essa senha em todas as contas onde a usar.\n\nComente E-MAIL se você recebeu um e-mail assim 👇\nMande para quem se assusta com e-mails estranhos.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#golpes #email #extorsao #ciberseguranca #hackdodia"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -5644,7 +5794,17 @@
     "seguridad movil",
     "hack del dia",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Check which apps can see all your photos #shorts",
+     "description": "Hack of the Day #54: check which apps can see ALL your photos 🖼️\nMany apps ask to see your photos just to upload a single one, and end up keeping access to all of them, including screenshots of your bank or ID.\nAndroid: Settings → Security & privacy → Privacy → Permission manager → Photos and videos.\niPhone: Settings → Privacy & Security → Photos.\nChange to \"Limited Access\" or \"Selected Photos\", or remove the permission.\n\nComment PHOTOS if any app had access to all your photos 👇\nSend this to someone who has a thousand apps.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #privacy #photos #mobilesecurity #rd"
+    },
+    "pt": {
+     "title": "Confira quais apps podem ver todas as suas fotos #shorts",
+     "description": "Hack do Dia Nº 54: confira quais apps podem ver TODAS as suas fotos 🖼️\nMuitos apps pedem acesso às suas fotos só para enviar uma, e acabam ficando com acesso a todas, inclusive capturas do seu banco ou documento de identidade.\nAndroid: Configurações → Segurança e privacidade → Privacidade → Gerenciador de permissões → Fotos e vídeos.\niPhone: Ajustes → Privacidade e Segurança → Fotos.\nMude para \"Permitir acesso limitado\" ou \"Fotos selecionadas\", ou remova a permissão.\n\nComente FOTOS se algum app tinha acesso a todas as suas fotos 👇\nEnvie isso para quem tem mil apps.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #privacidade #fotos #segurancamovel #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -5662,7 +5822,17 @@
     "privacidad",
     "tech explicada",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "What is a spyware app and how to know if you have one? #shorts",
+     "description": "Tech Explained No. 15: what is a spyware app and how to know if you have one? 👁️\nThere are apps that someone secretly installs on another person's phone to see their messages, location, and photos. They need to have the phone in hand for a few minutes.\n\nSigns: battery that drains much faster, phone getting hot without using it, unrecognized apps with accessibility or administrator permissions, or someone knowing things you only said via text.\n\nCheck Settings → Accessibility and Device Admin Apps. Set a passcode on your phone and don't lend it unlocked. If you suspect someone is spying on you to control you, seek help before deleting the app: deleting it might alert them.\n\nComment SPY if someone you know should see this 👇\nSend this to someone who suspects they are being watched.\n\nAI-generated voice · Educational cybersecurity content.\n#technology #privacy #mobilesecurity #howitworks #cybersecurity"
+    },
+    "pt": {
+     "title": "O que é um app espião e como saber se você tem um? #shorts",
+     "description": "Tech explicada N.º 15: o que é um app espião e como saber se você tem um? 👁️\nExistem apps que alguém instala às escondidas no celular de outra pessoa para ver suas mensagens, localização e fotos. Eles precisam ter o celular em mãos por alguns minutos.\n\nSinais: bateria durando muito menos, celular quente sem estar em uso, apps que você não reconhece com permissões de acessibilidade ou administrador, ou alguém saber de coisas que você só disse por mensagem.\n\nVerifique em Configurações → Acessibilidade e em Apps do administrador do dispositivo. Coloque uma senha no seu celular e não o empreste desbloqueado. Se você suspeita que alguém está te vigiando para te controlar, busque ajuda antes de apagar o app: apagá-lo pode alertar a pessoa.\n\nComente ESPIÃO se alguém que você conhece deveria ver isso 👇\nEnvie para quem suspeita que está sendo vigiado.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#tecnologia #privacidade #segurancamovel #comofunciona #ciberseguranca"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -5698,7 +5868,17 @@
     "grupos",
     "hack del dia",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Keep strangers from seeing your WhatsApp photo and info #shorts",
+     "description": "Hack of the day No. 55: keep strangers from seeing your photo and info on WhatsApp 🔒\nScammers use your profile photo and info to impersonate you with your family, or to know who to text.\nWhatsApp → Settings → Privacy:\n1. Profile photo: My contacts.\n2. About: My contacts.\n3. Groups: My contacts (so they don't add you to scam groups).\n4. Last seen: as you prefer.\n\nComment PRIVATE when you change it 👇\nSend this to someone who receives messages from strangers.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #whatsapp #privacy #cybersecurity #rd"
+    },
+    "pt": {
+     "title": "Impeça que estranhos vejam sua foto e recado no WhatsApp #shorts",
+     "description": "Hack do dia Nº 55: impeça que estranhos vejam sua foto e recado no WhatsApp 🔒\nOs golpistas usam sua foto de perfil e suas informações para se passar por você para a sua família, ou para saber para quem mandar mensagem.\nWhatsApp → Configurações → Privacidade:\n1. Foto do perfil: Meus contatos.\n2. Recado: Meus contatos.\n3. Grupos: Meus contatos (assim não te colocam em grupos de golpe).\n4. Visto por último: como preferir.\n\nComente PRIVADO quando mudar 👇\nMande para quem recebe mensagens de estranhos.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #whatsapp #privacidade #ciberseguranca #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
