@@ -5870,7 +5870,17 @@
     "malware",
     "historia de la tecnologia",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "January 19, 1986: The first PC virus even included a phone number #shorts",
+     "description": "Happened in Tech No. 16: January 19, 1986: The first PC virus included a name, address, and phone number 💾\nIt was called Brain and was written by two brothers in Lahore, Pakistan, Basit and Amjad Farooq Alvi. It spread from computer to computer on floppy disks. The curious part: inside the virus, they left a message with their names, address, and the phone numbers of their computer shop.\n\nThey said they wanted to protect their software from pirated copies. Today, viruses don't sign their work: that's why you should distrust anything coming from unofficial sources.\n\nComment BRAIN if you knew the first PC virus had an address 👇\nSend this to someone who lived through the floppy disk era.\n\nSource: F-Secure, Computing History.\nAI-generated voice · Educational content.\n#techhistory #virus #malware #cybersecurity #technology"
+    },
+    "pt": {
+     "title": "19 de janeiro de 1986: o primeiro vírus de PC vinha até com telefone #shorts",
+     "description": "Aconteceu na tech Nº 16: 19 de janeiro de 1986: o primeiro vírus de PC vinha com nome, endereço e telefone 💾\nEle se chamava Brain e foi escrito por dois irmãos em Lahore, Paquistão: Basit e Amjad Farooq Alvi. Ele passava de computador em computador em disquetes. O curioso: dentro do vírus, deixaram uma mensagem com seus nomes, o endereço e os telefones de sua loja de computadores.\n\nDisseram que queriam proteger seu programa contra cópias piratas. Hoje os vírus não deixam assinatura: por isso é preciso desconfiar do que chega de fontes não oficiais.\n\nComente BRAIN se você sabia que o primeiro vírus de PC tinha endereço 👇\nEnvie para quem viveu a época dos disquetes.\n\nFonte: F-Secure, Computing History.\nVoz gerada por IA · Conteúdo educativo.\n#historiadatecnologia #virus #malware #ciberseguranca #tecnologia"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -5934,7 +5944,17 @@
     "numeros parecidos",
     "por que",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Why do numbers almost identical to yours call you? #shorts",
+     "description": "Why? No. 17: Why do numbers almost identical to yours call you? 📞\nIt's called caller ID spoofing. With internet calling software, the caller can choose which number appears on your screen. They put one similar to yours, or from your same area, because you're more likely to answer a number that looks familiar.\n\nThat's why a familiar number appearing, even your bank's, doesn't prove who is calling. If they ask you for something, hang up and call the official number yourself.\n\nComment SIMILAR if numbers similar to yours call you 👇\nSend this to anyone who doesn't answer unknown numbers.\n\nAI-generated voice · Educational content.\n#why #calls #spoofing #cybersecurity #dr"
+    },
+    "pt": {
+     "title": "Por que números quase iguais ao seu te ligam? #shorts",
+     "description": "Por quê? Nº 17: por que números quase iguais ao seu te ligam? 📞\nIsso se chama falsificação de número (spoofing). Com programas de chamadas pela internet, quem liga pode escolher qual número aparece na sua tela. Eles colocam um parecido com o seu, ou da sua mesma região, porque você atende mais a um número que parece conhecido.\n\nPor isso, o aparecimento de um número conhecido, até mesmo o do seu banco, não prova quem está ligando. Se pedirem algo, desligue e ligue você mesmo para o número oficial.\n\nComente PARECIDO se números parecidos com o seu te ligam 👇\nEnvie para quem não atende números desconhecidos.\n\nVoz gerada por IA · Conteúdo educativo.\n#porque #ligacoes #spoofing #ciberseguranca #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -5952,7 +5972,17 @@
     "telefono de recuperacion",
     "hack del dia",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Update this or you won't be able to recover your account #shorts",
+     "description": "Hack of the day No. 56: update this today or you won't be able to recover your account if you lose it 🛟\nIf you changed your number or no longer use that old email, and your account gets stolen one day, you won't be able to recover it.\nGoogle: myaccount.google.com → Personal info → Recovery email and phone.\nInstagram and Facebook: Accounts Center → Personal details.\nWhatsApp: Settings → Account → Two-step verification → Email.\nUse a number and an email you actually use.\n\nComment RECOVER once you update it 👇\nSend this to someone who changed their number.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #accounts #recovery #rd"
+    },
+    "pt": {
+     "title": "Atualize isso ou não poderá recuperar sua conta #shorts",
+     "description": "Hack do dia Nº 56: atualize isso hoje ou não poderá recuperar sua conta se a perder 🛟\nSe você mudou de número ou não usa mais aquele e-mail antigo, e um dia sua conta for roubada, não vai conseguir recuperá-la.\nGoogle: myaccount.google.com → Informações pessoais → E-mail e telefone de recuperação.\nInstagram e Facebook: Central de Contas → Dados pessoais.\nWhatsApp: Configurações → Conta → Confirmação em duas etapas → Endereço de e-mail.\nColoque um número e um e-mail que você realmente use.\n\nComente RECUPERAR quando atualizar 👇\nEnvie para quem mudou de número.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #ciberseguranca #contas #recuperacao #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -5970,7 +6000,17 @@
     "windows defender",
     "tech explicada",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "How does an antivirus know something is a virus? #shorts",
+     "description": "Tech Explained No. 16: How does an antivirus know something is a virus? 🛡️\nIn two ways. First, it compares each file against a huge list of known virus signatures. Second, it monitors behavior: if a program starts encrypting all your files or hiding itself, it stops it even if it's new.\n\nOn your phone and Windows, one comes pre-installed (Google Play Protect, Microsoft Defender). What protects you the most can't be bought: updates and not installing apps from outside the store.\n\nComment ANTIVIRUS if you have one on your phone 👇\nSend this to someone who pays for an antivirus.\n\nAI-generated voice · Educational cybersecurity content.\n#technology #antivirus #malware #howitworks #cybersecurity"
+    },
+    "pt": {
+     "title": "Como um antivírus sabe que algo é um vírus? #shorts",
+     "description": "Tech explicada N.º 16: como um antivírus sabe que algo é um vírus? 🛡️\nDe duas formas. Primeiro, compara cada arquivo com uma lista enorme de assinaturas de vírus conhecidos. Segundo, monitora o comportamento: se um programa começa a criptografar todos os seus arquivos ou a se esconder, ele o bloqueia mesmo que seja novo.\n\nNo seu celular e no Windows já vem um de fábrica (Google Play Protect, Microsoft Defender). O que mais te protege não se compra: atualizações e não instalar apps de fora da loja.\n\nComente ANTIVÍRUS se você tem um no celular 👇\nEnvie para quem paga por antivírus.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#tecnologia #antivirus #malware #comofunciona #ciberseguranca"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -5988,7 +6028,17 @@
     "reclutador falso",
     "estafas",
     "republica dominicana"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "\"Human Resources\" offers you a remote job in dollars… what would you do? (Part 1) #shorts",
+     "description": "Scam exposed No. 30 · Part 1/2: \"Human Resources\" texts you with a remote job in dollars 💼\nChris is looking for a job. A \"recruiter\" from a foreign company texts him on WhatsApp: she saw his profile and has a remote position that pays in dollars. The interview is via chat, he gets approved the same day, and all that's left is to pay for the training course and equipment, which they'll refund in his first paycheck.\n\nWhat would you do?\n\nComment PAY or CHECK and tell me what you'd do 👇\nPart 2: today at 6 PM. Follow me so you don't miss it.\nSend this to someone who is looking for a job.\n\nRecreated story for educational purposes. Voice generated with AI.\n#scams #employment #remotejob #dominicanrepublic #cybersecurity"
+    },
+    "pt": {
+     "title": "\"Recursos Humanos\" te oferece trabalho remoto em dólares… o que você faria? (Parte 1) #shorts",
+     "description": "Golpe exposto Nº 30 · Parte 1/2: \"Recursos Humanos\" te manda mensagem com trabalho remoto em dólares 💼\nChris está procurando emprego. Uma \"recrutadora\" de uma empresa estrangeira escreve para ele no WhatsApp: viu o perfil dele e tem uma vaga remota que paga em dólares. A entrevista é por chat, ele é aprovado no mesmo dia, e só falta pagar o curso de treinamento e o equipamento, que serão reembolsados no primeiro salário.\n\nO que você faria?\n\nComente PAGO ou VERIFICO e me diga o que faria 👇\nParte 2: hoje às 18h. Siga-me para não perder.\nEnvie para quem está procurando emprego.\n\nHistória recriada para fins educacionais. Voz gerada com IA.\n#golpes #emprego #trabalhoremoto #republicadominicana #ciberseguranca"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -6006,7 +6056,17 @@
     "reclutador falso",
     "estafas",
     "republica dominicana"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "The remote job in dollars was fake: how the scam works (Part 2) #shorts",
+     "description": "Exposed Scam No. 30 · Part 2/2: The answer was B: a real job doesn't charge you to get hired 🛑\nReal companies don't charge you for training, equipment, or paperwork. Chat-only interviews, instant approval, and \"refundable\" payments are the usual red flags. Sometimes, they also ask for your ID card and bank details \"for payroll.\"\n\nBefore accepting: search for the company and job on their official website, request a video call with someone who works there, and never pay for a job.\n\nComment CHECKED if you got it right 👇\nSend this to someone who is looking for a job.\n\nRecreated story for educational purposes. AI-generated voice.\n#scams #jobs #remotework #dominicanrepublic #cybersecurity"
+    },
+    "pt": {
+     "title": "O trabalho remoto em dólares era falso: como funciona o golpe (Parte 2) #shorts",
+     "description": "Golpe Exposto N.º 30 · Parte 2/2: a resposta era B: um trabalho de verdade não cobra para você entrar 🛑\nEmpresas de verdade não cobram por cursos, equipamentos nem documentação. Entrevistas feitas só por chat, aprovação imediata e pagamentos \"reembolsáveis\" são os sinais de sempre. Às vezes, também pedem seu documento de identidade e dados bancários \"para a folha de pagamento\".\n\nAntes de aceitar: pesquise a empresa e a vaga no site oficial, peça uma videochamada com alguém que trabalhe lá e nunca pague por um emprego.\n\nComente ACERTEI se você acertou 👇\nEnvie para quem está procurando emprego.\n\nHistória recriada para fins educativos. Voz gerada por IA.\n#golpes #emprego #trabalhoremoto #republicadominicana #ciberseguranca"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
