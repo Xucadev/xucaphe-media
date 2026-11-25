@@ -6104,7 +6104,17 @@
     "wifi",
     "hack del dia",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Your router updates too (and almost no one does it) #shorts",
+     "description": "Hack of the day No. 57: your router updates too (and almost no one does it) 📡\nThe router is the gateway for your entire house to the internet, and just like your phone, it receives security patches. If no one updates it, it can have known flaws for years.\n1. Look at the router's label: there you'll find the address to log in (for example 192.168.0.1) or the name of its app.\n2. Look for \"Update firmware\" or \"Update\".\n3. If the router is from your internet provider, call them and ask them to update it or replace it if it's too old.\n\nComment ROUTER if you've never updated it 👇\nSend this to whoever pays for the home internet.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #router #wifi #tech"
+    },
+    "pt": {
+     "title": "Seu roteador também atualiza (e quase ninguém faz) #shorts",
+     "description": "Hack do dia N.º 57: seu roteador também atualiza (e quase ninguém faz) 📡\nO roteador é a porta de entrada de toda a sua casa para a internet e, assim como o celular, recebe correções de segurança. Se ninguém o atualizar, ele pode ter falhas conhecidas por anos.\n1. Olhe a etiqueta do roteador: lá aparece o endereço para entrar (por exemplo 192.168.0.1) ou o nome do seu aplicativo.\n2. Procure por \"Atualizar firmware\" ou \"Atualização\".\n3. Se o roteador for da sua provedora de internet, ligue para eles e peça para atualizar ou trocar se for muito antigo.\n\nComente ROTEADOR se você nunca tinha atualizado 👇\nEnvie para quem paga a internet da casa.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #ciberseguranca #roteador #wifi #tech"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -6122,7 +6132,17 @@
     "bit",
     "mentes",
     "historia de la tecnologia"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Claude Shannon: The man who turned everything into ones and zeros #shorts",
+     "description": "Minds No. 11: Claude Shannon: The man who turned everything into ones and zeros 0️⃣1️⃣\nIn 1948 he published \"A Mathematical Theory of Communication\" and explained how to measure information in bits: ones and zeros. Thanks to that idea, the internet, text messages, photos, and digital music exist. He also worked on cryptography, the science of encrypting messages.\n\nAnd he had his fun side: he built mechanical jugglers and rode a unicycle through the hallways of his workplace.\n\nComment BIT if you didn't know where the bit comes from 👇\nSend this to someone studying engineering.\n\nSource: Bell Labs, MIT.\nAI-generated voice · Educational content.\n#minds #historyoftechnology #claudeshannon #science #technology"
+    },
+    "pt": {
+     "title": "Claude Shannon: o homem que transformou tudo em uns e zeros #shorts",
+     "description": "Mentes Nº 11: Claude Shannon: o homem que transformou tudo em uns e zeros 0️⃣1️⃣\nEm 1948 publicou \"Uma Teoria Matemática da Comunicação\" e explicou como medir a informação em bits: uns e zeros. Graças a essa ideia existem a internet, as mensagens, as fotos e a música digital. Também trabalhou em criptografia, a ciência de criptografar mensagens.\n\nE tinha seu lado divertido: construía malabaristas mecânicos e andava de uniciclo pelos corredores do trabalho.\n\nComente BIT se você não sabia de onde vem o bit 👇\nEnvie para quem estuda engenharia.\n\nFonte: Bell Labs, MIT.\nVoz gerada por IA · Conteúdo educativo.\n#mentes #historiadatecnologia #claudeshannon #ciencia #tecnologia"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -6140,7 +6160,17 @@
     "mouse",
     "historia de la tecnologia",
     "tecnologia"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "January 24, 1984: The computer that brought the mouse into homes #shorts",
+     "description": "Happened in tech No. 17: January 24, 1984: The computer that brought the mouse into homes 🖱️\nOn that day, the first Apple Macintosh went on sale. It wasn't the first with a mouse and windows, but it was the one that made them popular at home: instead of typing commands, you tapped icons.\n\nThat made computers easy for everyone. And what's easy is also used to deceive: an icon or button that \"looks official\" isn't always official.\n\nComment MOUSE if you used an old computer 👇\nSend this to someone who experienced old computers.\n\nAI-generated voice · Educational content.\n#technologyhistory #macintosh #computers #technology #trivia"
+    },
+    "pt": {
+     "title": "24 de janeiro de 1984: o computador que levou o mouse para as casas #shorts",
+     "description": "Aconteceu na tech Nº 17: 24 de janeiro de 1984: o computador que levou o mouse para as casas 🖱️\nNesse dia foi lançado o primeiro Macintosh, da Apple. Não foi o primeiro com mouse e janelas, mas foi o que os popularizou nas casas: em vez de digitar comandos, você clicava em ícones.\n\nIsso tornou os computadores fáceis para todos. E o que é fácil também é usado para enganar: um ícone ou botão que \"parece oficial\" nem sempre é.\n\nComente MOUSE se você usou um computador antigo 👇\nEnvie para quem viveu a época dos computadores antigos.\n\nVoz gerada por IA · Conteúdo educativo.\n#historiadatecnologia #macintosh #computadores #tecnologia #curiosidades"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -6158,7 +6188,17 @@
     "estafas",
     "por que",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Why do scammers ask you not to tell anyone? #shorts",
+     "description": "Why? No. 18: why do scammers always ask you not to tell anyone? 🤫\nBecause another person is their biggest danger. If you tell your family, your bank, or a friend, chances are they will tell you \"that's a scam\". That's why they make up excuses: \"it's confidential\", \"if you tell anyone it gets canceled\", \"the bank can't know\", \"it's a surprise\".\n\nThe rule is simple: if they ask you for secrecy when money or codes are involved, tell someone before doing anything.\n\nComment SECRET if they ever asked you 👇\nSend this to your parents.\n\nAI-generated voice · Educational content.\n#why #scams #cybersecurity #family #dr"
+    },
+    "pt": {
+     "title": "Por que os golpistas pedem para você não contar a ninguém? #shorts",
+     "description": "Por quê? N.º 18: por que os golpistas sempre pedem para você não contar a ninguém? 🤫\nPorque a outra pessoa é o maior perigo deles. Se você contar para a sua família, para o seu banco ou para um amigo, o mais provável é que te digam \"isso é golpe\". Por isso eles inventam desculpas: \"é confidencial\", \"se contar para alguém é cancelado\", \"o banco não pode saber\", \"é uma surpresa\".\n\nA regra é simples: se pedirem segredo com dinheiro ou códigos envolvidos, conte para alguém antes de fazer qualquer coisa.\n\nComente SEGREDO se já pediram isso para você alguma vez 👇\nMande para os seus pais.\n\nVoz gerada por IA · Conteúdo educativo.\n#porque #golpes #ciberseguranca #familia #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -6176,7 +6216,17 @@
     "actualizaciones",
     "historia de la ciberseguridad",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "January 25, 2003: The virus that went around the world in 10 minutes #shorts",
+     "description": "It happened in tech No. 18: January 25, 2003: the virus that went around the world in 10 minutes ⏱️\nIt was called Slammer. It exploited a flaw in a Microsoft database program and infected at least 75,000 servers, most of them in about 10 minutes. Networks went down, ATMs stopped working, and flights were canceled.\n\nThe worst part: the fix had existed for six months. Those who had updated were not infected.\n\nComment 10 if the speed surprises you 👇\nSend this to someone who puts off updates.\n\nSource: CAIDA, IEEE Security & Privacy (2003).\nAI-generated voice · Educational content.\n#techhistory #malware #updates #cybersecurity #technology"
+    },
+    "pt": {
+     "title": "25 de janeiro de 2003: o vírus que deu a volta ao mundo em 10 minutos #shorts",
+     "description": "Aconteceu na tech N.º 18: 25 de janeiro de 2003: o vírus que deu a volta ao mundo em 10 minutos ⏱️\nChamava-se Slammer. Aproveitava uma falha em um programa de banco de dados da Microsoft e infectou pelo menos 75.000 servidores, a maioria em cerca de 10 minutos. Redes caíram, caixas eletrônicos pararam de funcionar e voos foram cancelados.\n\nO pior: a correção já existia há seis meses. Quem tinha atualizado não foi infectado.\n\nComente 10 se a velocidade te surpreende 👇\nEnvie para quem deixa as atualizações para depois.\n\nFonte: CAIDA, IEEE Security & Privacy (2003).\nVoz gerada com IA · Conteúdo educativo.\n#historiadatecnologia #malware #atualizacoes #ciberseguranca #tecnologia"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -6194,7 +6244,17 @@
     "privacidad",
     "hack del dia",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Silence unknown callers on WhatsApp #shorts",
+     "description": "Hack of the day No. 58: turn this on and unknown calls on WhatsApp won't bother you anymore 🔕\nWhatsApp can silence calls from numbers you don't have saved: they won't ring, but they'll appear in your call log just in case it was someone important.\nWhatsApp → Settings → Privacy → Calls → Silence Unknown Callers.\nAnd in Advanced Privacy, turn on \"Protect IP address in calls\".\n\nComment SILENCE once you activate it 👇\nSend this to whoever gets weird calls on WhatsApp.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #whatsapp #calls #cybersecurity #dr"
+    },
+    "pt": {
+     "title": "Silencie chamadas de desconhecidos no WhatsApp #shorts",
+     "description": "Hack do dia Nº 58: ative isso e as chamadas de desconhecidos no WhatsApp não vão mais te incomodar 🔕\nO WhatsApp pode silenciar chamadas de números que você não tem salvos: elas não tocam, mas aparecem na lista de chamadas caso seja alguém importante.\nWhatsApp → Configurações → Privacidade → Chamadas → Silenciar números desconhecidos.\nE em Privacidade avançada, ative \"Proteger endereço IP nas chamadas\".\n\nComente SILÊNCIO quando ativar 👇\nMande para quem recebe chamadas estranhas no WhatsApp.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #whatsapp #chamadas #ciberseguranca #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -6212,7 +6272,17 @@
     "privacidad",
     "hack del dia",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Lock your WhatsApp chats #shorts",
+     "description": "Hack of the day No. 59: lock your WhatsApp chats (without locking your whole phone) 🔐\nIf you lend your phone, anyone can open your chats. WhatsApp lets you lock chats one by one with your fingerprint, face, or phone passcode.\nLong press the chat → Lock chat (or enter the chat → name → Lock chat).\nLocked chats are moved to a separate folder that only opens with your fingerprint.\n\nComment LOCK if you're going to use it 👇\nSend this to someone who lends their phone.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #whatsapp #privacy #cybersecurity #dr"
+    },
+    "pt": {
+     "title": "Tranque suas conversas do WhatsApp #shorts",
+     "description": "Hack do dia Nº 59: coloque um cadeado nas suas conversas do WhatsApp (sem bloquear o celular todo) 🔐\nSe você empresta o celular, qualquer um pode abrir suas conversas. O WhatsApp permite bloquear conversas uma a uma com sua digital, seu rosto ou a senha do celular.\nPressione e segure a conversa → Bloquear conversa (ou entre na conversa → nome → Bloquear conversa).\nAs conversas bloqueadas vão para uma pasta separada que só abre com a sua digital.\n\nComente CADEADO se vai usar 👇\nMande para quem empresta o celular.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #whatsapp #privacidade #ciberseguranca #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -6230,7 +6300,17 @@
     "relleno de credenciales",
     "tech explicada",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "What happens to your data after a data breach? #shorts",
+     "description": "Tech explained No. 17: what happens to your data after a leak? 🗂️\nWhen a website is attacked and its database is stolen, emails, passwords, and phone numbers are sold or published on forums. Then, automated programs test those emails and passwords on thousands of sites: banks, social networks, stores. If you use the same password for everything, they get in.\n\nThat's why having a different password for every site and two-factor authentication is so important.\n\nComment LEAK if your email was involved in one 👇\nSend this to someone who uses the same password for everything.\n\nAI-generated voice · Educational cybersecurity content.\n#technology #databreach #passwords #howitworks #cybersecurity"
+    },
+    "pt": {
+     "title": "O que acontece com seus dados após um vazamento? #shorts",
+     "description": "Tech explicada Nº 17: o que acontece com seus dados após um vazamento? 🗂️\nQuando atacam um site e levam seu banco de dados, os e-mails, senhas e telefones são vendidos ou publicados em fóruns. Depois, programas automáticos testam esses e-mails e senhas em milhares de sites: bancos, redes, lojas. Se você usa a mesma senha em tudo, eles entram.\n\nPor isso é tão importante ter uma senha diferente em cada site, e a verificação em duas etapas.\n\nComente VAZAMENTO se o seu e-mail saiu em um 👇\nEnvie para quem usa a mesma senha em tudo.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#tecnologia #vazamentos #senhas #comofunciona #ciberseguranca"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -6248,7 +6328,17 @@
     "metodos de pago",
     "hack del dia",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Delete your card from stores you no longer shop at #shorts",
+     "description": "Hack of the day No. 60: delete your card from stores you no longer shop at 💳\nEvery store or app where you saved your card is one more place it can be stolen from if hacked, or where someone with your account can buy things.\n1. Go to the stores and apps where you shopped and look for \"Payment methods\".\n2. Delete the card where you no longer shop.\n3. In the browser: Chrome → Settings → Payment methods; on iPhone, Settings → Safari → AutoFill.\nFor online shopping, a virtual card is better.\n\nComment DELETED with how many cards you had saved 👇\nSend this to someone who shops online.\n\nAI generated voice · Cybersecurity educational content.\n#hackoftheday #cybersecurity #onlineshopping #cards #dr"
+    },
+    "pt": {
+     "title": "Apague seu cartão das lojas onde você não compra mais #shorts",
+     "description": "Hack do dia Nº 60: apague seu cartão das lojas onde você não compra mais 💳\nCada loja ou aplicativo onde você salvou seu cartão é mais um lugar de onde ele pode ser roubado se for hackeado, ou onde alguém com a sua conta pode comprar.\n1. Acesse as lojas e aplicativos onde você comprou e procure por \"Métodos de pagamento\".\n2. Apague o cartão de onde você não compra mais.\n3. No navegador: Chrome → Configurações → Métodos de pagamento; no iPhone, Ajustes → Safari → Preenchimento Automático.\nPara compras online, é melhor usar um cartão virtual.\n\nComente APAGUEI quantos cartões você tinha salvos 👇\nEnvie para quem faz compras pela internet.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #ciberseguranca #comprasonline #cartoes #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -6266,7 +6356,17 @@
     "nsa",
     "por que",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Why is it good to restart your phone every week? #shorts",
+     "description": "Why? No. 19: why is it good to restart your phone every week? 🔄\nSome spyware stays only in your phone's memory while it is turned on: when you restart, it gets erased and has to break in again. That's why the U.S. National Security Agency recommends turning your phone off and on once a week.\n\nIt doesn't protect you from everything, but it takes a minute. And by the way, many updates only finish installing when you restart.\n\nComment RESTART if you never turn off your phone 👇\nSend this to someone who never turns off their phone.\n\nSource: NSA, Mobile Device Best Practices.\nAI-generated voice · Educational content.\n#why #mobilesecurity #technology #cybersecurity #funfacts"
+    },
+    "pt": {
+     "title": "Por que é bom reiniciar o celular toda semana? #shorts",
+     "description": "Por quê? N.º 19: por que é bom reiniciar o celular toda semana? 🔄\nAlguns spywares ficam apenas na memória do celular enquanto ele está ligado: ao reiniciar, eles são apagados e precisam entrar novamente. Por isso a Agência de Segurança Nacional dos EUA recomenda desligar e ligar o celular uma vez por semana.\n\nNão protege de tudo, mas leva um minuto. E de quebra, muitas atualizações só terminam de instalar ao reiniciar.\n\nComente REINICIAR se você nunca desliga o celular 👇\nEnvie para quem nunca desliga o celular.\n\nFonte: NSA, Boas Práticas para Dispositivos Móveis.\nVoz gerada por IA · Conteúdo educativo.\n#porque #segurancamovel #tecnologia #ciberseguranca #curiosidades"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -6284,7 +6384,17 @@
     "privacidad",
     "datos personales",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Data Protection Day: how it started #shorts",
+     "description": "Happened in tech No. 19: today is Data Protection Day: how it started 🗂️\nOn January 28, 1981, Convention 108, the first international treaty to protect personal data, was opened for signature at the Council of Europe. That's why this day is celebrated every January 28th.\n\nThree things for today: check which apps have your contacts and your location, don't post your ID or your full number, and delete accounts you no longer use.\n\nComment DATA if you didn't know this day existed 👇\nSend this to someone who shares everything on social media.\n\nSource: Council of Europe.\nAI-generated voice · Educational content.\n#techhistory #privacy #personaldata #cybersecurity #dr"
+    },
+    "pt": {
+     "title": "Dia da Proteção de Dados: como surgiu #shorts",
+     "description": "Aconteceu na tech Nº 19: hoje é o Dia da Proteção de Dados: como surgiu 🗂️\nEm 28 de janeiro de 1981, a Convenção 108, o primeiro tratado internacional para proteger dados pessoais, foi aberta para assinatura no Conselho da Europa. Por isso, este dia é comemorado todo dia 28 de janeiro.\n\nTrês coisas para hoje: confira quais apps têm seus contatos e sua localização, não publique seu documento de identidade nem seu número completo, e exclua as contas que você não usa mais.\n\nComente DADOS se você não sabia que este dia existia 👇\nEnvie para quem compartilha tudo nas redes.\n\nFonte: Conselho da Europa.\nVoz gerada por IA · Conteúdo educativo.\n#historiadatecnologia #privacidade #dadospessoais #ciberseguranca #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -6302,7 +6412,17 @@
     "google play",
     "hack del dia",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Check your subscriptions: there might be charges you don't remember #shorts",
+     "description": "Hack of the day No. 61: check your subscriptions: there might be charges you don't even remember 🧾\nFree trials that turned into charges, apps you no longer use, shared accounts you're still paying for.\nAndroid: Google Play → your photo → Payments & subscriptions → Subscriptions.\niPhone: Settings → your name → Subscriptions.\nAnd check your bank statement: if you see a small charge you don't recognize, call your bank. Sometimes thieves test the card with tiny amounts.\n\nComment CANCELED and how much you saved 👇\nSend this to someone who pays for subscriptions.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #subscriptions #money #cybersecurity #rd"
+    },
+    "pt": {
+     "title": "Verifique suas assinaturas: pode haver cobranças que você não lembra #shorts",
+     "description": "Hack do dia Nº 61: verifique suas assinaturas: pode haver cobranças que você nem lembra 🧾\nTestes grátis que viraram cobranças, apps que você não usa mais, contas compartilhadas que continua pagando.\nAndroid: Google Play → sua foto → Pagamentos e assinaturas → Assinaturas.\niPhone: Ajustes → seu nome → Assinaturas.\nE confira seu extrato bancário: se vir uma cobrança pequena que não reconhece, ligue para o seu banco. Às vezes os ladrões testam o cartão com valores pequenos.\n\nComente CANCELE o quanto você economizou 👇\nEnvie para quem paga assinaturas.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #assinaturas #dinheiro #ciberseguranca #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -6320,7 +6440,17 @@
     "extorsion telefonica",
     "estafas",
     "republica dominicana"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "They call \"from the police\": there's a warrant against you… what would you do? (Part 1) #shorts",
+     "description": "Scam exposed No. 31 · Part 1/2: they call \"from the police\": there's a warrant against you 🚔\nThey call Chris's mom. A serious voice says they're from the police: there's an arrest warrant in her name for a crime involving her ID, and to \"resolve it today\" without going to jail, she must pay a fine via bank transfer. They have her name and ID number, and ask her not to hang up or tell anyone.\n\nWhat would you do?\n\nComment PAY or HANG UP and tell me what you would do 👇\nPart 2: today at 6 PM. Follow me so you don't miss it.\nSend this to your parents and grandparents.\n\nRecreated story for educational purposes. AI-generated voice.\n#scams #calls #police #dominicanrepublic #cybersecurity"
+    },
+    "pt": {
+     "title": "Te ligam \"da polícia\": tem um mandado contra você… o que faria? (Parte 1) #shorts",
+     "description": "Golpe exposto N.º 31 · Parte 1/2: te ligam \"da polícia\": tem um mandado contra você 🚔\nLigam para a mãe do Chris. Uma voz séria diz que é da polícia: há um mandado de prisão em nome dela por um crime com o seu documento, e para \"resolver hoje\" sem ir presa, ela deve pagar uma multa por transferência. Tem o nome e o número do documento dela, e pede para não desligar nem contar a ninguém.\n\nO que você faria?\n\nComente PAGO ou DESLIGO e me diga o que faria 👇\nParte 2: hoje às 6 da tarde. Siga-me para não perder.\nMande para os seus pais e avós.\n\nHistória recriada para fins educativos. Voz gerada por IA.\n#golpes #chamadas #policia #republicadominicana #segurancacibernetica"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -6338,7 +6468,17 @@
     "extorsion telefonica",
     "estafas",
     "republica dominicana"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "The police call was fake: how the scam works (Part 2) #shorts",
+     "description": "Scam exposed No. 31 · Part 2/2: the answer was B: the police don't collect fines over the phone 🛑\nNo authority calls you to collect a fine via transfer, nor asks you not to hang up or not tell anyone. The name and ID number can come from leaks or social media: having them doesn't make them police officers.\n\nHang up. Call the official police number yourself or go to a station, and warn your family. If you already paid, call your bank immediately and report it.\n\nComment HANGUP if you got it right 👇\nSend this to your parents and grandparents.\n\nRecreated story for educational purposes. AI-generated voice.\n#scams #calls #police #dominicanrepublic #cybersecurity"
+    },
+    "pt": {
+     "title": "A ligação da polícia era falsa: assim funciona o golpe (Parte 2) #shorts",
+     "description": "Golpe exposto Nº 31 · Parte 2/2: a resposta era B: a polícia não cobra multas por telefone 🛑\nNenhuma autoridade te liga para cobrar uma multa por transferência, nem pede para você não desligar ou não contar a ninguém. O nome e o documento podem vir de vazamentos ou redes sociais: tê-los não os torna policiais.\n\nDesligue. Ligue você mesmo para o número oficial da polícia ou vá a uma delegacia, e avise sua família. Se já pagou, ligue para o seu banco imediatamente e denuncie.\n\nComente DESLIGO se você acertou 👇\nEnvie para seus pais e avós.\n\nHistória recriada para fins educativos. Voz gerada por IA.\n#golpes #ligacoes #policia #republicadominicana #ciberseguranca"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -6356,7 +6496,17 @@
     "clonacion de tarjetas",
     "tech explicada",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Why is the card chip safer than the magnetic stripe? #shorts",
+     "description": "Tech Explained No. 18: Why is the card chip safer than the magnetic stripe? 💳\nThe magnetic stripe always stores the same data: if someone copies it with a hidden device on an ATM or card reader, they can clone your card. The chip, on the other hand, creates a different code for every purchase, which only works once. Copying it is useless.\n\nWhenever you can, pay with the chip or by tapping your card, and check that the ATM doesn't have loose or strange parts.\n\nComment CHIP if you always use the chip 👇\nSend this to someone who pays with a card.\n\nAI-generated voice · Cybersecurity educational content.\n#technology #cards #fraud #howitworks #cybersecurity"
+    },
+    "pt": {
+     "title": "Por que o chip do cartão é mais seguro que a tarja? #shorts",
+     "description": "Tech explicada Nº 18: por que o chip do cartão é mais seguro que a tarja? 💳\nA tarja magnética guarda sempre os mesmos dados: se alguém a copiar com um aparelho escondido em um caixa eletrônico ou maquininha, pode clonar seu cartão. O chip, por outro lado, cria um código diferente a cada compra, que só funciona uma vez. Copiá-lo não adianta nada.\n\nQuando puder, pague com o chip ou por aproximação, e verifique se o caixa eletrônico não tem peças soltas ou estranhas.\n\nComente CHIP se você sempre usa o chip 👇\nEnvie para quem paga com cartão.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#tecnologia #cartoes #fraude #comofunciona #ciberseguranca"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -6374,7 +6524,17 @@
     "seguridad en viajes",
     "por que",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Why shouldn't you charge your phone on a public USB? #shorts",
+     "description": "Why? No. 20: Why are you told not to charge your phone on a public USB? 🔌\nA USB port doesn't just provide power: it also transfers data. In theory, a modified port could try to extract information or install something, which is why the FBI and other agencies have recommended avoiding public ports. Real cases are rare, but the risk exists and avoiding it is easy.\n\nBring your charger and plug it into an outlet, or use a power bank. And if your phone asks \"Trust this device?\" or \"Transfer files?\", say no.\n\nComment USB if you charge your phone anywhere 👇\nSend this to someone who travels a lot.\n\nSource: FBI (2023).\nAI-generated voice · Educational content.\n#why #mobilesecurity #travel #cybersecurity #technology"
+    },
+    "pt": {
+     "title": "Por que não carregar o celular em um USB público? #shorts",
+     "description": "Por quê? N.º 20: por que dizem para você não carregar o celular em um USB público? 🔌\nUma porta USB não fornece apenas energia: ela também transfere dados. Em teoria, uma porta modificada poderia tentar extrair informações ou instalar algo, e é por isso que o FBI e outras agências recomendaram evitar portas públicas. Casos reais são raros, mas o risco existe e evitá-lo é fácil.\n\nLeve o seu carregador e ligue-o na tomada, ou use uma bateria portátil. E se o celular perguntar \"Confiar neste dispositivo?\" ou \"Transferir arquivos?\", diga não.\n\nComente USB se você carrega o celular em qualquer lugar 👇\nEnvie para quem viaja muito.\n\nFonte: FBI (2023).\nVoz gerada por IA · Conteúdo educativo.\n#porque #segurancamovel #viagens #ciberseguranca #tecnologia"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -6410,7 +6570,17 @@
     "telefono perdido",
     "tech explicada",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "How do they find your lost phone even without internet? #shorts",
+     "description": "Tech explained No. 19: how do they find your lost phone even without internet? 📍\nYour phone, even without mobile data or Wi-Fi, emits a Bluetooth signal. Other people's phones passing by detect it and send its location encrypted: neither they nor the company know whose it is. Only you see it in your account.\n\nTurn it on: iPhone, Settings → your name → Find My → Find My iPhone → Find My network. Android, Settings → Google → Find My Device → Find your offline devices.\n\nComment FIND if you have it enabled 👇\nSend this to someone who always loses their phone.\n\nAI-generated voice · Educational cybersecurity content.\n#technology #lostphone #howitworks #mobilesecurity #cybersecurity"
+    },
+    "pt": {
+     "title": "Como encontram seu celular perdido mesmo sem internet? #shorts",
+     "description": "Tech explicada N.º 19: como encontram seu celular perdido mesmo sem internet? 📍\nSeu celular, mesmo sem dados nem Wi-Fi, emite um sinal por Bluetooth. Os celulares de outras pessoas que passam perto o detectam e enviam a localização de forma criptografada: nem elas nem a empresa sabem de quem é. Só você a vê na sua conta.\n\nAtive: iPhone, Ajustes → seu nome → Buscar → Buscar iPhone → Rede do serviço Buscar. Android, Configurações → Google → Encontrar Meu Dispositivo → Encontrar seus dispositivos offline.\n\nComente ENCONTRAR se você tem ativado 👇\nEnvie para quem sempre perde o celular.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#tecnologia #celularperdido #comofunciona #segurancamovel #ciberseguranca"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -6428,7 +6598,17 @@
     "seguridad movil",
     "hack del dia",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Check which devices are still paired to your phone via Bluetooth #shorts",
+     "description": "Hack of the day No. 62: check which devices are still paired to your phone via Bluetooth 🎧\nBorrowed speakers, rental cars, old headphones: every paired device remains saved and, if it belongs to someone else, they can still see your phone's name.\n1. Open Settings → Bluetooth.\n2. Delete (\"Forget This Device\") the ones you no longer use, especially rental cars.\n3. Turn off Bluetooth when you're not using it.\n\nComment DELETED with how many devices you removed 👇\nSend this to someone who connects their phone to everything.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #bluetooth #mobilesecurity #rd"
+    },
+    "pt": {
+     "title": "Veja quais dispositivos ainda estão pareados no seu celular por Bluetooth #shorts",
+     "description": "Hack do dia Nº 62: veja quais dispositivos ainda estão pareados no seu celular por Bluetooth 🎧\nCaixas de som emprestadas, carros alugados, fones antigos: cada dispositivo pareado fica salvo e, se for de outra pessoa, ela ainda pode ver o nome do seu celular.\n1. Abra Configurações → Bluetooth.\n2. Apague (\"Esquecer este dispositivo\") os que você não usa mais, especialmente carros alugados.\n3. Desligue o Bluetooth quando não estiver usando.\n\nComente APAGUEI e quantos dispositivos você apagou 👇\nEnvie para quem conecta o celular em tudo.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #ciberseguranca #bluetooth #segurancamovel #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
