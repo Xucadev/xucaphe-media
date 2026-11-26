@@ -5566,7 +5566,17 @@
     "hackeo",
     "historia de la ciberseguridad",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "January 12, 2010: The day Google revealed it got hacked #shorts",
+     "description": "Happened in tech No. 14: January 12, 2010: Google revealed it had been hacked 🕵️\nThat day, Google published that it had suffered a highly sophisticated attack from China, and that other major companies had also been targeted. It was called Operation Aurora. They got in by exploiting a browser flaw from that era, after an employee opened a link.\n\nTwo lessons that remain relevant: update your browser and mistrust links, even if they come from someone you know.\n\nComment AURORA if you didn't know this story 👇\nSend this to someone studying cybersecurity.\n\nSource: Official Google Blog (2010).\nAI-generated voice · Educational content.\n#techhistory #cybersecurity #google #hacking #technology"
+    },
+    "pt": {
+     "title": "12 de janeiro de 2010: o dia em que o Google revelou que foi hackeado #shorts",
+     "description": "Aconteceu na tech N.º 14: 12 de janeiro de 2010: O Google revelou que tinha sido hackeado 🕵️\nNaquele dia, o Google publicou que tinha sofrido um ataque muito sofisticado vindo da China, e que outras grandes empresas também tinham sido atacadas. Foi chamado de Operação Aurora. Entraram aproveitando uma falha no navegador da época, depois que um funcionário abriu um link.\n\nDuas lições que continuam atuais: atualize o navegador e desconfie de links, mesmo que venham de alguém conhecido.\n\nComente AURORA se você não conhecia essa história 👇\nEnvie para quem estuda cibersegurança.\n\nFonte: Blog oficial do Google (2010).\nVoz gerada por IA · Conteúdo educativo.\n#historiadatecnologia #ciberseguranca #google #hackeamento #tecnologia"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -5612,7 +5622,17 @@
     "copia de seguridad",
     "tech explicada",
     "tecnologia"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "What is \"the cloud\" really? #shorts",
+     "description": "Tech explained No. 14: what is \"the cloud\" really? ☁️\nThe cloud doesn't float: it's huge computers, called servers, in buildings full of machines in different countries. When you save a photo \"in the cloud\", it gets copied over the internet to one of those servers, and almost always to more than one, in case one fails.\n\nIt's very secure against phone theft or damage. What needs protection is the entrance: a unique password and two-step verification on that account.\n\nComment CLOUD if you use the cloud without knowing what it is 👇\nSend this to whoever saves everything in the cloud.\n\nAI-generated voice · Educational cybersecurity content.\n#technology #cloud #howitworks #cybersecurity #funfacts"
+    },
+    "pt": {
+     "title": "O que é \"a nuvem\" de verdade? #shorts",
+     "description": "Tech explicada N.º 14: o que é \"a nuvem\" de verdade? ☁️\nA nuvem não flutua: são computadores enormes, chamados servidores, em edifícios cheios de máquinas em diferentes países. Quando você salva uma foto \"na nuvem\", ela é copiada pela internet para um desses servidores, e quase sempre para mais de um, caso um falhe.\n\nÉ muito segura contra roubo ou danos ao celular. O que precisa ser protegido é a entrada: senha única e verificação em duas etapas nessa conta.\n\nComente NUVEM se você usa a nuvem sem saber o que é 👇\nMande para quem salva tudo na nuvem.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#tecnologia #nuvem #comofunciona #ciberseguranca #curiosidades"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -5966,7 +5986,17 @@
     "cobros ocultos",
     "estafas",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "The \"free trial\" that charges you every month #shorts",
+     "description": "Scam exposed No. 29: the \"free trial\" that charges you every month 💸\nIn January, ads for diets, workout routines, and apps with free trials arrive: \"just pay shipping\" or \"enter your card, nothing will be charged.\" In the fine print, you subscribe to a monthly charge that is hard to cancel.\n\nBefore entering your card, check how much it charges after the trial and how to cancel it. Review your subscriptions in Google Play or the App Store, and check your bank statement every month.\n\nComment TRIAL if you were charged for a free trial 👇\nSend this to whoever started the gym in January.\n\nAI-generated voice · Cybersecurity educational content.\n#scams #subscriptions #resolutions #cybersecurity #dr"
+    },
+    "pt": {
+     "title": "O \"teste gratuito\" que te cobra todo mês #shorts",
+     "description": "Golpe exposto N.º 29: o \"teste gratuito\" que te cobra todo mês 💸\nEm janeiro chegam anúncios de dietas, rotinas e apps com teste grátis: \"pague só o frete\" ou \"coloque seu cartão, não cobra nada\". Na letra miúda você se inscreve em uma cobrança mensal difícil de cancelar.\n\nAntes de colocar o cartão, pesquise quanto cobra depois do teste e como cancelar. Revise suas assinaturas no Google Play ou na App Store, e olhe seu extrato bancário todo mês.\n\nComente TESTE se te cobraram um teste grátis 👇\nEnvie para quem começou a academia em janeiro.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#golpes #assinaturas #metas #ciberseguranca #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -6718,7 +6748,17 @@
     "spf dkim dmarc",
     "emprendedores",
     "por que"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Why do your emails go to spam? Let me explain #shorts",
+     "description": "Why? No. 21: why do your emails sometimes go to spam? 📨\nEmail services check every message before delivering it: who sends it, from which server, if it looks like scam emails (lots of ALL CAPS, \"FREE!\", shortened links), and if other people marked it as spam.\nIf you send business emails from your own domain, ask to set up SPF, DKIM, and DMARC: they are the \"signatures\" that prove the email is yours.\nAnd if an important email didn't reach you, check your spam folder before assuming they didn't reply.\n\nComment SPAM if this has happened to you with an important email 👇\nSend this to whoever sends quotes by email.\n\nAI-generated voice · Educational content.\n#why #email #spam #technology #entrepreneurs"
+    },
+    "pt": {
+     "title": "Por que seus e-mails vão para o spam? Eu te explico #shorts",
+     "description": "Por quê? N.º 21: por que seus e-mails às vezes vão para o spam? 📨\nOs serviços de e-mail analisam cada mensagem antes de entregá-la: quem a envia, de qual servidor, se parece com e-mails de golpe (muitas MAIÚSCULAS, \"GRÁTIS!\", links encurtados) e se outras pessoas a marcaram como spam.\nSe você envia e-mails do seu negócio a partir do seu próprio domínio, peça para configurarem SPF, DKIM e DMARC: são as \"assinaturas\" que provam que o e-mail é seu.\nE se um e-mail importante não chegou para você, confira a pasta de spam antes de achar que não te responderam.\n\nComente SPAM se isso já aconteceu com você em um e-mail importante 👇\nEnvie para quem manda orçamentos por e-mail.\n\nVoz gerada por IA · Conteúdo educativo.\n#porque #email #spam #tecnologia #empreendedores"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
