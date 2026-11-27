@@ -6696,7 +6696,17 @@
     "redes sociales",
     "estafas",
     "estafa expuesta"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "You complain about the bank on social media and a fake \"support\" texts you #shorts",
+     "description": "Scam exposed No. 32: you complain about the bank on social media… and a fake \"support\" texts you 🏦\nYou comment on the bank's page saying you have an issue. Minutes later, a profile with the bank's logo and name texts you: \"We can help you here.\" They ask for your username, password, or the SMS code to \"verify.\"\nIt's a fake profile monitoring the comments. Banks don't ask for passwords or codes via direct message.\nWhat to do: don't give data to anyone who messages you first. Call the number on the back of your card yourself.\n\nComment SUPPORT if one like this has messaged you 👇\nSend this to anyone who complains about their bank on social media.\n\nAI-generated voice · Cybersecurity educational content.\n#scamexposed #scams #banking #cybersecurity #dr"
+    },
+    "pt": {
+     "title": "Você reclama do banco nas redes e um \"suporte\" falso te escreve #shorts",
+     "description": "Golpe exposto N.º 32: você reclama do banco nas redes… e um \"suporte\" falso te escreve 🏦\nVocê comenta na página do banco que tem um problema. Minutos depois, um perfil com o logo e o nome do banco te escreve: \"Ajudamos você por aqui\". Eles pedem seu usuário, sua senha ou o código que chega por SMS para \"verificar\".\nÉ um perfil falso vigiando os comentários. Os bancos não pedem senhas nem códigos por mensagem direta.\nO que fazer: não dê dados a ninguém que te escreva primeiro. Ligue você mesmo para o número que está atrás do seu cartão.\n\nComente SUPORTE se um assim já te escreveu 👇\nEnvie isso para quem reclama do banco nas redes.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#golpeexposto #golpes #bancos #ciberseguranca #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -6714,7 +6724,17 @@
     "robo de telefono",
     "seguridad",
     "hack del dia"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "Your bank app shouldn't open with the same code as your phone #shorts",
+     "description": "Hack of the day #63: your banking app shouldn't open with the same code as your phone 🔢\nIf someone sees your passcode when you unlock your phone and then steals it, the first thing they will try is that exact same code on your banking app.\nCheck your banking app (Security or Profile) to make sure it has its own passcode or fingerprint, and that this code is not the same as your phone's passcode or your date of birth.\n\nComment PIN once you change it 👇\nSend this to anyone who has a banking app on their phone.\n\nVoice generated with AI · Educational cybersecurity content.\n#hackoftheday #cybersecurity #banking #mobilesecurity #dr"
+    },
+    "pt": {
+     "title": "O app do banco não deve abrir com a mesma senha do seu celular #shorts",
+     "description": "Hack do dia Nº 63: o app do banco não deveria abrir com o mesmo código do seu celular 🔢\nSe alguém vir seu código quando você desbloqueia o celular e depois o rouba, a primeira coisa que vai tentar é esse mesmo código no app do banco.\nVerifique no app do seu banco (Segurança ou Perfil) se ele tem sua própria senha ou biometria, e que essa senha não seja a mesma do celular nem a sua data de nascimento.\n\nComente PIN quando trocar 👇\nEnvie para quem tem o app do banco no celular.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #ciberseguranca #banco #segurancamovel #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -6732,7 +6752,17 @@
     "internet",
     "tech explicada",
     "ciberseguridad"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "What is an IP address and what can people learn from it? #shorts",
+     "description": "Tech Explained No. 20: what is an IP address and what can someone learn with it? 🌐\nAn IP address is the number that identifies your internet connection, like a house address so data can arrive. It's usually assigned by your internet provider and changes every so often.\nWith your IP, someone can know, more or less, your city and your internet provider, but not your house or your name: only the provider has that, and they only hand it over with a court order.\nIf someone threatens you with \"I have your IP\", it's almost always just to scare you.\n\nComment IP if someone has threatened you with your IP 👇\nSend this to whoever plays online games.\n\nVoice generated with AI · Educational cybersecurity content.\n#techexplained #internet #privacy #cybersecurity #technology"
+    },
+    "pt": {
+     "title": "O que é um endereço IP e o que podem saber sobre você com ele? #shorts",
+     "description": "Tech explicada Nº 20: o que é um endereço IP e o que alguém pode saber com ele? 🌐\nO endereço IP é o número que identifica sua conexão na internet, como o endereço de uma casa para que os dados cheguem. Normalmente é atribuído pela sua provedora de internet e muda de tempos em tempos.\nCom o seu IP, alguém pode saber, mais ou menos, sua cidade e sua provedora de internet, mas não sua casa nem seu nome: isso só a provedora tem, e só entrega com uma ordem judicial.\nSe alguém te ameaçar com \"tenho o seu IP\", quase sempre é só para te assustar.\n\nComente IP se alguém já te ameaçou com o seu IP 👇\nEnvie para quem joga online.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#techexplicada #internet #privacidade #ciberseguranca #tecnologia"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -6750,7 +6780,17 @@
     "dgii",
     "estafas",
     "estafa expuesta"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "\"You have a pending tax refund\": it's a scam #shorts",
+     "description": "Scam Exposed #33: \"you have a pending tax refund\": the email that steals your account 🧾\nDuring tax season, emails and texts arrive claiming to be from the tax office: \"you have a refund balance, confirm your details to receive it.\" The link leads to a clone website that asks for your ID, passwords, or card.\nWhat to do: always visit by manually typing the official website address (in the DR, dgii.gov.do) or call their official number. No tax office asks for your card to refund money.\n\nComment REFUND if you received one like this 👇\nSend this to anyone filing their taxes.\n\nAI-generated voice · Cybersecurity educational content.\n#scamexposed #taxes #phishing #scams #dr"
+    },
+    "pt": {
+     "title": "\"Você tem uma restituição pendente\": é golpe #shorts",
+     "description": "Golpe Exposto N.º 33: \"você tem uma restituição pendente\": o e-mail que rouba sua conta 🧾\nNa temporada de impostos, chegam e-mails e SMS que dizem ser da receita federal: \"você tem saldo a receber, confirme seus dados para recebê-lo\". O link leva a uma página falsa que pede seu documento, suas senhas ou seu cartão.\nO que fazer: entre sempre digitando você mesmo o endereço do site oficial (na RD, dgii.gov.do) ou ligue para o número oficial. Nenhum órgão fiscal pede seu cartão para devolver dinheiro.\n\nComente RESTITUIÇÃO se você recebeu um assim 👇\nEnvie para quem faz a declaração de impostos.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#golpeexposto #impostos #phishing #golpes #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -6796,7 +6836,17 @@
     "privacidad",
     "historia de la tecnologia",
     "redes sociales"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "February 4, 2004: Facebook is born #shorts",
+     "description": "Happened in Tech No. 21: February 4, 2004: Facebook is born (and your old photos are still there) 📘\nFacebook was born on February 4, 2004, as \"TheFacebook\", a network for Harvard University students. Today, billions of people use it.\nIf your account is many years old, there are still old posts there that you might not want just anyone to see. Go to Settings → Privacy → \"Limit the audience for old posts\" to change them all to \"Friends\" with a single tap.\n\nComment 2004 if your account is from before 2010 👇\nSend this to someone who has had Facebook forever.\n\nAI-generated voice · Educational content.\n#techhistory #facebook #privacy #technology #rd"
+    },
+    "pt": {
+     "title": "4 de fevereiro de 2004: nasce o Facebook #shorts",
+     "description": "Aconteceu na Tech N.º 21: 4 de fevereiro de 2004: nasce o Facebook (e suas fotos antigas ainda estão lá) 📘\nO Facebook nasceu em 4 de fevereiro de 2004 como \"TheFacebook\", uma rede para estudantes da Universidade Harvard. Hoje é usado por bilhões de pessoas.\nSe a sua conta tem muitos anos, ainda há publicações antigas lá que talvez você não queira que qualquer um veja. Em Configurações → Privacidade → \"Limitar o público de publicações anteriores\", você muda todas para \"Amigos\" com apenas um toque.\n\nComente 2004 se a sua conta é de antes de 2010 👇\nEnvie para quem tem Facebook desde sempre.\n\nVoz gerada por IA · Conteúdo educativo.\n#historiadatecnologia #facebook #privacidade #tecnologia #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
@@ -6814,7 +6864,17 @@
     "ver como",
     "perfil",
     "hack del dia"
-   ]
+   ],
+   "localizations": {
+    "en": {
+     "title": "See your Facebook profile as a stranger sees it #shorts",
+     "description": "Hack of the day No. 64: see your profile as a stranger sees it 👀\nFacebook has an option to view your profile as anyone who isn't your friend sees it. There you'll discover if your phone, job, city, or kids' photos are visible.\nGo to your profile → the three dots (…) → View As.\nWhatever you don't want to show, change it to \"Friends\" or \"Only me\". With that data, they create fake profiles and personalized scams.\n\nComment PUBLIC if you saw something you didn't expect 👇\nSend this to someone who has had Facebook for years.\n\nAI-generated voice · Educational cybersecurity content.\n#hackoftheday #cybersecurity #facebook #privacy #dr"
+    },
+    "pt": {
+     "title": "Veja seu perfil do Facebook como um desconhecido vê #shorts",
+     "description": "Hack do dia Nº 64: veja seu perfil como um desconhecido vê 👀\nO Facebook tem uma opção para ver seu perfil como qualquer pessoa que não é sua amiga vê. Lá você descobre se seu telefone, seu trabalho, sua cidade ou as fotos dos seus filhos estão visíveis.\nAcesse seu perfil → os três pontos (…) → Ver como.\nO que você não quiser mostrar, mude para \"Amigos\" ou \"Somente eu\". Com esses dados, eles criam perfis falsos e golpes personalizados.\n\nComente PÚBLICO se você viu algo que não esperava 👇\nEnvie para quem tem Facebook há anos.\n\nVoz gerada por IA · Conteúdo educativo de cibersegurança.\n#hackdodia #cibersegurança #facebook #privacidade #rd"
+    }
+   }
   },
   "otras_redes": "Metricool (Instagram, Facebook, TikTok)"
  },
